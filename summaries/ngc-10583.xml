@@ -1,0 +1,177 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Society of Interventional Radiology position statement on injection safety: improper use of single-dose/single-use vials.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Silberzweig JE, Khorsandi AS, Dixon RG, Gross K, Nikolic B. Society of Interventional Radiology position statement on injection safety: improper use of single-dose/single-use vials. J Vasc Interv Radiol. 2013 Jan;24(1):111-2. [12 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23200126&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An essential feature of injection practice involves the safe administration of a medication packaged in a single-dose vial (SDV) or single-use vial. The Centers for Disease Control and Prevention (CDC) note that improper use of a medication packaged in an SDV can place a patient at increased risk for acquiring a health care&amp;ndash;related infection. Medication from an SDV is intended for parenteral administration for a single patient during a single procedure. SDVs are labeled as such in the manufacturer's package insert. The CDC states that SDVs must not be used for multiple patients. Even if an SDV contains more medication than is needed for a single patient, that vial should not be used for more than one patient nor stored for future use in the same patient.&lt;/p&gt;&#xA;&lt;p&gt;In contrast with an SDV, a multidose vial (MDV) of a medication contains more than a single medication dose. MDVs are labeled as such by the manufacturer and typically contain an antimicrobial preservative agent to help prevent bacterial growth. The preservative agent has no effect on viruses and does not protect against contamination when health care personnel fail to follow safe injection practices. MDVs are discarded within 28 days unless the manufacturer specifies a different (shorter or longer) date for that opened vial. An MDV used for more than one patient is required to be kept in a centralized medication area and not accessed in the immediate patient treatment area (e.g., procedure room, patient room). If MDVs enter the treatment area, they should be dedicated for single-patient use and discarded immediately after use.&lt;/p&gt;&#xA;&lt;p&gt;A medication in an SDV can become contaminated and act as an infection source if administered to multiple patients. The infection outbreak risk is particularly increased with repeated SDV access with more than one needle whenever an SDV is used for more than one patient. Since the CDC safe injection guidelines were published in 2007, the CDC has reported 21 outbreaks associated with SDV medications administered for multiple patients: seven outbreaks involved infections transmitted through contamination by blood, and 14 involved bacterial infections. Two recently reported outbreaks of invasive &lt;em&gt;Staphylococcus aureus&lt;/em&gt; infection were confirmed in 10 patients being treated for pain in outpatient clinics in Delaware and Arizona, in which SDVs were reused for multiple patients. Transmission of life-threatening but preventable bacterial infections by failing to follow safe-injection recommendations can result in an infection outbreak that causes unnecessary morbidity and draws attention of the media and regulatory agencies.&lt;/p&gt;&#xA;&lt;p&gt;Concerns have been raised about whether these guidelines and related policies contribute to drug shortages and increased medical costs to health care providers. On May 2, 2012, the CDC restated its 2007 position regarding the use of SDVs in response to &quot;inaccuracies&quot; being disseminated to health care providers. The CDC recognized the problem of drug shortages; however, such shortages are noted to be the result of manufacturing, shipping, and other issues unrelated to the guidelines. The CDC noted that lowering safety standards will not address the problem of drug shortages.&lt;/p&gt;&#xA;&lt;p&gt;Under certain conditions, however, such as during limited drug availability, it is permissible for health care facilities to repackage SDVs into smaller doses, each intended for a single patient use. Repackaging is allowable if performed by qualified health care personnel under specific conditions according to standards in United States Pharmacopeia (USP) General Chapter 797, Pharmaceutical Compounding&amp;ndash;Sterile Preparations, as well as the manufacturer's recommendations pertaining to safe storage of that medication outside of its original container. On June 15, 2012, the Centers for Medicare and Medicaid Services (CMS) issued a memorandum that stated that health care providers that do not comply with USP standards for SDVs may be cited for deficiencies under applicable federal infection control standards.&lt;/p&gt;&#xA;&lt;p&gt;SDVs must never be used for multiple patients unless specific conditions allow repackaging by qualified health care personnel under USP standards. It is the responsibility of interventional radiologists and other licensed personnel to adhere to best care practices for the safe performance of minimally invasive treatments.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Infections due to improper use of single-dose/single-use vials&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Prevention" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Preventive Medicine" />
+      <FieldValue Value="Radiology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Hospitals" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Pharmacists" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To provide guidelines for prevention of improper use of single-dose or single-use vials&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients receiving injections of a medication packaged in single-dose or single-use vials&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Use of safe injection practices for single-dose or single-use vials of medications&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Infection outbreak risk&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An in-depth literature search was performed using electronic medical literature databases, including the Centers for Disease Control and Prevention (CDC), the U.S. Food and Drug Administration (FDA), and Medline databases. No inclusion/exclusion criteria were applied. The literature search was conducted from 1995 to 2012. Search terms used were &lt;em&gt;injection, infection,&lt;/em&gt; and &lt;em&gt;safe use of single-dose/single-use vial&lt;/em&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Not stated" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Not stated" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of evidence supporting the recommendations is not specifically stated.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Safe administration of a medication packaged in a single-dose vial (SDV) or single-use vial&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A primary goal of the Society of Interventional Radiology (SIR) is ensuring high-quality outcomes and patient safety in vascular and interventional radiology. The clinical practice guidelines of the SIR attempt to define practice principles that generally should assist in producing high quality medical care. These guidelines are voluntary and are not rules. A physician may deviate from these guidelines, as necessitated by the individual patient and available resources. These practice guidelines should not be deemed inclusive of all proper methods of care or exclusive of other methods of care that are reasonably directed towards the same result. Other sources of information may be used in conjunction with these principles to produce a process leading to high quality medical care. The ultimate judgment regarding the conduct of any specific procedure or course of management must be made by the physician, who should consider all circumstances relevant to the individual clinical situation. Adherence to the SIR Quality Improvement Program will not assure a successful outcome in every situation. It is prudent to document the rationale for any deviation from the suggested practice guidelines in the department policies and procedure manual or in the patient's medical record.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Silberzweig JE, Khorsandi AS, Dixon RG, Gross K, Nikolic B. Society of Interventional Radiology position statement on injection safety: improper use of single-dose/single-use vials. J Vasc Interv Radiol. 2013 Jan;24(1):111-2. [12 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23200126&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2013 Jan" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Society of Interventional Radiology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Society of Interventional Radiology&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Society of Interventional Radiology Safety and Health Committee&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Committee Members&lt;/em&gt;: James E. Silberzweig, MD, Department of Radiology, Beth Israel Medical Center, New York, New York; Azita S. Khorsandi, MD, Department of Radiology, Beth Israel Medical Center, New York, New York; Robert G. Dixon, MD, Department of Radiology, University of North Carolina, Chapel Hill, North Carolina; Kathleen Gross, MSN, RN-BC, CRN, Department of Interventional Radiology, Greater Baltimore Medical Center, Baltimore, Maryland; Boris Nikolic, MD, MBA, Department of Radiology, Albert Einstein Medical Center, Philadelphia, Pennsylvania&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None of the authors have identified a conflict of interest.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available from the &lt;a href=&quot;http://www.sirweb.org/clinical/cpg/A619Cd01.pdf&quot; title=&quot;Society of Interventional Radiology Web site&quot;&gt;Society of Interventional Radiology Web site &lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Print copies: Available from the Society of Interventional Radiology, 10201 Lee Highway, Suite 500, Fairfax, VA 22030&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on January 23, 2015.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,181 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Upper tract urothelial tumours.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alberta Provincial Genitourinary Tumour Team. Upper tract urothelial tumours. Edmonton (Alberta): CancerControl Alberta; 2013 Apr. 10 p.&amp;nbsp;(Clinical practice guideline; no. GU-008).&amp;nbsp; [22 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Work-up&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Laboratory Investigations&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Urine cytology &lt;/li&gt;&#xA;    &lt;li&gt;Complete blood count &lt;/li&gt;&#xA;    &lt;li&gt;Basic metabolic panel (renal function) &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Imaging Studies&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Intravenous pyelogram (IVP), computed tomography (CT) urography, retrograde pyelogram, ureteroscopy, or magnetic resonance imaging (MRI) urogram (upper tract collecting system) &lt;/li&gt;&#xA;    &lt;li&gt;Cystoscopy &lt;/li&gt;&#xA;    &lt;li&gt;Chest x-ray &lt;/li&gt;&#xA;    &lt;li&gt;Renal scan (optional) &lt;/li&gt;&#xA;    &lt;li&gt;Bone scan if abnormal enzymes or if bone signs/symptoms &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Treatment&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Primary Therapy for the Renal Pelvis&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Low-Grade (World Health Organization [WHO] Classification)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Nephroureterectomy with cuff of bladder or nephron-sparing procedure, if necessary, due to renal impairment and/or comorbidities &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;High-Grade (WHO Classification) or Parenchymal Invasion&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Nephroureterectomy with cuff of bladder &lt;/li&gt;&#xA;    &lt;li&gt;Regional lymph node dissection &lt;/li&gt;&#xA;    &lt;li&gt;Neoadjuvant chemotherapy can be considered, if the degree of disease invasiveness can be established prior to surgery&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;        &lt;li&gt;Chemotherapy is usually given as cisplatinum-based combination therapy (e.g., cisplatinum, 70 mg/m&lt;sup&gt;2&lt;/sup&gt; day 1 and gemcitabine, 1,000&amp;ndash;1,250 mg/m&lt;sup&gt;2&lt;/sup&gt; day 1 and 8 every [q] 21 days). &lt;/li&gt;&#xA;        &lt;li&gt;Neoadjuvant therapy should be given only when renal function is optimal. &lt;/li&gt;&#xA;        &lt;li&gt;Patients with contraindications to cisplatinum should proceed directly to definitive therapy, as the routine use of carboplatinum-based neoadjuvant combinations cannot be advised. &lt;/li&gt;&#xA;        &lt;li&gt;Following neoadjuvant chemotherapy patients should have a CT scan of abdomen and pelvis, prior to the cystectomy. &lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Primary Therapy for the Urothelial Carcinoma of the Ureter&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Low-Grade (WHO Classification)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Nephroureterectomy with cuff of bladder or nephron-sparing procedure, if necessary, due to renal impairment and/or comorbidities &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;High-Grade (WHO Classification)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Excision options:&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;        &lt;li&gt;Nephroureterectomy with cuff of bladder &lt;/li&gt;&#xA;        &lt;li&gt;Endoscopic resection &lt;/li&gt;&#xA;        &lt;li&gt;Excision and ureteroureterostomy (low-grade mid-ureter) &lt;/li&gt;&#xA;        &lt;li&gt;Distal ureterectomy (distal-ureter) &lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;Regional lymph node dissection &lt;/li&gt;&#xA;    &lt;li&gt;Neoadjuvant chemotherapy should be considered in selected patients with proven high-grade disease or imaging suggesting invasive disease.&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;        &lt;li&gt;Chemotherapy is usually given as cisplatinum-based combination therapy (e.g., cisplatinum, 70 mg/m&lt;sup&gt;2&lt;/sup&gt; day 1 and gemcitabine, 1000&amp;ndash;1250 mg/m&lt;sup&gt;2&lt;/sup&gt; day 1 and 8 q 21 days). &lt;/li&gt;&#xA;        &lt;li&gt;Neoadjuvant therapy should be given only when renal function is optimal. &lt;/li&gt;&#xA;        &lt;li&gt;Patients with contraindications to cisplatinum should proceed directly to definitive therapy, as the routine use of carboplatinum-based neoadjuvant combinations cannot be advised. &lt;/li&gt;&#xA;        &lt;li&gt;Following neoadjuvant chemotherapy patients should have a CT scan of abdomen and pelvis, prior to the cystectomy. &lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Primary Therapy for Metastatic Urothelial Carcinoma&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Chemotherapy is recommended for metastatic upper tract tumours. Please refer to the CancerControl Alberta guideline &lt;a href=&quot;http://www.albertahealthservices.ca/hp/if-hp-cancer-guide-gu002-bladder.pdf&quot; title=&quot;Alberta Health Services Web site&quot;&gt;Bladder Cancer&lt;/a&gt; (GU-002) for treatment options. &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Adjuvant Therapy&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The decision as to whether to give adjuvant therapy is based on the pathologic stage of disease. For staging, refer to the Appendix in the original guideline document.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;pT0-1 Disease&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;No adjuvant therapy is recommended. &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;T2-4, N+ Disease&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Adjuvant chemotherapy can be considered.&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;        &lt;li&gt;Chemotherapy is usually given as cisplatinum-based combination therapy (e.g., cisplatinum, 70 mg/m&lt;sup&gt;2&lt;/sup&gt; day 1 and gemcitabine, 1000&amp;ndash;1250 mg/m&lt;sup&gt;2&lt;/sup&gt; day 1 and 8 q 21 days). &lt;/li&gt;&#xA;        &lt;li&gt;Adjuvant therapy should be given when renal function is optimal. &lt;/li&gt;&#xA;        &lt;li&gt;Patients who are ineligible for cisplatinum based combination therapy in the adjuvant setting should not routinely receive carboplatinum-based regimens as there is no evidence for benefit. &lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Follow-up&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Cystoscopic evaluation every 3 months for the first year, then at every 6 months up to 2 years, then annually for 10 years. &lt;/li&gt;&#xA;    &lt;li&gt;Chest x-ray as clinically indicated, then at increasing intervals (i.e., decreasing frequency). &lt;/li&gt;&#xA;    &lt;li&gt;Radiological evaluation of lymph nodes and contra lateral upper tract, as clinically indicated. &lt;/li&gt;&#xA;    &lt;li&gt;Duration as clinically indicated. &lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Upper tract urothelial tumours (transitional cell carcinoma of the ureter and/or renal pelvis)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Oncology" />
+      <FieldValue Value="Pathology" />
+      <FieldValue Value="Radiology" />
+      <FieldValue Value="Surgery" />
+      <FieldValue Value="Urology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To present guideline recommendations on the management of adult patients with transitional cell carcinoma (urothelial carcinoma) of the ureter and/or renal pelvis&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adult patients with transitional cell carcinoma (urothelial carcinoma) of the ureter and/or renal pelvis&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Diagnosis/Evaluation&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xA;    &lt;li&gt;Laboratory investigations&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;        &lt;li&gt;Urine cytology &lt;/li&gt;&#xA;        &lt;li&gt;Complete blood count &lt;/li&gt;&#xA;        &lt;li&gt;Basic metabolic panel (renal function) &lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;Imaging studies&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;        &lt;li&gt;Intravenous pyelogram (IVP) &lt;/li&gt;&#xA;        &lt;li&gt;Computed tomography (CT) urography &lt;/li&gt;&#xA;        &lt;li&gt;Retrograde pyelogram &lt;/li&gt;&#xA;        &lt;li&gt;Ureteroscopy &lt;/li&gt;&#xA;        &lt;li&gt;Magnetic resonance imaging (MRI) urogram (upper tract collecting system) &lt;/li&gt;&#xA;        &lt;li&gt;Cystoscopy &lt;/li&gt;&#xA;        &lt;li&gt;Chest x-ray &lt;/li&gt;&#xA;        &lt;li&gt;Renal scan (optional) &lt;/li&gt;&#xA;        &lt;li&gt;Bone scan if abnormal enzymes or if bone signs/symptoms &lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;Treatment/Management&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xA;    &lt;li&gt;Nephroureterectomy with cuff of bladder or nephron-sparing procedure &lt;/li&gt;&#xA;    &lt;li&gt;Regional lymph node dissection &lt;/li&gt;&#xA;    &lt;li&gt;Endoscopic resection &lt;/li&gt;&#xA;    &lt;li&gt;Excision and ureteroureterostomy (low-grade mid-ureter) &lt;/li&gt;&#xA;    &lt;li&gt;Distal ureterectomy &lt;/li&gt;&#xA;    &lt;li&gt;Neoadjuvant or adjuvant chemotherapy (cisplatinum-based contamination therapy) &lt;/li&gt;&#xA;    &lt;li&gt;Follow-up &lt;/li&gt;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Survival rate (5-year, overall, recurrence-free, disease-free) &lt;/li&gt;&#xA;    &lt;li&gt;Response rate &lt;/li&gt;&#xA;    &lt;li&gt;Recurrence rate &lt;/li&gt;&#xA;    &lt;li&gt;Cancer-specific mortality &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Research Questions&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Specific research questions to be addressed by the guideline document were formulated by the guideline lead(s) and Knowledge Management (KM) Specialist using the PICO question format (patient or population, intervention, comparisons, outcomes).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Guideline Questions&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;What staging investigations are required for patients with upper tract tumours? &lt;/li&gt;&#xA;    &lt;li&gt;What are the appropriate treatment options (i.e., surgery, systemic therapy, etc.) for patients with upper tract tumours? &lt;/li&gt;&#xA;    &lt;li&gt;What is a reasonable follow-up strategy for patients who have completed treatment for upper tract tumours? &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Search Strategy&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The PubMed database was searched for relevant literature using the following search terms: (renal pelvis AND neoplasm) OR (ureter AND neoplasm) AND transitional cell carcinoma. Results were limited to clinical trials, practice guidelines, systematic reviews, and meta-analyses published from 1991 through 2012 March. The Medline database was also searched using the MeSH terms &quot;Carcinoma, Transitional Cell&quot; with subheadings drug therapy, radiotherapy, surgery and therapy, combined with the MeSH terms &quot;Kidney Pelvis&quot; and &quot;Urinary Bladder Neoplasms.&quot; Results were limited to literature published between 1990 and 2012 March. Based on feedback from the working group, the Medline database was searched subsequently using the MeSH terms &quot;Carcinoma, Transitional Cell&quot; AND &quot;Neoadjuvant therapy&quot; with subheading drug therapy. Results were limited to literature published from 1990 through 2012 July. Non-relevant publications were excluded, as well as any publications that did not report survival outcomes.&lt;/p&gt;&#xA;&lt;p&gt;The National Comprehensive Cancer Network (NCCN), British Columbia Cancer Agency (BCCA), European Society of Medical Oncology (ESMO), National Institute for Health and Care Excellence (NICE), American Society of Clinical Oncology (ASCO), Scottish Intercollegiate Guidelines Network (SIGN), Cancer Council Australia (CCA), and Cancer Care Ontario (CCO) websites were searched for guidelines on the management of upper tract tumours.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A total of 3 guidelines, 1 meta-analysis, and 22 clinical studies (i.e., retrospective case series, prospective cohort studies, phase II-III trials) were included.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Not stated" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Evidence was selected and reviewed by a working group comprised of members from the Alberta Provincial Genitourinary Tumour Team and a Knowledge Management (KM) Specialist from the Guideline Utilization Resource Unit (GURU). A detailed description of the methodology followed during the guideline development process can be found in the GURU Handbook (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Evidence Tables&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Evidence tables containing the first author, year of publication, patient group/stage of disease, methodology, and main outcomes of interest are assembled using the studies identified in the literature search. Existing guidelines on the topic are assessed by the KM Specialist using portions of the Appraisal of Guidelines Research and Evaluation (AGREE) II instrument (&lt;a href=&quot;http://www.agreetrust.org&quot; title=&quot;AGREE Trust Web site&quot;&gt;http://www.agreetrust.org&lt;/a&gt;) and those meeting the minimum requirements are included in the evidence document. Due to limited resources, GURU does not regularly employ the use of multiple reviewers to rank the level of evidence; rather, the methodology portion of the evidence table contains the pertinent information required for the reader to judge for himself the quality of the studies.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Formulating Recommendations&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The working group members formulated the guideline recommendations based on the evidence synthesized by the Knowledge Management (KM) Specialist during the planning process, blended with expert clinical interpretation of the evidence. As detailed in the Guideline Utilization Resource Unit Handbook (see the &quot;Availability of Companion Documents&quot; field), the working group members may decide to adopt the recommendations of another institution without any revisions, adapt the recommendations of another institution or institutions to better reflect local practices, or develop their own set of recommendations by adapting some, but not all, recommendations from different guidelines.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The degree to which a recommendation is based on expert opinion of the working group and/or the Provincial Tumour Team members is explicitly stated in the guideline recommendations. Similar to the American Society of Clinical Oncology (ASCO) methodology for formulating guideline recommendations, the Guideline Utilization Resource Unit (GURU) does not use formal rating schemes for describing the strength of the recommendations, but rather describes, in conventional and explicit language, the type and quality of the research and existing guidelines that were taken into consideration when formulating the recommendations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This guideline was reviewed and endorsed by the Alberta Provincial Genitourinary Tumour Team.&lt;/p&gt;&#xA;&lt;p&gt;When the draft guideline document has been completed, revised, and reviewed by the Knowledge Management (KM) Specialist and the working group members, it is sent to all members of the Provincial Tumour Team for review and comment. This step ensures that those intended to use the guideline have the opportunity to review the document and identify potential difficulties for implementation before the guideline is finalized. Depending on the size of the document, and the number of people it is sent to for review, a deadline of one to two weeks will usually be given to submit any feedback. Ideally, this review will occur prior to the annual Provincial Tumour Team meeting, and a discussion of the proposed edits will take place at the meeting. The working group members will then make final revisions to the document based on the received feedback, as appropriate. Once the guideline is finalized, it will be officially endorsed by the Provincial Tumour Team Lead and the Executive Director of Provincial Tumour Programs.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of evidence supporting the recommendations is not specifically stated.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate work-up and treatment of upper tract urothelial tumours&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The recommendations contained in this guideline are a consensus of the Alberta Provincial Genitourinary Tumour Team and are a synthesis of currently accepted approaches to management, derived from a review of relevant scientific literature. Clinicians applying these guidelines should, in consultation with the patient, use independent medical judgment in the context of individual clinical circumstances to direct care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Present the guideline at the local and provincial tumour team meetings and weekly rounds. &lt;/li&gt;&#xA;    &lt;li&gt;Post the guideline on the Alberta Health Services Web site. &lt;/li&gt;&#xA;    &lt;li&gt;Send an electronic notification of the new guideline to all members of CancerControl Alberta. &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alberta Provincial Genitourinary Tumour Team. Upper tract urothelial tumours. Edmonton (Alberta): CancerControl Alberta; 2013 Apr. 10 p.&amp;nbsp;(Clinical practice guideline; no. GU-008).&amp;nbsp; [22 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2013 Apr" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="CancerControl Alberta - State/Local Government Agency [Non-U.S.]" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;CancerControl Alberta&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Alberta Provincial Genitourinary Tumour Team&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Members of the Alberta Provincial Genitourinary Tumour Team include medical oncologists, radiation oncologists, urologists, pathologists, nurses, and pharmacists.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Participation of members of the Alberta Provincial Genitourinary Tumour Team in the development of this guideline has been voluntary and the authors have not been remunerated for their contributions. There was no direct industry involvement in the development or dissemination of this guideline. CancerControl Alberta recognizes that although industry support of research, education and other areas is necessary in order to advance patient care, such support may lead to potential conflicts of interest. Some members of the Alberta Provincial Genitourinary Tumour Team are involved in research funded by industry or have other such potential conflicts of interest. However the developers of this guideline are satisfied it was developed in an unbiased manner.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://www.albertahealthservices.ca/assets/info/hp/cancer/if-hp-cancer-guide-gu008-upper-tract.pdf&quot; title=&quot;Alberta Health Services Web site&quot;&gt;Alberta Health Services Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Guideline utilization resource unit handbook. Edmonton (Alberta): CancerControl Alberta; 2013 Jan. 5 p. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on August 12, 2014. The information was verified by the guideline developer on September 25, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

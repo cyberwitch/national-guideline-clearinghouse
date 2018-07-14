@@ -1,0 +1,235 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Canadian Cardiovascular Society and Canadian Pediatric Cardiology Association position statement on the approach to syncope in the pediatric patient.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sanatani S, Chau V, Fournier A, Dixon A, Blondin R, Sheldon RS. Canadian Cardiovascular Society and Canadian Pediatric Cardiology Association position statement on the approach to syncope in the pediatric patient. Can J Cardiol. 2017 Feb;33(2):189-98. [33 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27838109&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="705" OrdBy="150" Name="NEATS Assessment">
+    <Field FieldID="183" OrdBy="10" ID="706" Name="Disclosure of Guideline Funding Source" Type="picklist-one">
+      <FieldValue Value="No" />
+    </Field>
+    <Field FieldID="184" OrdBy="20" ID="707" Name="Disclosure and Management of Financial Conflict of Interests" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="185" OrdBy="30" ID="708" Name="Guideline Development Group Composition: Multidisciplinary Group" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="186" OrdBy="40" ID="709" Name="Guideline Development Group Composition: Methodologist Involvement" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="187" OrdBy="50" ID="710" Name="Guideline Development Group Composition: Patient and Public Perspectives" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="188" OrdBy="60" ID="711" Name="Use of a Systematic Review of Evidence: Search Strategy" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="189" OrdBy="70" ID="712" Name="Use of a Systematic Review of Evidence: Study Selection" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="190" OrdBy="80" ID="713" Name="Use of a Systematic Review of Evidence: Synthesis of Evidence" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="191" OrdBy="90" ID="714" Name="Evidence Foundations for and Rating Strength of Recommendations: Grading the Quality or Strength of Evidence" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="192" OrdBy="100" ID="715" Name="Evidence Foundations for and Rating Strength of Recommendations: Benefits and Harms of Recommendations" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="193" OrdBy="110" ID="716" Name="Evidence Foundations for and Rating Strength of Recommendations: Evidence Summary Supporting Recommendations" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="194" OrdBy="120" ID="717" Name="Evidence Foundations for and Rating Strength of Recommendations: Rating the Strength of Recommendations" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="195" OrdBy="130" ID="718" Name="Specific and Unambiguous Articulation of Recommendations" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="196" OrdBy="140" ID="719" Name="External Review" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="197" OrdBy="150" ID="720" Name="Updating" Type="picklist-one">
+      <FieldValue Value="4" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The grading of evidence (&lt;strong&gt;High, Moderate, Low, and Very Low&lt;/strong&gt;) and strength of recommendations (&lt;strong&gt;Strong&lt;/strong&gt; or &lt;strong&gt;Weak&lt;/strong&gt;) are defined at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;The authors recommend a detailed history in all cases (see Fig. 2 in the original guideline document) (&lt;strong&gt;Strong Recommendation; Moderate-Quality Evidence&lt;/strong&gt;).&#xD;&#xA;    &lt;p&gt;&lt;em&gt;Values and preferences&lt;/em&gt;. Because of the unique diagnostic information obtained from the history, the committee placed emphasis on an accurate and detailed history, as supported by all of the available data. The history is the diagnostic test of most utility in managing pediatric syncope.&lt;/p&gt;&#xD;&#xA;    &lt;p&gt;&lt;em&gt;Practical tip&lt;/em&gt;. The history should focus on accompanying symptoms and the context in which syncope occurred. The prodrome and timing of syncope in relation to exercise are particularly important. The most informative aspects are obtained directly from the patient.&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A focused physical examination should always be performed (&lt;strong&gt;Strong Recommendation; Low-Quality Evidence&lt;/strong&gt;).&#xD;&#xA;    &lt;p&gt;&lt;em&gt;Practical tip&lt;/em&gt;. Postural vital signs are helpful in assessing hydration. An abnormal cardiac or neurologic examination warrants further investigation.&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For all children with atypical syncope or who have additional risk factors (see Table 4 in the original guideline document), the authors recommend a 12-lead electrocardiogram [ECG]) (&lt;strong&gt;Strong Recommendation; Low-Quality Evidence&lt;/strong&gt;).&#xD;&#xA;    &lt;p&gt;&lt;em&gt;Values and preferences&lt;/em&gt;. Whereas the ECG is the most often ordered test in children with syncope, the data do not support its routine use. The yield is very low (1%), the cost is significant, and abnormal ECGs at the time of the acute event are often false-positives subject to misinterpretation. Therefore, the committee deliberately emphasizes that ECGs are not required in typical syncope and should be obtained only when there is a particular indication, such as those provided in Table 4 in the original guideline document.&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For children with a history typical of vasovagal syncope (VVS), no family history of arrhythmia, and normal physical examination, the authors suggest that further cardiac investigations not be performed (&lt;strong&gt;Strong Recommendation; Low-Quality Evidence&lt;/strong&gt;)&#xD;&#xA;    &lt;p&gt;&lt;em&gt;Values and preferences&lt;/em&gt;. The echocardiogram, treadmill test, Holter monitor, long-term monitoring strategies, and tilt test do not help to establish a diagnosis of VVS. They should generally be prescribed only by specialists with expertise in pediatric syncope in specific situations (e.g., treadmill test for exertional syncope).&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For children who present with a history typical of VVS, no family history of epilepsy, and normal physical examination, the authors suggest that an electroencephalogram (EEG) or neuroimaging not be performed (&lt;strong&gt;Strong Recommendation; Low-Quality Evidence&lt;/strong&gt;).&#xD;&#xA;    &lt;p&gt;&lt;em&gt;Practical tip&lt;/em&gt;. Sleep-deprived EEG, ambulatory EEG, and neuroimaging should be reserved for specific situations like syncope in a supine position, with a preceding aura, or with subsequent significant confusion or amnesia.&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For children with typical VVS, the authors recommend a conservative strategy including education, avoidance of provoking factors, increase in salt and fluid intake, and teaching physical manoeuvres as a preventative and rescue strategy. For most patients with VVS, education and hydration strategies suffice (&lt;strong&gt;Strong Recommendation; Low-Quality Evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For children with highly symptomatic VVS resistant to conservative measures, the authors suggest treatment with midodrine during active hours (&lt;strong&gt;Strong Recommendation; Low-Quality Evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For children with syncope and a history atypical for VVS, a family history of arrhythmia or epilepsy, relevant abnormalities in physical examination, or an abnormal ECG, the authors recommend referral to a specialist with expertise in syncope (&lt;strong&gt;Strong Recommendation; Low-Quality Evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Quality of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;High Quality&lt;/strong&gt;: Further research is very unlikely to change confidence in the estimate of effect.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Moderate Quality&lt;/strong&gt;: Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Low Quality&lt;/strong&gt;: Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Very Low Quality&lt;/strong&gt;: Any estimate of effect is very uncertain.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strength of Recommendations&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strong Recommendation&lt;/strong&gt;: Based on the available evidence, if clinicians are very certain that benefits do, or do not, outweigh risks and burdens they will make a strong recommendation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Weak Recommendation&lt;/strong&gt;: Based on the available evidence, if clinicians believe that benefits and risks and burdens are finely balanced, or appreciable uncertainty exists about the magnitude of benefits and risks, they must offer a weak recommendation. In addition, clinicians are becoming increasingly aware of the importance of patient values and preferences in clinical decision making. When, across the range of patient values, fully informed patients are liable to make different choices, guideline panels should offer weak recommendations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An algorithm titled &quot;Clinical pathway for pediatric syncope patients&quot; is provided in the original guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Vasovagal syncope (VVS)&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: With the exception of VVS, the most common cause of syncope in children, this document does not discuss the management of the various conditions that can present with syncope.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Prevention" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Cardiology" />
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Pediatrics" />
+      <FieldValue Value="Preventive Medicine" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Health Care Providers" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To serve as a clinical guideline for evaluation and management of pediatric patients, typically those younger than 19 years, with syncope encountered in the acute or primary care setting &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To ensure that practitioners who encounter pediatric patients with syncope might readily recognize syncope due to an etiology other than transient autonomic nervous system dysfunction, and to encourage an efficient and cost-effective disposition for those with evidence of a benign cause &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Pediatric patients, typically those younger than 19 years, with syncope encountered in the acute or primary care setting&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Diagnosis/Evaluation&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Detailed history including symptoms, prodrome, and timing in relation to exercise &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Focused physical examination &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;12-lead electrocardiogram (ECG) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Electroencephalogram (EEG) and neuroimaging (not recommended routinely) &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Treatment/Management/Prevention&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Conservative strategy&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Education &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Avoidance of provoking factors &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Increase in salt and fluid intake &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Teaching physical manoeuvres as a preventative and rescue strategy &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Midodrine &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Referral to specialist &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Sensitivity and specificity of historical features to predict cardiac cause of syncope &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Diagnostic yield of tests &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Modified Calgary scores &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Creatine phosphokinase (CPK) concentration &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Effectiveness of treatment for prevention of syncope &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Syncope recurrence rate &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Total syncope count during each 4-month period &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Using a validation set of relevant articles identified by the authors, a librarian drafted a search strategy for MedLine that was adapted and run in EMBASE, CINAHL, and PubMed. The strategy consisted of 2 blocks of search terms (subject heading and free text), combined using the AND operator. The first block contained the condition &quot;syncope&quot; and the terms in the second block were related to the diagnostic concept of syncope (e.g., tilt table test, electrocardiogram [ECG], differential diagnosis). The set of articles retrieved using these 2 search blocks was further restricted to pediatric studies in English or French, and a filter to exclude review articles was applied. The search covered the time from the inception of each database through December 2015. A complete description of this strategy is available in Supplemental Appendix S2 (see the &quot;Availability of Companion Documents&quot; field). The search retrieved 5997 references. After duplicates were removed, 4307 references were screened using Covidence. These were reviewed by the panel members to ensure they were pediatric, English or French, and original articles. Case reports were excluded, leaving 296 articles for full-text review and 231 that were included.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;296 articles underwent full-text review and 231 were included. The primary panel built the evidence for the recommendations on the basis of selected relevant articles (see Supplemental Appendix S3 [see the &quot;Availability of Companion Documents&quot; field]).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Quality of Evidence&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;High Quality&lt;/strong&gt;: Further research is very unlikely to change confidence in the estimate of effect.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Moderate Quality&lt;/strong&gt;: Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Low Quality&lt;/strong&gt;: Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Very Low Quality&lt;/strong&gt;: Any estimate of effect is very uncertain.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The primary panel performed critical appraisal of the identified literature using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Canadian Cardiovascular Society (CCS) appointed co-chairs, a primary panel, and a secondary panel to develop this statement. The primary panel developed the scope of the document, identified topics for review, performed the literature review, and critical appraisal of the identified literature using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology, drafted the recommendations, and voted on the recommendations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Strength of Recommendations&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strong Recommendation&lt;/strong&gt;: Based on the available evidence, if clinicians are very certain that benefits do, or do not, outweigh risks and burdens they will make a strong recommendation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Weak Recommendation&lt;/strong&gt;: Based on the available evidence, if clinicians believe that benefits and risks and burdens are finely balanced, or appreciable uncertainty exists about the magnitude of benefits and risks, they must offer a weak recommendation. In addition, clinicians are becoming increasingly aware of the importance of patient values and preferences in clinical decision making. When, across the range of patient values, fully informed patients are liable to make different choices, guideline panels should offer weak recommendations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;In a review of costs associated with diagnostic testing in a tertiary centre, not including hospital costs and physician fees, the mean cost per patient was &amp;gt;$1000 in the 1990s. Considering that between 15% and 50% of children have at least 1 syncopal event, the consequences and costs of overinvestigation are significant. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The electrocardiogram (ECG) is the most frequently ordered test, accounting for more than one-third of all tests in a study of 169 pediatric patients with new-onset syncope. Of these, only 1 ECG was of diagnostic utility, rendering it the least cost-effective test of those performed. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Peer review was provided by the secondary panel and the Canadian Cardiovascular Society (CCS) Guidelines committee. The final draft was presented and approved by the CCS Executive Committee.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;A systematic and directed approach to pediatric syncope will encourage an efficient and cost-effective disposition for patients with evidence of a benign cause and prevent missing potentially dangerous diagnoses, the most common of which are cardiovascular and neurologic abnormalities. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In children who present with syncope, it is critical to identify the rare patients at risk of sudden death. A careful history as outlined previously, as well as a detailed family history, will identify most at-risk patients. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Although there are no prospective long-term studies, there is a general sense that pediatric vasovagal syncope (VVS) resolves, but that before this, it can be recurrent and troublesome. The only predictor of recurrence is the recent syncope frequency. The likelihood of recurrence decreases markedly after a proper assessment and reassurance, and the recurrence rate is proportional to syncope frequency in the preceding year. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Whereas the electrocardiogram (ECG) is the most often ordered test in children with syncope, the data do not support its routine use. The yield is very low (1%), the cost is significant, and abnormal ECGs at the time of the acute event are often false-positives subject to misinterpretation. Therefore, the committee deliberately emphasizes that ECGs are not required in typical syncope and should be obtained only when there is a particular indication, such as those provided in Table 4 in the original guideline document. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;An ECG done acutely might not be optimal. In the emergency department, approximately one-third of pediatric patients had a QTc interval &amp;ge;440 ms and normalization of QTc values on follow-up. Thus, first-time ECGs obtained after a syncopal episode must be interpreted with caution to avoid overdiagnosis of a long QT syndrome (LQTS). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Side effects from midodrine (principally supine hypertension) are rare. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This statement was developed following a thorough consideration of medical literature and the best available evidence and clinical experience. It represents the consensus of a Canadian panel comprised of multidisciplinary experts on this topic with a mandate to formulate disease-specific recommendations. These recommendations are aimed to provide a reasonable and practical approach to care for specialists and allied health professionals obliged with the duty of bestowing optimal care to patients and families, and can be subject to change as scientific knowledge and technology advance and as practice patterns evolve. The statement is not intended to be a substitute for physicians using their individual judgment in managing clinical care in consultation with the patient, with appropriate regard to all the individual circumstances of the patient, diagnostic and treatment options available and available resources. Adherence to these recommendations will not necessarily produce successful outcomes in every case.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Clinical Algorithm" />
+      <FieldValue Value="Slide Presentation" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sanatani S, Chau V, Fournier A, Dixon A, Blondin R, Sheldon RS. Canadian Cardiovascular Society and Canadian Pediatric Cardiology Association position statement on the approach to syncope in the pediatric patient. Can J Cardiol. 2017 Feb;33(2):189-98. [33 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27838109&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2017 Feb" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Canadian Cardiovascular Society - Medical Specialty Society" />
+      <FieldValue Value="Canadian Pediatric Cardiology Association - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Canadian Cardiovascular Society&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Primary Panel&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Primary Panel Members&lt;/em&gt;: Shubhayan Sanatani, MD, FRCPC (&lt;em&gt;Chair&lt;/em&gt;), British Columbia Children's Hospital and University of British Columbia, Vancouver, British Columbia, Canada; Vann Chau, MD, FRCPC (&lt;em&gt;Co-Chair&lt;/em&gt;), The Hospital for Sick Children and University of Toronto, Toronto, Ontario, Canada; Anne Fournier, MD, FRCPC, Centre Hospitalier Universitaire Sainte-Justine and University of Montreal, Montreal, Quebec, Canada; Andrew Dixon, MD, FRCPC, Stollery Children's Hospital and University of Alberta, Edmonton, Alberta, Canada; Renee Blondin, MD, Centre Hospitalier Universitaire Sainte-Justine and University of Montreal, Montreal, Quebec, Canada; Robert S. Sheldon, MD, FRCPC, Libin Cardiovascular Institute of Alberta, University of Calgary, Calgary, Alberta, Canada&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The disclosure information of the authors and reviewers is available from the &lt;a href=&quot;http://www.ccs.ca/en/&quot; title=&quot;Canadian Cardiovascular Society Web site&quot;&gt;Canadian Cardiovascular Society Web site.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://www.onlinecjc.ca/article/S0828-282X(16)30978-3/pdf&quot; title=&quot;Canadian Journal of Cardiology Web site&quot;&gt;Canadian Journal of Cardiology Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Supplemental material, including tables and the literature search strategy, is available from the &lt;a href=&quot;http://www.onlinecjc.ca/cms/attachment/2081855618/2072600648/mmc1.pdf&quot; title=&quot;Canadian Journal of Cardiology Web site&quot;&gt;Canadian Journal of Cardiology Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A slide deck is available from the &lt;a href=&quot;http://www.ccs.ca/index.php/en/resources/educational-slide-decks&quot; title=&quot;Canadian Cardiovascular Society Web site&quot;&gt;Canadian Cardiovascular Society Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on April 6, 2017. The information was verified by the guideline developer on May 5, 2017.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NEATS assessment was completed by ECRI Institute on June 22, 2017. The information was verified by the guideline developer on August 1, 2017.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

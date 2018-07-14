@@ -1,0 +1,231 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Systemic therapy for recurrent epithelial ovarian cancer.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Francis J, Coakley N, Elit L, Kennedy EB, Mackay H, Gynecologic Cancer Disease Site Group. Systemic therapy for recurrent epithelial ovarian cancer. Toronto (ON): Cancer Care Ontario (CCO); 2017 Jul 12. 72 p.&amp;nbsp;(Program in Evidence-Based Care (PEBC); no. 4-3).&amp;nbsp; [97 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: Fung Kee Fung M, Kennedy E, Francis J, Mackay H, Gynecologic Cancer Disease Site Group. Optimal chemotherapy for recurrent ovarian cancer. Toronto (ON): Cancer Care Ontario (CCO); 2011 Nov 21. Various p.&amp;nbsp;(Evidence-based series; no. 4-3).&amp;nbsp; [89 references]&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="705" OrdBy="150" Name="NEATS Assessment">
+    <Field FieldID="183" OrdBy="10" ID="706" Name="Disclosure of Guideline Funding Source" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="184" OrdBy="20" ID="707" Name="Disclosure and Management of Financial Conflict of Interests" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="185" OrdBy="30" ID="708" Name="Guideline Development Group Composition: Multidisciplinary Group" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="186" OrdBy="40" ID="709" Name="Guideline Development Group Composition: Methodologist Involvement" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="187" OrdBy="50" ID="710" Name="Guideline Development Group Composition: Patient and Public Perspectives" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="188" OrdBy="60" ID="711" Name="Use of a Systematic Review of Evidence: Search Strategy" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="189" OrdBy="70" ID="712" Name="Use of a Systematic Review of Evidence: Study Selection" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="190" OrdBy="80" ID="713" Name="Use of a Systematic Review of Evidence: Synthesis of Evidence" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="191" OrdBy="90" ID="714" Name="Evidence Foundations for and Rating Strength of Recommendations: Grading the Quality or Strength of Evidence" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="192" OrdBy="100" ID="715" Name="Evidence Foundations for and Rating Strength of Recommendations: Benefits and Harms of Recommendations" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="193" OrdBy="110" ID="716" Name="Evidence Foundations for and Rating Strength of Recommendations: Evidence Summary Supporting Recommendations" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="194" OrdBy="120" ID="717" Name="Evidence Foundations for and Rating Strength of Recommendations: Rating the Strength of Recommendations" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="195" OrdBy="130" ID="718" Name="Specific and Unambiguous Articulation of Recommendations" Type="picklist-one">
+      <FieldValue Value="4" />
+    </Field>
+    <Field FieldID="196" OrdBy="140" ID="719" Name="External Review" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="197" OrdBy="150" ID="720" Name="Updating" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Modifications from 2011 Recommendations&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline was based on an updated systematic review to the 2011 evidence base. New evidence has led to new recommendations in some areas. Recommendations 1, 2, and 3 are endorsements of those found in the 2011 version of this guideline; the original recommendations continue to be valid and have not changed. Recommendations 4 and 5 are new in this current version of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Recommendation 1&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Systemic therapy for recurrent ovarian cancer is not curative. As such, it is recognized that, to determine the optimal therapy, each patient needs to be assessed individually in terms of recurrence, sensitivity to platinum, toxicity, ease of administration, and patient preference. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Recommendation 2&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;All patients should be offered the opportunity to participate in clinical trials, if appropriate. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Recommendation 3&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Chemotherapy for Patients with Platinum-sensitive Recurrent Ovarian Cancer&lt;/strong&gt; &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;If the option to participate in a clinical trial is not available, combination platinum-based chemotherapy should be considered, providing that there are no contraindications. The decision regarding which combination to use should be based on toxicity experienced with primary therapy, patient preference, and other factors. Recommended combinations are:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Carboplatin and paclitaxel &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Carboplatin and gemcitabine &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Carboplatin and pegylated liposomal doxorubicin &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If combination platinum-based chemotherapy is contraindicated, then a single platinum agent should be considered. Carboplatin has demonstrated efficacy across trials and has a manageable toxicity profile. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If a single platinum agent is not being considered (e.g., because of toxicity or allergy), then monotherapy with paclitaxel, topotecan, or pegylated liposomal doxorubicin is a reasonable treatment option. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Recommendation 4&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;For Patients with Platinum-sensitive Recurrent Ovarian Cancer&lt;/strong&gt; &lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Women with platinum-sensitive recurrent ovarian cancer should be offered chemotherapy with biologics after a discussion concerning the safety profile. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Targeted agents: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Bevacizumab combined with combination chemotherapy and as maintenance therapy can be considered. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cediranib administered during the chemotherapy and maintenance therapy can be considered. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;PolyADP-ribose polymerase (PARP) inhibitors are recommended for patients with known &lt;em&gt;BRCA &lt;/em&gt;1 or 2 mutation (somatic and germline) as maintenance treatment post-platinum-based chemotherapy for recurrent disease. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Niraparib can be considered for patients who are &lt;em&gt;BRCA &lt;/em&gt;wild-type as maintenance post-platinum-based chemotherapy for recurrent disease &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Recommendation 5&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;For Patients with Platinum-refractory or Platinum-resistant Recurrent Ovarian Cancer&lt;/strong&gt;&lt;/strong&gt; &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Lower levels of response to treatment are expected for this group; therefore, the goals of treatment should be to improve patient's quality of life by extending the symptom-free interval, reducing symptom intensity, increasing progression-free interval, or if possible, prolonging life. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Monotherapy with a non-platinum agent should be considered since there does not appear to be an advantage in the use of non-platinum-containing combination chemotherapy in this group of patients. Single-agent paclitaxel, topotecan, pegylated liposomal doxorubicin, and gemcitabine have demonstrated activity in this patient population and are reasonable treatment options. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;There is no evidence to support or refute the use of more than one line of chemotherapy in patients with platinum-refractory or platinum-resistant recurrences. There are many treatment options that have shown modest response rates but their benefit over best supportive care has not been studied in clinical trials. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Bevacizumab combined with chemotherapy (pegylated liposomal doxorubicin, weekly paclitaxel, or topotecan) can be considered for women who meet the eligibility criteria of the Avastin Use in Platinum-Resistant Ovarian Cancer (AURELIA) phase III randomized controlled trial: confirmed epithelial ovarian, fallopian tube, or primary peritoneal cancer that had progressed within six months of completing &amp;ge;4 cycles of platinum-based therapy, age &amp;ge;18 years, Eastern Cooperative Oncology Group performance status &amp;le;2, and adequate liver, renal, and bone marrow function. Ineligible patients include those who have received &amp;gt;2 prior anticancer regimens or who had refractory disease, patients with a history of bowel obstruction (including subocclusive disease) related to underlying disease, a history of abdominal fistula, gastrointestinal perforation, or intra-abdominal abscess, or evidence of rectosigmoid involvement by pelvic examination, bowel involvement on computed tomography, or clinical symptoms of bowel obstruction. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Recurrent epithelial ovarian cancer, including fallopian tube and primary peritoneal cancers&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Assessment of Therapeutic Effectiveness" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Obstetrics and Gynecology" />
+      <FieldValue Value="Oncology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To recommend systemic therapy options for women with recurrent epithelial ovarian cancer (EOC) including fallopian tube and primary peritoneal cancers&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Women with recurrent epithelial ovarian cancer (EOC) who have previously received platinum-based chemotherapy&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Individual assessment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Participation in clinical trials, if appropriate &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Combination platinum-based chemotherapy&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Carboplatin and paclitaxel (C-P) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Carboplatin and gemcitabine &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Carboplatin and pegylated liposomal doxorubicin (C-PLD) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Single platinum agent chemotherapy (carboplatin) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Monotherapy with non-platinum agent&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Paclitaxel &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Topotecan &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Pegylated liposomal doxorubicin &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Gemcitabine &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Chemotherapy with biologics&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Bevacizumab combined with combination chemotherapy &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Cediranib &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;PolyADP-ribose polymerase (PARP) inhibitors &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Niraparib &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Progression-free survival (PFS) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Overall survival (OS) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adverse events &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Health-related quality of life (QOL) (measured by the European Organization for Research and Treatment of Cancer [EORTC] Quality of Life Questionnaire-Ovarian Cancer Module 28 [QLQ-OV28] and Cancer Module 30 [C30])&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Search for Existing Guidelines&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;As a first step in developing this guideline, a search for existing guidelines was undertaken to determine whether an existing guideline could be adapted or endorsed. &lt;em&gt;A priori&lt;/em&gt;, the authors recognized the prior Gynecologic Cancer Disease Site Group (Gyne DSG) version of this guideline and published as part of the Cancer Care Ontario (CCO) Program in Evidence-based Care (PEBC). The following sources were additionally searched for existing guidelines that addressed the research questions:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Practice guideline databases: the &lt;a href=&quot;https://cancerview.ca/sage&quot; title=&quot;Standards and Guidelines Evidence Directory of Cancer Guidelines (SAGE) Web site&quot;&gt;Standards and Guidelines Evidence Directory of Cancer Guidelines (SAGE)&lt;/a&gt;, &lt;a href=&quot;https://www.guideline.gov/&quot; title=&quot;NGC Web site&quot; target=&quot;_blank&quot;&gt;Agency for Healthcare Research and Quality (AHRQ) National Guideline Clearinghouse&lt;/a&gt;, and the &lt;a href=&quot;https://www.cma.ca/En/Pages/SearchPage.aspx?k=guidelines&quot; title=&quot;Canadian Medical Association (CMA) InfoBase Web site&quot;&gt;Canadian Medical Association (CMA) InfoBase&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Guideline developer Web sites: &lt;a href=&quot;https://www.nice.org.uk/&quot; title=&quot;National Institute for Health and Care Excellence (NICE)Web site&quot;&gt;National Institute for Health and Care Excellence (NICE)&lt;/a&gt;, &lt;a href=&quot;http://www.sign.ac.uk/&quot; title=&quot;Scottish Intercollegiate Guidelines Network (SIGN) Web site&quot;&gt;Scottish Intercollegiate Guidelines Network (SIGN)&lt;/a&gt;, &lt;a href=&quot;http://www.asco.org/practice-guidelines/quality-guidelines/guidelines&quot; title=&quot;American Society of Clinical Oncology (ASCO) Web site&quot;&gt;American Society of Clinical Oncology (ASCO)&lt;/a&gt;, and &lt;a href=&quot;https://www.nhmrc.gov.au/guidelines/search?subject=30699&quot; title=&quot;National Health and Medical Research Council - Australia Web site&quot;&gt;National Health and Medical Research Council - Australia&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Methods&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Search for Existing Systematic Reviews and Primary Literature&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;MEDLINE, EMBASE, and the Cochrane Database of Systematic Reviews were searched from April 1, 2011 to May 30, 2017 for systematic reviews and primary studies. The search strategy is shown in Appendix 4 of the original guideline document. &lt;/p&gt;&#xD;&#xA;&lt;div&gt;&lt;strong&gt;Study Selection Criteria and Process&lt;/strong&gt;&lt;/div&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Inclusion Criteria&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Studies published between April 1, 2011 and August 4, 2016 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;English language, humans, adults &amp;ge;18 years of age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Studies on systemic treatment for recurrent epithelial ovarian cancer (EOC) including epithelial ovarian, primary peritoneal, and fallopian tube cancers &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Women who are platinum-sensitive, -resistant, and/or -refractory &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Studies that are systematic reviews, meta-analyses, or randomized controlled trials (RCTs) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Studies reporting at least one outcome of interest &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Exclusion Criteria&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Studies on other therapies including intraperitoneal chemotherapy, low-grade histologies, hormonal therapy, or chemotherapy with bone marrow or stem cell transplantation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Observational studies, narrative reviews, case reports (n=1), conference abstracts, in vitro studies, or animal studies &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Non-English-language papers &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Studies in which the study methods are not well described or not clear &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Included studies were those that examined systematic therapy for women with epithelial ovarian, primary peritoneal, and fallopian tube cancers, collectively called EOC, who fall into any of the three 'platinum' categories outlined above. Phase II or III RCTs published in English that compared one systemic therapy option with another or to a placebo were included. There was no minimum sample size specified. This systematic review of the evidence focuses on systemic therapy, and excludes intraperitoneal chemotherapy, hormonal therapy, or chemotherapy with bone marrow or stem cell transplantation. A review of the titles and abstracts that resulted from the search was conducted by three of the authors. The remaining authors reviewed the articles considered for inclusion and agreed on the full-text articles to be included.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the &quot;Results&quot; section of the original guideline document for information on studies retrieved through the literature searches. Refer also to Appendix 7 for information on the search for literature on patient values and preferences.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The literature search identified 2966 records, from which 560 potentially relevant reports were identified and screened. Forty-six studies were included in the evidence base for the systematic review, 36 for clinical evidence, and 10 for patient preferences and values. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus (Committee)" />
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology was used to assess the evidence including defining critical and important outcomes.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Data Extraction and Assessment of Study Quality&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Data were extracted by three authors and were audited by a project research assistant. The data elements were population, intervention, and outcome information. The Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology was used to assess the evidence including defining critical and important outcomes. The quality of included studies was assessed for critical and important outcomes using the GRADE process, which includes an assessment of the risk of bias, as well as the directness, consistency, and precision of the evidence as it related to the specified outcomes, potential for publication bias, funding source bias, and any other relevant quality or risk of bias issues. According to GRADE, the quality of evidence reflects the level of confidence or certainty we have that the estimate of an effect is correct. Given the complexity and heterogeneity of the study designs and comparisons, the GRADE strategy was used as an overall critical appraisal guide.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Synthesizing the Evidence&lt;/span&gt;&lt;/strong&gt; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Due to the heterogeneity of protocols, populations, and interventions across the included studies, a meta-analysis was not considered.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to Appendix 7 in the original guideline document for information on data analysis and quality assessment of literature about patient values and preferences.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Previous PEBC-Related Guideline&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Cancer Care Ontario (CCO) Program in Evidence-based Care (PEBC) previously published a similar guideline in 2011 titled &quot;Optimal Chemotherapy for Recurrent Ovarian Cancer,&quot; in which the research questions, outcomes, and methodology could be endorsed for the purposes of this guideline. In the prior 2011 guideline by the same authors, the literature search was current as of 2011. The current guideline will search for new evidence since the previous guideline. Where new evidence does not alter the original recommendations, the prior 2011 recommendations will be endorsed. Where new evidence alters original recommendations, the prior 2011 recommendations will be modified. De novo recommendations are formulated where new evidence is available to inform new original recommendations. Appendix 3 in the original guideline document illustrates the changes from the original guideline to this one.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Guideline Developers&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline was developed by the Guideline Development Group (GDG), which was convened at the request of the Gynecologic Cancer Disease Site Group (Gyne DSG). The project was led by a small Working Group of the Gyne DSG members, which was responsible for reviewing the evidence base, drafting the guideline recommendations, and responding to comments received during the document review process. The Working Group had expertise in gynecologic oncology, medical oncology, and health research methodology. Other members of the Gyne DSG served as the Expert Panel and were responsible for the review and approval of the draft document produced by the Working Group.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Guideline Development Methods&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The PEBC produces evidence-based and evidence-informed guidance documents using the methods of the Practice Guidelines Development Cycle. This process includes a systematic review, interpretation of the evidence by the Working Group and draft recommendations, internal review by content and methodology experts and external review by Ontario clinicians and other stakeholders.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The PEBC uses the Appraisal of Guidelines Research and Evaluation (AGREE) II framework as a methodological strategy for guideline development. AGREE II is a 23-item validated tool that is designed to assess the methodological rigour and transparency of guideline development.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The currency of each document is ensured through periodic review and evaluation of the scientific literature and, where appropriate, the addition of newer literature to the original evidence base. This is described in the PEBC Document Assessment and Review Protocol (see the &quot;Availability of Companion Documents&quot; field). PEBC guideline recommendations are based on clinical evidence, and not on feasibility of implementation; however, a list of implementation considerations such as costs, human resources, and unique requirements for special or disadvantaged populations is provided along with the recommendations for information purposes. PEBC guideline development methods are described in more detail in the &lt;em&gt;PEBC Handbook &lt;/em&gt;and the &lt;em&gt;PEBC Methods Handbook&lt;/em&gt; (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Research Questions&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;What is the optimal systemic therapy for women with recurrent ovarian cancer who have previously received platinum-based chemotherapy? Accordingly, the following comparisons were considered: (a) any systemic therapy option vs. another; and (b) any systemic therapy option vs. placebo.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="External Peer Review" />
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Internal Review&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For the guideline document to be approved, 75% of the content experts who comprise the Guideline Development Group (GDG) Expert Panel must cast a vote indicating whether or not they approve the document, or abstain from voting for a specified reason, and of those that vote, 75% must approve the document. In addition, the Program in Evidence-Based Care (PEBC) Report Approval Panel (RAP), a three-person panel with methodology expertise, must unanimously approve the document. The Expert Panel and RAP members may specify that approval is conditional, and that changes to the document are required. If substantial changes are subsequently made to the recommendations during external review, then the revised draft must be resubmitted for approval by RAP and the GDG Expert Panel. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;External Review&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Feedback on the approved draft guideline is obtained from content experts and the target users through two processes. Through the targeted peer review, several individuals with content expertise are identified by the GDG and asked to review and provide feedback on the guideline document. Through professional consultation, relevant care providers and other potential users of the guideline are contacted and asked to provide feedback on the guideline recommendations through a brief online survey. This consultation is intended to facilitate the dissemination of the final guidance report to Ontario practitioners.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;See Section 5 in the original guideline document for further discussion of the internal and external guideline review process and results.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The recommendations are supported by either phase II or III randomized trials.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The body of evidence from trials that include olaparib and bevacizumab consistently show a benefit to progression-free survival (PFS) without a corresponding benefit to overall survival (OS). The Working Group for this guideline designated PFS, which is associated with symptom control, as a critical outcome. Therefore, a finding of net benefit can be concluded based on significant PFS differences. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Bevacizumab has been associated with increased risks of gastrointestinal perforation and fistulae, and cediranib has been associated with increased fatigue, neutropenia, diarrhea, hypertension, febrile neutropenia, and thrombocytopenia. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;See the &quot;Adverse Events&quot; sections in the original guideline document for additional information on the potential harms of systemic therapy. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Care has been taken in the preparation of the information contained in this report. Nevertheless, any person seeking to consult the report or apply its recommendations is expected to use independent medical judgment in the context of individual clinical circumstances or to seek out the supervision of a qualified clinician. Cancer Care Ontario (CCO) makes no representations or guarantees of any kind whatsoever regarding the report content or its use or application and disclaims any responsibility for its use or application in any way. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;See the original guideline document for qualifying statements related to each recommendation. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Quick Reference Guides/Physician Guides" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Francis J, Coakley N, Elit L, Kennedy EB, Mackay H, Gynecologic Cancer Disease Site Group. Systemic therapy for recurrent epithelial ovarian cancer. Toronto (ON): Cancer Care Ontario (CCO); 2017 Jul 12. 72 p.&amp;nbsp;(Program in Evidence-Based Care (PEBC); no. 4-3).&amp;nbsp; [97 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2017 Jul 12" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Program in Evidence-based Care - State/Local Government Agency [Non-U.S.]" />
+    </Field>
+    <Field FieldID="123" OrdBy="1230" ID="448" Name="Guideline Developer Comment" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Program in Evidence-based Care (PEBC) is a Province of Ontario initiative sponsored by Cancer Care Ontario and the Ontario Ministry of Health and Long-Term Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Program in Evidence-based Care (PEBC) is a provincial initiative of Cancer Care Ontario (CCO) supported by the Ontario Ministry of Health and Long-Term Care (MOHLTC). All work produced by the PEBC is editorially independent from the OMHLTC.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Gynecologic Cancer Disease Site Group&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Authors:&lt;/em&gt; J. Francis; N. Coakley; L. Elit; E.B. Kennedy; H. Mackay&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In accordance with the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=103568&quot; title=&quot;Cancer Care Ontario (CCO) Web site&quot;&gt;Program in Evidence-based Care (PEBC) Conflict of Interest (COI) Policy&lt;/a&gt;, the guideline authors, expert panel members, and internal and external reviewers were asked to disclose potential conflicts of interest. The COIs declared did not disqualify the individuals from carrying out a designated role in the development of this guideline, in accordance with the PEBC COI Policy.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Conflict of interest declarations for all Guideline Development Group (GDG) members are summarized in Appendices 1 and 2, and were managed in accordance with the PEBC Conflict of Interest Policy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: Fung Kee Fung M, Kennedy E, Francis J, Mackay H, Gynecologic Cancer Disease Site Group. Optimal chemotherapy for recurrent ovarian cancer. Toronto (ON): Cancer Care Ontario (CCO); 2011 Nov 21. Various p.&amp;nbsp;(Evidence-based series; no. 4-3).&amp;nbsp; [89 references]&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=381393&quot; title=&quot;Cancer Care Ontario (CCO) Web site&quot;&gt;Cancer Care Ontario (CCO) Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Systemic therapy for recurrent epithelial ovarian cancer. Summary. Toronto (ON): Cancer Care Ontario (CCO); 2017 Jul 12. 4 p. Available from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=381395&quot; title=&quot;Cancer Care Ontario (CCO) Web site&quot;&gt;Cancer Care Ontario (CCO) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Program in Evidence-Based Care (PEBC) handbook. Toronto (ON): Cancer Care Ontario (CCO); 2012. 14 p. Available from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=50876&quot; title=&quot;CCO Web site&quot;&gt;CCO Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Program in Evidence-Based Care (PEBC) methods handbook. Toronto (ON): Cancer Care Ontario (CCO); 2014 Sep 23. Available from the &lt;a href=&quot;http://pebctoolkit.mcmaster.ca/doku.php?id=projectdev:pebc_methods_handbook&amp;amp;&quot; title=&quot;in Evidence-based Care (PEBC) Toolkit Web site&quot;&gt;Program in Evidence-based Care (PEBC) Toolkit Web site&lt;/a&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Program in Evidence-based Care document assessment and review protocol. Toronto (ON): Cancer Care Ontario (CCO); 2015 Apr 16. 15 p. Available from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=285439&quot; title=&quot;CCO Web site&quot;&gt;CCO Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on September 21, 2017. The guideline developer agreed to not review the content.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NEATS assessment was completed by ECRI Institute on August 15, 2017. The information was verified by the guideline developer on September 25, 2017.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions. Please refer to the &lt;a href=&quot;http://www.cancercare.on.ca/ontariocancernews/copyright.html&quot; title=&quot;Cancer Care Ontario (CCO) Web site&quot;&gt;Copyright and Disclaimer Statements&lt;/a&gt; posted at the Cancer Care Ontario (CCO) Web site.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

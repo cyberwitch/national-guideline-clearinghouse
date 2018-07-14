@@ -1,0 +1,189 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Guideline on the management of bleeding in patients on antithrombotic agents.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Makris M, Van Veen JJ, Tait CR, Mumford AD, Laffan M. Guideline on the management of bleeding in patients on antithrombotic agents. Br J Haematol. 2013 Jan;160(1):35-46. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23116425&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Definitions for the quality of the evidence (&lt;strong&gt;A-C&lt;/strong&gt;) and strength of recommendation (strong [grade &lt;strong&gt;1&lt;/strong&gt;], weak [grade &lt;strong&gt;2&lt;/strong&gt;]) are given at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Specific Measures&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Parenteral Anticoagulants&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Unfractionated Heparin (UFH)&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Stopping an UFH infusion and general haemostatic measures are often sufficient to stop or prevent bleeding (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Protamine sulphate (1 mg per 80&amp;ndash;100 units UFH) will fully reverse UFH, but should be given slower than 5 mg/min to minimize the risk of adverse reactions. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The maximum recommended dose of 50 mg protamine is sufficient to reverse UHF in most settings. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Low Molecular Weight Heparin (LMWH)&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;LMWH administration within 8 hours of the time of requirement for correction of anticoagulation: give protamine sulphate (1 mg per 100 anti-Xa units of LMWH). If ineffective, consider further protamine sulphate 0.5 mg per 100 anti-Xa units (&lt;strong&gt;2C&lt;/strong&gt;). Protamine sulphate should be given slower than 5 mg/min to minimize the risk of adverse reactions. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;LMWH administration greater than 8 hours from the time of requirement for correction of anticoagulation: consider smaller doses of protamine (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Consider recombinant activated factor VII (rFVIIa) if there is continued life-threatening bleeding despite protamine sulphate and the time frame suggests there is residual effect from the LMWH contributing to bleeding. (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Danaparoid Sodium&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;There is no specific antidote for danaparoid. Management of bleeding should be through cessation of treatment and general haemostatic measures (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Plasmapheresis may be considered for critical bleeding. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Fondaparinux&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;There is no specific antidote for fondaparinux. Management of bleeding should be through cessation of treatment and general haemostatic measures (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Recombinant FVIIa should be considered for critical bleeding (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Bivalirudin&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;There is no specific antidote for bivalirudin. Management of bleeding should be through cessation of treatment and general haemostatic measures (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Exceptionally, haemodialysis, haemofiltration or plasmapheresis may be considered for critical bleeding (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Argatroban&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;There is no specific antidote for argatroban. Management of bleeding should be through cessation of treatment and general haemostatic measures (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Oral Anticoagulants&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Warfarin&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;All hospitals managing patients on warfarin should stock a licensed four-factor prothrombin complex concentrate (PCC) (&lt;strong&gt;1C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Emergency anticoagulation reversal in major bleeding should be with 25&amp;ndash;50 U/kg four-factor PCC and 5 mg intravenous vitamin K (&lt;strong&gt;1B&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Recombinant factor VIIa is not recommended for emergency anticoagulation reversal (&lt;strong&gt;1B&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Fresh frozen plasma produces suboptimal anticoagulation reversal and should only be used if PCC is not available (&lt;strong&gt;1C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Anticoagulation reversal for non-major bleeding should be with 1&amp;ndash;3 mg intravenous vitamin K (&lt;strong&gt;1B&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients with an international normalized ratio (INR) &amp;gt;5.0 but who are not bleeding should have 1&amp;ndash;2 doses of warfarin withheld and their maintenance dose should be reduced (&lt;strong&gt;1B&lt;/strong&gt;). The cause of the elevated INR should be investigated (&lt;strong&gt;1C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Asymptomatic patients with an INR of &amp;ge;8.0 should receive 1&amp;ndash;5 mg of oral vitamin K (&lt;strong&gt;1B&lt;/strong&gt;). The INR should be rechecked the following day in case an additional dose of vitamin K is required. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For surgery that requires reversal of warfarin and that can be delayed 6&amp;ndash;12 hours, the INR can be corrected by giving intravenous vitamin K. For surgery that requires reversal of warfarin and which cannot be delayed for vitamin K to have time to take effect, the INR can be corrected by giving PCC and intravenous vitamin K. PCC should not be used to enable elective or non-urgent surgery (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Other Vitamin K Antagonists&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Emergency reversal of the effect of phenprocoumon, acenocoumarol and phenindione should be with 5 mg intravenous vitamin K and 25&amp;ndash;50 units/kg four-factor PCC. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For less severe bleeding or for correction of over anticoagulation, 1&amp;ndash;5 mg of oral vitamin K is sufficient. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Direct Oral Thrombin Inhibitors &amp;ndash; Dabigatran&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;There is no specific antidote for dabigatran. Management of bleeding should be through cessation of treatment and general haemostatic measures (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In bleeding patients who have taken a dose of dabigatran in the last 2 hours, consider oral activated charcoal to prevent further absorption (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If rapidly deployable, haemodialysis, haemofiltration and charcoal haemoperfusion offer the possibility of enhanced clearance of the active drug (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In situations with ongoing life-threatening bleeding PCC, activated prothrombin complex concentrate (APCC), and rFVIIa should be considered (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Direct Oral Xa Inhibitors &amp;ndash; Rivaroxaban and Apixaban&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;There is no specific antidote for rivaroxaban. Management of bleeding should be through cessation of treatment and general haemostatic measures (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In situations with ongoing life-threatening bleeding, PCC, APCC and rFVIIa should be considered (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Anti-platelet Drugs&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Decisions to withhold anti-platelet drugs or to administer pro-haemostatic agents should be made after a careful multi-disciplinary assessment of the risks and benefits of intervention. (&lt;strong&gt;1C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Bleeding in patients during treatment with aspirin, P2Y&lt;sub&gt;12&lt;/sub&gt; antagonists or glycoprotein (GP) IIa/IIIb inhibitors should be managed in the first instance with general haemostatic measures. If necessary, drug cessation and reversal of the effect of coprescribed anticoagulants should also be considered (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Platelet transfusion (2&amp;ndash;3 adult doses) should be considered as an additional measure for critical bleeding or prevention of bleeding before emergency surgery (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Platelet transfusion should be considered to prevent bleeding in severe thrombocytopenia (&amp;lt;10 x 10&lt;sup&gt;9&lt;/sup&gt;/l) caused by abciximab (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Fibrinolytic Drugs&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For major bleeding (e.g., intracerebral) within 48 hours of administration, the task force recommends:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Stop infusion of fibrinolytic drugs and other antithrombotic drugs (&lt;strong&gt;1C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Administer fresh frozen plasma 12 ml/kg (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Administer intravenous tranexamic acid 1 g tds (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If there is depletion of fibrinogen, administer cryoprecipitate or fibrinogen concentrate (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Further therapy should be guided by results of coagulation tests (&lt;strong&gt;2C&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Quality of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The quality of evidence is graded as high (A), moderate (B) or low (C). To put this in context it is useful to consider the uncertainty of knowledge and whether further research could change what is known or is certain.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;(A) High&lt;/strong&gt;: Further research is very unlikely to change confidence in the estimate of effect. Current evidence derived from randomised clinical trials without important limitations.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;(B) Moderate&lt;/strong&gt;: Further research may well have an important impact on confidence in the estimate of effect and may change the estimate. Current evidence derived from randomised clinical trials with important limitations (e.g., inconsistent results, imprecision &amp;ndash; wide confidence intervals or methodological flaws &amp;ndash; e.g., lack of blinding, large losses to follow up, failure to adhere to intention to treat analysis), or very strong evidence from observational studies or case series (e.g., large or very large and consistent estimates of the magnitude of a treatment effect or demonstration of a dose-response gradient).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;(C) Low&lt;/strong&gt;: Further research is likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate. Current evidence from observational studies, case series or just opinion.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strength of Recommendations&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strong (grade 1)&lt;/strong&gt;: Strong recommendations (grade 1) are made when there is confidence that the benefits do or do not outweigh harm and burden. Grade 1 recommendations can be applied uniformly to most patients. Regard as 'recommend'.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Weak (grade 2)&lt;/strong&gt;: Where the magnitude of benefit or not is less certain a weaker grade 2 recommendation is made. Grade 2 recommendations require judicious application to individual patients. Regard as 'suggest'.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Bleeding during antithrombotic therapy&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Management" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Anesthesiology" />
+      <FieldValue Value="Cardiology" />
+      <FieldValue Value="Critical Care" />
+      <FieldValue Value="Emergency Medicine" />
+      <FieldValue Value="Hematology" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Pharmacology" />
+      <FieldValue Value="Surgery" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Clinical Laboratory Personnel" />
+      <FieldValue Value="Hospitals" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To guide healthcare professionals in the United Kingdom&amp;nbsp;on the management of patients receiving antithrombotic drugs who experience significant bleeding or who require emergency surgery or an invasive procedure&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients receiving antithrombotic agents who are bleeding or are at risk for bleeding&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Management of bleeding associated with parenteral anticoagulants&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Cessation of anticoagulant treatment &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;General haemostatic measures &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Protamine sulphate (for reversing unfractionated heparin and low molecular weight heparin) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Recombinant activated factor VII (rFVIIa) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Haemodialysis, haemofiltration, or plasmapheresis for critical bleeding &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Management of bleeding associated with oral anticoagulants&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Reversal with four-factor prothrombin complex concentrate (PCC) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Oral or intravenous vitamin K &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Fresh frozen plasma (if PCC is not available) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Withholding doses of warfarin in patients with international normalized ratio (INR) &amp;gt;5 but no bleeding &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Cessation of treatment and general haemostatic measures &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Oral activated charcoal to prevent further anticoagulant absorption &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Haemodialysis, haemofiltration, and charcoal haemoperfusion &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;In situations with ongoing life-threatening bleeding: PCC, activated prothrombin complex concentrate (APCC), and rFVIIa &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Management of bleeding associated with oral antiplatelets&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Withholding antiplatelet drugs or administering pro-haemostatic agents after a careful multi-disciplinary assessment of the risks and benefits of intervention &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;General haemostatic measures &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Drug cessation and reversal of the effect of coprescribed anticoagulants &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Platelet transfusion for critical bleeding, prevention of bleeding before emergency surgery, or prevention of bleeding in severe thrombocytopenia caused by abciximab &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Management of major bleeding associated with fibrinolytics&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Stopping infusion of fibrinolytic drugs and other antithrombotic drugs &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Fresh frozen plasma &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Intravenous tranexamic acid &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Cryoprecipitate or fibrinogen concentrate &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Further therapy guided by results of coagulation tests &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Morbidity &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mortality &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Reversal of anticoagulant effect &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Bleeding, haemorrhagic, and thrombotic risks &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Stroke &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The MEDLINE and EMBASE databases were searched systematically for publications in English from 1966 to June 2011 and 1980 to June 2011, respectively, using the following strategy: Approved and proprietary names of the antithrombotic agents described in the guideline were combined with terms relating to antidote, reversal, haemorrhage, (activated) prothrombin complex concentrate, factor VIII inhibitor bypass activity, Beriplex, Octaplex, recombinant activated factor VII, Novoseven, fresh frozen plasma, tranexamic acid, antifibrinolytic, platelet transfusion, and desmopressin. Identified papers were also searched for additional references.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Quality of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The quality of evidence is graded as high (A), moderate (B) or low (C). To put this in context it is useful to consider the uncertainty of knowledge and whether further research could change what is known or is certain.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;(A) High&lt;/strong&gt;: Further research is very unlikely to change confidence in the estimate of effect. Current evidence derived from randomised clinical trials without important limitations.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;(B) Moderate&lt;/strong&gt;: Further research may well have an important impact on confidence in the estimate of effect and may change the estimate. Current evidence derived from randomised clinical trials with important limitations (e.g., inconsistent results, imprecision &amp;ndash; wide confidence intervals or methodological flaws &amp;ndash; e.g., lack of blinding, large losses to follow up, failure to adhere to intention to treat analysis), or very strong evidence from observational studies or case series (e.g., large or very large and consistent estimates of the magnitude of a treatment effect or demonstration of a dose-response gradient).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;(C) Low&lt;/strong&gt;: Further research is likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate. Current evidence from observational studies, case series or just opinion.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Grading of Recommendations Assessment, Development and Evaluation (GRADE) system was used to quote levels and grades of evidence (see the &quot;Rating Scheme for the Strength of the Evidence&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The guideline group was selected to be representative of United Kingdom-based medical experts.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The writing group produced the draft guideline, which was subsequently revised by consensus by members of the Haemostasis and Thrombosis Task Force of the British Committee for Standards in Haematology.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Strength of Recommendations&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strong (grade 1)&lt;/strong&gt;: Strong recommendations (grade 1) are made when there is confidence that the benefits do or do not outweigh harm and burden. Grade 1 recommendations can be applied uniformly to most patients. Regard as 'recommend'.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Weak (grade 2)&lt;/strong&gt;: Where the magnitude of benefit or not is less certain a weaker grade 2 recommendation is made. Grade 2 recommendations require judicious application to individual patients. Regard as 'suggest'.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="External Peer Review" />
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The guideline was reviewed by a sounding board of approximately 50 United Kingdom haematologists, the British Committee for Standards in Haematology, and the British Society for Haematology Committee and comments incorporated where appropriate.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for most recommendations (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate management of bleeding in patients receiving antithrombotic agents&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Recombinant activated factor VII is often considered as a last resort when all other measures have failed and the risks and benefits are carefully documented. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Prothrombin complex concentrate (PCC) and activated prothrombin complex concentrate (APCC) agents may increase thrombosis risk although this has not been evaluated in large-scale meta-analyses. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Protamine can cause severe allergic reactions, including anaphylaxis, hypotension, bronchospasm and skin reactions in up to 10% of patients. Risk factors are previous exposure to protamine sulphate (including protamine-containing insulin preparations), rate of administration, vasectomy, and fish allergy. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Many patients who are prescribed anti-platelet drugs are at high risk of arterial thrombosis. Therefore, the safety of anti-thrombotic drug withdrawal and pro-haemostatic interventions should be considered carefully through a multi-disciplinary risk assessment. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Platelet transfusion may be considered for emergency reversal of the anti-platelet effect but may confer a risk of arterial thrombosis. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="430" OrdBy="800" Name="Contraindications">
+    <Field FieldID="144" OrdBy="805" ID="431" Name="Contraindications" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Desmopressin is relatively contraindicated in patients with cardiovascular disease, and there is no evidence to support efficacy in this patient group.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+      <FieldValue Value="Timeliness " />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Makris M, Van Veen JJ, Tait CR, Mumford AD, Laffan M. Guideline on the management of bleeding in patients on antithrombotic agents. Br J Haematol. 2013 Jan;160(1):35-46. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23116425&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2013 Jan" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="British Society for Haematology Guidelines - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;British Committee for Standards in Haematology&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Haemostasis and Thrombosis Task Force of the British Committee for Standards in Haematology&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Writing Group Members&lt;/em&gt;: Mike Makris, Department of Cardiovascular Science, University of Sheffield and Sheffield Haemophilia and Thrombosis Centre, Sheffield Teaching Hospitals NHS Trust, Sheffield; Joost J. Van Veen, Sheffield Haemophilia and Thrombosis Centre, Sheffield Teaching Hospitals NHS Trust, Sheffield; Campbell R. Tait, Department of Haematology, Glasgow Royal Infirmary, Glasgow; Andrew D. Mumford, Bristol Heart Institute, Bristol Royal Infirmary, University of Bristol, Bristol; Mike Laffan, Imperial College Academic Health Sciences Centre, Hammersmith Hospital, London&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available from the &lt;a href=&quot;http://www.bcshguidelines.com/documents/bleeding_on_antithrombotics_Makris_2012.pdf&quot; title=&quot;British Committee for Standards in Haematology Web site&quot;&gt;British Committee for Standards in Haematology Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Print copies: Available from the British Committee for Standards in Haematology; Email: &lt;a href=&quot;mailto:bcsh@b-s-h.org.uk&quot;&gt;bcsh@b-s-h.org.uk&lt;/a&gt; &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on January 15, 2013. This summary was updated by ECRI Institute on March 10, 2014 following the U.S. Food and Drug Administration advisory on Low Molecular Weight Heparins.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is copyrighted by the British Committee for Standards in Haematology. For more information, contact the BCSH Secretary, 100 White Lion Street, London, UK, N1 9PF; Email: &lt;a href=&quot;mailto:bcsh@b-s-h.org.uk&quot;&gt;bcsh@b-s-h.org.uk&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

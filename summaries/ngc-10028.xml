@@ -1,0 +1,189 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Management of obstructive sleep apnea in adults: a clinical practice guideline from the American College of Physicians.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Qaseem A, Holty JE, Owens DK, Dallas P, Starkey M, Shekelle P, for the Clinical Guidelines Committee of the American College of Physicians. Management of obstructive sleep apnea in adults: a clinical practice guideline from the American College of Physicians. Ann Intern Med. 2013 Sep 24;159:471-83. [198 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24061345&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The strength of the evidence (&lt;strong&gt;high, moderate, low,&lt;/strong&gt; or &lt;strong&gt;insufficient evidence to determine benefits or risks&lt;/strong&gt;) and strength of recommendations (&lt;strong&gt;strong, weak&lt;/strong&gt;) are defined at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendation 1&lt;/strong&gt;: &lt;em&gt;The American College of Physicians (ACP) recommends that all overweight and obese patients diagnosed with obstructive sleep apnea (OSA) should be encouraged to lose weight.&lt;/em&gt; (&lt;strong&gt;Grade: strong recommendation; low-quality evidence&lt;/strong&gt;)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Obesity is a risk factor for OSA, and evidence showed that intensive weight-loss interventions help reduce Apnea&amp;ndash;Hypopnea Index (AHI) scores and improve OSA symptoms. Weight loss is also associated with many other health benefits other than for OSA. Other factors, such as alcohol and opioid use, may be associated with adverse outcomes in patients with sleep apnea, but these factors were not addressed in the evidence review.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendation 2&lt;/strong&gt;: &lt;em&gt;ACP recommends continuous positive airway pressure (CPAP) treatment as initial therapy for patients diagnosed with OSA.&lt;/em&gt; (&lt;strong&gt;Grade: strong recommendation; moderate-quality evidence&lt;/strong&gt;)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In patients with excessive daytime sleepiness who have been diagnosed with OSA, CPAP is the most extensively studied therapy. This treatment has been shown to improve Epworth Sleepiness Scale (ESS) scores, reduce AHI and arousal index scores, and increase oxygen saturation. However, CPAP has not been shown to increase quality of life. Evidence on the effect of CPAP on cardiovascular disease, hypertension, and type 2 diabetes was insufficient. Studies have evaluated various alternative CPAP modifications. Fixed and auto-CPAP, as well as C-Flex, have similar adherence and efficacy. Data were insufficient to determine the comparative efficacy of other CPAP modifications. Greater AHI and ESS scores were generally associated with better adherence to CPAP.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendation 3&lt;/strong&gt;: &lt;em&gt;ACP recommends mandibular advancement devices (MADs) as an alternative therapy to CPAP treatment for patients diagnosed with OSA who prefer MADs or for those with adverse effects associated with CPAP treatment.&lt;/em&gt; (&lt;strong&gt;Grade: weak recommendation; low-quality evidence&lt;/strong&gt;)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Evidence showed that MADs have been used as an alternative to CPAP for treatment of OSA. Patients had AHI scores between 18 and 40 events per hour. Evidence to suggest which patients would benefit most from MADs was insufficient. However, MADs can be considered in patients with adverse effects or for those who do not tolerate or adhere to CPAP.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Definitions&lt;/strong&gt;&lt;/span&gt;:&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: The American College of Physicians' Guideline Grading System&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; colspan=&quot;3&quot;&gt;The American College of Physicians' Guideline Grading System*&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Quality of Evidence&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; colspan=&quot;2&quot;&gt;Strength of Recommendation&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot; scope=&quot;row&quot;&gt;&amp;nbsp; &lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;Benefits Clearly Outweigh Risks and Burden or Risks and Burden Clearly Outweigh Benefits&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;Benefits Finely Balanced with Risks and Burden&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;High&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;Strong&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;Weak&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Moderate&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;Strong&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;Weak&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Low&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;Strong&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;Weak&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot; colspan=&quot;3&quot;&gt;Insufficient evidence to determine net benefits or risks&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Adopted from the classification developed by the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) workgroup.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Obstructive sleep apnea (OSA)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Management" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Nursing" />
+      <FieldValue Value="Otolaryngology" />
+      <FieldValue Value="Pulmonary Medicine" />
+      <FieldValue Value="Sleep Medicine" />
+      <FieldValue Value="Surgery" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+      <FieldValue Value="Respiratory Care Practitioners" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To present the evidence and provide clinical recommendations on the management of obstructive sleep apnea (OSA) in adults&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adults with obstructive sleep apnea (OSA)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Weight loss through intensive weight loss interventions &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Continuous positive airway pressure (CPAP)&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Fixed CPAP &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Auto-CPAP &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;C-Flex &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mandibular advancement devices (MADs) &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Other obstructive sleep apnea (OSA) treatments, including positional therapy, oropharyngeal exercise, palatal implants, surgical interventions, pharmacologic therapy, and atrial overdrive pacing, were considered but no recommendations were made because of insufficient evidence.&lt;/p&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Cardiovascular disease (such as heart failure, hypertension, stroke, and myocardial infarction) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Type 2 diabetes &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Death &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sleep study measures (such as the Apnea&amp;ndash;Hypopnea Index [AHI]) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Measures of cardiovascular status (such as blood pressure) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Measures of diabetes status (such as hemoglobin A1c levels) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Quality of life &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Tufts Evidence-based Practice Center conducted the systematic evidence review. The literature search included studies identified using MEDLINE (1966 to September 2010), the Cochrane Central Register of Controlled Trials, and the Cochrane Database of Systematic Reviews and included peer-reviewed studies on adult human patients published in English. Further details about the methods and inclusion and exclusion criteria applied in the evidence review are available in the full Agency for Healthcare Research and Quality (AHRQ) report (see the &quot;Availability of Companion Documents&quot; field). No randomized, controlled trial (RCT) on obstructive sleep apnea (OSA) treatment with regard to mortality outcomes was identified.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The American College of Physicians (ACP) supplemented the AHRQ review (MEDLINE search, 1946 to October 2012) to identify English-language observational studies in humans reporting death or cardiovascular or cerebrovascular illness associated with OSA treatment strategies (that is, continuous positive airway pressure [CPAP], surgery, or mandibular advancement devices [MADs]), as well as more recent relevant RCTs.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This guideline rates the evidence and recommendations by using the American College of Physicians (ACP) guideline grading system, which is based on the system developed by the Grading of Recommendations Assessment, Development and Evaluation (GRADE) workgroup (see the &quot;Rating Scheme for the Strength of the Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Meta-Analysis of Randomized Controlled Trials" />
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To guide the recommendations, outcomes were prioritized on the basis of clinical importance, starting with death and including cardiovascular outcomes. In the absence of statistically significant effects on clinical outcomes, symptoms were considered (such as Epworth Sleepiness Scale [ESS] scores) and other physiologic measures (such as the Apnea&amp;ndash;Hypopnea Index [AHI]).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Tufts Evidence-based Practice Center conducted the systematic evidence review. Evidence on the comparative effectiveness of OSA treatments is summarized in the Appendix Table in the original guideline document. Further details on data extraction, quality assessment, and data synthesis are available in the systemic evidence review (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This guideline is based on a systematic evidence review sponsored by the Agency for Healthcare Research and Quality (AHRQ) (see the &quot;Availability of Companion Documents&quot; field) that addressed the following key questions related to obstructive sleep apnea (OSA) management:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;What is the comparative effect of different treatments for OSA in adults?&#xD;&#xA;    &lt;ol style=&quot;list-style-type: lower-alpha;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Does the comparative effectiveness of treatments vary based on presenting patient characteristics, OSA severity, or other pretreatment factors? Are any of these characteristics or factors predictive of treatment success?&#xD;&#xA;        &lt;ol style=&quot;list-style-type: lower-roman;&quot;&gt;&#xD;&#xA;            &lt;li&gt;Characteristics: Age, sex, race, weight, bed partner, airway, other physical characteristics, and specific comorbid conditions. &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Obstructive sleep apnea severity or characteristics: Baseline questionnaire (and similar tools) results, formal testing results (including hypoxemia levels), baseline quality of life, positional dependency. &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Other: Specific symptoms. &lt;/li&gt;&#xD;&#xA;        &lt;/ol&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;    &lt;/ol&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In patients with OSA who are prescribed nonsurgical treatments, what are the associations of pretreatment, patient-level characteristics with treatment adherence? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;What is the effect of interventions to improve adherence to device use (positive airway pressure, oral appliances, and positional therapy) on clinical and intermediate outcomes? &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: The American College of Physicians' Guideline Grading System&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; colspan=&quot;3&quot;&gt;The American College of Physicians' Guideline Grading System*&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Quality of Evidence&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; colspan=&quot;2&quot;&gt;Strength of Recommendation&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot; scope=&quot;row&quot;&gt;&amp;nbsp; &lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;Benefits Clearly Outweigh Risks and Burden or Risks and Burden Clearly Outweigh Benefits&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;Benefits Finely Balanced with Risks and Burden&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;High&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;Strong&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;Weak&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Moderate&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;Strong&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;Weak&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Low&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;Strong&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;Weak&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot; colspan=&quot;3&quot;&gt;Insufficient evidence to determine net benefits or risks&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Adopted from the classification developed by the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) workgroup.&lt;/p&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Published cost analyses were reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This guideline was approved by the American College of Physicians (ACP) Board of Regents on November 17, 2012.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate interventions for obstructive sleep apnea (OSA), taking into account the relative benefits and risks associated with each intervention&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Evidence on adverse effects related to various management strategies for obstructive sleep apnea (OSA) was sparse, especially from randomized control trials (RCTs). The Appendix Table in the original guideline document summarizes adverse effects associated with each treatment. Tooth loosening, dental crown damage, and temporomandibular joint pain were the most commonly reported adverse effects with mandibular advancement devices (MADs); however, long-term consequences were not reported. Overall, approximately 5% to 15% of patients treated with continuous positive airway pressure (CPAP) reported adverse effects that they considered to be substantial, but these symptoms were potentially transient. In general, adverse effects in patients treated with CPAP could be alleviated with termination or modification of the treatment. No long-term adverse effects were reported for weight-loss interventions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Clinical practice guidelines are &quot;guides&quot; only and may not apply to all patients and clinical situations. Thus, they are not intended to override clinicians' judgment. All American College of Physicians (ACP) clinical practice guidelines are considered automatically withdrawn or invalid 5 years after publication, or once an update has been issued. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The authors of this article are responsible for its contents, including any clinical or treatment recommendations. No statement in this article should be construed as an official position of the Department of Veterans Affairs. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Mobile Device Resources" />
+      <FieldValue Value="Resources" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Qaseem A, Holty JE, Owens DK, Dallas P, Starkey M, Shekelle P, for the Clinical Guidelines Committee of the American College of Physicians. Management of obstructive sleep apnea in adults: a clinical practice guideline from the American College of Physicians. Ann Intern Med. 2013 Sep 24;159:471-83. [198 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24061345&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2013 Sep 24" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="American College of Physicians - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Financial support for the development of this guideline comes exclusively from the American College of Physicians (ACP) operating budget.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Clinical Guidelines Committee of the American College of Physicians&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Primary Authors&lt;/em&gt;: Amir Qaseem, MD, PhD, MHA; Jon-Erik C. Holty, MD, MS; Douglas K. Owens, MD, MS; Paul Dallas, MD; Melissa Starkey, PhD; and Paul Shekelle, MD, PhD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Clinical Guidelines Committee of the American College of Physicians&lt;/em&gt;: Paul Shekelle, MD, PhD (&lt;em&gt;Chair&lt;/em&gt;); Roger Chou, MD; Molly Cooke, MD; Paul Dallas, MD; Thomas D. Denberg, MD, PhD; Nick Fitterman, MD; Mary Ann Forciea, MD; Robert H. Hopkins Jr., MD; Linda L. Humphrey, MD, MPH; Tanveer P. Mir, MD; Douglas K. Owens, MD, MS; Holger J. Sch&amp;uuml;nemann, MD, PhD; Donna E. Sweet, MD; David S. Weinberg, MD, MSc; and Timothy Wilt, MD, MPH&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Potential Conflicts of Interest&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Dr. Shekelle: &lt;em&gt;Personal fees&lt;/em&gt;: ECRI Institute, Veterans Affairs; &lt;em&gt;Grants&lt;/em&gt;: Agency for Healthcare Research and Quality, Veterans Affairs, Centers for Medicare &amp;amp; Medicaid Services, National Institute of Nursing Research, Office of the National Coordinator for Health Information Technology. All other authors have no disclosures.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Disclosures are available on the &lt;a href=&quot;https://www.acponline.org/authors/icmje/ConflictOfInterestForms.do?msNum=M12-3188&quot; title=&quot;American College of Physicians Web site&quot;&gt;American College of Physicians Web site&lt;/a&gt;. A record of conflicts of interest is kept for each Clinical Guidelines Committee meeting and conference call and is also available from the &lt;a href=&quot;http://www.acponline.org/clinical_information/guidelines/guidelines/conflicts_cgc.htm&quot; title=&quot;American College of Physicians Web site&quot;&gt;American College of Physicians Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://annals.org/article.aspx?articleid=1742606&quot; title=&quot;of Internal Medicine Web site&quot;&gt;Annals of Internal Medicine Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Print copies: Available from the American College of Physicians (ACP), 190 N. Independence Mall West, Philadelphia PA 19106-1572.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Qaseem A, Snow V, Owens DK, Shekelle P. The development of clinical practice guidelines and guidance statements of the American College of Physicians: summary of methods. Ann Intern Med. 2010 Aug 3;153(3):194-199. Available from the &lt;a href=&quot;http://www.annals.org/content/153/3/194.full&quot; title=&quot;Annals of Internal Medicine Web site&quot;&gt;Annals of Internal Medicine Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Balk EM, Moorthy D, Obadan NO, Patel K, Ip S, Chung M, Bannuru RR, Kitsios GD, Sen S, Iovin RC, Gaylor JM, D'Ambrosio C, Lau J. Diagnosis and treatment of obstructive sleep apnea in adults. Comparative effectiveness review No. 32. (Prepared by Tufts Evidence-based Practice Center under Contract No. 290-2007-10055-1). AHRQ Publication No. 11-EHC052-EF. Rockville, MD: Agency for Healthcare Research and Quality (AHRQ). July 2011. Available from the &lt;a href=&quot;http://www.effectivehealthcare.ahrq.gov/ehc/products/117/683/CER32_SleepApnea_FinalReview_201108.pdf&quot; title=&quot;AHRQ Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Print copies: Available from the American College of Physicians (ACP), 190 N. Independence Mall West, Philadelphia PA 19106-1572.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A collection of Recommendation Summaries for all current American College of Physicians Clinical Guidelines is now available for Personal Digital Assistant (PDA) download from the &lt;a href=&quot;http://www.acponline.org/clinical_information/guidelines/mobile.htm&quot; title=&quot;ACP Web site&quot;&gt;ACP Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on December 12, 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

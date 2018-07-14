@@ -1,0 +1,185 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Comparison of Oncotype DX with multi-gene profiling assays (e.g., MammaPrint, PAM50) and other tests (e.g., &lt;em&gt;Adjuvant! Online&lt;/em&gt;, Ki-67 and IHC4) in early-stage breast cancer.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Chang M, Ismaila N, Kamel-Reid S, Rutherford M, Hart J, Bedard P, Trudeau M, Eisen A, Molecular Oncology Advisory Committee. Comparison of Oncotype DX with multi-gene profiling assays&#xD;&#xA;(e.g., MammaPrint, PAM50) and other tests (e.g., Adjuvant!&#xD;&#xA;Online, Ki-67 and IHC4) in early-stage breast cancer. Toronto (ON): Cancer Care Ontario (CCO); 2013 Nov 20. 39 p.&amp;nbsp;(Recommendation report; no. MOAC-2).&amp;nbsp; [39 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The RECOMMENDATION report, initially the full original Guideline, over time will expand to contain new information emerging from their reviewing and updating activities.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Please visit the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=291504&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Cancer Care Ontario Web site&lt;/a&gt; for details on any new evidence that has emerged and implications to the guidelines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Recommendation 1&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In cases of breast carcinoma where Oncotype DX is indicated for clinical prognosis and treatment decisions, other assays should not currently be considered equivalent with respect to data generated or risk stratification.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendation 2&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In cases where it is unclear whether or not Oncotype DX is indicated for clinical prognosis and treatment decisions, &lt;em&gt;Adjuvant! Online&lt;/em&gt; may be used as a no-cost method to estimate the tumour recurrence risk. These assays should not be considered equivalent to Oncotype DX if the latter is indicated (see Recommendation 1).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendation 3&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Given the preliminary status of much of the available evidence, periodic reassessment of published and ongoing trials is recommended. New evidence supporting molecular profiling tests should be reviewed at least semi-annually.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Early-stage breast cancer&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Risk Assessment" />
+      <FieldValue Value="Technology Assessment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Medical Genetics" />
+      <FieldValue Value="Obstetrics and Gynecology" />
+      <FieldValue Value="Oncology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Other" />
+      <FieldValue Value="Patients" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To determine if testing that is sent out of country can be patriated by equally effective alternate tests that are now commercially available in Ontario&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: This report is not intended to provide recommendations on appropriate indications for the use of Oncotype DX or any other test. It is assumed in the report that the indications for the use of these tests are understood by the clinicians using them.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients with early-stage breast cancer&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Oncotype DX &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Adjuvant! Online&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Periodic reassessment of published and ongoing clinical trials &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Validity and utility of multi-gene profiling assays &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Comparison of risk scores &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Reclassification of recurrence score (RS) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Distant recurrence (DR) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Relapse prediction &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Risk estimations &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Risk reclassification &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;10-year relapse risk &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Risk allocation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Time to first DR &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This evidentiary base was developed using a planned three-stage method, summarized here&amp;nbsp;and described in more detail below.&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Search and evaluation of existing guidelines that may be suitable for adaptation. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Search and evaluation of existing systematic reviews: If one or more existing systematic reviews are identified that address the research questions and are of reasonable quality, then those systematic reviews would form the core of the evidentiary base. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Systematic review of the primary literature: This review would focus on those areas not covered by existing reviews if any are located and accepted. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Guideline Review&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Almost all Program in Evidence-based Care (PEBC) document projects begin with a search for existing guidelines that may be suitable for adaptation. The PEBC defines adaptation, in accordance with the ADAPTE Collaboration, as &quot;the use and/or modification of (a) guideline(s) produced in one cultural and organizational setting for application in a different context&quot;. This includes a wide spectrum of potential activities from the simple endorsement, with little or no change, of an existing guideline, to the use of the evidence base of an existing guideline with &lt;em&gt;de novo&lt;/em&gt; recommendations development.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For this document, a search was conducted of the Inventory of Cancer Guidelines, the National Guidelines Clearinghouse and the Canadian Medical Association Journal (CMAJ) Infobase. In addition, the websites of several known high-quality guideline developers, including National Institute for Health and Care Excellence (NICE), Scottish Intercollegiate Guidelines Network (SIGN), American Society for Clinical Oncology (ASCO), National Comprehensive Cancer Network (NCCN), National Health and Medical Research Council (Aus), and New Zealand Guidelines Group were searched. Only guidelines published after 1999 were considered.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Search for Existing Systematic Reviews&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A systematic search was conducted in OVID MEDLINE (1996 through April 2013), EMBASE (1996 to 2013 week 15), the Cochrane library (Issue 2-4, April 2013), PubMed, San Antonio Breast Cancer Symposium (SABCS) (2010-2012), and ASCO conference proceedings (1999 to 2013). The keyword &quot;Oncotype DX&quot; or &quot;21-gene assay&quot; was used as the search term. Systematic reviews were included if:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;They evaluated randomised or non-randomised control trials of patient with early-stage breast cancer that have been evaluated with Oncotype DX and any other test. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The literature search strategy for the existing systematic review is reproducible (i.e., reported) and appropriate. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The existing systematic review reported the sources searched as well as the dates that were searched. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;Identified systematic reviews that meet the eligibility criteria would be assessed using the AMSTAR tool. The results of the AMSTAR assessment would be used to determine whether or not an existing review could be incorporated as part of the evidentiary base.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Any identified reviews that did not meet the criteria above, whose AMSTAR assessment indicated important deficiencies in quality, or that was otherwise not incorporated as part of the evidence base would be reported in the reference list, but not described or discussed further.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Primary Literature Systematic Review&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Assuming that no existing systematic review was identified, or that identified reviews were incomplete in some fashion, a systematic review of the primary literature was also planned. This review would be reduced in scope, such as a reduction in subject areas covered, time frames covered, etc., based on the scope of incorporated existing reviews. The criteria described below are written assuming no existing reviews would be incorporated.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Literature Search Strategy&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Details of the literature search strategy is included in Appendix 2 in the original guideline document.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Study Selection Criteria and Protocol&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Articles were selected for inclusion in this systematic review of evidence if they were fully published reports or published abstracts of randomised or non-randomised control trials.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Inclusion Criteria&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Study must have investigated Oncotype DX in comparison with any other test. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Study was a randomised controlled trial (RCT) or non-RCT that included a subgroup analysis based on biomarker status. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cohort studies with an analysis of comparison of biomarker status. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Exclusion Criteria&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Letters, comments or editorials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Single-arm studies &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Non-systematic reviews &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Non-English publications &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;A review of the titles and abstracts that resulted from the search was done independently by one of the reviewers. For those items that warranted full-text review, this reviewer reviewed each item independently. However, in cases where there was uncertainty in including a certain article, a second reviewer was asked to review.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Fifteen full texts and 13 abstracts from 22 studies were eligible to be included in the primary literature systematic review. Four of these studies had duplicate publications, while one study had three publications. Data was extracted from the most recent publication. Details of the characteristics of the studies are included in Table 2 in the original guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Data Extraction and Assessment of Study Quality and Potential for Bias&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Data from the included studies was independently extracted by one reviewer. If more than one publication addressed the same study, only the most updated or recent versions of the data were reported in the result. All extracted data and information was audited by an independent auditor.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Quality assessment of individual studies could not be carried out because most of the studies included (65%) were in abstract form. Thus, there was limitation in the extraction of data necessary to assess the quality of the studies.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Synthesizing the Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;When clinically homogenous results from two or more trials were available, a meta-analysis would be conducted using the Review Manager software (RevMan 5) available from the Cochrane Collaboration. For time-to-event outcomes, hazard ratios (HR), rather than the number of events at a certain time point, would be the preferred statistic for meta-analysis, and would be used as reported. If the HR and/or its standard error were not reported, they would be derived from other information reported in the study, if possible, using the methods described by Parmar et al. For all outcomes, the generic inverse variance model with random effects, or other appropriate random effects models in RevMan software would be used.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Statistical heterogeneity would be calculated using the &amp;chi;&lt;sup&gt;2&lt;/sup&gt; test for heterogeneity and the I&lt;sup&gt;2&lt;/sup&gt; percentage. A probability level for the &amp;chi;&lt;sup&gt;2&lt;/sup&gt; statistic less than or equal to 10% (p&amp;le;0.10) and/or an I&lt;sup&gt;2&lt;/sup&gt; greater than 50% would be considered indicative of statistical heterogeneity.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Molecular Oncology Advisory Committee (MOAC) was been asked by the Ontario Ministry of Health to &quot;develop evidence-based advice to inform system planning, new test development, access and quality assurance.&quot; The scope of the committee was to review current and emerging knowledge and to make recommendations on the optimal application of molecular testing for cancer risk, diagnosis, monitoring, prognosis, or prediction of response to treatment for the benefit of Ontarians and Ontario cancer patients. In order to make recommendations as part of clinical practice, the working group of the MOAC developed the evidentiary base upon which those recommendations are made.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Internal Review&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Almost all Program in Evidence-based Care (PEBC) documents undergo internal review. With recommendation reports, this review is conducted by the Director of the PEBC. The Working Group is responsible for considering the changes, and if those changes could be made without substantially altering the recommendations, the altered draft would not need to be resubmitted for approval again.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The recommendations are supported by retrospective and prospective studies.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate molecular profile testing and estimation of tumour recurrence risk in women with early stage breast cancer&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Recommendation 1 is based on evidence directly comparing Oncotype DX with other assays. Most of the available evidence consists of studies presented as abstracts rather than peer-reviewed publications. There are other gene-expression profiling assays that have been recognized in the U.S., Canada, and/or Europe as having clinical validity for prognostication in breast cancer. For example, the MammaPrint 70-gene classifier is a U.S. Food and Drug Administration (FDA)-cleared prognostic test, and both MammaPrint and PAM50 are recognized as prognostic tests in Europe. The evidence supporting the use of these assays in their own right should be evaluated in clinical decision making; however, analysis of individual validation studies is outside the scope of this review. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Oncotype DX is a test that guides decisions concerning chemotherapy in women with estrogen receptor (ER)-positive and node-negative breast cancer. It should not be considered a routine test to be sought for all women with ER-positive&amp;ndash;node-negative disease. The actual decision to treat with cytotoxic agents depends on other clinical factors, including patient age, comorbidities, and the patient's own treatment preferences. The incorporation of additional data (e.g., Adjuvant! Online, other clinicopathologic features) also plays a role in informing this decision. Therefore, the decision to undergo Oncotype DX testing requires clinical judgment taking into account all of these factors. As more scientific evidence becomes more available to support the clinical utility of other assays, they may become more useful &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Care has been taken in the preparation of the information contained in this report. Nonetheless, any person seeking to apply or consult the report is expected to use independent medical judgment in the context of individual clinical circumstances or seek out the supervision of a qualified clinician. Cancer Care Ontario makes no representation or guarantees of any kind whatsoever regarding the report content or use or application and disclaims any responsibility for its application or use in any way. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Quick Reference Guides/Physician Guides" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Chang M, Ismaila N, Kamel-Reid S, Rutherford M, Hart J, Bedard P, Trudeau M, Eisen A, Molecular Oncology Advisory Committee. Comparison of Oncotype DX with multi-gene profiling assays&#xD;&#xA;(e.g., MammaPrint, PAM50) and other tests (e.g., Adjuvant!&#xD;&#xA;Online, Ki-67 and IHC4) in early-stage breast cancer. Toronto (ON): Cancer Care Ontario (CCO); 2013 Nov 20. 39 p.&amp;nbsp;(Recommendation report; no. MOAC-2).&amp;nbsp; [39 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2013 Nov 20" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Program in Evidence-based Care - State/Local Government Agency [Non-U.S.]" />
+    </Field>
+    <Field FieldID="123" OrdBy="1230" ID="448" Name="Guideline Developer Comment" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Program in Evidence-based Care (PEBC) is a Province of Ontario initiative sponsored by Cancer Care Ontario and the Ontario Ministry of Health and Long-Term Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Program in Evidence-based Care (PEBC) is a provincial initiative of Cancer Care Ontario supported by the Ontario Ministry of Health and Long-Term Care. All work produced by the PEBC is editorially independent from the Ontario Ministry of Health and Long-Term Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Molecular Oncology Advisory Committee&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Authors&lt;/em&gt;: M. Chang, N. Ismaila, S. Kamel-Reid, M. Rutherford, J. Hart, P. Bedard, M. Trudeau, A. Eisen&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In accordance with the Program in Evidence-based Care (PEBC) Conflict of Interest (COI) Policy, the guideline authors, Molecular Oncology Advisory Committee (MOAC) members, and internal and external reviewers were asked to disclose potential conflicts of interest.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The authors, members, and reviewers reported that they had no conflicts of interest.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The RECOMMENDATION report, initially the full original Guideline, over time will expand to contain new information emerging from their reviewing and updating activities.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Please visit the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=291504&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Cancer Care Ontario Web site&lt;/a&gt; for details on any new evidence that has emerged and implications to the guidelines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available in Portable Document Format (PDF) from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=291504&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Cancer Care Ontario Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Comparison of Oncotype DX with multi-gene profiling assays (e.g., MammaPrint, PAM50) and other tests (e.g., Adjuvant! Online, Ki-67 and IHC4) in early-stage breast cancer. Summary. Toronto (ON): Cancer Care Ontario (CCO); 2013 Nov 20. 8 p. Electronic copies: Available in Portable Document Format (PDF) from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=291506&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Cancer Care Ontario Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Program in Evidence-based Care handbook. Toronto (ON): Cancer Care Ontario (CCO); 2012. 14 p. Available in PDF from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=50876&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Cancer Care Ontario Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on April 10, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions. Please refer to the &lt;a href=&quot;http://www.cancercare.on.ca/ontariocancernews/copyright.html&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Copyright and Disclaimer Statements&lt;/a&gt; posted at the Program in Evidence-based Care section of the Cancer Care Ontario Web site.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

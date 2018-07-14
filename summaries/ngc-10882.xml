@@ -1,0 +1,184 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Systemic therapy for unresectable stage III or metastatic cutaneous melanoma.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alberta Provincial Cutaneous Tumour Team. Systemic therapy for unresectable stage III or metastatic cutaneous melanoma. Edmonton (AB): CancerControl Alberta; 2015 Aug. 14 p.&amp;nbsp;(Clinical practice guideline; no. CU-012).&amp;nbsp; [43 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: Alberta Provincial Cutaneous Tumour Team. Systemic therapy for unresectable stage III or metastatic cutaneous melanoma. Edmonton (Alberta): CancerControl Alberta; 2013 Feb. 13 p. (Clinical practice guideline; no. CU-012). [59 references]&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Treatment should be individualized based on patient and disease specific factors as determined by the treating clinician. The treatment recommendations included below are represented in the companion Management of Cutaneous Melanoma Stage IV treatment algorithm (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For American Joint Committee on Cancer melanoma staging, please refer to Appendix A in the original guideline document.&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients with unresectable stage III and stage IV cutaneous melanoma should undergo BRAF biomarker testing by a College of Physicians and Surgeons of Alberta accredited laboratory to determine whether they are candidates for a BRAF inhibitor.&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Molecular validation should be performed using parallel testing with early access program testing kits; a reasonable number of duplicate test cases (i.e., 40 samples) should be performed. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;First-line systemic therapy&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;BRAF-positive patients&#xD;&#xA;        &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;            &lt;li&gt;Clinical trials &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Systemic targeted therapies for patients with high volume, symptomatic disease, or who are poor candidates to receive immunotherapy with ipilimumab. Examples of therapies include the following:&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Vemurafenib (960 mg orally, twice per day) + cobimetinib (60 mg orally, once daily for 21 days, followed by 7 days off) &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Dabrafenib (150 mg orally, twice per day) + trametinib (2 mg orally, once daily) &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Anti-PD-1 (programmed cell death 1) antibody for patients with low volume, asymptomatic disease&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Pembrolizumab (2 mg/kg intravenous, every 3 weeks) &lt;em&gt;Note: This drug is not currently funded by the Alberta Health Services Drug Benefit Program&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Ipilimumab (3 mg/kg intravenous, every 3 weeks for 4 doses) for patients with low volume, asymptomatic disease &lt;/li&gt;&#xD;&#xA;        &lt;/ul&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;BRAF-negative patients&#xD;&#xA;        &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;            &lt;li&gt;Clinical trials &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Anti-PD-1 antibody&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Pembrolizumab (2 mg/kg intravenous, every 3 weeks) &lt;em&gt;Note: This drug is not currently funded by the Alberta Health Services Drug Benefit Program&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Ipilimumab (3 mg/kg intravenous, every 3 weeks for 4 doses) &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Consider targeted therapy for a defined subtype of melanoma mutational status (e.g., for c-kit positive tumors, consider c-kit inhibitors - &lt;em&gt;Note: These drugs are not currently funded by the Alberta Health Services Drug Benefit Program&lt;/em&gt;) &lt;/li&gt;&#xD;&#xA;        &lt;/ul&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Second-line systemic therapy:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Patients who are intolerant or who have progressed after first-line therapy may be considered for:&#xD;&#xA;        &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;            &lt;li&gt;Clinical trials &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;If targeted therapy or anti-PD-1 antibody used as first-line consider ipilimumab &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;If patient BRAF-positive and has not received or has not developed resistance to BRAF/mitogen-activated protein kinase (MEK) inhibition consider targeted therapy. &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;If ipilimumab used as first-line consider targeted therapy, anti-PD-1 antibody or re-induction with ipilimumab (if patient had a response by modified World Health Organization [WHO] or immune-related response criteria [irRC] maintained for a period of 6 months or longer) &lt;/li&gt;&#xD;&#xA;        &lt;/ul&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An algorithm titled &quot;Algorithm for the Management of Cutaneous Melanoma Stage IV&quot; can be found in the &quot;Availability of Companion Documents&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unresectable stage III or metastatic cutaneous melanoma&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The guideline does not include recommendations for the management of cutaneous in-transit melanoma, uveal, mucosal, or acral melanomas.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Dermatology" />
+      <FieldValue Value="Oncology" />
+      <FieldValue Value="Pathology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To provide evidence-based recommendations on the medical management of unresectable stage III and metastatic melanoma&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adults over the age of 18 years with unresectable stage III and stage IV cutaneous melanoma, without involvement of the central nervous system (CNS)&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Different management strategies may apply to pediatric patients. For patients with CNS metastases, the priority of treatment should typically focus on the CNS disease.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;BRAF biomarker testing to determine if patients are candidates for a BRAF inhibitor &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Molecular validation using parallel testing with early access program testing kits &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;First-line systemic therapy&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;BRAF-positive patients: clinical trials, vemurafenib + cobimetinib, dabrafenib + trametinib, anti-PD-1 (programmed cell death 1) antibody (e.g., pembrolizumab), ipilimumab &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;BRAF-negative patients: clinical trials, pembrolizumab, ipilimumab, targeted therapy for a defined subtype of melanoma mutational status (e.g., c-kit inhibitors) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Second-line systemic therapy&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Clinical trials &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Ipilimumab (if targeted therapy or anti-PD-1 was used in first-line) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Targeted therapy (if there is no developed resistance to BRAF/mitogen-activated protein kinase [MEK] inhibition) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Targeted therapy, anti-PD-1 or ipilimumab-re-induction (if ipilimumab was used in first-line) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Survival rates (overall, progression-free)&lt;/li&gt;&#xA;    &lt;li&gt;Tumour progression&lt;/li&gt;&#xA;    &lt;li&gt;Response rates (objective, overall)&lt;/li&gt;&#xA;    &lt;li&gt;Treatment-related adverse events&lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Research Questions&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Specific research questions to be addressed by the guideline document were formulated by the guideline lead(s) and Knowledge Management (KM) Specialist using the PICO question format (Patient or Population, Intervention, Comparisons, Outcomes).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Guideline Questions&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;What types of systemic therapy should be considered for patients with unresectable stage III or metastatic melanoma? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Should patients be carefully selected; if so by what criteria? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Which agents should be used as first-line therapy and at what dosing regimen? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Which agents should be used as second- or third-line therapy and at what dosing regimen? &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Search Strategy&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Databases were searched for evidence on systemic therapy for unresectable stage III or metastatic cutaneous melanoma and citations were hand-searched to identify additional relevant studies. The initial search strategy and subsequent updates can be found in Appendix B in the original guideline document. Search terms include melanoma and specific types of systemic therapy. The 2015 update included randomized controlled trials, phase III and phase II studies with at least ten patients with advanced, unresectable melanoma. Additional key studies and abstracts were identified by working group members. The National Guidelines Clearinghouse (NGC) and individual guideline organizations were also searched for practice guidelines relevant to this topic.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The search was limited to humans and English from January 2013 to July 2015. 1613 citations were found.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Date of Search&lt;/strong&gt;: 07-14-2015&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Specific Topic Areas&lt;/strong&gt;: Systemic therapy for advanced or metastatic melanoma&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Preliminary Update Search Strategy&lt;/strong&gt;: PubMed and MEDLINE were searched for evidence on systemic therapy for unresectable stage III or metastatic cutaneous melanoma.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Inclusion&lt;/strong&gt;: Stage III or IV cutaneous melanoma, phase II or III studies, outcomes (overall survival, progression-free survival, tumour response)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusion&lt;/strong&gt;: Active brain metastases, uveal, mucosal, or acral melanoma, retrospective studies, phase I studies&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;53 articles were included&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+      <FieldValue Value="Expert Consensus (Committee)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Evidence was selected and reviewed by a working group comprised of members from the Alberta Provincial Cutaneous Tumour Team and a Knowledge Management (KM) Specialist from the Guideline Resource Unit (GURU). A detailed description of the methodology followed during the guideline development process can be found in the GURU Handbook (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Evidence Tables&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Evidence tables containing the first author, year of publication, patient group/stage of disease, methodology, and main outcomes of interest are assembled using the studies identified in the literature search. Existing guidelines on the topic are assessed by the KM Specialist using portions of the Appraisal of Guidelines Research and Evaluation (AGREE) II instrument (&lt;a href=&quot;http://www.agreetrust.org&quot; title=&quot;AGREE Web site&quot;&gt;http://www.agreetrust.org&lt;/a&gt;) and those meeting the minimum requirements are included in the evidence document. Due to limited resources, GURU does not regularly employ the use of multiple reviewers to rank the level of evidence; rather, the methodology portion of the evidence table contains the pertinent information required for the reader to judge for himself the quality of the studies.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Development and Revision History&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline was reviewed and endorsed by the Alberta Provincial Cutaneous Tumour Team. Members of the Alberta Provincial Cutaneous Tumour Team include medical oncologists, surgeons, dermatologists, radiation oncologists, pathologists, and nurses. Evidence was selected and reviewed by a working group comprised of members from the Alberta Provincial Cutaneous Tumour Team and a Knowledge Management (KM) Specialist from the Guideline Resource Unit (GURU). A detailed description of the methodology followed during the guideline development process can be found in the GURU Handbook (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Formulating Recommendations&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The working group members formulate the guideline recommendations based on the interpretation of evidence synthesized by the KM Specialist during the planning process, blended with expert clinical interpretation of the evidence. As detailed in the GURU handbook, the working group members may decide to adopt the recommendations of another institution without any revisions, adapt the recommendations of another institution or institutions to better reflect local practices, or develop their own set of recommendations by adapting some, but not all, recommendations from different guidelines.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The degree to which a recommendation is based on expert opinion of the working group and/or the Provincial Tumour Team members is explicitly stated in the guideline recommendations. Similar to the American Society of Clinical Oncology (ASCO) methodology for formulating guideline recommendations, the GURU does not use formal rating schemes for describing the strength of the recommendations, but rather describes, in conventional and explicit language, the type and quality of the research and existing guidelines that were taken into consideration when formulating the recommendations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This guideline was reviewed and endorsed by the Alberta Provincial Cutaneous Tumour Team.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Guideline Review and Approval&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;When the draft guideline document has been completed, revised, and reviewed by the Knowledge Management (KM) Specialist and the working group members, it is sent to all members of the Provincial Tumour Team for review and comment. This step ensures that those intended to use the guideline have the opportunity to review the document and identify potential difficulties for implementation before the guideline is finalized. Depending on the size of the document, and the number of people it is sent to for review, a deadline of one to two weeks will usually be given to submit any feedback. Ideally, this review will occur prior to the annual Provincial Tumour Team meeting, and a discussion of the proposed edits will take place at the meeting. The working group members will then make final revisions to the document based on the received feedback, as appropriate. Once the guideline is finalized, it is officially endorsed by the Provincial Tumour Team Lead and the Director of Provincial Clinical Teams.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of evidence supporting the recommendations is not specifically stated.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Optimal selection of systemic agents for the management of unresectable stage III or metastatic cutaneous melanoma&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The most common adverse events for trametinib in the METRIC study were rash, diarrhea, and peripheral edema; events were managed with dose interruption and dose reduction. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Combination therapy of BRAF inhibitors and mitogen-activated protein kinase (MEK) inhibitors both had similar rates of adverse events; however, more dose modifications were documented in combination group. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In a phase III study (KEYNOTE-006), the most common events observed in the pembrolizumab groups were fatigue, diarrhea, rash and pruritus. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The recommendations contained in this guideline are a consensus of the Alberta Provincial Cutaneous Tumour Team and are a synthesis of currently accepted approaches to management, derived from a review of relevant scientific literature. Clinicians applying these guidelines should, in consultation with the patient, use independent medical judgment in the context of individual clinical circumstances to direct care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Present the guideline at the local and provincial tumour team meetings and weekly rounds. &lt;/li&gt;&#xA;    &lt;li&gt;Post the guideline on the Alberta Health Services Web site. &lt;/li&gt;&#xA;    &lt;li&gt;Send an electronic notification of the guideline to all members of CancerControl Alberta. &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Clinical Algorithm" />
+      <FieldValue Value="Resources" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alberta Provincial Cutaneous Tumour Team. Systemic therapy for unresectable stage III or metastatic cutaneous melanoma. Edmonton (AB): CancerControl Alberta; 2015 Aug. 14 p.&amp;nbsp;(Clinical practice guideline; no. CU-012).&amp;nbsp; [43 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2015 Aug" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="CancerControl Alberta - State/Local Government Agency [Non-U.S.]" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;CancerControl Alberta&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Alberta Provincial Cutaneous Tumour Team&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Members of the Alberta Provincial Cutaneous Tumour Team include medical oncologists, surgeons, dermatologists, radiation oncologists, pathologists, and nurses.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Participation of members of the Alberta Provincial Cutaneous Tumour Team in the development of this guideline has been voluntary and the authors have not been remunerated for their contributions. There was no direct industry involvement in the development or dissemination of this guideline. CancerControl Alberta recognizes that although industry support of research, education and other areas is necessary in order to advance patient care, such support may lead to potential conflicts of interest. Some members of the Alberta Provincial Cutaneous Tumour Team are involved in research funded by industry or have other such potential conflicts of interest. However, the developers of this guideline are satisfied it was developed in an unbiased manner.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: Alberta Provincial Cutaneous Tumour Team. Systemic therapy for unresectable stage III or metastatic cutaneous melanoma. Edmonton (Alberta): CancerControl Alberta; 2013 Feb. 13 p. (Clinical practice guideline; no. CU-012). [59 references]&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://www.albertahealthservices.ca/assets/info/hp/cancer/if-hp-cancer-guide-cu012-systemic-therapy.pdf&quot; title=&quot;Alberta Health Services Web site&quot;&gt;Alberta Health Services Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Guideline utilization resource unit handbook. Version 2. Edmonton (AB): CancerControl Alberta; 2013 Jan. 5 p. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Algorithm for the management of cutaneous melanoma stage IV. Edmonton (AB): CancerControl Alberta; 2015 Aug. 1 p. Available from the &lt;a href=&quot;http://www.albertahealthservices.ca/assets/info/hp/cancer/if-hp-cancer-guide-algorithm-stage-iv.pdf&quot; title=&quot;Alberta Health Services Web site&quot;&gt;Alberta Health Services Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;In addition, the American Joint Committee on Cancer (AJCC) (7th Edition) anatomic stage groupings and the tumour, node, metastases (TNM) staging categories for cutaneous melanoma are available in Appendix A of the &lt;a href=&quot;http://www.albertahealthservices.ca/assets/info/hp/cancer/if-hp-cancer-guide-cu012-systemic-therapy.pdf&quot; title=&quot;Alberta Health Services Web site&quot;&gt;original guideline document&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on December 10, 2012. The information was verified by the guideline developer on January 23, 2013. This summary was updated by ECRI Institute on April 28, 2014. The updated information was verified by the guideline developer on June 6, 2014. This summary was updated again by ECRI Institute on March 14, 2016. The updated information was verified by the guideline developer on April 4, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

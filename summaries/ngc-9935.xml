@@ -1,0 +1,190 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Care of the patient with myasthenia gravis.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Association of Neuroscience Nurses (AANN). Care of the patient with myasthenia gravis. Glenview (IL): American Association of Neuroscience Nurses (AANN); 2013. 33 p.  [108 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The levels of recommendation (&lt;strong&gt;1-3&lt;/strong&gt;) and the data quality classifications (&lt;strong&gt;I-IV&lt;/strong&gt;) are defined at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Ocular Only Versus Generalized Myasthenia Gravis (MG)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Ocular MG&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should monitor the results of the ice pack test with consideration for its limited value in the diagnosis of MG (&lt;strong&gt;Level 2&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Diagnostic Tests&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Laboratory Tests&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should know the adverse events associated with diagnostic testing in MG and how to manage those side effects as needed. Nurses should monitor for results and adverse events associated with the use of edrophonium for diagnostic testing in MG and manage adverse events appropriately (&lt;strong&gt;Level 2&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Electrodiagnostic Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should be familiar with electrodiagnostic testing in MG. Nurses should prepare patients for their experience, including the likelihood of some discomfort (&lt;strong&gt;Level 2&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Other&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should understand and explain the &quot;ice pack test&quot; and diagnostic imaging to the patient and family to lessen fear and anxiety and elicit cooperation and participation (&lt;strong&gt;Level 2&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Nursing Assessment of the Patient with MG&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Assessment Techniques&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should perform a comprehensive nursing assessment of the patient with MG that includes a detailed medical history and symptom description. Nurses should test all voluntary muscles for both muscle strength and fatigability to determine the severity of specific muscle weakness, the degree of functional impairment, and potential complications (see Table 4 in original guideline document) (&lt;strong&gt;Level 3&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Respiratory Muscles&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should perform a detailed physical assessment of respiratory status (&lt;strong&gt;Level 3&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should assess the respiratory system appropriately and support respirations as needed until additional interventions are available (&lt;strong&gt;Level 3&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Treatment&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Pharmacological Management&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses must administer and teach the patient with MG and their family to administer the correct dose of acetylcholinesterase (AChE) inhibitors on time (&lt;strong&gt;Level 2&lt;/strong&gt;). Nurses must also teach the patient and their family the signs and symptoms of overdose and adverse events (&lt;strong&gt;Level 2&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should advise patients who are taking corticosteroids to be aware of infection risk, practice good hand hygiene practices, and avoid exposure to people with infection (&lt;strong&gt;Level 2&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should monitor for side effects associated with immunosuppressants and minimize patient risk for infection by maintaining appropriate infection-control practices, including good hand hygiene and sterile technique for invasive procedures (&lt;strong&gt;Level 2&lt;/strong&gt;). Nurses should administer antimicrobials as prescribed (&lt;strong&gt;Level 2&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should monitor for signs and symptoms of adverse effects associated with all medications used in the management of MG as previously described, including those most commonly associated with long-term immunosuppressants/ immunomodulating agents, specifically, infection, hepatotoxicity, nephrotoxicity, bone marrow suppression, and skin cancer (&lt;strong&gt;Level 3&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Other Therapies&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Plasmapheresis (Therapeutic Plasma Exchange [TPE])&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should monitor for improvement following plasmapheresis (&lt;strong&gt;Level 2&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should monitor for complications associated with venous access (&lt;strong&gt;Level 2&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should monitor for side effects associated with plasmapheresis including fatigue and hypotension (&lt;strong&gt;Level 2&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Intravenous Immunoglobulin G (IVIG) Infusions&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses must understand the rationale for the use of IVIG in the management of MG and its reported benefits and limitations (&lt;strong&gt;Level 2&lt;/strong&gt;). Nurses must be knowledgeable of different brands of IVIG and institution-specific protocols regarding dosage and rates, which may include a test dose and then a gradual increase in rate as tolerated to lessen risk for adverse effects. Action plans for adverse effects must be followed (&lt;strong&gt;Level 2&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Thymectomy&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In collaboration with the multidisciplinary team, nurses should educate the patient and family regarding indications, pre- and postoperative care, and prognosis for patients undergoing thymectomy (&lt;strong&gt;Level 3&lt;/strong&gt;). Following thymectomy, nurses should monitor the patient closely for complications related to MG and the thymectomy procedure and manage them effectively (&lt;strong&gt;Level 3&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Postoperative Care After Thymectomy&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should monitor respiratory status, including rate, depth, work of breathing, breath sounds, oxygenation, and ventilation tolerance. Spontaneous breathing trials, pulmonary function studies, forced vital capacity (FVC), and negative inspiratory force (NIF) should be ordered as available (&lt;strong&gt;Level 3&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses must administer MG medications postoperatively as prescribed. Nurses should balance the administration of medications that may worsen MG, including opioids, with a comfort level that will allow the patient to breathe with the least amount of effort and discomfort (&lt;strong&gt;Level 3&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should follow the manufacturer's direction for the chest tube drainage system and monitor chest tube(s) for patency, underwater seal, evidence of air leak, drainage output, and signs and symptoms of infection. Nurses should monitor for signs and symptoms of increasing pneumothorax or hemothorax (&lt;strong&gt;Level 3&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should be aware of patients who have factors that may increase the likelihood of a postoperative MG crisis that could complicate their recovery (&lt;strong&gt;Level 3&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should monitor closely for signs and symptoms of infection and minimize a patient's risk for infection by consistently complying with infection-control measures (&lt;strong&gt;Level 3&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;MG Crisis&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should be knowledgeable in the differentiation of the two different types of MG crises, myasthenic crisis or cholinergic crisis, and should recognize that both are care priorities. In either situation, nurses should perform a complete respiratory and neuromuscular assessment, which is essential to identify ineffective respiratory function and impaired gag and swallow, and initiate the appropriate airway-management strategies and oxygen delivery (&lt;strong&gt;Level 3&lt;/strong&gt;) (Vassar et al., 2008).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should assess respiratory status, including pulmonary function tests (i.e., NIF and FVC); provide pulmonary hygiene as needed; and alert the licensed independent provider regarding indications for additional respiratory therapy management to minimize respiratory complications, including prolonged ventilation and pneumonia (&lt;strong&gt;Level 3&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;General Nursing Management of the Patient With MG&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should administer drugs that may worsen MG with caution. Review medication profiles with the pharmacist and licensed independent provider (&lt;strong&gt;Level 3&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should adopt the previous protocols to facilitate swallowing, avoid aspirations, and optimize nutritional and fluid status (&lt;strong&gt;Level 3&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should apply the above strategies in managing fatigue for the patient with MG (&lt;strong&gt;Level 3&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Special Consideration in the Juvenile MG Population&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should be aware of the teratogenic effects of immunosuppressive medications on the fetus and provide appropriate education to women with MG of childbearing age (&lt;strong&gt;Level 3&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Psychosocial and Educational Needs&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nurses should educate the patient with MG and their family regarding management of the disease; influence of the disease on lifestyle, swallowing, and chewing impairment; and fatigue and energy conservation (&lt;strong&gt;Level 3&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Data Quality Classification&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class I&lt;/strong&gt;: Randomized controlled trial (RCT) without significant limitations or meta-analysis&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class II&lt;/strong&gt;: RCT with important limitations (e.g., methodological flaws or inconsistent results) and observational studies (e.g., cohort or case-control)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class III&lt;/strong&gt;: Qualitative study, case study, or series&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class IV&lt;/strong&gt;: Evidence from expert committee reports and/or expert opinion of the guideline panel, standards of care, and clinical protocols&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Levels of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 1&lt;/strong&gt;: Recommendations are supported by class I evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 2&lt;/strong&gt;: Recommendations are supported by class II evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 3&lt;/strong&gt;: Recommendations are supported by class III and IV evidence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Myasthenia gravis (MG)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Counseling" />
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Critical Care" />
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Neurology" />
+      <FieldValue Value="Nursing" />
+      <FieldValue Value="Thoracic Surgery" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Hospitals" />
+      <FieldValue Value="Nurses" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To review and evaluate literature about myasthenia gravis (MG), with a concentrated focus on the adult with acquired MG, and to create a reference for neuroscience nurses who care for the patient with MG across the continuum of care throughout the lifespan &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To offer evidence-based recommendations on nursing activities that have the potential to maximize outcomes for patients of all ages and all types of MG &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To help nurses provide consistent, current, and evidence-based care to the patient with MG &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adults with acquired myasthenia gravis (MG)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Diagnosis/Evaluation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Understanding and preparing patients for diagnostic tests, including ice pack test, laboratory tests, and electrodiagnostic tests &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Nursing assessment of the patient with myasthenia gravis (MG)&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Medical history and symptom description &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Testing of all voluntary muscles for both muscle strength and fatigability &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Detailed physical assessment of respiratory status and respiratory system &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Treatment/Management&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Pharmacological management, including administrating, monitoring, and teaching patients about acetylcholinesterase (AChE) inhibitors, corticosteroids, and immunosuppressants/immunomodulating agents &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Monitoring for improvement, complications, and side effects following plasmapheresis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Understanding the rationale for the use of intravenous immunoglobulin G (IVIG) and becoming knowledgeable of different brands of IVIG and institution-specific protocols regarding dosage and rates &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Educating the patient and family regarding indications, pre- and postoperative care, and prognosis for patients undergoing thymectomy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Monitoring and managing the patient closely for postoperative complications &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Understanding MG crisis and initiating appropriate airway management strategies &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Employing general management strategies, including adopting protocols to facilitate swallowing and strategies to manage fatigue &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Sensitivity and specificity of diagnostic tests &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Exacerbation and remission of myasthenia gravis (MG) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Value of history and assessment techniques &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Effectiveness of medications and other treatments for symptoms and disease management &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adverse effects of treatment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Surgical and postoperative outcomes (thymectomy) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Benefits of psychosocial and educational counseling &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A review of literature published between January 2000 and September 2012 was conducted using PubMed/MEDLINE and CINAHL databases with the following search terms: myasthenia gravis, neuromuscular junction (NMJ), neuromuscular transmission, thymectomy, evidence-based practice nursing, research, and myasthenia gravis clinical trials. The search was extended to earlier years because of the lack of more recent references on select topics. Several publications dated earlier than 2000 are included because of their historical clinical significance.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Myasthenia Gravis Foundation of America guidelines were assessed and incorporated in this document as appropriate and needed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Data Quality Classification&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class I&lt;/strong&gt;: Randomized controlled trial (RCT) without significant limitations or meta-analysis&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class II&lt;/strong&gt;: RCT with important limitations (e.g., methodological flaws or inconsistent results) and observational studies (e.g., cohort or case-control)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class III&lt;/strong&gt;: Qualitative study, case study, or series&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class IV&lt;/strong&gt;: Evidence from expert committee reports and/or expert opinion of the guideline panel, standards of care and clinical protocols&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The &lt;em&gt;Clinical Practice Guidelines&lt;/em&gt; and recommendations for practice are established based upon the evaluation of the available evidence. Resources and recommendations must describe the best practices that can enable registered nurses (RNs) to provide optimal care for persons with myasthenia gravis (MG).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Levels of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 1&lt;/strong&gt;: Recommendations are supported by class I evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 2&lt;/strong&gt;: Recommendations are supported by class II evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 3&lt;/strong&gt;: Recommendations are supported by class III and IV evidence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The guideline underwent peer review by a panel of reviewers listed in the guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="98" OrdBy="605" ID="425" Name="References Supporting the Recommendations" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Vassar TM, Batenjany M, Koopman WJ, Ricci M. Nursing issues. In: Howard JF, editor(s). Myasthenia gravis: A manual for the health care provider. 1st ed. St. Paul (MN): Myasthenia Gravis Foundation of America; 2008. p. 32-53.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The recommendations may assist nurses in making appropriate choices when caring for patients with myasthenia gravis (MG).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Adverse events associated with certain diagnostic tests, including the use of edrophonium for diagnostic testing &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adverse effects or events associated with pharmacological management (e.g., fasciculations, abdominal cramps, and diarrhea with acetylcholinesterase [AChE] inhibitors; myelosuppression, infection, hepatotoxicity, nephrotoxicity, and skin cancer with immunosuppressive/immunomodulating drugs) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adverse effects associated with plasmapheresis including fluid volume changes and hypocalcemia from citrate used during plasmapheresis, fluid overload, congestive heart failure, infections, and thrombotic and bleeding tendencies &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adverse reactions associated with intravenous immunoglobulin G (IVIG) infusions, including circulatory overload, renal failure, nausea and vomiting, headaches, aseptic meningitis, thrombosis, stroke, seizures, retinal vasculitis, skin rashes, and alopecia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adverse events associated with crisis or surgical care or treatment, such as ventilator care &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="430" OrdBy="800" Name="Contraindications">
+    <Field FieldID="144" OrdBy="805" ID="431" Name="Contraindications" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;It may be necessary to avoid azathioprine, cyclosporine, mycophenolate, and cyclophosphamide&amp;nbsp;in women of reproductive age because of possible teratogenic effects on the fetus. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Intravenous edrophonium chloride is contraindicated in the patient with bronchial asthma or cardiac dysrhythmias because edrophonium may result in cholinergic side effects. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The authors, editors, and publisher of this document neither represent nor guarantee that the practices described herein will, if followed, ensure safe and effective patient care. The authors, editors, and publisher further assume no liability or responsibility in connection with any information or Recommendations contained in this document. These Recommendations reflect the judgment from the American Association of Neuroscience Nurses regarding the state of general knowledge and practice in the field as of the date of publication and are subject to change based on the availability of new scientific information. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adherence to these guidelines is voluntary, and the ultimate determination regarding their application must be made by practitioners in light of each patient's individual circumstances. This reference is an essential resource for nurses providing care to the patient with myasthenia gravis (MG). It is not intended to replace formal learning but rather to augment the clinician's knowledge base and provide a readily accessible reference tool. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Association of Neuroscience Nurses (AANN). Care of the patient with myasthenia gravis. Glenview (IL): American Association of Neuroscience Nurses (AANN); 2013. 33 p.  [108 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2013" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="American Association of Neuroscience Nurses - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This guideline was made possible by an educational grant from the Myasthenia Gravis Foundation of America, Inc.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;First Author&lt;/em&gt;: Susan B. Fowler, PhD RN CNRN FAHA&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Content Authors&lt;/em&gt;: Joni B. Herrington, MN RN CNRN ACNS-BC; Wilma J. Koopman, MScN RN(EC) ACNP CNN(C); Marilyn Ricci, MSN RN CNS CNRN&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A staff member, volunteer or family member who has an affiliation with a commercial company must declare that relationship in advance of involvement with an education activity that could be used as a forum to promote interest of that company and its products. None of the authors or planners has anything to disclose related to this activity.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://www.aann.org/pubs/guidelines.html&quot; title=&quot;American Association of Neuroscience Nurses Web site&quot;&gt;American Association of Neuroscience Nurses Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on August 29, 2013. The information was verified by the guideline developer on September 14, 2013. This summary was updated by ECRI Institute on June 2, 2016 following the U.S. Food and Drug Administration advisory on Opioid pain medicines. This summary was updated by ECRI Institute on October 21, 2016 following the U.S. Food and Drug Administration advisory on opioid pain and cough medicines combined with benzodiazepines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

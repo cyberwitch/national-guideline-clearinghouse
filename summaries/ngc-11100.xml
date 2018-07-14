@@ -1,0 +1,194 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Bone health and bone-targeted therapies for prostate cancer.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alibhai S, Zukotynski K, Walker-Dilks C, Emmenegger U, Finelli A, Morgan S, Hotte S, Winquist E, Genitourinary Cancer Disease Site Group. Bone health and bone-targeted therapies for prostate cancer. Toronto (ON): Cancer Care Ontario (CCO); 2016 Sep 23. 123 p.&amp;nbsp;(Program in Evidence-based Care Guideline; no. 3-14v2).&amp;nbsp; [130 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Question 1&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Can therapeutic interventions reduce osteoporosis-related outcomes in men with prostate cancer receiving androgen deprivation therapy (ADT)?&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendation 1&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For men with prostate cancer at high risk of fracture (with or without bone metastases) receiving ADT, denosumab at the osteoporosis-indicated dosage should be considered to reduce the risk of fracture. In situations or jurisdictions where denosumab is contraindicated or not available, a bisphosphonate is a reasonable option.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Question 2&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Can therapeutic interventions prevent bone metastases in men with prostate cancer?&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendation 2a&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In men with high-risk localized prostate cancer, bisphosphonates are not recommended to reduce the risk of first bone metastasis.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendation 2b&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In men with nonmetastatic castration-resistant prostate cancer (CRPC), denosumab at the bone metastasis-indicated dosage is not recommended to reduce the risk of first bone metastasis.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Question 3&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Can bone-targeted therapies reduce the incidence of skeletal-related events (SREs), reduce pain, or improve quality of life in men with prostate cancer metastatic to bone?&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendation 3a&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In men with metastatic CRPC (mCRPC), either zoledronic acid (ZA) (minimally symptomatic or asymptomatic disease) or denosumab (disease independent of symptoms) (both at bone metastasis-indicated dosages) is recommended for preventing or delaying SREs. Insufficient evidence exists to make a recommendation with respect to men with castration-sensitive prostate cancer and bone metastasis.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendation 3b&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In men with symptomatic mCRPC and bone pain, radium (Ra)-223 should be considered for reducing symptomatic skeletal events and improving health-related quality of life.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendation 3c&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In men with mCRPC and bone pain, radiopharmaceuticals or intravenous (IV) bisphosphonates may be considered for pain palliation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Question 4&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Can bone-targeted therapies improve overall survival in men with established prostate cancer and bone metastases?&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendation 4&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In men with symptomatic mCRPC, Ra-223 is recommended to extend overall survival.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to Table 1-1 in the original guideline document for recommended dosages of medications.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Prostate cancer&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Assessment of Therapeutic Effectiveness" />
+      <FieldValue Value="Prevention" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Endocrinology" />
+      <FieldValue Value="Geriatrics" />
+      <FieldValue Value="Nuclear Medicine" />
+      <FieldValue Value="Oncology" />
+      <FieldValue Value="Pharmacology" />
+      <FieldValue Value="Radiation Oncology" />
+      <FieldValue Value="Radiology" />
+      <FieldValue Value="Urology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Allied Health Personnel" />
+      <FieldValue Value="Health Care Providers" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To evaluate the effectiveness of therapies targeting bone across all stages of prostate cancer&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Men with prostate cancer&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Denosumab &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Bisphosphonates (e.g., zoledronic acid) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Radiopharmaceuticals, including radium (Ra)-223 &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Bone mineral density (BMD)/osteoporosis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Risk of fracture &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Skeletal-related events &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pain &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Time to first bone metastasis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient-reported quality of life &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Overall survival &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adverse effects of treatment &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+      <FieldValue Value="Searches of Unpublished Data" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Search for Existing Guidelines&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A search for existing guidelines is generally undertaken prior to searching for existing systematic reviews or primary literature. This is done with the goal of identifying existing guidelines for adaptation or endorsement in order to avoid the duplication of guideline development efforts across jurisdictions. For this project, the following sources were searched for existing guidelines:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Practice guideline databases:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Inventory of Cancer Guidelines &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;National Guideline Clearinghouse &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Guideline developer Web sites:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;National Institute for Health and Care Excellence (NICE [UK]) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Scottish Intercollegiate Guidelines Network (SIGN [UK]) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;National Comprehensive Cancer Network (NCCN [US]) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;A search for existing guidelines for adaptation or endorsement was conducted and no comprehensive guidelines that covered all types of targeted therapies for bone health were found. A search of the primary literature was required.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Search for Existing Systematic Reviews&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Systematic reviews were identified by searching MEDLINE, EMBASE, and the Cochrane Database of Systematic Reviews. The searches for systematic reviews done in MEDLINE and EMBASE were combined with those performed for primary literature.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Identified systematic reviews were assessed using the Assessment of Multiple Systematic Reviews (AMSTAR) tool. The results of the AMSTAR assessment were used to determine whether or not an existing review could be incorporated as part of the evidentiary base.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Any identified reviews that did not meet the criteria above, whose AMSTAR assessment indicated important deficiencies in quality, or that were otherwise not incorporated as part of the evidence base were reported in the reference list, but not further described or discussed.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Literature Search Strategy&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A primary literature search was conducted to ensure the retrieval of the latest studies on bone-targeted therapies. Literature searches were performed in the MEDLINE, EMBASE, and Cochrane Library databases to identify primary studies and existing systematic reviews, and the annual meeting proceedings of American Society of Clinical Oncology (ASCO) and the American Urological Association were searched for conference abstracts. MEDLINE was searched in Ovid from 1946 to January 2016 (Ovid MEDLINE&amp;reg; In-Process &amp;amp; Other Non-Indexed Citations and Ovid MEDLINE&amp;reg; &amp;lt;1946 to Present&amp;gt;). EMBASE was searched in Ovid from 1980 to January 2016 (EMBASE 1996 to 2016 Week 4).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The literature searches in MEDLINE and EMBASE combined methods terms for meta-analyses, systematic reviews, and randomized controlled trials (RCTs) with terms describing prostate cancer, bone health, and interventions. The full search strategies are found in Appendix 2 in the original guideline document.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Study Selection Criteria and Process&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Selected studies were required to meet the following inclusion criteria:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;RCTs or systematic reviews (with or without meta-analysis) containing RCTs &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The study population consisted of men with prostate cancer at any stage. In studies with mixed populations (i.e., including patients with primary cancer sites other than prostate), the data had to be reported separately for prostate cancer patients to be eligible for inclusion. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The intervention involved therapies directed at improving bone health in nonmetastatic patients or reducing the outcomes associated with prostate cancer metastatic to bone (drug, supplement, or lifestyle modification) alone or in combination and was compared with placebo, no treatment, or other agents. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;A review of the titles and abstracts that resulted from the search was conducted by one reviewer. For those items that warranted full-text review, the reviewer reviewed each item and discussed with the lead authors to confirm the final study selections. All data were audited by a second, independent auditor.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the &quot;Results&quot; section of the original guideline document for information on studies retrieved through the literature searches.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The final number of included papers was 93 (15 systematic reviews and 78 reports of 72 randomized controlled trials [RCTs]).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Meta-Analysis" />
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Data Extraction and Assessment of Study Quality and Potential for Bias&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Data extraction was conducted by one Working Group member with assistance from the two lead authors. The methodological quality characteristics of the included randomized controlled trials (RCTs) were recorded. These included allocation concealment, blinding, intention-to-treat analysis, funding, patient follow-up, statistical power and sample size, baseline characteristics balance, and early termination. Androgen deprivation therapy (ADT) status, intervention groups and numbers of patients, dosage schedule, follow-up periods, and outcome measures were recorded for each study.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Synthesizing the Evidence&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;When clinically homogeneous results from two or more trials were available, a meta-analysis was conducted using the Review Manager software (RevMan 5.3) provided by the Cochrane Collaboration. If the hazard ratio (HR) or its standard error were not reported, they were derived from other information reported in the study, if possible, using the methods described by Parmar et al. For all outcomes, the generic inverse variance model with random effects, or other appropriate random effects models in RevMan was used.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Statistical heterogeneity would be calculated using the &amp;chi;&lt;sup&gt;2&lt;/sup&gt; test for heterogeneity and the I&lt;sup&gt;2&lt;/sup&gt; percentage. A probability level for the &amp;chi;&lt;sup&gt;2&lt;/sup&gt; statistic less than or equal to 10% (p&amp;le;0.10) and/or an I&lt;sup&gt;2&lt;/sup&gt; greater than 50% would be considered indicative of statistical heterogeneity.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Grading of Recommendations Assessment, Development and Evaluation (GRADE) method for assessing the quality of aggregate evidence was used for each comparison. The outcomes were rated for their importance for decision-making by the Working Group members. Four factors were assessed for each outcome in each comparison. These included the risk of bias, inconsistency, indirectness, and imprecision. Risk of bias was assessed by the presence/absence of the methodologic quality characteristics described above.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Guideline Developers&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline was undertaken by the Program in Evidence-Based Care (PEBC) at the request of the Genitourinary Cancer Disease Site Group (GU DSG). This group was comprised of four medical oncologists, nine radiation oncologists, seven urologist/surgical oncologists, one pathologist, and one PEBC methodologist (see Appendix 1 in the original guideline document for membership).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The project was led by a small Working Group, which was responsible for reviewing the evidence base, drafting the guideline recommendations, and responding to comments received during the document review process. The Working Group members included a geriatrician with expertise in both genitourinary cancer and bone health in men and a radiologist/nuclear medicine physician with expertise in prostate cancer imaging and targeted radionuclide therapy. All members contributed to final interpretation of the evidence, refinement of the recommendations, and approval of the final version of the document. Other members of the GU DSG served as the Expert Panel and were responsible for the review and approval of the draft document produced by the Working Group.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Guideline Development Methods&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The PEBC produces evidence-based and evidence-informed guidance documents using the methods of the Practice Guidelines Development Cycle. This process includes a systematic review, interpretation of the evidence by the Working Group, resulting recommendations, internal review by content and methodology experts, and external review by Ontario clinicians and other stakeholders.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The PEBC uses the Appraisal of Guidelines for Research and Evaluation (AGREE) framework as a methodological strategy for guideline development. AGREE II is a 23-item validated tool that is designed to assess the methodological rigour and transparency of guideline development.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The currency of each document is ensured through periodic review and evaluation of the scientific literature and, where appropriate, the addition of newer literature to the original evidence base. This is described in the PEBC Document Assessment and Review Protocol (see the &quot;Availability of Companion Documents&quot; field). PEBC guideline recommendations are based on clinical evidence, and not on feasibility of implementation; however, a list of implementation considerations such as costs, human resources, and unique requirements for special or disadvantaged populations is provided along with the recommendations for information purposes. PEBC guideline development methods are described in more detail in the PEBC Handbook and the PEBC Methods Handbook (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Research Questions&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Can therapeutic interventions reduce osteoporosis-related outcomes in men with prostate cancer receiving ADT? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Can therapeutic interventions prevent bone metastases in men with prostate cancer? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Can bone-targeted therapies reduce the incidence of SREs, reduce pain, or improve quality of life in men with prostate cancer metastatic to bone? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Can bone-targeted therapies improve overall survival in men with prostate cancer? &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="External Peer Review" />
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Guideline Review and Approval&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Internal Review&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For the guideline document to be approved, 75% of the content experts who comprise the Guideline Development Group (GDG) Expert Panel must cast a vote indicating whether or not they approve the document, or abstain from voting for a specified reason, and of those that vote, 75% must approve the document. In addition, the Program in Evidence-based Care (PEBC) Report Approval Panel (RAP), a three-person panel with methodology expertise, must unanimously approve the document. The Expert Panel and RAP members may specify that approval is conditional, and that changes to the document are required. If substantial changes are subsequently made to the recommendations during external review, then the revised draft must be resubmitted for approval by RAP and the GDG Expert Panel.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;External Review&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Feedback on the approved draft guideline is obtained from content experts and the target users through two processes. Through the targeted peer review, several individuals with content expertise are identified by the GDG and asked to review and provide feedback on the guideline document. Through professional consultation, relevant care providers and other potential users of the guideline are contacted and asked to provide feedback on the guideline recommendations through a brief online survey. This consultation is intended to facilitate the dissemination of the final guidance report to Ontario practitioners.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;See Section 5 in the original guideline document for further discussion of the internal and external guideline review process and results.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The recommendations are supported by systematic reviews and randomized controlled trials.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Therapeutic interventions and bone-targeted therapies reduce and/or alleviate bone complications related to prostate cancer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adverse effects of medications and radiopharmaceuticals. Refer to Appendix 23 in the original guideline document for detailed description of side effects of these and other relevant drugs.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Care has been taken in the preparation of the information contained in this report. Nevertheless, any person seeking to consult the report or apply its recommendations is expected to use independent medical judgment in the context of individual clinical circumstances or to seek out the supervision of a qualified clinician. Cancer Care Ontario makes no representations or guarantees of any kind whatsoever regarding the report content or its use or application and disclaims any responsibility for its use or application in any way. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;See the original guideline document for qualifying statements related to each recommendation. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Implementation Considerations&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Working Group members consider these recommendations to represent a current standard of care and believe they will be feasible to implement. They believe the outcomes valued by clinicians will align with the outcomes valued by patients and most patients and healthcare providers will view the recommendations as acceptable. The Working Group members also believe that these recommendations will not require additional training for the providers or necessitate a significant change to the current health system.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Quick Reference Guides/Physician Guides" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alibhai S, Zukotynski K, Walker-Dilks C, Emmenegger U, Finelli A, Morgan S, Hotte S, Winquist E, Genitourinary Cancer Disease Site Group. Bone health and bone-targeted therapies for prostate cancer. Toronto (ON): Cancer Care Ontario (CCO); 2016 Sep 23. 123 p.&amp;nbsp;(Program in Evidence-based Care Guideline; no. 3-14v2).&amp;nbsp; [130 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2016 Sep 23" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Program in Evidence-based Care - State/Local Government Agency [Non-U.S.]" />
+    </Field>
+    <Field FieldID="123" OrdBy="1230" ID="448" Name="Guideline Developer Comment" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Program in Evidence-based Care (PEBC) is a Province of Ontario initiative sponsored by Cancer Care Ontario (CCO) and the Ontario Ministry of Health and Long-Term Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Program in Evidence-based Care (PEBC) is a provincial initiative of Cancer Care Ontario (CCO) supported by the Ontario Ministry of Health and Long-Term Care. All work produced by the PEBC is editorially independent from the Ontario Ministry of Health and Long-Term Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Genitourinary Cancer Disease Site Group&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Guideline Development Group (GDG) Working Group&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Working Group Members&lt;/em&gt;: S. Alibhai, K. Zukotynski, C. Walker-Dilks, U. Emmenegger, A. Finelli, S. Morgan, S. Hotte, E. Winquist&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Conflict of interest declarations for all Guideline Development Group (GDG) members are summarized in Appendix 1 of the original guideline document, and were managed in accordance with the Program in Evidence-Based Care (PEBC) &lt;a href=&quot;https://www.cancercare.on.ca/cms/one.aspx?objectId=7582&amp;amp;contextId=1377&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Conflict of Interest Policy&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=364328&quot; title=&quot;CCO Web site&quot;&gt;Cancer Care Ontario (CCO) Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Alibhai S, Zukotynski K, Walker-Dilks C, Emmenegger U, Finelli A, Morgan S, Hotte S, Winquist E, Genitourinary Cancer Disease Site Group. Bone health and bone-targeted therapies for prostate cancer. Summary. Toronto (ON): Cancer Care Ontario (CCO); 2016 Sep 23. 7 p. (Program in Evidence-based Care Guideline; no. 3-14v2). Available from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=364326&quot; title=&quot;CCO Web site&quot;&gt;Cancer Care Ontario (CCO)Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Program in Evidence-based Care handbook. Toronto (ON): Cancer Care Ontario (CCO); 2012. 14 p. Available from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=50876&quot; title=&quot;CCO Web site&quot;&gt;CCO Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Program in Evidence-based Care methods handbook. Toronto (ON): Cancer Care Ontario (CCO); 2014 Sep 23. Available from the &lt;a href=&quot;http://pebctoolkit.mcmaster.ca/doku.php?id=projectdev:pebc_methods_handbook&quot; title=&quot;Program in Evidence-based Care (PEBC) Toolkit Web site&quot;&gt;Program in Evidence-based Care (PEBC) Toolkit Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Program in Evidence-based Care document assessment and review protocol. Toronto (ON): Cancer Care Ontario (CCO); 2015 Apr 16. 15 p. Available from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=285439&quot; title=&quot;CCO Web site&quot;&gt;CCO Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on January 6, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions. Please refer to the &lt;a href=&quot;https://www.cancercare.on.ca/ontariocancernews/copyright.html&quot; title=&quot;Cancer Care Ontario (CCO) Web site&quot;&gt;Copyright and Disclaimer Statements&lt;/a&gt; posted at the Program in Evidence-based Care section of the Cancer Care Ontario (CCO) Web site.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,243 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Chronic obstructive pulmonary disease.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;University of Michigan Health System. Chronic obstructive pulmonary disease. Ann Arbor (MI): University of Michigan Health System; 2017 Nov. 28 p.  [99 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: University of Michigan Health System. Chronic obstructive pulmonary disease. Ann Arbor (MI): University of Michigan Health System; 2010 May. 17 p. [7 references]&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="705" OrdBy="150" Name="NEATS Assessment">
+    <Field FieldID="183" OrdBy="10" ID="706" Name="Disclosure of Guideline Funding Source" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="184" OrdBy="20" ID="707" Name="Disclosure and Management of Financial Conflict of Interests" Type="picklist-one">
+      <FieldValue Value="4" />
+    </Field>
+    <Field FieldID="185" OrdBy="30" ID="708" Name="Guideline Development Group Composition: Multidisciplinary Group" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="186" OrdBy="40" ID="709" Name="Guideline Development Group Composition: Methodologist Involvement" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="187" OrdBy="50" ID="710" Name="Guideline Development Group Composition: Patient and Public Perspectives" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="188" OrdBy="60" ID="711" Name="Use of a Systematic Review of Evidence: Search Strategy" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="189" OrdBy="70" ID="712" Name="Use of a Systematic Review of Evidence: Study Selection" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="190" OrdBy="80" ID="713" Name="Use of a Systematic Review of Evidence: Synthesis of Evidence" Type="picklist-one">
+      <FieldValue Value="4" />
+    </Field>
+    <Field FieldID="191" OrdBy="90" ID="714" Name="Evidence Foundations for and Rating Strength of Recommendations: Grading the Quality or Strength of Evidence" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="192" OrdBy="100" ID="715" Name="Evidence Foundations for and Rating Strength of Recommendations: Benefits and Harms of Recommendations" Type="picklist-one">
+      <FieldValue Value="4" />
+    </Field>
+    <Field FieldID="193" OrdBy="110" ID="716" Name="Evidence Foundations for and Rating Strength of Recommendations: Evidence Summary Supporting Recommendations" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="194" OrdBy="120" ID="717" Name="Evidence Foundations for and Rating Strength of Recommendations: Rating the Strength of Recommendations" Type="picklist-one">
+      <FieldValue Value="2" />
+    </Field>
+    <Field FieldID="195" OrdBy="130" ID="718" Name="Specific and Unambiguous Articulation of Recommendations" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="196" OrdBy="140" ID="719" Name="External Review" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="197" OrdBy="150" ID="720" Name="Updating" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Note from the University of Michigan Health System (UMHS) and the National Guideline Clearinghouse (NGC)&lt;/em&gt;&lt;/strong&gt;: The following guidance was current as of November 2017. Because UMHS occasionally releases minor revisions to its guidance based on new information, users may wish to consult the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/copd/copd.pdf&quot; title=&quot;UMHS Web site&quot;&gt;original guideline document&lt;/a&gt; for the most current version.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Note from NGC&lt;/strong&gt;: The following key points summarize the content of the guideline. Refer to the original guideline document for additional information.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The strength of recommendation (I-III) and levels of evidence (A-E) are defined at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Key Points&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Chronic obstructive pulmonary disease (COPD) is underdiagnosed and misdiagnosed. See Table 1 in the original guideline document for an overview of diagnosis and management of COPD.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Do not perform population-wide screening for COPD &lt;em&gt;[III-C]&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Appropriate comprehensive treatment can improve symptoms and quality of life &lt;em&gt;[I-A]&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Diagnosis&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Consider COPD in any patient with dyspnea, chronic cough or sputum production &lt;em&gt;[I-C]&lt;/em&gt;. Consider early diagnostic case finding in persons with a history of inhalation exposures known to be risk factors for COPD &lt;em&gt;[I-D]&lt;/em&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Pulmonary function testing with post-bronchodilator assessment demonstrating a reduced forced expiratory volume in the first second/forced vital capacity (FEV&lt;sub&gt;1&lt;/sub&gt;/FVC) ratio is required for diagnosis &lt;em&gt;[I-C]&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Assess COPD severity by determining extent of airflow limitation (spirometry), symptom severity, and exacerbation history (see Table 5 in the original guideline document) &lt;em&gt;[I-C]&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Treatment&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Smoking cessation is the single most important intervention to slow the rate of lung function decline, regardless of disease severity &lt;em&gt;[I-C]&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Chronic medication management includes:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Bronchodilators (beta-2 agonists and anticholinergics), selected based on symptoms and severity (see Figure 1 &amp;amp; Table 7 in the original guideline document), with the goal of improving symptoms and functioning and reducing exacerbations &lt;em&gt;[I-A]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Inhaled corticosteroids &amp;ndash; consider adding to bronchodilators for patients with frequent exacerbations despite bronchodilator therapy &lt;em&gt;[I-A]&lt;/em&gt; or with features suggestive of asthma-COPD overlap &lt;em&gt;[II-D]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Supplemental oxygen if resting oxygen saturation &amp;le;88% or arterial partial pressure of oxygen (PaO&lt;sub&gt;2&lt;/sub&gt;) &amp;le; 55 mm Hg &lt;em&gt;[I-A]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Acute exacerbation medication management includes bronchodilators (beta-2 agonists and anticholinergics) &lt;em&gt;[I-C]&lt;/em&gt;, systemic corticosteroid therapy &lt;em&gt;[I-A]&lt;/em&gt;, and antibiotics &lt;em&gt;[II-A]&lt;/em&gt; based on clinical indications (see Table 9 in the original guideline document). Empiric antibiotics are recommended for patients with increased sputum purulence plus either increased dyspnea or increased sputum volume &lt;em&gt;[I-A]&lt;/em&gt;. Sputum culture is not routinely recommended &lt;em&gt;[III-D]&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Pulmonary rehabilitation should be considered for all patients with functional impairment &lt;em&gt;[I-A]&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Surgical and minimally invasive options include bullectomy, lung volume reduction procedures, and lung transplantation &lt;em&gt;[II-B]&lt;/em&gt;. Life expectancy should be incorporated into shared decision making regarding the potential benefits of surgery &lt;em&gt;[II-D]&lt;/em&gt;. Pulmonary consultation is recommended prior to consideration of invasive options &lt;em&gt;[I-D]&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Palliative care should be discussed with patients with advanced COPD. Doing so may help limit unnecessary and burdensome personal and societal costs and invasive approaches &lt;em&gt;[I-C]&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Levels of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-alpha;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Systematic reviews of randomized controlled trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Randomized controlled trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Systematic review of non-randomized controlled trials or observational studies, non-randomized controlled trials, group observation studies (e.g., cohort, cross-sectional, case-control) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Individual observation studies (case study or case series) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Opinion of expert panel &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strength of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-roman;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Generally should be performed &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;May be reasonable to perform &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Generally should not be performed &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An algorithm titled &quot;Overview of COPD Management: Patient Education, Preventive Care, Pharmacologic Therapy, and Pulmonary Rehabilitation&quot; is provided in the original guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Chronic obstructive pulmonary disease (COPD)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Prevention" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Critical Care" />
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Preventive Medicine" />
+      <FieldValue Value="Pulmonary Medicine" />
+      <FieldValue Value="Thoracic Surgery" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Occupational Therapists" />
+      <FieldValue Value="Pharmacists" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+      <FieldValue Value="Respiratory Care Practitioners" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To provide a framework for management of chronic obstructive pulmonary disease (COPD) and for the treatment of mild to moderate acute exacerbations&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To improve symptoms, quality of life and lung function while reducing morbidity and mortality for patients with COPD &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adults with chronic obstructive pulmonary disease (COPD)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Diagnosis&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Consideration of a diagnosis of chronic obstructive pulmonary disease (COPD) in patients with dyspnea, chronic cough, sputum production, or a history of inhalation exposures &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pulmonary function testing with post-bronchodilator assessment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Assessment of COPD severity &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Treatment&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Smoking cessation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Chronic and acute medication management&#xD;&#xA;    &lt;ul&gt;&#xD;&#xA;        &lt;li&gt;Bronchodilators (beta-2-agonists and anticholinergics) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Inhaled corticosteroids &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Systemic corticosteroids &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Supplemental oxygen &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Antibiotics &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pulmonary rehabilitation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Bullectomy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Lung volume reduction surgery &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Lung transplantation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Palliative care &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Predictive sensitivity/specificity of diagnostic tests &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Disease severity &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Disease progression &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Morbidity &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mortality &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Quality of life &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cost of treatment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adverse events of medication&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pulmonary function &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Literature Search&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The team began the search of literature by accepting the results of a systematic literature review performed in 2014:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;VA/DoD Clinical Practice Guideline for the Management of Chronic Obstructive Pulmonary Disease. The Management of Chronic Obstructive Pulmonary Disease Working Group, Department of Veterans Affairs and Department of Defense. Dec. 2014. (Searched literature from January 2005 through February 2014.) (See the &quot;Availability of Companion Documents&quot; field) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;To update those results, they performed a systematic search of literature on Medline and in the Cochrane Database of Systematic Reviews for the time period 1/1/14&amp;ndash;9/8/16.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The major search term was chronic obstructive pulmonary disease. The searches were for guidelines, controlled trials (including meta-analyses), and cohort studies, for literature on humans in the English language. Within these parameters individual searches were performed for the following topics:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-alpha;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Etiology: smoking, particulate inhalation exposures, alpha-1 antitrypsin deficiency, life expectancy based on forced expiratory volume in the first second (FEV&lt;sub&gt;1&lt;/sub&gt;)/Body-mass index, airflow Obstruction, Dyspnea, and Exercise (BODE) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Screening: questionnaires, pulmonary function testing/spirometry &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Diagnosis: History (risk factors, symptoms), physical exam &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Diagnostic studies: pulmonary function tests (PFTs), alpha-1 antitrypsin level, chest X-ray, 6-minute walk test, chest computed tomography (CT) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Diagnostic classification: Global Initiative for Chronic Obstructive Lung Disease (GOLD) classes, Medical Research Council (MRC) or Modified Medical Research Council (mMRC) dyspnea scale, BODE index &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Definition and diagnosis: acute exacerbation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Other diagnoses not included in C&amp;ndash;F above &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Comorbid diseases (increased risk) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Prevention: smoking cessation, vaccination (influenza, pneumococcus) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Prevention: irritant avoidance &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pharmacologic treatment: bronchodilators, inhaled corticosteroids &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Treatment: supplemental oxygen &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Treatment: pulmonary rehabilitation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Nutrition &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Treatment: complementary and alternative medicine &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Treatment: mental health, psychosocial support &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Treatment: acute exacerbation &amp;ndash; outpatient management, hospitalization &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Referral to pulmonary subspecialist &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Surgical treatment: lung volume reduction surgery, lung transplantation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Treatment: follow up care, monitoring, chronic disease management &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Treatment: palliative care &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Other &quot;treatments&quot; not in I&amp;ndash;U above &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Other not in A&amp;ndash;V above &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;The search was conducted in components of a formal problem structure (outlined above). The search was supplemented with very recent clinical trials known to expert members of the panel. The search was a single cycle.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A more formal presentation of the inclusion and exclusion criteria, as well as the detailed search strategies, are presented in the methodological appendix (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Literature Review and Assessment&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Members of the guideline team reviewed the publications identified to be relevant to specific topics in order to select those with best evidence. Criteria to identify overall best evidence included relevance of the study setting and population, study design, sample size, measurement methods (variables, measures, data collection), intervention methods (appropriateness, execution), appropriateness of analyses, and clarity of description.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Beginning with best evidence identified by the VA/DoD systematic literature review, team members checked publications identified in the more recent search (1/1/14&amp;ndash;9/8/16) to determine whether better evidence was available. Team members also had the option of considering very recent literature (published since 9/8/16) in determining whether even better evidence was available.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The review process resulted in 56 studies identified as presenting best evidence on a topic by either the VA/DoD literature review or the review of more recent evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The number of publications identified is presented in Section IV of the accompanying Literature Review Methods and Results (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Levels of Evidence&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-alpha;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Systematic reviews of randomized controlled trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Randomized controlled trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Systematic review of non-randomized controlled trials or observational studies, non-randomized controlled trials, group observation studies (e.g., cohort, cross-sectional, case-control) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Individual observation studies (case study or case series) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Opinion of expert panel &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The best evidence regarding specific topics was summarized in evidence tables listing articles, study designs, patient populations, main outcome variables, results, and notes regarding methodological issues and harms.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The process of review and assessment is described in more detail in the methods companion (see the &quot;Availability of Companion Documents&quot; field). &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The guideline team reviewed the evidence and determined the importance of performing or not performing key aspects of care. In the absence of empirical evidence, the guideline team based recommendations on their expert opinion.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Strength of Recommendation&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-roman;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Generally should be performed &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;May be reasonable to perform &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Generally should not be performed &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Cost-effectiveness of lung volume reduction surgery is not demonstrated for even the most favorable subgroup (i.e., chronic obstructive pulmonary disease [COPD] patients with upper lobe emphysema and reduced exercise capacity) unless outcomes are expected to remain favorable for 10 years.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A draft of this guideline was reviewed in clinical conferences and by distribution for comment within departments and divisions of University of Michigan Health System (UMHS) to which the content is most relevant: Emergency Medicine, Family Medicine, General Medicine, Geriatric Medicine, Obstetrics &amp;amp; Gynecology (Women's Health), and Pulmonary &amp;amp; Critical Care Medicine. The draft was revised based on comments from these groups.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The final version of this guideline was endorsed by the Clinical Practice Committee of the University of Michigan Medical Group and by the Executive Committee for Clinical Affairs of the University of Michigan Hospitals and Health Centers.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Chronic obstructive pulmonary disease (COPD) is responsive to multiple treatments. Appropriate comprehensive treatment can improve patients' quality of life and prognosis.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the &quot;Clinical Background and Rationale for Recommendations&quot; section of the original guideline document for the benefits of specific interventions. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Long-Acting Beta-2-Agonists (LABAs) and Anticholinergics&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;LABAs&lt;/em&gt;. A U.S. Food and Drug Administration (FDA) advisory panel recommended that LABAs not be used as single-agent therapy in asthma (see &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/asthma.html&quot; title=&quot;University of Michigan Health System (UMHS) Web site&quot;&gt;University of Michigan Health System [UMHS] Asthma guideline&lt;/a&gt;). However, for patients with chronic obstructive pulmonary disease (COPD), LABAs may still be used as single-agent therapy without an inhaled corticosteroid. While LABAs may increase blood pressure and heart rate, data for COPD patients from the TORCH study (a three-year trial in COPD patients of fluticasone propionate and salmeterol combination versus fluticasone alone, salmeterol alone, or placebo), found no increased risk of all-cause death or cardiovascular death in the salmeterol group. These data further underscore the importance of distinguishing asthma from COPD. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Anticholinergics&lt;/em&gt;. Anticholinergic drugs may worsen symptoms and signs associated with narrow-angle glaucoma, prostatic hyperplasia, or bladder-neck obstruction and should be used with caution in patients with any of these conditions. Concerns about cardiovascular effects have diminished. Initially a meta-analysis suggested that inhaled anticholinergics (ipratropium and tiotropium) were associated with significantly increased risk of cardiovascular death, myocardial infarction (MI), or stroke among patients with COPD. However, since then, data from the UPLIFT study (a four-year, placebo controlled trial of tiotropium) found no significant increase in MI or stroke in the tiotropium treated group. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Inhaled Glucocorticosteroids (ICS)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Withdrawal from treatment with ICS can lead to a short term increase in exacerbations in some patients. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;An increase in the frequency of pneumonia has been reported in COPD patients using ICS, particularly in patients age 65 and older. The frequency of reported pneumonia appears to be approximately double in several studies comparing ICS/LABA combinations versus placebo in COPD. However, in the largest published mortality study in COPD, no increase in pulmonary related deaths was noted in the ICS/LABA combination therapy group as compared to placebo. In patients with COPD being treated with ICS, particularly those age 65 and older, consider the possible increased risk of pneumonia and maintain a lower threshold for considering a diagnosis of pneumonia when patients present with increased symptoms. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;ICS may also increase a patient's risk for cataracts or glaucoma. Consider regular eye exams for patients using these medications. Patients using ICS should also be warned about the possibility of oral candidiasis and vocal changes. Rinsing the mouth after administration of ICS should be encouraged. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Decrease in bone density is a theoretical risk of this class of medication, but available long-term data suggest there is no meaningful association between ICS use and decreased bone mineral density in this patient population. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;These guidelines should not be construed as including all proper methods of care or excluding other acceptable methods of care reasonably directed to obtaining the same results. The ultimate judgment regarding any specific clinical procedure or treatment must be made by the physician in light of the circumstances presented by the patient.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Audit Criteria/Indicators" />
+      <FieldValue Value="Clinical Algorithm" />
+      <FieldValue Value="Patient Resources" />
+      <FieldValue Value="Staff Training/Competency Material" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="End of Life Care" />
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;University of Michigan Health System. Chronic obstructive pulmonary disease. Ann Arbor (MI): University of Michigan Health System; 2017 Nov. 28 p.  [99 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2017 Nov" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="University of Michigan Health System - Academic Institution" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The development of this guideline was funded by University of Michigan Health System (UMHS).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Chronic Obstructive Pulmonary Disease (COPD) Guideline Team&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Team Leader&lt;/em&gt;: Davoren A Chick, MD, General Medicine&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Team Members&lt;/em&gt;: Paul J Grant, MD, General Medicine; R Van Harrison, PhD, Learning Health Sciences; Amal Othman, MD, Family Medicine; Sarah E Roark, MD, Pulmonary Medicine; Meilan K Han, MD, MS, Pulmonary Medicine&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Consultant&lt;/em&gt;: Tami L Remington, PharmD, Pharmacy Services&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Ambulatory Clinical Guidelines Oversight&lt;/em&gt;: Karl T Rew, MD; R Van Harrison, PhD&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;University of Michigan Health System (UMHS) endorses the Standards of the Accreditation Council for Continuing Medical Education that the individuals who present educational activities disclose significant relationships with commercial companies whose products or services are discussed. Contributions of team members with relevant financial relationships are reviewed by team members without relevant financial relationships to assure the information is presented without bias.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Individuals with no relevant personal financial relationships&lt;/span&gt;: Davoren A Chick, MD; Paul J Grant, MD; R Van Harrison, PhD; Amal E Othman, MD; Tami L Remington, PharmD; and Sarah E Roark, MD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Individuals with relevant personal financial relationships&lt;/span&gt;: MeiLan K Han, MD, consultant for Novartis, Nycomed; speaker's bureau for Boehringer Ingelheim, GlaxoSmithKline, and CLS Boehring; advisory board for CLS Boehring&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: University of Michigan Health System. Chronic obstructive pulmonary disease. Ann Arbor (MI): University of Michigan Health System; 2010 May. 17 p. [7 references]&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/copd/copd.pdf&quot; title=&quot;University of Michigan Health System (UMHS) Web site&quot;&gt;University of Michigan Health System (UMHS) Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The supplemental methodological appendix is available from the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/copd/methodological.appendix.pdf&quot; title=&quot;University of Michigan Health System (UMHS) Web site&quot;&gt;University of Michigan Health System (UMHS) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A self-study continuing medical education (CME) activity for this guideline is available from &lt;a href=&quot;http://ocpd.med.umich.edu/cme/self-study/Chronic%20Obstructive%20Pulmonary%20Disease&quot; title=&quot;UMHS Web site&quot;&gt;UMHS Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Performance measures are provided in the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/copd/copd.pdf&quot; title=&quot;UMHS Web site&quot;&gt;original guideline document&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patient education materials are available on the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/copd.html&quot; title=&quot;University of Michigan Health System (UMHS) Web site&quot;&gt;University of Michigan Health System (UMHS) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Disclaimer&quot;&gt;Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on October 13, 2010. This summary was updated by ECRI Institute on March 21, 2018. The information was verified by the guideline developer on April 10, 2018.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NEATS assessment was completed by ECRI Institute on March 27, 2018. The information was verified by the guideline developer on April 10, 2018.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is copyrighted by the University of Michigan Health System (UMHS).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

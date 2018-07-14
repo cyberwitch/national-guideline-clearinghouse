@@ -1,0 +1,226 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Congress of Neurological Surgeons systematic review and evidence-based guidelines on pathological methods and prognostic factors in vestibular schwannomas.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sughrue ME, Fung KM, Van Gompel JJ, Peterson JEG, Olson JJ. Congress of Neurological Surgeons systematic review and evidence-based guidelines on pathological methods and prognostic factors in vestibular schwannomas. Neurosurgery. 2018 Feb 1;82(2):E47-8.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="705" OrdBy="150" Name="NEATS Assessment">
+    <Field FieldID="183" OrdBy="10" ID="706" Name="Disclosure of Guideline Funding Source" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="184" OrdBy="20" ID="707" Name="Disclosure and Management of Financial Conflict of Interests" Type="picklist-one">
+      <FieldValue Value="4" />
+    </Field>
+    <Field FieldID="185" OrdBy="30" ID="708" Name="Guideline Development Group Composition: Multidisciplinary Group" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="186" OrdBy="40" ID="709" Name="Guideline Development Group Composition: Methodologist Involvement" Type="picklist-one">
+      <FieldValue Value="Unknown" />
+    </Field>
+    <Field FieldID="187" OrdBy="50" ID="710" Name="Guideline Development Group Composition: Patient and Public Perspectives" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="188" OrdBy="60" ID="711" Name="Use of a Systematic Review of Evidence: Search Strategy" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="189" OrdBy="70" ID="712" Name="Use of a Systematic Review of Evidence: Study Selection" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="190" OrdBy="80" ID="713" Name="Use of a Systematic Review of Evidence: Synthesis of Evidence" Type="picklist-one">
+      <FieldValue Value="4" />
+    </Field>
+    <Field FieldID="191" OrdBy="90" ID="714" Name="Evidence Foundations for and Rating Strength of Recommendations: Grading the Quality or Strength of Evidence" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="192" OrdBy="100" ID="715" Name="Evidence Foundations for and Rating Strength of Recommendations: Benefits and Harms of Recommendations" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="193" OrdBy="110" ID="716" Name="Evidence Foundations for and Rating Strength of Recommendations: Evidence Summary Supporting Recommendations" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="194" OrdBy="120" ID="717" Name="Evidence Foundations for and Rating Strength of Recommendations: Rating the Strength of Recommendations" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="195" OrdBy="130" ID="718" Name="Specific and Unambiguous Articulation of Recommendations" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="196" OrdBy="140" ID="719" Name="External Review" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="197" OrdBy="150" ID="720" Name="Updating" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Definitions for the classification of evidence (&lt;strong&gt;I-III&lt;/strong&gt;) and levels of recommendations (&lt;strong&gt;1-3&lt;/strong&gt;) are provided at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Target Population&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Adults diagnosed with vestibular schwannomas&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Question 1&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;What is the prognostic significance of Antoni A vs B histologic patterns in vestibular schwannomas?&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;No recommendations can be made due to a lack of adequate data.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Question 2&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;What is the prognostic significance of mitotic figures seen in vestibular schwannoma specimens?&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;No recommendations can be made due to a lack of adequate data.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Question 3&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Are there other light microscopic features that predict clinical behavior of vestibular schwannomas?&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;No recommendations can be made due to a lack of adequate data.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Question 4&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Does the KI-67 labeling index predict clinical behavior of vestibular schwannomas?&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;No recommendations can be made due to a lack of adequate data.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Question 5&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Does the proliferating cell nuclear antigen labeling index predict clinical behavior of vestibular schwannomas?&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;No recommendations can be made due to a lack of adequate data.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Question 6&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Does degree of vascular endothelial growth factor expression predict clinical behavior of vestibular schwannomas?&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;No recommendations can be made due to a lack of adequate data.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;American Association of Neurological Surgeons/Congress of Neurological Surgeons Classification of Evidence on Prognosis and Levels of Recommendation &lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;To evaluate papers addressing &lt;strong&gt;&lt;em&gt;prognosis&lt;/em&gt;&lt;/strong&gt;, 5 technical criteria are applied:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Was a well-defined representative sample of patients assembled at a common (usually early) point in the course of their disease? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Was patient follow-up sufficiently long and complete? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Were objective outcome criteria applied in a &quot;blinded&quot; fashion? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If subgroups with different prognoses were identified, was there adjustment for important prognostic factors? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If specific prognostic factors were identified, was there validation in an independent &quot;test set&quot; group of patients? &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: American Association of Neurological Surgeons/Congress of Neurological Surgeons Classification of Evidence on Prognosis and Levels of Recommendation&quot;&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;&gt;&lt;strong&gt;Class I Evidence&lt;br /&gt;&#xD;&#xA;            Level 1 Recommendation&lt;/strong&gt;&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;All 5 technical criteria above are satisfied&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;&gt;&lt;strong&gt;Class II Evidence&lt;br /&gt;&#xD;&#xA;            Level 2 Recommendation&lt;/strong&gt;&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Four of 5 technical criteria are satisfied&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;&gt;&lt;strong&gt;Class III Evidence&lt;br /&gt;&#xD;&#xA;            Level 3 Recommendation&lt;/strong&gt;&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Everything else&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Vestibular schwannomas&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Neurology" />
+      <FieldValue Value="Otolaryngology" />
+      <FieldValue Value="Pathology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To determine what is known about the prognostic (i.e., factors that predict recurrence or clinically aggressive behavior) significance of histopathologic features and immunohistochemical markers of vestibular schwannomas (VSs)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adults diagnosed with vestibular schwannomas&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Assessment of pathological factors to evaluate prognosis&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Tumor growth rates &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tumor recurrence rates&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Search Method&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The task force group assigned to vestibular schwannomas (VS) pathology collaborated with a medical librarian to search for articles published between January 1, 1990 and December 31, 2014. Two electronic databases, including PubMed and the Cochrane Central Register of Controlled Trials, were searched. Strategies for searching electronic databases were constructed using previously published search strategies to identify relevant studies (see Figure 1 and Table 1 in the full guideline [see the &quot;Availability of Companion Documents&quot; field]).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The task force group supplemented searches of electronic databases with manual screening of the bibliographies of all retrieved publications. The task force group also searched the bibliographies of recent systematic reviews and other review articles for potentially relevant citations. All articles identified are subject to the study selection criteria listed below. As noted above, the guideline committee also examines lists of included and excluded studies for errors and omissions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Study Selection and Eligibility Criteria&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A total of 688 citations were manually reviewed by the team with specific inclusion and exclusion criteria as outlined below. Two independent reviewers screened the abstracts to determine those worthy of full-text review. These two sets of data were compared for agreement by a third party. Inconsistencies were re-reviewed and disagreements were resolved by consensus. Citations that considered adult patients focusing on surgical treatment of VSs were considered. The following inclusions and exclusions were then applied:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Investigated patients suspected of having VSs &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients &amp;ge;18 years of age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Was of humans &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Published between January 1, 1990, and December 31, 2014 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Quantitatively presented results &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Was not an in vitro study (for novel molecular markers, in vitro studies were included on patient samples) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Was not a biomechanical study &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Was not performed on cadavers &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Was published in English &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Was not a meeting abstract, editorial, letter, or a commentary &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Studies may include mixed pathology; however, the data pertaining to VSs were abstractable from the paper &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&amp;gt;5 patients or patient samples &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;The authors did not include systematic reviews, guidelines, or meta-analyses conducted by other authors. These documents were developed using different inclusion criteria than those specified in this guideline. Therefore, they may include studies that do not meet the inclusion criteria stated above. The authors recalled these documents if their abstracts suggested that they might address one of the recommendations presented here, and the bibliographies were searched for additional studies.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No studies were included as evidence. See Figure 1 in the full guideline (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;American Association of Neurological Surgeons/Congress of Neurological Surgeons Classification of Evidence on Prognosis and Levels of Recommendation&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;To evaluate papers addressing &lt;strong&gt;&lt;em&gt;prognosis&lt;/em&gt;&lt;/strong&gt;, 5 technical criteria are applied:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Was a well-defined representative sample of patients assembled at a common (usually early) point in the course of their disease? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Was patient follow-up sufficiently long and complete? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Were objective outcome criteria applied in a &quot;blinded&quot; fashion? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If subgroups with different prognoses were identified, was there adjustment for important prognostic factors? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If specific prognostic factors were identified, was there validation in an independent &quot;test set&quot; group of patients? &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: American Association of Neurological Surgeons/Congress of Neurological Surgeons Classification of Evidence on Prognosis and Levels of Recommendation&quot;&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;&gt;&lt;strong&gt;Class I Evidence&lt;br /&gt;&#xD;&#xA;            Level 1 Recommendation&lt;/strong&gt;&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;All 5 technical criteria above are satisfied&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;&gt;&lt;strong&gt;Class II Evidence&lt;br /&gt;&#xD;&#xA;            Level 2 Recommendation&lt;/strong&gt;&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Four of 5 technical criteria are satisfied&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;&gt;&lt;strong&gt;Class III Evidence&lt;br /&gt;&#xD;&#xA;            Level 3 Recommendation&lt;/strong&gt;&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Everything else&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Data Collection Process&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The articles deemed relevant for full-text review were then reviewed, and the study design, topic evaluated, and conclusions were extracted. The items in the inclusion and exclusion criteria were applied before inclusion in the final dataset. For some questions, it became apparent that the data in the full-text articles were not able to provide meaningful support for any form of recommendation. These questions were dropped from the list of those that led to recommendations, and their topics were then moved for discussion in the &quot;Conclusion and Key Issues for Future Investigations&quot; section in the full guideline (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Assessment for Risk of Bias&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The possibility of systematic bias in results was addressed by first stratifying the evidence based on the class of evidence quality, which highlights the limitations in this literature. Given the sparsity of evidence for many of these questions, formal methods for studying publication bias such as funnel plots were not possible&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In addition, one obvious bias inherent to these studies is selection bias. For a patient to be in a pathology study, that patient, by definition, underwent microsurgical resection, which inherently biases the results toward larger and probably more aggressive tumors than would be seen in a cohort of all vestibular schwannomas (VSs). However, it is important to note that this bias is uniform across all studies of this type. Therefore, while individual practitioners may have skewed results by differences in case selection, there is no clear mechanism by which these biases are systematically distributed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus (Nominal Group Technique)" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Writing Group and Question Establishment&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;After establishing vestibular schwannoma (VS) management as a priority for guideline development, the Joint Tumor Section of the American Association of Neurological Surgeons (AANS) and the Congress of Neurological Surgeons (CNS), and the Guidelines Committee of the CNS selected a multidisciplinary group of individuals to carry out this project. The entire group of individuals was screened for conflict of interest and then assembled into smaller groups by general components of management. These groups then agreed upon the main questions pertinent to these management components and shared them with the overall group for modification. The task force was divided into groups by management topic to evaluate the literature and write the guidelines.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Classification System and Recommendation Formulation&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The concept of linking evidence to recommendations has been further formalized by the American Medical Association (AMA) and many specialty societies, including AANS, CNS, and the American Academy of Neurology (AAN). This formalization involves the designation of specific relationships between the strength of evidence and the strength of recommendations to avoid ambiguity. In the paradigm for prognostic evidence, evidence is classified based on the 5 technical criteria5 technical criteria as outlined in the &quot;Rating Scheme for the Strength of the Evidence&quot; field. Refer also to the Joint Guideline Committee methodology document (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Guideline Panel Consensus&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Multidisciplinary writing groups were created for each section based on author expertise to address each of the disciplines and particular areas of therapy selected for these clinical guidelines. Each group was involved with literature selection, creation and editing of the evidence tables, and scientific foundations for their specific section and discipline. Using this information, the writing groups then drafted the recommendations in answer to the questions formulated at the beginning of the process, culminating in the clinical practice guideline for their respective discipline. The draft guidelines were then circulated to the entire clinical guideline panel to allow for multidisciplinary feedback, discussion, and ultimately approval.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;See the &quot;Rating Scheme for the Strength of the Evidence&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Approval Process&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The completed evidence-based clinical practice guidelines for the management of vestibular schwannomas (VSs) were presented to the Joint Guideline Committee (JGC) of the American Association of Neurological Surgeons (AANS) and the Congress of Neurological Surgeons (CNS) for review. The reviewers for the JGC were vetted by &lt;em&gt;Neurosurgery&lt;/em&gt; for suitability and expertise to serve as reviewers for the purposes of publication in that journal also. The final product was then approved and endorsed by the executive committees of both the AANS and CNS before publication in &lt;em&gt;Neurosurgery&lt;/em&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Prediction of clinical behavior of vestibular schwannomas&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Disclaimer of Liability&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This clinical systematic review and evidence-based guideline was developed by a multidisciplinary physician volunteer task force and serves as an educational tool designed to provide an accurate review of the subject matter covered. These guidelines are disseminated with the understanding that the recommendations by the authors and consultants who have collaborated in their development are not meant to replace the individualized care and treatment advice from a patient's physician(s). If medical advice or assistance is required, the services of a competent physician should be sought. The proposals contained in these guidelines may not be suitable for use in all circumstances. The choice to implement any particular recommendation contained in these guidelines must be made by a managing physician in light of the situation in each particular patient and on the basis of existing resources.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Quick Reference Guides/Physician Guides" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sughrue ME, Fung KM, Van Gompel JJ, Peterson JEG, Olson JJ. Congress of Neurological Surgeons systematic review and evidence-based guidelines on pathological methods and prognostic factors in vestibular schwannomas. Neurosurgery. 2018 Feb 1;82(2):E47-8.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2018 Feb 1" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Congress of Neurological Surgeons - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;These evidence-based clinical practice guidelines were funded exclusively by the Congress of Neurological Surgeons and the Tumor Section of the Congress of Neurological Surgeons and the American Association of Neurological Surgeons, which received no funding from outside commercial sources to support the development of this document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Vestibular Schwannoma Evidence-Based Practice Guideline Task Force&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Task Force Members&lt;/em&gt;: Michael E. Sughrue, MD, Department of Neurosurgery, University of Oklahoma, Oklahoma City, Oklahoma; Kar-Ming Fung, MD, PhD, Department of Pathology, University of Oklahoma Health Sciences Center, Oklahoma City; Jamie J. Van Gompel, MD, Department of Neurosurgery and Department of Otorhinolaryngology, Mayo Clinic, Rochester, Minnesota; Jo Elle G. Peterson, MD, Department of Pathology, University of Oklahoma Health Sciences Center, Oklahoma City; Jeffrey J. Olson, MD, Department of Neurosurgery, Emory University School of Medicine, Atlanta, Georgia&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Conflict of Interest&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Vestibular Schwannoma Guidelines Task Force members were required to report all possible conflicts of interest (COIs) prior to beginning work on the guideline, using the COI disclosure form of the American Association of Neurological Surgeons/Congress of Neurological Surgeons (AANS/CNS) Joint Guidelines Committee, including potential COIs that are unrelated to the topic of the guideline. The CNS Guidelines Committee and Guideline Task Force Chair reviewed the disclosures and either approved or disapproved the nomination. The CNS Guidelines Committee and Guideline Task Force Chair are given latitude to approve nominations of Task Force members with possible conflicts and address this by restricting the writing and reviewing privileges of that person to topics unrelated to the possible COIs. The conflict of interest findings are provided in detail in the full-text introduction and methods manuscript (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="159" OrdBy="1255" ID="453" Name="Guideline Endorser(s)" Type="orglist">
+      <FieldValue Value="American Association of Neurological Surgeons - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;https://academic.oup.com/neurosurgery/article/82/2/E47/4764049&quot; title=&quot;Neurosurgery Web site&quot;&gt;Neurosurgery Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Congress of Neurological Surgeons systematic review and evidence-based guidelines on pathologic methods and prognostic factors in vestibular schwannomas. Full guideline. Schaumburg (IL): Congress of Neurological Surgeons (CNS); 2017 Dec 22. 19 p. Available from the &lt;a href=&quot;https://www.cns.org/guidelines/guidelines-management-patients-vestibular-schwannoma/chapter_6&quot; title=&quot;Congress of Neurological Surgeons (CNS) Web site&quot;&gt;Congress of Neurological Surgeons (CNS) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Congress of Neurological Surgeons systematic review and evidence-based guidelines on the treatment of adults with vestibular schwannomas: introduction and methods. Schaumburg (IL): Congress of Neurological Surgeons (CNS); 2017 Dec 22. 28 p.&amp;nbsp;Available from the &lt;a href=&quot;https://www.cns.org/guidelines/guidelines-management-patients-vestibular-schwannoma/chapter_1&quot; title=&quot;CNS Web site&quot;&gt;CNS Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Olson JJ, Kalkanis SN, Ryken TC. Congress of Neurological Surgeons systematic review and evidence-based guidelines on the treatment of adults with vestibular schwannomas: executive summary. Neurosurgery. 2018 Feb 1;82(2):129-34. Available from the &lt;a href=&quot;https://academic.oup.com/neurosurgery/article/82/2/129/4764052&quot; title=&quot;Neurosurgery Web site&quot;&gt;Neurosurgery Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Congress of Neurological Surgeons (CNS). Guideline development methodology: endorsed by the American Association of Neurological Surgeons (AANS), the Congress of Neurological Surgeons (CNS), and the AANS/CNS Joint Guideline Committee. Schaumburg (IL): Congress of Neurological Surgeons (CNS); 2012 Feb. 12 p. Available from the &lt;a href=&quot;https://www.cns.org/sites/default/files/jgcguidelinedevelopmentmethodology.pdf&quot; title=&quot;CNS Web site&quot;&gt;CNS Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on May 7, 2018. The information was verified by the guideline developer on June 4, 2018.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NEATS assessment was completed by ECRI Institute on April 25, 2018. The information was verified by the guideline developer on June 4, 2018.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

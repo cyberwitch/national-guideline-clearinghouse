@@ -1,0 +1,183 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Preoperative and pretreatment investigations for malignant melanoma.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alberta Provincial Cutaneous Tumour Team. Preoperative and pretreatment investigations for malignant melanoma. Edmonton (Alberta): CancerControl Alberta; 2013 Feb. 9 p.&amp;nbsp;(Clinical practice guideline; no. CU-007).&amp;nbsp; [8 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: Alberta Provincial Cutaneous Tumour Team. Preoperative and pretreatment investigations for malignant melanoma. Edmonton (Alberta): Alberta Health Services, Cancer Care; 2012 Mar. 8 p. (Clinical practice guideline; no. CU-007). [6 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;For staging definitions please refer to the Appendix in the original guideline document.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Clinical Presentation and Preliminary Work-up (National Comprehensive Cancer Network [NCCN], 2012)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Once melanoma has been confirmed, each of the following should be documented, as per the College of American Pathologists (CAP) Protocol for the Examination of Specimens from Patients with Melanoma of the Skin (CAP, 2011):&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Breslow thickness (specify mm, indeterminate) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Ulceration (present, not identified, indeterminate) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Clark level &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Microscopic satellitosis (not identified, present, indeterminate) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Macroscopic pigmentation (optional; not identified, present, present, patchy/focal, indeterminate) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mitotic rate (less than 1 per mm&lt;sup&gt;2&lt;/sup&gt; or specify number per mm&lt;sup&gt;2&lt;/sup&gt;) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Peripheral and deep margin status of biopsy (cannot be assessed, uninvolved by invasive melanoma, involved by invasive melanoma, uninvolved by melanoma in situ, involved by melanoma in situ) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Specimen laterality (right, left, midline, not specified) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tumour site &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tumour size &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tumour regression (not identified, present involving less than 75% of lesion, present involving 75% or more of lesion, indeterminate) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Histologic sub-type (melanoma not otherwise classified, superficial spreading melanoma, nodular melanoma, lentigo maligna melanoma, acral-lentiginous melanoma, desmoplastic and/or desmoplastic neurotropic melanoma, melanoma arising from blue nevus, melanoma arising in a giant congenital nevus, melanoma of childhood, nevoid melanoma, persistent melanoma, other) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tumour infiltrating lymphocytes (optional; not identified, present non-brisk, present brisk) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Growth phase (optional; radical, vertical, indeterminate) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Lymph-vascular invasion (not identified, present, indeterminate) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perineural invasion (optional; not identified, present, indeterminate) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Preliminary work-up should then include the following:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;History and physical exam (H&amp;amp;P) with attention to locoregional area, draining lymph nodes, and skin type &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Complete skin exam &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Family history of melanoma, prior primary melanoma, atypical moles, or dysplastic nevi &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Work-up by Clinical Stage&lt;/span&gt;&lt;/strong&gt; (NCCN, 2012)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Stage 0, &lt;em&gt;in situ&lt;/em&gt;&lt;/strong&gt; (Tis, N0, M0)&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;None &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Stage IA, Low Risk Primary&lt;/strong&gt; (&amp;le;1.0 mm thick, without ulceration and mitotic index &amp;lt;1/mm&lt;sup&gt;2&lt;/sup&gt;) N0, M0&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Further imaging (computed tomography [CT] scan, positron emission tomography [PET], magnetic resonance imaging [MRI]) only to evaluate specific signs or symptoms &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Consider discussion of sentinel node biopsy &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Stage IB, Intermediate Risk Primary&lt;/strong&gt; (&amp;le;1.0 mm thick, with ulceration or mitotic index &amp;ge;1/mm&lt;sup&gt;2&lt;/sup&gt; or 1.01&amp;ndash;2.0 mm thick without ulceration) N0, M0&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Chest x-ray (optional; however, for tumours &amp;gt;4 mm, baseline chest x-ray is indicated) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Further imaging to evaluate specific signs or symptoms for stage IIB, IIC patients (CT scan, PET, MRI) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Stage II, High Risk Primary&lt;/strong&gt; (1.01&amp;ndash;1.0 mm thick with ulceration or &amp;gt;2.01 mm thick any ulceration) N0, M0&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Chest x-ray (optional; however, for tumours &amp;gt;4 mm, baseline chest x-ray is indicated) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Further imaging to evaluate specific signs or symptoms for stage IIB, IIC patients (CT scan, PET, MRI) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Stage III&lt;/strong&gt; (any thickness), N1a-3 (sentinel lymph node), M0&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Consider baseline imaging (abdominal/chest imaging: x-ray, CT &amp;plusmn; PET) and to evaluate specific signs or symptoms &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Lactate dehydrogenase (LDH) (optional) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Stage III&lt;/strong&gt; (any thickness) &amp;ge;N1 (clinical), M0&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Fine needle aspiration (FNA) preferred, if feasible, or lymph node biopsy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Consider baseline imaging (abdominal/chest imaging: x-ray, CT &amp;plusmn; PET) and to evaluate specific signs or symptoms &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;LDH (optional) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Stage III In-transit&lt;/strong&gt; (any thickness) N3, M0&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Biopsy preferred; FNA if biopsy not possible &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Consider baseline imaging (abdominal/chest imaging: x-ray, CT &amp;plusmn; PET) and to evaluate specific signs or symptoms &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;LDH (optional) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Stage IV Metastatic&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;FNA preferred, if feasible or biopsy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Chest x-ray and/or chest CT &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;LDH &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Recommend abdominal and pelvic CT with MRI or CT of head, and/or PET &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Further imaging studies to evaluate specific signs or symptoms &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Recurrences&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;True Local Scar Recurrence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Biopsy to confirm &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Chest x-ray optional &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Complete blood count (CBC), LDH optional &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;CT scan, PET, MRI, as indicated &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Local, Satellitosis, and/or In-transit Recurrence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;FNA (preferred) or excisional biopsy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Chest x-ray and/or chest CT &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;CBC, LDH optional &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pelvic CT if inguinofemoral nodes clinically positive &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Other CT scans or other imaging studies if clinically indicated &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Nodal Recurrence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;FNA (preferred) or lymph node biopsy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Chest x-ray and/or chest CT &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;LDH &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pelvic CT if inguinofemoral nodes clinically positive &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Abdominal and pelvic CT &amp;plusmn; MRI head, PET scan as indicated &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Distant Recurrence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;FNA (preferred) or biopsy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Chest x-ray and/or chest CT &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;LDH &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Abdominal/pelvic CT, MRI brain, PET scan as indicated &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Malignant melanoma&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Evaluation" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Dermatology" />
+      <FieldValue Value="Oncology" />
+      <FieldValue Value="Pathology" />
+      <FieldValue Value="Radiology" />
+      <FieldValue Value="Surgery" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Clinical Laboratory Personnel" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To develop a consensus based guideline that outlines which tests should be included in the pre-operative and pre-treatment investigation ('work-up') of patients with malignant melanoma&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adults over the age of 18 years with malignant melanoma&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Different principles may apply to pediatric patients.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Preliminary work-up&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Examination and documentation of melanoma specimens as per the College of American Pathologists Protocol for the Examination of Specimens from Patients with Melanoma of the Skin &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;History and physical examination with attention to locoregional area, draining lymph nodes, and skin type &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Complete skin exam &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Family history of melanoma, prior primary melanoma, atypical moles, or dysplastic nevi &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Additional work-up (varies by clinical stage)&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Imaging (computed tomography [CT] scan, positron emission tomography [PET], magnetic resonance imaging [MRI], chest x-ray) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Sentinel node biopsy &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Lactate dehydrogenase (LDH) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Fine needle aspiration (FNA) or lymph node biopsy &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Complete blood count &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Sensitivity and specificity of diagnostic tests &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cost-effectiveness &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Research Questions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Specific research questions to be addressed by the guideline document were formulated by the guideline lead(s) and Knowledge Management (KM) Specialist using the PICO question format (Patient or Population, Intervention, Comparisons, Outcomes).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Guideline Question&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Which tests should be included in the work-up of patients with malignant melanoma?&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Search Strategy&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The MEDLINE (1966 through January 5, 2011), CINAHL, Cochrane,&amp;nbsp;American Society of Clinical Oncology (ASCO) Abstracts and proceedings, and CANCERLIT databases were searched. The search included practice guidelines, systematic reviews, meta-analyses, randomized controlled trials, and clinical trials. Search terms included: magnetic resonance imaging, computed tomography, positron emission tomography, imaging, sentinel node biopsy, chest x-ray, lactate dehydrogenase, fine needle aspiration, biopsy, complete blood count, or pre-operative and melanoma.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For the 2013 update of the guideline, PubMed was searched for evidence on imaging and blood work for cutaneous melanoma. The search term &quot;melanoma&quot; was used and results were limited to clinical trials, published between January 2012 and January 2013. Citations were hand-searched for studies pertaining to imaging and blood work, resulting in a total of two prospective studies.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Not stated" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Evidence was selected and reviewed by a working group comprised of members from the Alberta Provincial Cutaneous Tumour Team and a Knowledge Management (KM) Specialist from the Guideline Utilization Resource Unit (GURU). A detailed description of the methodology followed during the guideline development process can be found in the GURU Handbook (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Evidence Tables&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Evidence tables containing the first author, year of publication, patient group/stage of disease, methodology, and main outcomes of interest are assembled using the studies identified in the literature search. Existing guidelines on the topic are assessed by the KM Specialist using portions of the Appraisal of Guidelines Research and Evaluation (AGREE) II instrument (&lt;a href=&quot;http://www.agreetrust.org&quot; title=&quot;AGREE Web site&quot;&gt;http://www.agreetrust.org&lt;/a&gt;) and those meeting the minimum requirements are included in the evidence document. Due to limited resources, GURU does not regularly employ the use of multiple reviewers to rank the level of evidence; rather, the methodology portion of the evidence table contains the pertinent information required for the reader to judge for himself the quality of the studies.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Formulating Recommendations&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The working group members formulated the guideline recommendations based on the evidence synthesized by the Knowledge Management (KM) Specialist during the planning process, blended with expert clinical interpretation of the evidence. As detailed in the Guideline Utilization Resource Unit Handbook (see the &quot;Availability of Companion Documents&quot; field), the working group members may decide to adopt the recommendations of another institution without any revisions, adapt the recommendations of another institution or institutions to better reflect local practices, or develop their own set of recommendations by adapting some, but not all, recommendations from different guidelines.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The degree to which a recommendation is based on expert opinion of the working group and/or the Provincial Tumour Team members is explicitly stated in the guideline recommendations. Similar to the American Society of Clinical Oncology (ASCO) methodology for formulating guideline recommendations, the Guideline Utilization Resource Unit (GURU) does not use formal rating schemes for describing the strength of the recommendations, but rather describes, in conventional and explicit language, the type and quality of the research and existing guidelines that were taken into consideration when formulating the recommendations.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Following a review of the evidence by the Alberta Provincial Cutaneous Tumour Team, no changes were made to the recommendations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A study looking at the cost-effectiveness of positron emission tomography-computed tomography (PET-CT), CT only, and PET only as staging tests among melanoma patients with palpable proven lymph node metastases, found that CT alone decreased the cost of treatment by 5.5%, whereas PET alone and CT-PET increased the cost of diagnostic work-up and treatment by 7.2% and 15.1% respectively.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This guideline was reviewed and endorsed by the Alberta Provincial Cutaneous Tumour Team.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;When the draft guideline document has been completed, revised, and reviewed by the Knowledge Management (KM) Specialist and the working group members, it will be sent to all members of the Provincial Tumour Team for review and comment. This step ensures that those intended to use the guideline have the opportunity to review the document and identify potential difficulties for implementation before the guideline is finalized. Depending on the size of the document, and the number of people it is sent to for review, a deadline of one to two weeks will usually be given to submit any feedback. Ideally, this review will occur prior to the annual Provincial Tumour Team meeting, and a discussion of the proposed edits will take place at the meeting. The working group members will then make final revisions to the document based on the received feedback, as appropriate. Once the guideline is finalized, it will be officially endorsed by the Provincial Tumour Team Lead and the Executive Director of Provincial Tumour Programs.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="98" OrdBy="605" ID="425" Name="References Supporting the Recommendations" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;College of American Pathologists. Protocol for the examination of specimens from patients with melanoma of the skin. Version 3.1.0.0. Northfield (IL): College of American Pathologists; 2011 Feb 1. 18 p.  [31 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Comprehensive Cancer Network (NCCN). Melanoma guidelines, v.1.2012. Fort Washington (PA): National Comprehensive Cancer Network (NCCN); 2012. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The recommendations are supported by existing guidance.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Pre-operative or pre-treatment investigations in patients with malignant melanoma are important for establishing baseline values, confirming or re-evaluating treatment plans, or possibly identifying patients who may be suitable for inclusion in a clinical trial.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In general, care must be taken when interpreting the results of blood or imaging tests, given the relatively low sensitivity of some of these tests.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The recommendations contained in this guideline are a consensus of the Alberta Provincial Cutaneous Tumour Team and are a synthesis of currently accepted approaches to management, derived from a review of relevant scientific literature. Clinicians applying these guidelines should, in consultation with the patient, use independent medical judgment in the context of individual clinical circumstances to direct care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Present the guideline at the local and provincial tumour team meetings and weekly rounds. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Post the guideline on the Alberta Health Services website. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Send an electronic notification of the new guideline to all members of CancerControl Alberta. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alberta Provincial Cutaneous Tumour Team. Preoperative and pretreatment investigations for malignant melanoma. Edmonton (Alberta): CancerControl Alberta; 2013 Feb. 9 p.&amp;nbsp;(Clinical practice guideline; no. CU-007).&amp;nbsp; [8 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2012 Mar (revised 2013 Feb)" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="CancerControl Alberta - State/Local Government Agency [Non-U.S.]" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;CancerControl Alberta&lt;/p&gt;&#xD;&#xA;&lt;p&gt;There was no direct industry involvement in the development or dissemination of this guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Alberta Provincial Cutaneous Tumour Team&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Members of the Alberta Provincial Cutaneous Tumour Team include dermatologists,&amp;nbsp;medical oncologists, radiation oncologists, surgical oncologists, nurses, pathologists, and pharmacists.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Participation of members of the Alberta Provincial Cutaneous Tumour Team in the development of this guideline has been voluntary and the authors have not been remunerated for their contributions. CancerControl Alberta recognizes that although industry support of research, education and other areas is necessary in order to advance patient care, such support may lead to potential conflicts of interest. Some members of the Alberta Provincial Cutaneous Tumour Team are involved in research funded by industry or have other such potential conflicts of interest. However the developers of this guideline are satisfied it was developed in an unbiased manner.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: Alberta Provincial Cutaneous Tumour Team. Preoperative and pretreatment investigations for malignant melanoma. Edmonton (Alberta): Alberta Health Services, Cancer Care; 2012 Mar. 8 p. (Clinical practice guideline; no. CU-007). [6 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://www.albertahealthservices.ca/assets/info/hp/cancer/if-hp-cancer-guide-cu007-preop-pretreat-invest.pdf&quot; title=&quot;Alberta Health Services Web site&quot;&gt;Alberta Health Services Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Guideline utilization resource unit handbook. Edmonton (Alberta): CancerControl Alberta; 2013 Jan. 5 p. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on December 10, 2012. The information was verified by the guideline developer on January 23, 2013. This summary was updated by ECRI Institute on April 28, 2014. The updated information was verified by the guideline developer on June 6, 2014&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,231 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;The use of targeted therapies in patients with inoperable locally advanced or metastatic renal cell cancer: updated guideline 2017.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hotte S, Brown J, Canil C, Emmenegger U, Walker-Dilks C, Winquist E. The use of targeted therapies in patients with inoperable locally advanced or metastatic renal cell cancer: updated guideline 2017. Toronto (ON): Cancer Care Ontario (CCO); 2017 May 17. 78 p. &amp;nbsp;(Program in Evidence-Based Care Evidence Summary; no. 3-8.4 V2).  [79 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: Hotte S, Waldron T, Bjarnason G, Jewett M, MacKenzie M, Segal R, Winquist E, Genitourinary Cancer Disease Site Group. The use of inhibitors of angiogenesis in patients with inoperable locally advanced or metastatic renal cell cancer: guideline recommendations. Toronto (ON): Cancer Care Ontario (CCO); 2009 Apr 30. 45 p. (Evidence-based series; no. 3-8-4). [63 references]&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="705" OrdBy="150" Name="NEATS Assessment">
+    <Field FieldID="183" OrdBy="10" ID="706" Name="Disclosure of Guideline Funding Source" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="184" OrdBy="20" ID="707" Name="Disclosure and Management of Financial Conflict of Interests" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="185" OrdBy="30" ID="708" Name="Guideline Development Group Composition: Multidisciplinary Group" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="186" OrdBy="40" ID="709" Name="Guideline Development Group Composition: Methodologist Involvement" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="187" OrdBy="50" ID="710" Name="Guideline Development Group Composition: Patient and Public Perspectives" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="188" OrdBy="60" ID="711" Name="Use of a Systematic Review of Evidence: Search Strategy" Type="picklist-one">
+      <FieldValue Value="4" />
+    </Field>
+    <Field FieldID="189" OrdBy="70" ID="712" Name="Use of a Systematic Review of Evidence: Study Selection" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="190" OrdBy="80" ID="713" Name="Use of a Systematic Review of Evidence: Synthesis of Evidence" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="191" OrdBy="90" ID="714" Name="Evidence Foundations for and Rating Strength of Recommendations: Grading the Quality or Strength of Evidence" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="192" OrdBy="100" ID="715" Name="Evidence Foundations for and Rating Strength of Recommendations: Benefits and Harms of Recommendations" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="193" OrdBy="110" ID="716" Name="Evidence Foundations for and Rating Strength of Recommendations: Evidence Summary Supporting Recommendations" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="194" OrdBy="120" ID="717" Name="Evidence Foundations for and Rating Strength of Recommendations: Rating the Strength of Recommendations" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="195" OrdBy="130" ID="718" Name="Specific and Unambiguous Articulation of Recommendations" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="196" OrdBy="140" ID="719" Name="External Review" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="197" OrdBy="150" ID="720" Name="Updating" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Question 1&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;What are the optimal targeted therapies for locally advanced or metastatic renal cell cancer (mRCC)?&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Previously Untreated Patients&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Recommendation 1&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Either of the vascular endothelial growth factor receptor tyrosine kinase inhibitors (VEGF TKIs) sunitinib or pazopanib is recommended for previously untreated patients with locally advanced or mRCC.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Recommendation 2&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Although bevacizumab combined with interferon alpha (IFN-&amp;alpha;) is superior to IFN-&amp;alpha; alone, it is not recommended due to a high rate of side effects. Current data do not support the use of single-agent bevacizumab, and it is not recommended.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Recommendation 3&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Temsirolimus is a treatment option for first-line therapy for the subset of patients with poor-risk disease.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Previously Treated Patients&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Recommendation 4&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nivolumab is recommended over everolimus as a treatment for patients with advanced renal cell cancer (RCC) who have progressed on first- or second-line VEGF TKI.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Recommendation 5&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Cabozantinib is recommended over everolimus as a treatment for patients with advanced or mRCC who have progressed on vascular endothelial growth factor (VEGF) therapy.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Recommendation 6&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Everolimus is a treatment option for locally advanced or mRCC patients previously treated with first- or second-line VEGF TKI.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Recommendation 7&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Axitinib is a treatment option for second-line therapies.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Recommendation 8&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Sorafenib is a treatment option in patients with favourable- to intermediate-risk RCC previously treated with cytokine therapies.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Question 2&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Is a combination of agents better than any single targeted agent?&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Recommendation 9&lt;/em&gt; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Current evidence does not support the use of combinations of targeted agents outside of a clinical trial setting. Thus, there are no combinations of targeted therapies that can be recommended at this time.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Inoperable locally advanced or metastatic renal cell cancer (mRCC)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Assessment of Therapeutic Effectiveness" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Nephrology" />
+      <FieldValue Value="Oncology" />
+      <FieldValue Value="Pharmacology" />
+      <FieldValue Value="Urology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To determine the optimal targeted therapies for adult patients with locally advanced or metastatic renal cell cancer (mRCC) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To determine whether a combination of agents is better than any single targeted agent &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adult patients with inoperable locally advanced or metastatic renal cell cancer (mRCC)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Axitinib &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cabozantinib &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pazopanib &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sorafenib &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sunitinib &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Everolimus &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Temsirolimus &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Nivolumab &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Use of combinations of targeted agents outside of a clinical trial setting was considered but not recommended. The following were considered but no recommendations were made: cediranib, dovitinib, lenvatinib, nintedanib, bevacizumab, trebananib, naptumomab, thalidomide.&lt;/p&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Adverse effects of drug treatment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Clinical response rate &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Objective tumour response rate &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Overall response rate (ORR) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Overall survival (OS) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Progression-free survival (PFS) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Quality of life (QOL) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+      <FieldValue Value="Searches of Unpublished Data" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Search for Existing Guidelines&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;As a first step in developing this guideline, a search for existing guidelines was undertaken to determine whether an existing guideline could be adapted or endorsed. To this end, the following sources were searched for existing guidelines that addressed the research questions:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Practice guideline databases: the &lt;a href=&quot;https://cancerview.ca/sage&quot; title=&quot;SAGE Web site&quot;&gt;Standards and Guidelines Evidence Directory of Cancer Guidelines (SAGE)&lt;/a&gt;, &lt;a href=&quot;https://www.guideline.gov&quot; title=&quot;NGC Web site&quot; target=&quot;_blank&quot;&gt;Agency for Healthcare Research and Quality (AHRQ) National Guideline Clearinghouse&lt;/a&gt;, and the &lt;a href=&quot;https://www.cma.ca/En/Pages/SearchPage.aspx?k=guidelines&quot; title=&quot;CMA InfoBase Web site&quot;&gt;Canadian Medical Association InfoBase&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Guideline developer Web sites: &lt;a href=&quot;https://www.nice.org.uk/&quot; title=&quot;NICE Web site&quot;&gt;National Institute for Health and Care Excellence (NICE)&lt;/a&gt;, &lt;a href=&quot;http://www.sign.ac.uk/&quot; title=&quot;SIGN Web site&quot;&gt;Scottish Intercollegiate Guidelines Network (SIGN)&lt;/a&gt;, &lt;a href=&quot;http://www.asco.org/practice-guidelines/quality-guidelines/guidelines&quot; title=&quot;ASCO Web site&quot;&gt;American Society of Clinical Oncology (ASCO)&lt;/a&gt;, and &lt;a href=&quot;https://www.nhmrc.gov.au/guidelines/search?subject=30699&quot; title=&quot;NHMRC Web site&quot;&gt;National Health and Medical Research Council - Australia&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;This search did not yield a guideline that could be endorsed or adapted. A summary of the guideline search results can be found in Appendix D of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Literature Search Strategy&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;MEDLINE, EMBASE, and the Cochrane Database of Systematic Reviews were searched for existing systematic reviews that had been published since 2008. Relevant articles were identified by searches of MEDLINE (2008&amp;ndash;April 2016 week 19), EMBASE (2008&amp;ndash;2016 week 19), and the Cochrane Library (2016). The complete MEDLINE and EMBASE search strategies are detailed in Appendix B of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The conference proceedings of the annual meetings of the American Society of Clinical Oncology (2008&amp;ndash;2016), including the Genitourinary Cancer Symposium (2008&amp;ndash;2016), the European Society of Medical Oncology (2008&amp;ndash;2016), and the European Cancer Conference (2008&amp;ndash;2016) were also searched for relevant trials. Where relevant abstracts were identified, supplementary online resources (i.e., slides from accompanying presentations) were also searched for additional data.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The reference lists of eligible trials were searched for relevant articles, and the &lt;a href=&quot;https://www.guideline.gov/&quot; title=&quot;NGC Web site&quot; target=&quot;_blank&quot;&gt;National Guideline Clearinghouse&lt;/a&gt; was searched for existing evidence-based practice guidelines. Expert colleagues were also asked to identify any relevant unpublished or published trials not otherwise identified.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Study Selection Criteria&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Articles were eligible for inclusion into the systematic review if they met the following criteria:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;They were meta-analyses of randomized controlled trials (RCTs). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;They were RCTs (published or unpublished, full articles or abstracts) with &amp;ge;30 patients per study arm comparing:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Targeted therapy (&amp;plusmn;IFN-&amp;alpha; [interferon alpha], or IL-2 [interleukin-2]) vs. placebo, IFN-&amp;alpha;, or IL-2 &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Targeted therapy versus targeted therapy (alone or in combination) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Different schedules of targeted therapy &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Sequential administration of targeted therapy &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;They reported on at least one of the following outcomes: overall survival (OS), progression-free survival (PFS), quality of life (QOL), objective tumour response rate (RR), clinical RR, and adverse events (AEs). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;They were published in English, as translation capabilities were not available. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) flow diagram summarizing this information is provided in Appendix C of the original guideline document.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Articles were retrieved from the following databases: MEDLINE (n=2935), EMBASE (n=1264), and additional records identified through other sources (n=601). After duplicates were removed from the combined search results, 1673 articles were assessed by title and abstract for possible inclusion in the evidence summary. Of these, 1516 articles were rejected at the title level and the remaining 157 were assessed at the level of full text.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Thirty-nine randomized controlled trials (RCTs) (60 published reports) were included, with the most recent publication being used where duplicate reports exist. Table 4-2 in the original guideline document shows the RCTs from the original literature search (to 2009) and the updated search conducted for this review. The original literature search identified nine RCTs that satisfied the eligibility criteria (Table 4-2 original articles pre-2009). The remaining 30 RCTs were new trials published since the original 2009 report.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus (Committee)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Data Extraction and Assessment of Study Quality and Potential for Bias&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;All relevant papers identified by the literature search were assessed against the above selection criteria independently by two of the authors. Discrepancies regarding eligibility were resolved by consensus of all the authors. The methodologic quality of eligible trials was assessed using a modified version of the Cochrane Collaboration's tool for assessing risk of bias in randomized trials; the following seven risk of bias criteria were considered: 1) whether sample size was appropriate (i.e., based on statistical estimation), 2) whether treatment allocation was random, 3) whether allocation was concealed from the participants, 4) whether industry funding was obtained, 5) whether treatment arms were balanced for important baseline characteristics, 6) whether analyses were performed by intention-to-treat, and 7) whether the study was terminated early. Data extraction was performed by one of the authors, while a second reviewer acted as an independent auditor to verify the accuracy of the data extraction.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;If deemed appropriate, the completeness of reporting of the systematic reviews was analyzed using the Assessment of Multiple Systematic Reviews (AMSTAR) tool. The AMSTAR tool was used to assess the reviews' use of the following methodologies: 1) an 'a priori' study design, 2) duplicate study selection and data extraction, 3) a comprehensive literature search, 4) status of publication (i.e., grey literature) used as an inclusion criterion, 5) a list of studies (included and excluded) provided, 6) the characteristics of the included studies provided, 7) the scientific quality of the included studies assessed, 8) scientific quality of the included studies used appropriately in formulating conclusions, 9) the methods used to combine the findings of studies, 10) appropriate likelihood of publication bias assessed, and 11) conflict of interest stated.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Synthesizing the Evidence&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A quantitative analysis of the trial data was planned for the outcomes of interest if the authors deemed it appropriate (i.e., clinical homogeneity of the treatment regimens and patient populations). When data were available from two or more trials, a meta-analysis would be performed using Review Manager (RevMan 5.3.1) provided by the Cochrane Collaboration. The hazard ratio (HR) is the preferred statistic for pooling time-to-event outcomes because it incorporates data from the entire Kaplan-Meier curve and allows for censoring. When available, the HR would be extracted directly from the most recently reported trial results. The variances of the HR estimates would be calculated from the reported confidence intervals (CIs) or p-values using the methods described by Parmar et al.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Meta-Analysis&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Since there were few randomized controlled trials (RCTs) directly comparing the same intervention and control arms, direct meta-analysis was not possible for this report. In contrast to conventional pairwise meta-analysis, network meta-analysis can provide estimates of relative efficacy between all interventions, even though some have never been compared head to head. Three of 14 systematic reviews with outcomes relevant to this review performed network meta-analysis (or indirect comparisons) for targeted therapies in the treatment of metastatic renal cell cancer (mRCC). Where applicable, the results from these network meta-analyses were used when comparing the targeted therapies in this report. All three network meta-analyses used Bayesian hierarchical models using the Markov chain Monte Carlo software WinBUGS. One study used a random effects method to calculate the logarithm of the HR and its standard error for each indirect comparison. The other two studies used a fixed-effect model because of the small number of studies available for each treatment pair in the analysis.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;One meta-analysis examined sequencing and combinations of systematic therapy and was used to assess question 2 (Is a combination of agents better than any single targeted agent?). Of the remaining 10 systematic reviews, four performed network meta-analysis on RCTs already covered by the three studies listed above and were not discussed further. As well, six meta-analyses were excluded because they directly compared one specific targeted therapy of interest (e.g., sunitinib) on the one hand to all other targeted therapies on the other (e.g., pazaponib or axitinib or sorafenib); a comparator too heterogeneous for this report.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Since the network meta-analyses examine only a portion of the network of targeted therapies being assessed in this review, and since these meta-analyses did not evaluate adverse events, all individual RCTs were included and discussed individually in this report.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Guideline Developers&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline was developed by the Genitourinary Guideline Development Group (GDG) Working Group, which was convened at the request of Cancer Care Ontario (CCO).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The project was led by a small Working Group of the Genitourinary GDG, which was responsible for reviewing the evidence base, drafting the guideline recommendations, and responding to comments received during the document review process. The Working Group had expertise in medical oncology and health research methodology. Other members of the Genitourinary GDG served as the Expert Panel and were responsible for the review and approval of the draft document produced by the Working Group.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Guideline Development Methods&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Program in Evidence-Based Care (PEBC) produces evidence-based and evidence-informed guidance documents using the methods of the Practice Guidelines Development Cycle. This process includes a systematic review, interpretation of the evidence by the Working Group and draft recommendations, internal review by content and methodology experts, and external review by Ontario clinicians and other stakeholders.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The PEBC uses the Appraisal of Guidelines for Research and Evaluation (AGREE) II framework as a methodological strategy for guideline development. AGREE II is a 23-item validated tool that is designed to assess the methodological rigour and transparency of guideline development.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The currency of each document is ensured through periodic review and evaluation of the scientific literature and, where appropriate, the addition of newer literature to the original evidence base. This is described in the PEBC Document Assessment and Review Protocol (see the &quot;Availability of Companion Documents&quot; field). PEBC guideline recommendations are based on clinical evidence, and not on feasibility of implementation; however, a list of implementation considerations such as costs, human resources, and unique requirements for special or disadvantaged populations is provided along with the recommendations for information purposes. PEBC guideline development methods are described in more detail in the PEBC Handbook and the PEBC Methods Handbook (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="External Peer Review" />
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Guideline Review and Approval&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Internal Review&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For the guideline document to be approved, 75% of the content experts who comprise the Guideline Development Group (GDG) Expert Panel must cast a vote indicating whether or not they approve the document, or abstain from voting for a specified reason. Of those that vote, 75% must approve the document. In addition, the Program in Evidence-Based Care (PEBC) Report Approval Panel (RAP), a three-person panel with methodology expertise, must unanimously approve the document. The Expert Panel and RAP members may specify that approval is conditional, and that changes to the document are required. If substantial changes are subsequently made to the recommendations during external review, then the revised draft must be resubmitted for approval by RAP and the GDG Expert Panel.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;External Review&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Feedback on the approved draft guideline is obtained from content experts and the target users through two processes. Through the targeted peer review, several individuals with content expertise are identified by the GDG and asked to review and provide feedback on the guideline document. Through Professional Consultation, relevant care providers and other potential users of the guideline are contacted and asked to provide feedback on the guideline recommendations through a brief online survey. This consultation is intended to facilitate the dissemination of the final guidance report to Ontario practitioners.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;See Section 5 in the original guideline document for further discussion of the internal and external guideline review process and results.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The recommendations are supported by randomized controlled trials (RCTs).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Recent results from randomized trials evaluating inhibitors of angiogenesis show superior clinical benefits over interferon alpha (IFN-&amp;alpha;)-based immunotherapy (and placebo), with an acceptable toxicity profile, making these agents preferred treatment options.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The potential benefits identified in specific studies are reported in the guideline. See the Key Evidence discussions presented with each recommendation in Section 2 of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Sunitinib has been associated with more symptomatic side effects and pazopanib has been more frequently associated with hepatic toxicity. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Nivolumab has been associated with uncommon but severe immune-mediated adverse reactions, with the most common being enterocolitis, hepatitis, dermatitis (including toxic epidermal necrolysis), neuropathy, and endocrinopathy. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Individuals treated with cabozantinib showed significantly improved overall survival, but with more toxicity, compared with everolimus. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;See the original guideline document for additional information on harms of specific therapies.&lt;/p&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Care has been taken in the preparation of the information contained in the guideline. Nevertheless, any person seeking to consult the report or apply its recommendations is expected to use independent medical judgment in the context of individual clinical circumstances or to seek out the supervision of a qualified clinician. Cancer Care Ontario makes no representations or guarantees of any kind whatsoever regarding the report content or its use or application and disclaims any responsibility for its use or application in any way. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;See the original guideline document for qualifying statements related to each recommendation. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Quick Reference Guides/Physician Guides" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hotte S, Brown J, Canil C, Emmenegger U, Walker-Dilks C, Winquist E. The use of targeted therapies in patients with inoperable locally advanced or metastatic renal cell cancer: updated guideline 2017. Toronto (ON): Cancer Care Ontario (CCO); 2017 May 17. 78 p. &amp;nbsp;(Program in Evidence-Based Care Evidence Summary; no. 3-8.4 V2).  [79 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2017 May 17" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Program in Evidence-based Care - State/Local Government Agency [Non-U.S.]" />
+    </Field>
+    <Field FieldID="123" OrdBy="1230" ID="448" Name="Guideline Developer Comment" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Program in Evidence-based Care (PEBC) is a Province of Ontario initiative sponsored by Cancer Care Ontario and the Ontario Ministry of Health and Long-Term Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Program in Evidence-based Care (PEBC) is a provincial initiative of Cancer Care Ontario (CCO) supported by the Ontario Ministry of Health and Long-Term Care. All work produced by the PEBC is editorially independent from the Ontario Ministry of Health and Long-Term Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Genitourinary Cancer Disease Site Group&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Authors&lt;/em&gt;: S. Hotte, J. Brown, C. Canil, U. Emmenegger, C. Walker-Dilks, E. Winquist&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Conflict of interest declarations for all Guideline Development Group (GDG) members are summarized in Appendix A of the guideline, and were managed in accordance with the Program in Evidence-Based Care (PEBC) &lt;a href=&quot;https://www.cancercare.on.ca/cms/one.aspx?objectId=7582&amp;amp;contextId=1377&quot; title=&quot;Cancer Care Ontario (CCO) Web site&quot;&gt;Conflict of Interest Policy&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: Hotte S, Waldron T, Bjarnason G, Jewett M, MacKenzie M, Segal R, Winquist E, Genitourinary Cancer Disease Site Group. The use of inhibitors of angiogenesis in patients with inoperable locally advanced or metastatic renal cell cancer: guideline recommendations. Toronto (ON): Cancer Care Ontario (CCO); 2009 Apr 30. 45 p. (Evidence-based series; no. 3-8-4). [63 references]&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=379534&quot; title=&quot;Cancer Care Ontario (CCO) Web site&quot;&gt;Cancer Care Ontario (CCO) Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Hotte S, Brown J, Canil C, Emmenegger U, Walker-Dilks C, Winquist E. The use of targeted therapies in patients with inoperable locally advanced or metastatic renal cell cancer: updated guideline 2017. Summary. Toronto (ON): Cancer Care Ontario (CCO); 2017 May 17. 6 p. (Program in Evidence-Based Care Evidence Summary; no. 3-8.4 V2). Available from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=379532&quot; title=&quot;Cancer Care Ontario (CCO) Web site&quot;&gt;Cancer Care Ontario (CCO) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Program in Evidence-based Care handbook. Toronto (ON): Cancer Care Ontario (CCO); 2012. 14 p. Available from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=50876&quot; title=&quot;CCO Web site&quot;&gt;CCO Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Program in Evidence-based Care methods handbook. Toronto (ON): Cancer Care Ontario (CCO); 2017 Mar 3. Available from the &lt;a href=&quot;http://pebctoolkit.mcmaster.ca/doku.php?id=projectdev:pebc_methods_handbook&quot; title=&quot;Program in Evidence-based Care (PEBC) Toolkit Web site&quot;&gt;Program in Evidence-based Care (PEBC) Toolkit Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Program in Evidence-based Care document assessment and review protocol. Toronto (ON): Cancer Care Ontario (CCO); 2015 Apr 16. 15 p. Available from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=285439&quot; title=&quot;CCO Web site&quot;&gt;CCO Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on December 31, 2009. This summary was updated by ECRI Institute on June 26, 2017.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NEATS assessment was completed by ECRI Institute on August 30, 2017. The information was verified by the guideline developer on September 25, 2017.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions. Please refer to the &lt;a href=&quot;http://www.cancercare.on.ca/ontariocancernews/copyright.html&quot; title=&quot;CCO Web site&quot;&gt;Copyright and Disclaimer Statements&lt;/a&gt; posted at the Program in Evidence-based Care section of the Cancer Care Ontario Web site.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

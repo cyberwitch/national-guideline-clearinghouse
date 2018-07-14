@@ -1,0 +1,173 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;ACG clinical guideline: diagnosis and management of achalasia.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Vaezi MF, Pandolfino JE, Vela MF. ACG clinical guideline: diagnosis and management of achalasia. Am J Gastroenterol. 2013 Aug;108(8):1238-49. [103 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23877351&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: American College of Gastroenterology. Diagnosis and management of achalasia. Am J Gastroenterol. 1999 Dec;94(12):3406-12. [56 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The definitions for quality of evidence (&lt;strong&gt;high, moderate, low and very low&lt;/strong&gt;) and strength of recommendations (&lt;strong&gt;strong or weak&lt;/strong&gt;) are provided at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Definition and Epidemiology of Achalasia&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Achalasia must be suspected in those with dysphagia to solids and liquids and in those with regurgitation unresponsive to an adequate trial of proton pump inhibitor (PPI) therapy (&lt;strong&gt;Strong recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Diagnosis of Achalasia&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;All patients with suspected achalasia who do not have evidence of a mechanical obstruction on endoscopy or esophagram should undergo esophageal motility testing before a diagnosis of achalasia can be confirmed (&lt;strong&gt;Strong recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The diagnosis of achalasia is supported by esophagram findings including dilation of the esophagus, a narrow esophagogastric junction with &quot;bird-beak&quot; appearance, aperistalsis, and poor emptying of barium (&lt;strong&gt;Strong recommendation, moderate-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Barium esophagram is recommended to assess esophageal emptying and esophagogastric junction morphology in those with equivocal motility testing (&lt;strong&gt;Strong recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Endoscopic assessment of the gastroesophageal junction and gastric cardia is recommended in all patients with achalasia to rule out pseudoachalasia (&lt;strong&gt;Strong recommendation, moderate-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Tailored Approach to Treating Achalasia&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Either graded pneumatic dilation (PD) or laparoscopic surgical myotomy with a partial fundoplication are recommended as initial therapy for the treatment of achalasia in those fit and willing to undergo surgery (&lt;strong&gt;Strong recommendation, moderate-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;PD and surgical myotomy should be performed in high-volume centers of excellence (&lt;strong&gt;Strong recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The choice of initial therapy should be guided by patients' age, gender, preference, and local institutional expertise (&lt;strong&gt;Weak recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Botulinum toxin therapy is recommended in patients who are not good candidates for more definitive therapy with PD or surgical myotomy (&lt;strong&gt;Strong recommendation, moderate-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pharmacologic therapy for achalasia is recommended for patients who are unwilling or cannot undergo definitive treatment with either PD or surgical myotomy and have failed botulinum toxin therapy (&lt;strong&gt;Strong recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Patient Follow-Up&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patient follow-up after therapy may include assessment of both symptom relief and esophageal emptying by barium esophagram (&lt;strong&gt;Strong recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Surveillance endoscopy for esophageal cancer is not recommended (&lt;strong&gt;Strong recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Grading of Recommendations Assessment, Development, and Evaluation (GRADE) system was used to evaluate the quality of evidence and strength of recommendation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Quality of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;High&lt;/strong&gt;: Further research is very unlikely to change confidence in the estimate of effect.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Moderate&lt;/strong&gt;: Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Low&lt;/strong&gt;: Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Very Low&lt;/strong&gt;: Any estimate of effect is very uncertain.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strength of Recommendations&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strong&lt;/strong&gt;: The desirable effects of an intervention clearly outweigh the undesirable effects or clearly do not.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Weak&lt;/strong&gt;: The tradeoffs are less certain between the desirable and undesirable effects of an intervention.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An algorithm titled &quot;Recommended Treatment Algorithm for Patients with Achalasia&quot; is provided in the original guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Achalasia&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Gastroenterology" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Surgery" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To present an evidence-based approach in patients with achalasia based on a comprehensive review of the pertinent evidence and examination of relevant published data&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients with achalasia&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Assessment/Diagnosis&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Esophageal motility testing &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Barium esophagram &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Endoscopic assessment &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Management/Treatment&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Graded pneumatic dilation (PD) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Laparoscopic surgical myotomy with a partial fundoplication &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Botulinum toxin therapy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pharmacologic therapy:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Nitrates &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Calcium channel blockers &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Follow up:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Assessment of symptom relief &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Assessment of esophageal emptying (barium esophagram) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Sensitivity and specificity of diagnostic tests &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Incidence and severity of complications &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Degree of symptom relief &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cost-effectiveness of treatments &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A search of MEDLINE via PubMed was made using the term &quot;achalasia&quot; and limited to &quot;clinical trials&quot; and &quot;reviews&quot; for years 1970&amp;ndash;2012, and language restriction to English was made for preparation of the guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Quality of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The GRADE (Grading of Recommendations Assessment, Development and Evaluation) system was used to evaluate the quality of evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;High&lt;/strong&gt;: Further research is very unlikely to change&amp;nbsp;confidence in the estimate of effect.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Moderate&lt;/strong&gt;: Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Low&lt;/strong&gt;: Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Very Low&lt;/strong&gt;: Any estimate of effect is very uncertain.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;See the &quot;Rating Scheme for the Strength of the Evidence&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Conclusions were based on the best available evidence or, in the absence of quality evidence, expert opinion. See the &quot;Rating Scheme for the Strength of the Recommendations&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Strength of Recommendations&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The GRADE (Grading of Recommendations Assessment, Development, and Evaluation) system was used to evaluate the strength of recommendations.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strong&lt;/strong&gt;: The desirable effects of an intervention clearly outweigh the undesirable effects or clearly do not.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Weak&lt;/strong&gt;: The tradeoffs are less certain between the desirable and undesirable effects of an intervention.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Myotomy plus Dor fundoplication is more cost-effective than myotomy alone because of the costs of treating gastroesophageal reflux disease (GERD). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Two early studies compared the costs of Heller myotomy, pneumatic dilation (PD), and botulinum toxin injection. A cost minimization study from the year 2000 found that the costs per symptomatic cure over a 10-year horizon were $10,792 for Heller myotomy, $3,723 for botulinum injection, and $3,111 for PD. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A 2002 cost-effectiveness study that accounted for quality of life over a 5-year horizon determined the costs of botulinum injection, PD, and Heller myotomy to be $7,011, $7,069, and $21,407, respectively. Although the cost of botulinum toxin injection was slightly lower, PD was more cost-effective, with an incremental cost-effectiveness of $1,348 per quality-adjusted life year. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;More recently, a 2007 decision analytic model demonstrated that laparoscopic myotomy is more costly than PD in all tested scenarios; the expected cost per patient was $10,789 for myotomy compared with $5,315 for PD at 5 years after diagnosis. This cost differential persisted even after 10 years, with myotomy costing $11,804 compared with $7,717 for PD. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A 2007 randomized clinical trial also showed the superior cost-effectiveness of PD over myotomy. Thus, PD is consistently shown to be the most cost-effective treatment option for achalasia. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In an effort to make our new guidelines as &quot;fresh&quot; as possible when published, the American College of Gastroenterology (ACG) created a special guideline review process, involving members of the Board of Trustees, Practice Parameters Committee and the American Journal of Gastroenterology. It is our goal to review the guideline, allow the authors to revise the guideline, and re-review the guideline within 6 months of first submission. Therefore the entire process should take 1 year from commission to finished, accepted guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate diagnosis and management of patients with achalasia&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The most serious complication associated with pneumatic dilation (PD) is esophageal perforation with an overall median rate in experienced hands of 1.9% (range 0%&amp;ndash;16%). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Serious side effects associated with use of botulinum toxin are uncommon and the main treatment-specific issues are related to a 16%&amp;ndash;25% rate of developing chest pain and rare complications, such as mediastinitis and allergic reactions related to egg protein. In addition, multiple treatments can create an inflammatory reaction that may obscure the mucosal&amp;ndash;muscle plane associated with a higher rate of surgical complications. In addition, there is some evidence that injection of botulinum toxin into the lower esophageal sphincter (LES) may increase the difficulty in subsequent surgical myotomy. Given these limitations, the utilization of botulinum toxin is restricted to specific circumstances where PD and surgical myotomy are not considered appropriate because of inherent patient-related risks. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The clinical response with oral pharmacologic agents is short acting and the side effects, such as headache, hypotension, and pedal edema, are common limiting factors in their use. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Clinical Algorithm" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Vaezi MF, Pandolfino JE, Vela MF. ACG clinical guideline: diagnosis and management of achalasia. Am J Gastroenterol. 2013 Aug;108(8):1238-49. [103 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23877351&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="1999 Dec (revised 2013 Aug)" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="American College of Gastroenterology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American College of Gastroenterology&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Authors&lt;/em&gt;: Michael F. Vaezi, MD; PhD, MSc, FACG; John E. Pandolfino, MD, MSCI; Marcelo F. Vela, MD, MSCR&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Financial support&lt;/strong&gt;: None&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Potential competing interests&lt;/strong&gt;: None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: American College of Gastroenterology. Diagnosis and management of achalasia. Am J Gastroenterol. 1999 Dec;94(12):3406-12. [56 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://gi.org/guideline/diagnosis-and-management-of-achalasia/&quot; title=&quot;ACG Web site&quot;&gt;American College of Gastroenterology (ACG) Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;American College of Gastroenterology Practice Parameters Committee. Guideline development policies. 2010 Jan. Available from the &lt;a href=&quot;http://gi.org/clinical-guidelines/guideline-development-policies/&quot; title=&quot;American College of Gastroenterology (ACG) Web site&quot;&gt;American College of Gastroenterology (ACG) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This summary was completed by ECRI Institute on April 4, 2000. This summary was updated by ECRI Institute on November 6, 2013. The updated information was verified by the guideline developer on November 12, 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

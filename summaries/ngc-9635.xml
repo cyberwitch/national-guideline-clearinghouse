@@ -1,0 +1,183 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Toxoplasmosis in pregnancy: prevention, screening, and treatment.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Paquet C, Yudin MH, Infectious Disease Committee. Toxoplasmosis in pregnancy: prevention, screening, and treatment. J Obstet Gynaecol Can. 2013;35(1 eSuppl A):S1-7. [32 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The quality of evidence &lt;strong&gt;(I-III)&lt;/strong&gt; and classification of recommendations &lt;strong&gt;(A-E, L)&lt;/strong&gt; are defined at the end of the &quot;Major Recommendations.&quot;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Diagnosis&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Routine universal screening should not be performed for pregnant women at low risk. Serologic screening should be offered only to pregnant women considered to be at risk for primary &lt;em&gt;Toxoplasma gondii&lt;/em&gt; (&lt;em&gt;T. gondii&lt;/em&gt;) infection. &lt;strong&gt;(II-3E)&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Suspected recent infection in a pregnant woman should be confirmed before intervention by having samples tested at a toxoplasmosis reference laboratory, using tests that are as accurate as possible and correctly interpreted. &lt;strong&gt;(II-2B)&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If acute infection is suspected, repeat testing should be performed within 2 to 3 weeks, and consideration given to starting therapy with spiramycin immediately, without waiting for the repeat test results. &lt;strong&gt;(II-2B)&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Amniocentesis should be offered to identify &lt;em&gt;T. gondii&lt;/em&gt; in the amniotic fluid by polymerase chain reaction (a) if maternal primary infection is diagnosed, (b) if serologic testing cannot confirm or exclude acute infection, or (c) in the presence of abnormal ultrasound findings (intracranial calcification, microcephaly, hydrocephalus, ascites, hepatosplenomegaly, or severe intrauterine growth restriction). &lt;strong&gt;(II-2B)&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Amniocentesis should not be offered for the identification of&amp;nbsp;&lt;em&gt;T. gondii&lt;/em&gt; infection at less than 18 weeks&amp;rsquo; gestation and should be offered no less than 4 weeks after suspected acute maternal infection to lower the occurrence of false-negative results. &lt;strong&gt;(II-2D)&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Toxoplasmosis in Pregnancy&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;6&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;T. gondii&lt;/em&gt; infection should be suspected and screening should be offered to pregnant women with ultrasound findings consistent with possible TORCH (toxoplasmosis, rubella, cytomegalovirus, herpes, and other) infection, including but not limited to intracranial calcification, microcephaly, hydrocephalus, ascites, hepatosplenomegaly, or severe intrauterine growth restriction. &lt;strong&gt;(II-2B)&lt;/strong&gt;&lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Treatment&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;7&quot;&gt;&#xD;&#xA;    &lt;li&gt;Each case involving a pregnant woman suspected of having an acute &lt;em&gt;T. gondii&lt;/em&gt; infection acquired during gestation should be discussed with an expert in the management of toxoplasmosis. &lt;strong&gt;(III-B)&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If maternal infection has been confirmed but the fetus is not yet known to be infected, spiramycin should be offered for fetal prophylaxis (to prevent spread of organisms across the placenta from mother to fetus). &lt;strong&gt;(I-B)&lt;/strong&gt;&lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Prevention&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;9&quot;&gt;&#xD;&#xA;    &lt;li&gt;A combination of pyrimethamine, sulfadiazine, and folinic acid should be offered as treatment for women in whom fetal infection has been confirmed or is highly suspected (usually by a positive amniotic fluid polymerase chain reaction). &lt;strong&gt;(I-B)&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Anti-toxoplasma treatment in immunocompetent pregnant women with previous infection with &lt;em&gt;T. gondii&lt;/em&gt; should not be necessary. &lt;strong&gt;(I-E)&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Women who are immunosuppressed or human immunodeficiency virus (HIV)-positive should be offered screening because of the risk of reactivation and toxoplasmosis encephalitis. &lt;strong&gt;(I-A)&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A non-pregnant woman who has been diagnosed with an acute &lt;em&gt;T. gondii&lt;/em&gt; infection should be counselled to wait 6 months before attempting to become pregnant. Each case should be considered separately in consultation with an expert. &lt;strong&gt;(III-B)&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Information on prevention of &lt;em&gt;T. gondii&lt;/em&gt; infection in pregnancy should be made available to all women who are pregnant or planning a pregnancy. &lt;strong&gt;(III-C)&lt;/strong&gt;&lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Quality of Evidence Assessment*&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;I&lt;/strong&gt;: Evidence obtained from at least one properly randomized controlled trial&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-1&lt;/strong&gt;: Evidence from well-designed controlled trials without randomization&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-2&lt;/strong&gt;: Evidence from well-designed cohort (prospective or retrospective) or case&amp;ndash;control studies, preferably from more than one centre or research group&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-3&lt;/strong&gt;: Evidence obtained from comparisons between times or places with or without the intervention. Dramatic results in uncontrolled experiments (such as the results of treatment with penicillin in the 1940s) could also be included in this category&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;III&lt;/strong&gt;: Opinions of respected authorities, based on clinical experience, descriptive studies, or reports of expert committees&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Adapted from The Evaluation of Evidence criteria described in the Canadian Task Force on Preventive Health Care.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Classification of Recommendations&amp;dagger;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;A.&lt;/strong&gt; There is good evidence to recommend the clinical preventive action&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;B.&lt;/strong&gt; There is fair evidence to recommend the clinical preventive action&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;C.&lt;/strong&gt; The existing evidence is conflicting and does not allow to make a recommendation for or against use of the clinical preventive action; however, other factors may influence decision-making&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;D.&lt;/strong&gt; There is fair evidence to recommend against the clinical preventive action&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;E.&lt;/strong&gt; There is good evidence to recommend against the clinical preventive action&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;L.&lt;/strong&gt; There is insufficient evidence (in quantity or quality) to make a recommendation; however, other factors may influence decision-making&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&amp;dagger;Adapted from the Classification of Recommendations criteria described in the Canadian Task Force on Preventive Health Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Toxoplasmosis in pregnancy&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Prevention" />
+      <FieldValue Value="Screening" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Infectious Diseases" />
+      <FieldValue Value="Obstetrics and Gynecology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To review the prevention, diagnosis, and management of toxoplasmosis in pregnancy&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Pregnant women &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Non-pregnant women diagnosed with acute &lt;em&gt;Toxoplasma gondii&lt;/em&gt; infection planning a pregnancy &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Screening/Diagnosis&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Routine universal screening (considered but not recommended) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Serologic screening for pregnant women at risk for primary &lt;em&gt;Toxoplasma gondii&lt;/em&gt; (&lt;em&gt;T. gondii&lt;/em&gt;) infection &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Confirm infection before intervention by having samples tested at a toxoplasmosis reference laboratory &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Amniocentesis &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Treatment/Management&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Consultation with expert in management of toxoplasmosis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Spiramycin for fetal prophylaxis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Combination of pyrimethamine, sulfadiazine, and folinic acid &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Prevention&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Counseling non-pregnant woman diagnosed with acute &lt;em&gt;T. gondii&lt;/em&gt; infection to wait 6 months before attempting to become pregnant &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient education &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Effect of screening on diagnosis of congenital toxoplasmosis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Efficacy of prophylaxis and treatment &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Cochrane Library and Medline were searched for articles published in English from 1990 to the present related to toxoplasmosis and pregnancy. Additional articles were identified through references of these articles.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Quality of Evidence Assessment*&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;I&lt;/strong&gt;: Evidence obtained from at least one properly randomized controlled trial&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-1&lt;/strong&gt;: Evidence from well-designed controlled trials without randomization&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-2&lt;/strong&gt;: Evidence from well-designed cohort (prospective or retrospective) or case&amp;ndash;control studies, preferably from more than one centre or research group&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-3&lt;/strong&gt;: Evidence obtained from comparisons between times or places with or without the intervention. Dramatic results in uncontrolled experiments (such as the results of treatment with penicillin in the 1940s) could also be included in this category&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;III&lt;/strong&gt;: Opinions of respected authorities, based on clinical experience, descriptive studies, or reports of expert committees&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Adapted from The Evaluation of Evidence criteria described in the Canadian Task Force on Preventive Health Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The quality of evidence was rated and recommendations made according to guidelines developed by the Canadian Task Force on Preventative Health Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Classification of Recommendations&amp;dagger;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;A.&lt;/strong&gt; There is good evidence to recommend the clinical preventive action&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;B.&lt;/strong&gt; There is fair evidence to recommend the clinical preventive action&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;C.&lt;/strong&gt; The existing evidence is conflicting and does not allow to make a recommendation for or against use of the clinical preventive action; however, other factors may influence decision-making&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;D.&lt;/strong&gt; There is fair evidence to recommend against the clinical preventive action&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;E.&lt;/strong&gt; There is good evidence to recommend against the clinical preventive action&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;L.&lt;/strong&gt; There is insufficient evidence (in quantity or quality) to make a recommendation; however, other factors may influence decision-making&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&amp;dagger;Adapted from the Classification of Recommendations criteria described in the Canadian Task Force on Preventive Health Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This clinical practice guideline has been prepared by the Infectious Disease Committee, reviewed by the Family Practice Advisory Committee and the Maternal Fetal Medicine Committee, and approved by the Executive and Council of the Society of Obstetricians and Gynaecologists of Canada.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Guideline implementation should assist the practitioner in developing an approach to screening for and treatment of toxoplasmosis in pregnancy. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients will benefit from appropriate management of this condition. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The low prevalence of the disease in the Canadian population and limitations in diagnosis and therapy limit the effectiveness of screening strategies.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This document reflects emerging clinical and scientific advances on the date issued and is subject to change. The information should not be construed as dictating an exclusive course of treatment or procedure to be followed. Local institutions can dictate amendments to these opinions. They should be well documented if modified at the local level. None of these contents may be reproduced in any form without prior written permission of the Society of Obstetricians and Gynaecologists of Canada (SOGC).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Foreign Language Translations" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Paquet C, Yudin MH, Infectious Disease Committee. Toxoplasmosis in pregnancy: prevention, screening, and treatment. J Obstet Gynaecol Can. 2013;35(1 eSuppl A):S1-7. [32 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2013 Jan" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Society of Obstetricians and Gynaecologists of Canada - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Society of Obstetricians and Gynaecologists of Canada&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Infectious Diseases Committee&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Principal Authors&lt;/em&gt;: Caroline Paquet, RM, Trois-Rivi&amp;egrave;res QC and Mark H. Yudin, MD, Toronto ON&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Infectious Diseases Committee&lt;/em&gt;: Mark H. Yudin, MD &lt;em&gt;(Chair)&lt;/em&gt;, Toronto ON; Victoria M. Allen, MD, Halifax NS; C&amp;eacute;line Bouchard, MD, Quebec QC; Marc Boucher, MD, Montreal QC; Sheila Caddy, MD, Edmonton AB; Eliana Castillo, MD, Calgary AB; Deborah M. Money, MD, Vancouver BC; Kellie E. Murphy, MD, Toronto ON; Gina Ogilvie, MD, Vancouver BC; Caroline Paquet, RM, Trois-Rivi&amp;egrave;res QC; Julie van Schalkwyk, MD, Vancouver BC; Vyta Senikas, MD, Ottawa ON&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Disclosure statements have been received from all members of the committee.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available in Portable Document Format (PDF) from the &lt;a href=&quot;http://sogc.org/guidelines/toxoplasmosis-in-pregnancy-prevention-screening-and-treatment/&quot; title=&quot;Society of Obstetricians and Gynaecologists of Canada (SOGC) Web site&quot;&gt;Society of Obstetricians and Gynaecologists of Canada (SOGC) Web site&lt;/a&gt;. Also available in French from the &lt;a href=&quot;http://sogc.org/fr/directives-cliniques/toxoplasmose-pendant-la-grossesse-prevention-depistage-et-traitement/&quot; title=&quot;Society of Obstetricians and Gynaecologists of Canada (SOGC) Web site&quot;&gt;SOGC Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Print copies: Available from the Society of Obstetricians and Gynaecologists of Canada, La soci&amp;eacute;t&amp;eacute; des obst&amp;eacute;triciens et gyn&amp;eacute;cologues du Canada (SOGC) 780 promenade Echo Drive Ottawa, ON K1S 5R7 (Canada); Phone: 1-800-561-2416.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on March 21, 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

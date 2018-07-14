@@ -1,0 +1,241 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Management of indirect neonatal hyperbilirubinemia.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;University of Michigan Health System. Management of indirect neonatal hyperbilirubinemia. Ann Arbor (MI): University of Michigan Health System; 2017 Oct. 19 p.  [49 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="705" OrdBy="150" Name="NEATS Assessment">
+    <Field FieldID="183" OrdBy="10" ID="706" Name="Disclosure of Guideline Funding Source" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="184" OrdBy="20" ID="707" Name="Disclosure and Management of Financial Conflict of Interests" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="185" OrdBy="30" ID="708" Name="Guideline Development Group Composition: Multidisciplinary Group" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="186" OrdBy="40" ID="709" Name="Guideline Development Group Composition: Methodologist Involvement" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="187" OrdBy="50" ID="710" Name="Guideline Development Group Composition: Patient and Public Perspectives" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="188" OrdBy="60" ID="711" Name="Use of a Systematic Review of Evidence: Search Strategy" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="189" OrdBy="70" ID="712" Name="Use of a Systematic Review of Evidence: Study Selection" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="190" OrdBy="80" ID="713" Name="Use of a Systematic Review of Evidence: Synthesis of Evidence" Type="picklist-one">
+      <FieldValue Value="4" />
+    </Field>
+    <Field FieldID="191" OrdBy="90" ID="714" Name="Evidence Foundations for and Rating Strength of Recommendations: Grading the Quality or Strength of Evidence" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="192" OrdBy="100" ID="715" Name="Evidence Foundations for and Rating Strength of Recommendations: Benefits and Harms of Recommendations" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="193" OrdBy="110" ID="716" Name="Evidence Foundations for and Rating Strength of Recommendations: Evidence Summary Supporting Recommendations" Type="picklist-one">
+      <FieldValue Value="4" />
+    </Field>
+    <Field FieldID="194" OrdBy="120" ID="717" Name="Evidence Foundations for and Rating Strength of Recommendations: Rating the Strength of Recommendations" Type="picklist-one">
+      <FieldValue Value="2" />
+    </Field>
+    <Field FieldID="195" OrdBy="130" ID="718" Name="Specific and Unambiguous Articulation of Recommendations" Type="picklist-one">
+      <FieldValue Value="4" />
+    </Field>
+    <Field FieldID="196" OrdBy="140" ID="719" Name="External Review" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="197" OrdBy="150" ID="720" Name="Updating" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Note from the University of Michigan Health System (UMHS) and the National Guideline Clearinghouse (NGC)&lt;/em&gt;&lt;/strong&gt;: The following guidance was current as of October 2017. Because UMHS occasionally releases minor revisions to its guidance based on new information, users may wish to consult the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/InptHyperbili/Hyperbili.pdf%20&quot; title=&quot;University of Michigan Health System (UMHS) Web site&quot;&gt;original guideline document&lt;/a&gt; for the most current version.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Note from NGC&lt;/strong&gt;: The following key points summarize the content of the guideline. Refer to the original guideline document for additional information. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The strength of recommendation (I-III) and levels of evidence (A-E) are defined at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Key Points&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Prevention&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Feed newborns, starting at birth, at least 8 times per day. Feedings should be based on feeding cues with attempts at least every 3 hours.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Continue breastfeeding even if feeding difficulties arise. In certain circumstances, expressed breast milk or formula supplementation may be warranted. Discourage discontinuation of breastfeeding, even for diagnostic purposes in the setting of suspected breast-milk jaundice.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Feeding supplementation is not indicated for sleepy neonates during first 24 to 48 hours, unless signs of dehydration, or weight loss more than the 95th percentile per the newborn weight tool (NEWT).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Feeding recommendations are not relevant if a patient is critically ill and enteral feeds are being withheld.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Diagnosis&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The approach to diagnosing hyperbilirubinemia will differ depending on whether it is detected via screening during the birth hospitalization (see Figure 1 in the original guideline document) or later in follow-up (see Figure 2 in the original guideline document). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;History&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Assess all newborns for risk factors for developing hyperbilirubinemia (see Table 1 in the original guideline document).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Bilirubin Measurement&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A total bilirubin (total serum bilirubin [TSB] or transcutaneous bilirubin [TcB]) level should be measured on all newborns prior to discharge &lt;em&gt;[I-C]&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Choose appropriate test for bilirubin levels (see Table 5 in the original guideline document) &lt;/p&gt;&#xD;&#xA;&lt;p&gt;If TSB is indicated, the first level should be fractionated to rule out direct hyperbilirubinemia. Subsequent measurements can be total bilirubin alone. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The first measurement should be obtained at 16 to 24 hours of life &lt;em&gt;[I-C]&lt;/em&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Discharge prior to 16 hours of life is strongly discouraged. If extenuating circumstances result in the discharge of a neonate prior to 16 hours of life, appropriate follow-up for evaluation of hyperbilirubinemia should be arranged. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Total bilirubin levels should be plotted on the hour-specific nomogram to direct follow up (see Figures 4 and 5 in the original guideline document). If point of care (POC) bilirubin is obtained in the outpatient setting, consider that serum measurements can be 10% higher when interpreting the results. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Further Investigation into Underlying Etiology&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Investigation into rarer causes of hyperbilirubinemia is recommended in certain circumstances (see Table 4 in the original guideline document).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Risk Stratification&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Use risk stratification (lower, medium, or higher risk ([see Table 3 in the original guideline document]) to determine phototherapy and exchange-transfusion thresholds. To risk stratify, combine gestational age (GA) with presence of neurotoxicity risk factors (see Table 1 in the original guideline document) &lt;em&gt;[I-D]&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Treatment&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For overview, see Figure 3 in the original guideline document.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Decision to admit to the hospital and treat should be based on TSB &lt;em&gt;[I-D]&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Intensive phototherapy can be expected to decrease bilirubin levels by 30% to 40% in 24 hours, with most being in the first 4 to 6 hours. Intensive phototherapy should be initiated in the following circumstances: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;When total bilirubin is at or above the phototherapy treatment threshold based on hour-specific nomograms (see Figure 4 in the original guideline document) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;When TSB rate of rise is greater than 0.2 mg/dL/hour and TSB is predicted to cross treatment threshold prior to next evaluation &lt;em&gt;[I-D]&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;There is lack of evidence to support the routine use of home phototherapy when the bilirubin level is at, near, or above the treatment threshold. However, home phototherapy can be considered when bilirubin is 0-2 mg/dL below the treatment threshold at discharge from the birth hospitalization or in the outpatient setting in the following circumstances:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Neonates who feed well, appear well, and have close follow up arranged &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Neonates with &lt;strong&gt;no&lt;/strong&gt; neurotoxicity risk factors (low risk or medium risk based on gestational age alone) &lt;em&gt;[III-C]&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Neonates without prior history of intensive phototherapy treatment &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;When bilirubin values are at or near exchange transfusion values:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Maximize surface area exposed to phototherapy by removing unnecessary clothing (minimal/no diaper) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Use highly reflective materials to surround the neonate to increase surface area exposed and irradiance &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Use multiple light sources (measure irradiance at various sites) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Consider adjunctive therapies, including intravenous immunoglobulin (IVIG) and IV hydration &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Notably, turning baby from prone to supine in an alternating fashion has &lt;strong&gt;not&lt;/strong&gt; been shown to be efficacious &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;For most neonates, routine &lt;strong&gt;IV supplementation&lt;/strong&gt; is &lt;strong&gt;not&lt;/strong&gt; warranted. However, for neonates with severe hyperbilirubinemia, IV fluid administration may be useful and is recommended.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Use of &lt;strong&gt;IVIG&lt;/strong&gt; may be useful in Rh or ABO disease.&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Use should be restricted to select neonates in the neonatal intensive care unit (NICU) with high bilirubin values or rapid rate of rise (at high risk for exchange transfusion). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Neonates should be monitored closely. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dose 0.5g/kg over 2 hours, repeat as clinically indicated. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;An &lt;strong&gt;exchange transfusion&lt;/strong&gt; should be considered when a serum bilirubin value surpasses the applicable American Academy of Pediatrics (AAP) recommended threshold value (see Figure 5 in the original guideline document).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Monitoring&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Following the initiation of phototherapy, only serum bilirubin (TSB) levels are recommended. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Stop phototherapy once serum bilirubin has fallen to a level at least 3 mg/dL below the phototherapy threshold. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Rebound levels at 6 hours are not predictive of subsequent repeat phototherapy. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;If treated prior to initial hospitalization discharge (post-delivery), consider repeat TSB 24 hours after discontinuation of phototherapy. This can be done as an outpatient. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;If preterm, direct antiglobulin test (DAT)+, or treated after readmission and serum bilirubin is &lt;strong&gt;greater&lt;/strong&gt; than 14, recheck TSB 12 to 24 hours after discontinuation of phototherapy. This can be done as an outpatient. (If bilirubin is &amp;le;14, routine repeat TSB is not indicated in all neonates.) &lt;/p&gt;&#xD;&#xA;&lt;p&gt;When treating with exchange transfusion, recheck bilirubin every 4 to 6 hours, depending on the rate of decline. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;A neonate being treated with home phototherapy (fiber optic blanket, Bili Blanket) should have a TSB checked:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Every 24 to 48 hours if the neonate is low risk &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Every 24 hours if the neonate is medium risk and has no neurotoxicity risk factors &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Discharge should not be delayed to obtain a rebound bilirubin level. Rebound levels can be checked as an outpatient when indicated.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Follow-up&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Timing and frequency of follow up after birth hospitalization should be influenced by risk of development of severe hyperbilirubinemia. This can be determined by risk factors for development of severe hyperbilirubinemia (see Table 2 in the original guideline document) as well as plotting TcB or TSB on the Bhutani nomogram (see Appendix 1 in the original guideline document).&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;For those at higher risk, follow up should occur 1 day following birth hospitalization discharge &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;After hospital discharge from phototherapy, primary care physician (PCP) follow-up should be arranged within 24 hours, or 48 hours when no serum bilirubin recheck is required (i.e., discharge bilirubin &amp;lt;14).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Phototherapy Techniques&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Fiberoptic Phototherapy Blanket&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The fiber optic blanket should be applied next to the neonate's skin. The neonate may wear a diaper. The parents should swaddle the neonate with the fiber optic blanket next to the skin to avoid hypothermia. Feeding can continue with the blanket next to the neonate's skin. If necessary, to optimize feeding, the neonate may be removed from the blanket for up to 30 minutes every 2 to 3 hours. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Inpatient Phototherapy&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Babies receiving inpatient phototherapy should receive &quot;intensive&quot; phototherapy &lt;em&gt;[I-C]&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For the majority of term neonates, phototherapy using a single overhead LED light source will provide intensive phototherapy and will be sufficient. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Phototherapy using a single overhead LED light source and fiberoptic blanket may be indicated when the serum bilirubin value is:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Rising more than 0.5 mg/dl/hour &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Within 3 mg/dl below the exchange transfusion threshold &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Fails to respond to initial phototherapy &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Use of 2 angled overhead lights, a fiberoptic blanket, and white sheets as a reflective surface may be indicated when bilirubin is at or above the exchange transfusion threshold. This is done in the NICU.&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Body surface area exposed and continuity of therapy (i.e., minimizing interruptions) will influence efficacy. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Irradiance should be measured regularly. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;There is a lack of evidence to support the use of fiberoptic blanket alone. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;When neonates are not considered high risk for exchange transfusion, phototherapy can be temporarily halted to allow for bonding and breastfeeding. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Levels of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-alpha;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Systematic reviews of randomized controlled trials with or without meta-analysis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Randomized controlled trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Systematic review of non-randomized controlled trials or observational studies, non-randomized controlled trials, group observation studies (cohort, cross-sectional, case-control) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Individual observational studies (case study/case series) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Expert opinion regarding benefits and harm &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strength of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-roman;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Generally should be performed &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;May be reasonable to perform &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Generally should not be performed &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following algorithms are provided in the original guideline document: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Birth Hospitalization &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Outpatient Hyperbilirubinemia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Hyperbilirubinemia Treatment &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Indirect neonatal hyperbilirubinemia&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Prevention" />
+      <FieldValue Value="Risk Assessment" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Critical Care" />
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Gastroenterology" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Pediatrics" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To create an evidence-based standard for the management of neonates with indirect hyperbilirubinemia across all care settings (newborn nursery, intensive care units, general inpatient service, home care, primary care, and emergency department) that provides appropriate care to patients, reduces unnecessary diagnostic tests and interventions, and improves patient outcomes&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Neonates less than 8 days of life &lt;em&gt;and&lt;/em&gt; 35 weeks gestation or more&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: This guideline does not include the management of neonatal direct hyperbilirubinemia or hyperbilirubinemia in patients greater than 8 days of age. This guideline excludes premature neonates born prior to 35 weeks gestation.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Diagnosis/Evaluation&lt;/span&gt;&lt;/strong&gt; &lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Assessment of history for risk factors &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Bilirubin measurement&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Total serum bilirubin (TSB) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Transcutaneous bilirubin (TcB) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Further investigation into underlying etiology, as necessary &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Risk stratification &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Treatment/Management&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Admission to hospital based on TSB &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Initiation of intensive phototherapy&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Single or double overhead LED lights &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Fiberoptic phototherapy blanket &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;White sheets as reflective surface &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Home phototherapy (i.e., fiberoptic phototherapy blanket) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Intravenous (IV) supplementation for severe hyperbilirubinemia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Intravenous immunoglobulin (IVIG) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Exchange transfusion &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Monitoring of TSB levels &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Discontinuation of phototherapy, as indicated &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Monitoring of rebound levels &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Follow-up evaluation with primary care physician (PCP) &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Prevention&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Exclusive breastfeeding from birth, at least 8 times per day &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Discouraging discontinuation of breastfeeding &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Feeding supplementation, as indicated &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Sensitivity/specificity of diagnostic tests &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cure rate &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Infection rate &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Time to improvement &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Complications &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mortality &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adverse events &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Strategy for Literature Search&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Within the Medline (Ovid) database, the following search strategy was used. &lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;exp *hyperbilirubinemia, neonatal/ &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;*hyperbilirubinemia/ or *jaundice/ or *kernicterus/ &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;limit 2 to &quot;all infant (birth to 23 months)&quot; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;(neonatal or neonate* or infant* or newborn*).ti. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;2 and 4 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;exp animals/ not (exp animals/ and humans/) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;5 not 6 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;1 or 3 or 7 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;limit 8 to (english language and yr=&quot;2004 -Current&quot;) &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;The search was not focused on indirect hyperbilirubinemia because the retrieval was very small. The Main search retrieved 1,213 references. When the search hedges for Guidelines, Clinical Trials, and Cohort Studies were added, the base results are as follow: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Neonatal Hyperbilirubinemia - Guidelines, total results were 35 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Neonatal Hyperbilirubinemia - Clinical Trials, total results were 125 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Neonatal Hyperbilirubinemia - Cohort Studies, total results were 262 &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;The MEDLINE In-Process database was also searched using the strategy in the methodological appendix (see the &quot;Availability of Companion Documents&quot; field). The search retrieved 100 documents. The results with the hedges applied are: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Guidelines, total results were 2 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Clinical Trials, total results were 11 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cohort Studies, total results were 21 &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Within the Cochrane Database of Systematic Reviews, 6 reviews were found using the strategy in the search strategies document. The search was conducted in components each keyed to a specific causal link in a formal problem structure (available upon request). The search was supplemented with very recent clinical trials known to expert members of the panel. Negative trials were specifically sought. The search was a single cycle.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Search details and evidence tables are available in the methods companion (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The search identified a total of 462 potentially relevant publications. The review process resulted in 91 studies identified as presenting best evidence on a topic.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Levels of Evidence&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-alpha;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Systematic reviews of randomized controlled trials with or without meta-analysis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Randomized controlled trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Systematic review of non-randomized controlled trials or observational studies, non-randomized controlled trials, group observation studies (cohort, cross-sectional, case-control) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Individual observational studies (case study/case series) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Expert opinion regarding benefits and harm &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Best Evidence Identified and Organized into Evidence Tables&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The best evidence for the current guideline is synthesized into 16 evidence tables reflecting the primary questions posed in the literature review. These tables include a total of 91 publications. The tables themselves are contained in Section VI of the Methodological Appendix (see the &quot;Availability of Companion Documents&quot; field), and present the synthesis of the best evidence identified. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Guideline recommendations were based on prospective randomized controlled trials (RCTs) if available, to the exclusion of other data; if RCTs were not available, observational studies were admitted to consideration. If no such data were available for a given link in the problem formulation, expert opinion was used to estimate effect size. The &quot;strength of recommendation&quot; for key aspects of care was determined by expert opinion.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Strength of Recommendation&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-roman;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Generally should be performed &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;May be reasonable to perform &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Generally should not be performed &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Drafts of this guideline were reviewed in clinical conferences and by distribution for comment within departments and divisions of the University of Michigan Health System to which the content is most relevant: Family Medicine, Pediatrics, Pediatric Emergency Medicine, Pediatric Internal Medicine. The Executive Committee for Clinical Affairs of the University of Michigan Hospitals and Health Centers endorsed the final version.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for selected recommendations (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Exclusive breastfeeding is recommended during first 6 months of life, as all-cause mortality is less in exclusive breast fed neonates. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Compared with selective testing, universal screening reduces total blood draws and phototherapy rates. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Intensive phototherapy can be expected to decrease bilirubin levels by 30% to 40% in 24 hours, with most being in the first 4 to 6 hours. Phototherapy is in general effective at decreasing serum bilirubin values (TSB) and preventing the need for exchange transfusion. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A randomized controlled trial (RCT) found supplementing with intravenous (IV) fluids for the first 8 hours of phototherapy followed by enteral supplementation was associated with fewer exchange transfusions. Another RCT of 100 well appearing neonates found the mean decrease in transcutaneous bilirubin (TcB) at 24 hours of phototherapy was greater with IV supplementation. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A single RCT showed the use of albumin priming prior to exchange transfusion (1 mg/kg, 1 hour before exchange transfusion) resulted in lower TBS values at 12 hours and a shorter length of stay for neonates receiving albumin. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Exclusive breastfeeding is strongly associated with an increased risk of hyperbilirubinemia, however, the hyperbilirubinemia appears to be primarily the result of less effective breastfeeding. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Though there is a paucity of evidence phototherapy has risk, melanocytic nevus development is a worry. Blue light can induce retinal photoreceptor degeneration in rats and in mammals. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Potential adverse sequelae of exchange transfusion include leukopenia, thrombocytopenia, hypocalcemia, hypernatremia, and bacteremia. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;False negative and false positive results of tests &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="430" OrdBy="800" Name="Contraindications">
+    <Field FieldID="144" OrdBy="805" ID="431" Name="Contraindications" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Home phototherapy should not be used in neonates with neurotoxicity risk factors, nor those who have required intensive phototherapy. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Do not use transcutaneous bilirubin (TcB) if phototherapy has been initiated. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;These guidelines should not be construed as including all proper methods of care or excluding other acceptable methods of care reasonably directed to obtaining the same results. The ultimate judgment regarding any specific clinical procedure or treatment must be made by the physician in light of the circumstances presented by the patient.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Clinical Algorithm" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Timeliness " />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;University of Michigan Health System. Management of indirect neonatal hyperbilirubinemia. Ann Arbor (MI): University of Michigan Health System; 2017 Oct. 19 p.  [49 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2017 Oct" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="University of Michigan Health System - Academic Institution" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The development of this guideline was funded by the University of Michigan Health System.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Hyperbilirubinemia Guideline Team&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Team Leaders&lt;/em&gt;: Nicole S Sroufe, MD, MPH, Pediatric Emergency Medicine; Jennifer L Vredeveld, MD, Internal Medicine, Pediatrics&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Team Members&lt;/em&gt;: Michael Levy, MD, Neonatal Hospitalist; Sahoko H Little, MD, Family Medicine; Robert E Schumacher, MD, Neonatal-Perinatal Medicine; F Jacob Seagull, PhD, Learning Health Sciences; Maria S Skoczylas, MD, Pediatrics&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Consultants&lt;/em&gt;: Linda D Gobeski, RN, Women's Birth Center; Debra K Horvath, RN, MI Visiting Nurse Association; Pamela K Hurley, RN, Women's Birth Center; Kelly A McCarley, RN, Women's Birth Center; Carolyn M Pawlowski, RN, Brandon Newborn ICU; Deborah R Retzer, RN, Women's Birth Center; Kristin Schuster, RN, Women's Birth Center; Michelle Nemshak MSN, RNC-NIC, CNS, Brandon NICU; Rebecca Pehovic, MS, RN, CNS-BC, General Care&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Inpatient Clinical Guidelines Oversight&lt;/em&gt;: Megan R Mack, MD; David H Wesorick, MD; F Jacob Seagull, PhD&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The University of Michigan Health System endorses the Guidelines of the Association of American Medical Colleges and the Standards of the Accreditation Council for Continuing Medical Education that the individuals who present educational activities disclose significant relationships with commercial companies whose products or services are discussed. Disclosure of a relationship is not intended to suggest bias in the information presented, but is made to provide readers with information that might be of potential importance to their evaluation of the information.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;No relevant personal financial relationships with commercial entities&lt;/span&gt;: Linda D Gobeski, RN; Debra K Horvath, RN; Pamela K Hurley, RN; Michael Levy, MD; Sahoko H Little, MD; Kelly A McCarley, RN; Michelle Nemshak MSN, RNC-NIC, CNS; Carolyn M Pawlowski, RN; Rebecca Pehovic, MS, RN, CNS-BC; Deborah R Retzer, RN; Kristin Schuster, RN; F Jacob Seagull, PhD; Maria S Skoczylas, MD; Nicole S. Sroufe, MD, MPH; Jennifer L Vredeveld, MD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Relevant personal financial relationships with commercial entities&lt;/span&gt;: None.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/InptHyperbili/Hyperbili.pdf%20&quot; title=&quot;University of Michigan Health System Web site&quot;&gt;University of Michigan Health System Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The supplemental methodological appendix is available from the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/InptHyperbili/Hyperbili%20methods.pdf&quot; title=&quot;University of Michigan Health System Web site&quot;&gt;University of Michigan Health System (UMHS) Web site&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on March 27, 2018. The information was verified by the guideline developer on May 3, 2018.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NEATS assessment was completed by ECRI Institute on April 4, 2018. The information was verified by the guideline developer on May 3, 2018.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is copyrighted by the University of Michigan Health System (UMHS).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

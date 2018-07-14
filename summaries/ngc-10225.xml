@@ -1,0 +1,186 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;The prognostic value of the DNMT3A biomarker in cytogenetically normal patients with acute myeloid leukemia.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Leber B, Ismaila N, Kamel-Reid S, Rutherford M, Molecular Oncology Advisory Committee. The prognostic value of the DNMT3A biomarker in&#xD;&#xA;cytogenetically normal patients with acute myeloid&#xD;&#xA;leukemia. Toronto (ON): Cancer Care Ontario (CCO); 2013 Nov 27. 17 p.&amp;nbsp;(Recommendation report; no. MOAC-1).&amp;nbsp; [23 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The RECOMMENDATION report, initially the full original Guideline, over time will expand to contain new information emerging from their reviewing and updating activities.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Please visit the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=291990&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Cancer Care Ontario Web site&lt;/a&gt; for details on any new evidence that has emerged and implications to the guidelines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Deoxyribonucleic acid (DNA) methyltransferase 3A (DNMT3A) mutation testing should be included as a biomarker test in cytogenetically normal acute myeloid leukemia (AML) patients.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Acute myeloid leukemia (AML)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Risk Assessment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Medical Genetics" />
+      <FieldValue Value="Oncology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Other" />
+      <FieldValue Value="Patients" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To determine if testing for deoxyribonucleic acid (DNA) methyltransferase 3A (DNMT3A) mutation in cytogenetically normal patient population with acute myeloid leukemia (AML) determines prognosis with standard indication and consolidation therapy, as a guide to choosing alternative treatment if appropriate&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Acute myeloid leukemia (AML) patients with a normal cytogenetic profile&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Deoxyribonucleic acid (DNA) methyltransferase 3A (DNMT3A) mutation testing&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Overall survival &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Disease-free survival &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Relapse-free survival &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Event-free survival &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Complete remission &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+      <FieldValue Value="Searches of Unpublished Data" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Literature Search Strategy&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The primary search is up to date as of July 26, 2012. Published literature was retrieved via searching the following electronic databases: MEDLINE (1946 to July Week 3, 2012) with in-process records and other non-indexed citations and daily updates via Ovid (July 25, 2012); EMBASE (1980 to Week 29, 2012) via Ovid; and The Cochrane Central Register of Controlled Trials (2012, Issue 7) via Ovid. Terms used were related to AML (acute myeloid leukemia OR acute myelogenous leukemia OR acute myelocytic leukemia) and DNMT3A (DNA methyltransferase 3A OR DNA [cytosine-5]-methyltransferase 3A human OR DNMT3A protein).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Study Selection Criteria and Protocol&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Studies must have included cytogenetically normal (CN) patients stratified to the intermediate-risk group. Pediatric AML was not included for analysis (&amp;lt;15 years of age); no upper age limit was specified. Comparators under investigation were normal cytogenetic risk groups defined with the DNMT3A mutation versus normal cytogenetic risk groups without the DNMT3A mutation (wild type). The exact nature of the treatment administered was not of primary interest but was documented if the study provided the information. Primary outcomes of interest include overall survival (OS), complete remission (CR), cumulative incidence of relapse (CIR) and relapse-free survival (RFS). Co-occurring molecular aberrations, along with where the mutation was located in the gene, were documented for further research. Inclusion criteria encompassed systematic reviews, meta-analyses, clinical practice guidelines, randomized control trials, cohort studies (prospective and retrospective) or case-control studies with an analysis or subgroup analysis of DNMT3A biomarker status and investigated DNMT3A in patients with previously treated or untreated AML. Exclusion criteria was applied to articles published in a language other than English, were non-systematic reviews, letters, editorials, commentaries, or historical articles, or if patients had secondary AML.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Eight studies met the inclusion criteria and were included in the review. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Six of the eight studies were included in quantitative synthesis (metaâanalysis). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Meta-Analysis" />
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Data Extraction and Assessment of Study Quality and Potential for Bias&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;One reviewer went through the various databases that were mentioned in the search strategy (see the &quot;Description of Methods Used to Collect/Select the Evidence&quot; field) to identify relevant guidelines and articles. The same reviewer conducted title and abstract screening, and duplicates were removed. For each eligible study, the same reviewer would extract all the study data (including study design features, patient population, interventions, molecular exons sequenced and analyzed, co-occurring molecular aberrations with deoxyribonucleic acid [DNA] methyltransferase 3A [DNMT3A], and clinical outcomes).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Synthesizing the Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;When clinically homogenous results from two or more trials were available, a meta-analysis would be conducted using the Review Manager software. For time-to-event outcomes, hazard ratios (HRs), rather than the number of events at a certain time point, would be the preferred statistic for meta-analysis, and would be used as reported. If the HR and/or its standard error were not reported, they would be derived from other information reported in the study, if possible, using the methods described by Parmar et al., 1998. For all outcomes, the generic inverse variance model with random effects, or other appropriate random effects models in Review Manager, would be used.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Statistical heterogeneity would be calculated using the &amp;chi;&lt;sup&gt;2&lt;/sup&gt; test for heterogeneity and the I&lt;sup&gt;2&lt;/sup&gt; percentage. A probability level for the &amp;chi;&lt;sup&gt;2&lt;/sup&gt; statistic less than or equal to 10% (p&amp;le;0.10) and/or an I&lt;sup&gt;2&lt;/sup&gt; greater than 50% would be considered indicative of statistical heterogeneity.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Meta-analysis&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The response data from six of the eight studies were pooled for a meta-analysis. See Figure 1 in the original guideline document for forest plot of effect size for overall survival.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Internal Review&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Almost all Program in Evidence-based Care (PEBC) documents undergo internal review. With recommendation reports, this review is conducted by the Director of the PEBC. The Working Group is responsible for considering the changes, and if those changes could be made without substantially altering the recommendations, the altered draft would not need to be resubmitted for approval again.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The recommendations are supported by prospective and retrospective studies.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Assessing deoxyribonucleic acid (DNA) methyltransferase 3A (DNMT3A) mutational status provides important prognostic information for acute myeloid leukemia (AML) patients with a normal karyotype.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The recommendation is based on evidence currently available. Despite the heterogeneous nature of the studies included, the likelihood of having a series of large homogenous studies done in this patient population is low due to the nature of the disease and its management. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Care has been taken in the preparation of the information contained in this report. Nonetheless, any person seeking to apply or consult the report is expected to use independent medical judgment in the context of individual clinical circumstances or seek out the supervision of a qualified clinician. Cancer Care Ontario makes no representation or guarantees of any kind whatsoever regarding the report content or use or application and disclaims any responsibility for its application or use in any way. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Quick Reference Guides/Physician Guides" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Leber B, Ismaila N, Kamel-Reid S, Rutherford M, Molecular Oncology Advisory Committee. The prognostic value of the DNMT3A biomarker in&#xD;&#xA;cytogenetically normal patients with acute myeloid&#xD;&#xA;leukemia. Toronto (ON): Cancer Care Ontario (CCO); 2013 Nov 27. 17 p.&amp;nbsp;(Recommendation report; no. MOAC-1).&amp;nbsp; [23 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2013 Nov 27" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Program in Evidence-based Care - State/Local Government Agency [Non-U.S.]" />
+    </Field>
+    <Field FieldID="123" OrdBy="1230" ID="448" Name="Guideline Developer Comment" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Program in Evidence-based Care (PEBC) is a Province of Ontario initiative sponsored by Cancer Care Ontario and the Ontario Ministry of Health and Long-Term Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Program in Evidence-based Care (PEBC) is a provincial initiative of Cancer Care Ontario supported by the Ontario Ministry of Health and Long-Term Care. All work produced by the PEBC is editorially independent from the Ontario Ministry of Health and Long-Term Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Molecular Oncology Advisory Committee&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Authors&lt;/em&gt;: B. Leber, N. Ismaila, S. Kamel-Reid, M. Rutherford&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In accordance with the Program in Evidence-based Care (PEBC) Conflict of Interest (COI) Policy, the guideline authors, Molecular Oncology Advisory Committee (MOAC) members, and internal and external reviewers were asked to disclose potential conflicts of interest.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The authors, members, and reviewers reported that they had no conflicts of interest.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The RECOMMENDATION report, initially the full original Guideline, over time will expand to contain new information emerging from their reviewing and updating activities.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Please visit the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=291990&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Cancer Care Ontario Web site&lt;/a&gt; for details on any new evidence that has emerged and implications to the guidelines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available in Portable Document Format (PDF) from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=291990&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Cancer Care Ontario Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The prognostic value of the DNMT3A biomarker in cytogenetically normal patients with acute myeloid leukemia. Summary. Toronto (ON): Cancer Care Ontario (CCO); 2013 Nov 27. 5 p. Electronic copies: Available in Portable Document Format (PDF) from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=291987&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Cancer Care Ontario Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Program in Evidence-based Care handbook. Toronto (ON): Cancer Care Ontario (CCO); 2012. 14 p. Available in PDF from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=50876&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Cancer Care Ontario Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on April 10, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions. Please refer to the &lt;a href=&quot;http://www.cancercare.on.ca/ontariocancernews/copyright.html&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Copyright and Disclaimer Statements&lt;/a&gt; posted at the Program in Evidence-based Care section of the Cancer Care Ontario Web site.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

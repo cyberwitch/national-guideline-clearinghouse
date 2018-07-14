@@ -1,0 +1,188 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Cancer chemotherapy and pregnancy.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Koren G, Carey N, Gagnon R, Maxwell C, Nulman I, Senikas V. Cancer chemotherapy and pregnancy. J Obstet Gynaecol Can. 2013 Mar;35(3):263-78. [88 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23470115&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The quality of evidence (I-III) and classification of recommendations (A-L) are defined at the end of the &quot;Major Recommendations.&quot;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Summary Statements and Recommendations&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Summary Statements&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;As women are postponing child-bearing, more of them are experiencing cancer in pregnancy. &lt;strong&gt;(II-2)&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Chemotherapeutic agents used to combat cancer cross the placenta and may adversely affect embryogenesis by affecting cell division. &lt;strong&gt;(II-1)&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Exposure to such agents after the first trimester of pregnancy has not been associated with increased risk of malformations but is associated with increased risk of stillbirth, intrauterine growth restriction, and fetal toxicities. &lt;strong&gt;(II-2)&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendations&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;The health care provider should examine the patient's risk of pregnancy and desire to prevent pregnancy during chemotherapy. &lt;strong&gt;(I-A)&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Decisions about the best course of management in pregnancy, including timing of delivery, should balance maternal and fetal risks. Most authorities concur that maternal health and well-being must prevail. &lt;strong&gt;(I-A)&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Women diagnosed with cancer in pregnancy should be optimally managed by a multidisciplinary team that includes oncologists and/or hematologists (depending on the malignancy), perinatologists, family physicians, psychologists, social workers, and spiritual advisors, if sought by the family. &lt;strong&gt;(I-A)&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Quality of Evidence Assessment*&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;I&lt;/strong&gt;: Evidence obtained from at least one properly randomized controlled trial&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-1&lt;/strong&gt;: Evidence from well-designed controlled trials without randomization&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-2&lt;/strong&gt;: Evidence from well&amp;ndash;designed cohort (prospective or retrospective) or case&amp;ndash;control studies, preferably from more than one centre or research group&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-3&lt;/strong&gt;: Evidence obtained from comparisons between times or places with or without the intervention. Dramatic results in uncontrolled experiments (such as the results of treatment with penicillin in the 1940s) could also be included in this category.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;III&lt;/strong&gt;: Opinions of respected authorities, based on clinical experience, descriptive studies, or reports of expert committees&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Adapted from The Evaluation of Evidence criteria described in the Canadian Task Force on Preventive Health Care.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Classification of Recommendations&amp;dagger;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;A.&lt;/strong&gt; There is good evidence to recommend the clinical preventive action.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;B.&lt;/strong&gt; There is fair evidence to recommend the clinical preventive action.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;C.&lt;/strong&gt; The existing evidence is conflicting and does not allow to make a recommendation for or against use of the clinical preventive action; however, other factors may influence decision-making.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;D.&lt;/strong&gt; There is fair evidence to recommend against the clinical preventive action.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;E.&lt;/strong&gt; There is good evidence to recommend against the clinical preventive action.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;L.&lt;/strong&gt; There is insufficient evidence (in quantity or quality) to make a recommendation; however, other factors may influence decision-making.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&amp;dagger;Adapted from the Classification of Recommendations criteria described in the Canadian Task Force on Preventive Health Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Cancer &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pregnancy &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Counseling" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Risk Assessment" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Hematology" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Obstetrics and Gynecology" />
+      <FieldValue Value="Oncology" />
+      <FieldValue Value="Psychology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+      <FieldValue Value="Psychologists/Non-physician Behavioral Health Clinicians" />
+      <FieldValue Value="Social Workers" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To promote careful education, administration, monitoring and restricted distribution when prescribing and dispensing chemotherapeutic and potentially teratogenic medications &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To develop clinical recommendations for the use of cancer chemotherapy in pregnant women and women of child-bearing age &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Pregnant women with cancer &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Women of child-bearing age with cancer &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Evaluation of the patient's risk of pregnancy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Prevention of pregnancy during chemotherapy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Management of risks of chemotherapy in pregnancy&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Timing of delivery &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Determination of maternal and fetal risks &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Management by a multidisciplinary team (oncologists and/or hematologists, perinatologists, family physicians, psychologists, social workers, and spiritual advisors, as indicated) &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Incidence of cancer during pregnancy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Fetal outcomes following maternal chemotherapy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Maternal survival rates &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+      <FieldValue Value="Searches of Unpublished Data" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Published literature was retrieved through searches of PubMed or Medline, CINAHL, and The Cochrane Library in 2011, using appropriate controlled vocabulary (e.g., antineoplastic agents, neoplasms, pregnancy) and key words (e.g., cancer, neoplasms, pregnancy, chemotherapy, antineoplastic agents). Results were restricted to systematic reviews, randomized control trials/controlled clinical trials, and observational studies. Studies were restricted to those with available English abstracts or text. Searches were updated on a regular basis and incorporated in the guideline to October 2011. Grey (unpublished) literature was identified through searching the websites of health technology assessment and health technology assessment-related agencies, clinical practice guideline collections, clinical trial registries, and from national and international medical specialty societies.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Quality of Evidence Assessment*&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;I&lt;/strong&gt;: Evidence obtained from at least one properly randomized controlled trial&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-1&lt;/strong&gt;: Evidence from well-designed controlled trials without randomization&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-2&lt;/strong&gt;: Evidence from well&amp;ndash;designed cohort (prospective or retrospective) or case&amp;ndash;control studies, preferably from more than one centre or research group&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-3&lt;/strong&gt;: Evidence obtained from comparisons between times or places with or without the intervention. Dramatic results in uncontrolled experiments (such as the results of treatment with penicillin in the 1940s) could also be included in this category.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;III&lt;/strong&gt;: Opinions of respected authorities, based on clinical experience, descriptive studies, or reports of expert committees&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Adapted from The Evaluation of Evidence criteria described in the Canadian Task Force on Preventive Health Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The quality of evidence obtained was rated using the criteria described in the Report of the Canadian Task Force on Preventative Health Care (see the &quot;Rating Scheme for the Strength of the Evidence&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Classification of Recommendations&amp;dagger;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;A.&lt;/strong&gt; There is good evidence to recommend the clinical preventive action.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;B.&lt;/strong&gt; There is fair evidence to recommend the clinical preventive action.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;C.&lt;/strong&gt; The existing evidence is conflicting and does not allow to make a recommendation for or against use of the clinical preventive action; however, other factors may influence decision-making.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;D.&lt;/strong&gt; There is fair evidence to recommend against the clinical preventive action.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;E.&lt;/strong&gt; There is good evidence to recommend against the clinical preventive action.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;L.&lt;/strong&gt; There is insufficient evidence (in quantity or quality) to make a recommendation; however, other factors may influence decision-making.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&amp;dagger;Adapted from the Classification of Recommendations criteria described in the Canadian Task Force on Preventive Health Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This clinical practice guideline has been prepared by the Chemotherapy During Pregnancy Working Group and approved by the Executive and Council of the Society of Obstetricians and Gynaecologists of Canada.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Reduction of potential teratogenic/reproductive risks of exposure to antineoplastic agents &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Appropriate counseling of women of child-bearing age who are receiving chemotherapy on the risks of becoming pregnant &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Appropriate management of pregnant women who are receiving chemotherapy &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This document reflects emerging clinical and scientific advances on the date issued and is subject to change. The information should not be construed as dictating an exclusive course of treatment or procedure to be followed. Local institutions can dictate amendments to these opinions. They should be well documented if modified at the local level. None of these contents may be reproduced in any form without prior written permission of the Society of Obstetricians and Gynaecologists of Canada (SOGC).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Foreign Language Translations" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Koren G, Carey N, Gagnon R, Maxwell C, Nulman I, Senikas V. Cancer chemotherapy and pregnancy. J Obstet Gynaecol Can. 2013 Mar;35(3):263-78. [88 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23470115&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2013 Mar" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Society of Obstetricians and Gynaecologists of Canada - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Society of Obstetricians and Gynaecologists of Canada (SOGC)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Chemotherapy During Pregnancy Working Group&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Principal Authors&lt;/em&gt;: Gideon Koren, MD, Toronto ON; Nathalie Carey, BSc, Toronto ON; Robert Gagnon, MD, Montreal QC; Cynthia Maxwell, MD, Toronto ON; Irena Nulman, MD, Toronto ON; Vyta Senikas, MD, Ottawa ON&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Disclosure statements have been received from all authors.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available in Portable Document Format (PDF) from the &lt;a href=&quot;http://sogc.org/guidelines/cancer-chemotherapy-and-pregnancy/&quot; title=&quot;Society of Obstetricians and Gynaecologists of Canada Web site&quot;&gt;Society of Obstetricians and Gynaecologists of Canada Web site&lt;/a&gt;. Also available in French from the &lt;a href=&quot;http://sogc.org/fr/directives-cliniques/chimiotherapie-anticancereuse-et-grossesse/&quot; title=&quot;of Obstetricians and Gynaecologists of Canada Web site&quot;&gt;SOGC Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Print copies: Available from the Society of Obstetricians and Gynaecologists of Canada, La soci&amp;eacute;t&amp;eacute; des obst&amp;eacute;triciens et gyn&amp;eacute;cologues du Canada (SOGC) 780 promenade Echo Drive Ottawa, ON K1S 5R7 (Canada); Phone: 1-800-561-2416.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on May 2, 2013. The information was verified by the guideline developer on May 9, 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

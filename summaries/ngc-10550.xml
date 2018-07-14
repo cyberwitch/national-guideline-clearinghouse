@@ -1,0 +1,178 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Deep brain stimulation for obsessive-compulsive disorder: systematic review and evidence-based guideline sponsored by the American Society for Stereotactic and Functional Neurosurgery and the Congress of Neurological Surgeons (CNS) and endorsed by the CNS and American Association of Neurological Surgeons.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hamani C, Pilitsis J, Rughani AI, Rosenow JM, Patil PG, Slavin KS, Abosch A, Eskandar E, Mitchell LS, Kalkanis S. Deep brain stimulation for obsessive-compulsive disorder: systematic review and evidence-based guideline sponsored by the American Society for Stereotactic and Functional Neurosurgery and the Congress of Neurological Surgeons (CNS) and endorsed by the CNS and American Association of Neurological Surgeons. Neurosurgery. 2014 Oct;75(4):327-33. [33 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25050579&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Definitions for the level of evidence (&lt;strong&gt;I-III&lt;/strong&gt;) and levels of recommendation (&lt;strong&gt;I-III&lt;/strong&gt;) are provided at the end of the Major Recommendations field.&lt;/p&gt;&#xA;&lt;p&gt;The effectiveness of deep brain stimulation (DBS) for obsessive-compulsive disorder (OCD) has been reported in randomized, controlled trials comparing active and sham stimulation. Based on the literature, the following recommendations can be made: (1) There is Level I evidence, based on a single Level I study, for the use of bilateral subthalamic nucleus DBS for the treatment of medically refractory OCD. (2) There is Level II evidence, based on a single Level II study, for the use of bilateral nucleus accumbens DBS for the treatment of medically refractory OCD. (3) There is insufficient evidence to make a recommendation for the use of unilateral DBS for the treatment of medically refractory OCD.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Evidence Classification &lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Level I&lt;/strong&gt;: Evidence provided by &amp;ge;1 well-designed, randomized, controlled clinical trials, including overview (meta-analyses) of such trials&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Level II&lt;/strong&gt;: Evidence provided by well-designed observational studies with concurrent controls (e.g., case-control and cohort studies)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Level III&lt;/strong&gt;: Evidence provided by expert opinion, case series, case reports, and studies with historical controls&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Levels of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Level I&lt;/strong&gt;: Generally accepted principles for patient management that reflect a high degree of clinical certainty (usually this requires Level I evidence that directly addresses the clinical questions or overwhelming Level II evidence when circumstances preclude randomized clinical trials)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Level II&lt;/strong&gt;: Recommendations for patient management that reflect clinical certainty (usually this requires Level II evidence or a strong consensus of Level III evidence)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Level III&lt;/strong&gt;: Other strategies for patient management for which the clinical utility is uncertain (inconclusive or conflicting evidence or opinion)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Obsessive-compulsive disorder (OCD)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Neurological Surgery" />
+      <FieldValue Value="Psychiatry" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To conduct a systematic review of the literature and develop evidence-based guidelines on deep brain stimulation (DBS) for obsessive-compulsive disorder (OCD)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adult patients with treatment-refractory obsessive-compulsive disorder (OCD)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Deep brain stimulation (DBS)&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Bilateral nucleus subthalamic &lt;/li&gt;&#xA;    &lt;li&gt;Bilateral nucleus accumbens &lt;/li&gt;&#xA;    &lt;li&gt;Unilateral (not recommended) &lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Effectiveness of treatment &lt;/li&gt;&#xA;    &lt;li&gt;Carryover effects of deep brain stimulation (DBS) &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This systematic review was conducted and reported according to preferred reporting items for systematic reviews and meta-analyses (PRISMA). A literature search was undertaken using the PubMed database for articles published between 1966 and October 2012 combining the following words: &quot;Deep Brain Stimulation and obsessive-compulsive disorder&quot; or &quot;electrical stimulation and obsessive-compulsive disorder.&quot; These searches resulted in 353 abstracts, which were reviewed by three independent investigators. The flow of information through the different phases of the review is presented in the Figure in the original guideline document. Relevant articles were selected for full-text review and had to meet the following article inclusion and exclusion criteria:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Inclusion&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Clinical series with 6 or more patients treated with deep brain stimulation (DBS). This limit was chosen because, due to the small number of subjects included, studies with fewer than 6 patients often reported the outcomes of individual patients rather than analyzing data for the whole population. In addition, with small sample sizes, the presence of outliers can significantly compromise the analysis of data. &lt;/li&gt;&#xA;    &lt;li&gt;Clinical series with a minimum postoperative follow-up of 6 months. Although ideally longer follow-up intervals would be desirable, the 6-month timeline was selected because it was the most common follow-up interval reported in the studies pooled for analysis in the review. &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusion&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Studies including only preclinical data &lt;/li&gt;&#xA;    &lt;li&gt;Review articles &lt;/li&gt;&#xA;    &lt;li&gt;Letters to the editor &lt;/li&gt;&#xA;    &lt;li&gt;Clinical series with fewer than 6 patients &lt;/li&gt;&#xA;    &lt;li&gt;Clinical series with a follow-up shorter than 6 months &lt;/li&gt;&#xA;    &lt;li&gt;Articles reporting on patient populations other than those with obsessive-compulsive disorder (OCD) &lt;/li&gt;&#xA;    &lt;li&gt;Clinical series in which ablative surgery was used instead of DBS &lt;/li&gt;&#xA;    &lt;li&gt;Reports that mainly addressed aspects related to surgical technique &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Of 352 articles, 7 original articles were retrieved for analysis. A total of 345 studies were excluded for the following reasons: 188 were review articles, 22 included only preclinical data, 51 were letters to the editor or had fewer than 6 patients, 44 addressed other diseases (e.g., Parkinson disease, Tourette syndrome), 6 reported on the effects of ablative procedures instead of DBS, and 34 addressed questions pertinent to targeting or surgical technique. One article was common to both search lists and was included only once.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Six articles were selected for analysis.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Evidence Classification&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Level I&lt;/strong&gt;: Evidence provided by &amp;ge;1 well-designed, randomized, controlled clinical trials, including overview (meta-analyses) of such trials&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Level II&lt;/strong&gt;: Evidence provided by well-designed observational studies with concurrent controls (e.g., case-control and cohort studies)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Level III&lt;/strong&gt;: Evidence provided by expert opinion, case series, case reports, and studies with historical controls&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;For each of the articles included, evidence classification was graded according to the American Association of Neurological Surgeons (AANS)/Congress of Neurological Surgeons (CNS) criteria (see the &quot;Rating Scheme for the Strength of the Evidence&quot; field). The level of evidence (i.e., Level I, II, or III) assigned to each article was based on study design, data analysis, and follow-up.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;For each of the articles included, strength of recommendations was graded according to the American Association of Neurological Surgeons (AANS)/Congress of Neurological Surgeons (CNS) criteria (see the &quot;Rating Scheme for the Strength of the Recommendations&quot; field).The strength of recommendation (i.e., Level I, II, or III) was linked to the level of evidence supporting the recommendation. The level of a recommendation could be decreased if there were methodological concerns regarding the studies that provided evidence for that particular recommendation. For each of the studies included, the author's opinion regarding the limitations is discussed in the original guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Levels of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Level I&lt;/strong&gt;: Generally accepted principles for patient management that reflect a high degree of clinical certainty (usually this requires Level I evidence that directly addresses the clinical questions or overwhelming Level II evidence when circumstances preclude randomized clinical trials)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Level II&lt;/strong&gt;: Recommendations for patient management that reflect clinical certainty (usually this requires Level II evidence or a strong consensus of Level III evidence)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Level III&lt;/strong&gt;: Other strategies for patient management for which the clinical utility is uncertain (inconclusive or conflicting evidence or opinion)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The authors acknowledge the American Association of Neurological Surgeons (AANS)/Congress of Neurological Surgeons (CNS) Joint Guidelines Committee for their review, comments, and suggestions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate use of deep brain stimulation (DBS) for obsessive-compulsive disorder (OCD) &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Dystonia can occur over weeks to months following deep brain stimulation (DBS)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The information in these guidelines reflects the current state of knowledge at the time of completion. The presentations are designed to provide an accurate review of the subject matter covered. These guidelines are disseminated with the understanding that the recommendations by the authors and consultants who have collaborated in their development are not meant to replace the individualized care and treatment advice from a patient's physician(s). If medical advice or assistance is required, the services of a physician should be sought. The proposals contained in these guidelines may not be suitable for use in all circumstances. The choice to implement any particular recommendation contained in these guidelines must be made by a managing physician in light of the situation in each particular patient and on the basis of existing resources.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Staff Training/Competency Material" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hamani C, Pilitsis J, Rughani AI, Rosenow JM, Patil PG, Slavin KS, Abosch A, Eskandar E, Mitchell LS, Kalkanis S. Deep brain stimulation for obsessive-compulsive disorder: systematic review and evidence-based guideline sponsored by the American Society for Stereotactic and Functional Neurosurgery and the Congress of Neurological Surgeons (CNS) and endorsed by the CNS and American Association of Neurological Surgeons. Neurosurgery. 2014 Oct;75(4):327-33. [33 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25050579&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2014 Oct" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Congress of Neurological Surgeons - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This guideline is sponsored by the American Society for Stereotactic and Functional Neurosurgery and the Congress of Neurological Surgeons (CNS).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Authors&lt;/em&gt;: Clement Hamani, MD, PhD, Division of Neurosurgery, Toronto Western Hospital, Centre for Addiction and Mental Health, Toronto, Ontario, Canada; Julie Pilitsis, MD, PhD, Department of Neurosurgery and Center for Neuropharmacology and Neuroscience, Albany Medical College, Albany, New York; Anand I. Rughani, MD, Neuroscience Institute, Maine Medical Center, Portland, Maine; Joshua M. Rosenow, MD, Department of Neurosurgery, Northwestern University, Chicago, Illinois; Parag G. Patil, MD, PhD, Departments of Neurosurgery, Neurology, Anesthesiology, and Biomedical Engineering, University of Michigan, Ann Arbor, Michigan; Konstantin S. Slavin, MD, Department of Neurosurgery, University of Illinois at Chicago, Chicago, Illinois; Aviva Abosch, MD, PhD, Department of Neurosurgery, University of Colorado, Denver, Colorado; Emad Eskandar, MD, Department of Neurosurgery, Massachusetts General Hospital, Boston, Massachusetts; Laura S. Mitchell, MA, Congress of Neurological Surgeons, Guidelines Department, Schaumburg, Illinois; Steven Kalkanis, MD, Congress of Neurological Surgeons, Guidelines Department, Department of Neurosurgery, Henry Ford Health System, Detroit, Michigan&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Dr Hamani is a consultant for St. Jude Medical; Dr Pilitsis is a consultant for St. Jude Medical, Boston Scientific, and Medtronic and has grant support from Boston Scientific, St Jude, Medtronic, and the NIH; Dr Rosenow is a consultant for Boston Scientific; Dr Patil receives research support from Medtronic; Dr Abosch has an ad hoc consulting agreement with Medtronic; Dr Slavin is a consultant, advisory board member, and/or received honoraria from Medtronic, St. Jude Medical, Boston Scientific, Bioness, Greatbatch, Stimwave, and Nevro. The authors have no personal, financial, or institutional interest in any drugs, materials, or devices described in this article.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="159" OrdBy="1255" ID="453" Name="Guideline Endorser(s)" Type="orglist">
+      <FieldValue Value="American Association of Neurological Surgeons - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available from the &lt;a href=&quot;http://journals.lww.com/neurosurgery/Fulltext/2014/10000/Deep_Brain_Stimulation_for_Obsessive_Compulsive.11.aspx&quot; title=&quot;Neurosurgery Web site&quot;&gt;Neurosurgery Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Deep brain stimulation for obsessive-compulsive disorder: systematic review and evidence-based guideline sponsored by the American Society for Stereotactic and Functional Neurosurgery and the Congress of Neurological Surgeons (CNS) and endorsed by the CNS and American Association of Neurological Surgeons. Supplemental digital content. 2 p. Available from the &lt;a href=&quot;http://links.lww.com/NEU/A656&quot; title=&quot;Neurosurgery Web site&quot;&gt;Neurosurgery Web site&lt;/a&gt;. &lt;/li&gt;&#xA;    &lt;li&gt;Congress of Neurological Surgeons guideline development methodology. 2012 Feb. Electronic copies: Available from the &lt;a href=&quot;https://www.cns.org/guidelines/guideline-procedures-policies/guideline-development-methodology&quot; title=&quot;Congress of Neurological Surgeons Web site&quot;&gt;Congress of Neurological Surgeons Web site&lt;/a&gt;. &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;In addition, continuing medical education (CME) questions are provided in the &lt;a href=&quot;http://journals.lww.com/neurosurgery/Fulltext/2014/10000/Deep_Brain_Stimulation_for_Obsessive_Compulsive.11.aspx&quot; title=&quot;Neurosurgery Web site&quot;&gt;original guideline document&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on October 24, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

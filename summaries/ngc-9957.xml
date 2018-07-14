@@ -1,0 +1,177 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Risk of acute hyponatremia in hospitalized children and youth receiving maintenance intravenous fluids.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Friedman JN, Canadian Paediatric Society, Acute Care Committee. Risk of acute hyponatremia in hospitalized children and youth receiving maintenance intravenous fluids. Paediatr Child Health. 2013 Feb;18(2):102-4. [30 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following recommendations apply to the prescription of intravenous (IV) maintenance fluids in children one month corrected age to 18 years of age, excluding patients with renal or cardiac disease, diabetic ketoacidosis, severe burns or other underlying conditions that significantly affect electrolyte regulation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;General Principles&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Any child in hospital who requires IV fluids should be considered at risk for developing hyponatremia due to increased risk of antidiuretic hormone (ADH) secretion. At particular risk are:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Children undergoing surgery &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Children with acute neurological or respiratory infections (e.g., meningitis, encephalitis, pneumonia and bronchiolitis) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Oral fluids are generally very low in Na content (hypotonic). Where the total fluid intake (TFI) is a combination of oral and IV fluids, both need to be accounted for. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Because infants and young children have limited glycogen stores, dextrose should be part of the IV maintenance fluid prescription (e.g., 5% dextrose in water and 0.9% NaCl [D5W.0.9%NaCl] or 5% dextrose in water and 0.45% NaCl [D5W.0.45%NaCl]) if no other source of glucose is provided. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The approach to prescribing IV fluids should be as cautious as that for medications, with close attention paid to indications, monitoring, the type of fluid and the volume/rate of administration. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Monitoring&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Baseline serum electrolytes (Na, K, glucose, urea, creatinine) should be measured when starting IV fluid therapy in hospitalized children. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Children receiving maintenance IV fluids should have their serum electrolytes checked regularly, with patients who may be at high risk of impaired renal water excretion checked daily if not more frequently. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;All children receiving IV maintenance fluids should have their intake/output carefully monitored, as well as a daily weight measurement. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Clinicians should be aware of the symptoms of hyponatremia, which may include headache, nausea and vomiting, decrease in level of consciousness, seizures and apnea. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Prescription of IV fluids for Maintenance Requirements&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;In children whose serum sodium is normal at baseline but who are considered to be at particularly high risk of ADH secretion (e.g., peri- or postoperative; with respiratory or neurological infections) the use of isotonic saline (D5W.0.9%NaCl) is recommended. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For other hospitalized children whose serum sodium is normal, the options are D5W.0.9%NaCl or D5W.0.45%NaCl. The first option is preferred, especially when the serum Na is in the low normal range (135 mmol/L to 137 mmol/L inclusive). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Hypotonic IV fluids containing &amp;lt;0.45% NaCl should not be used to provide routine fluid maintenance and should not be generally available on paediatric wards. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;When serum electrolyte results are not yet available, it is recommended that D5W.0.9% NaCl be initiated as the maintenance IV fluid. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If the serum sodium is 145 mmol/L to 154 mmol/L, then D5W.0.45% NaCl should be initiated and frequent monitoring of the serum sodium performed. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Ringer's lactate is commonly used in the operating room but the absence of dextrose and presence of lactate make it generally inappropriate for maintenance IV therapy, especially in young children. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Intravenous (IV) Fluid Maintenance Recommendations Based on Plasma Na+ Level&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Intravenous (IV) Fluid Maintenance Recommendations Based on Plasma Na+ Level&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Children One Month&amp;ndash;18 Years of Age&lt;/th&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Recommended IV Fluid&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Na &amp;lt;138 mmol/L&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Isotonic IV solutions&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Na 138 mmol/ &amp;ndash;144 mmol/L&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Isotonic IV solutions preferred; half-isotonic solutions may be used&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Perioperative period&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Isotonic IV solutions&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;p&gt;Note that these recommendations are not intended for use in infants and youth outside the one month to 18 year age group.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Hospital-acquired acute hyponatremia&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Prevention" />
+      <FieldValue Value="Risk Assessment" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Critical Care" />
+      <FieldValue Value="Pediatrics" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Hospitals" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To outline current understanding of the problem of hospital-acquired acute hyponatremia and summarize recent research dealing with this issue&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Any child one month corrected age to 18 years of age in hospital who requires intravenous (IV) fluids and is at risk for developing hyponatremia due to increased risk of antidiuretic hormone (ADH) secretion&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Patients with renal or cardiac disease, diabetic ketoacidosis, severe burns or other underlying conditions that significantly affect electrolyte regulation are excluded.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Determining level of risk of antidiuretic hormone (ADH) secretion in hospitalized children &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Use of dextrose as part of the intravenous (IV) maintenance fluid prescription &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Use of caution in prescribing IV fluids, with close attention paid to indications, monitoring, the type of fluid and the volume/rate of administration &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Measurement of baseline serum electrolytes (Na, K, glucose, urea, creatinine) when starting IV fluid therapy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Regular monitoring of serum electrolytes as well as intake/outtake in children receiving maintenance IV fluids &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Clinician awareness of the symptoms of hyponatremia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Use of isotonic saline (5% dextrose in water and 0.9% sodium chloride [D5W.0.9%NaCl]) in children at increased risk of ADH secretion &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Use of half-isotonic saline (5% dextrose in water and 0.45% NaCl [D5W.0.45%NaCl]) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Avoiding hypotonic IV fluids containing &amp;lt;0.45% NaCl to provide routine fluid maintenance &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Ringer's lactate (not generally recommended for routine fluid maintenance) &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Serum Na level &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Risk of hyponatremia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Risk of hypernatremia &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A selective review of the relevant literature up until 2012 using PubMed was conducted. Specific search terms were not used; the author mainly looked at randomized controlled trials (RCTs) studying different intravenous (IV) maintenance fluids and their outcomes regarding acute hyponatremia, but some case control studies were also reviewed.  Guidelines from various institutions and organizations were also incorporated.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Subjective Review" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Not stated" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This practice point has been reviewed by the Canadian Peadiatric Society's Community Peadiatrics Committee.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of evidence supporting the recommendations is not specifically stated.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Appropriate prescription of intravenous (IV) maintenance fluids in hospitalized children one month to 18 years of age to avoid acute hyponatremia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Recent studies suggest that, compared with hypotonic IV maintenance fluids, isotonic fluids decrease the risk of iatrogenic acute hyponatremia without significant side effects. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Normal saline contains 154 mmol/L of Na, which is isotonic with respect to the cell membrane. This suggestion has raised concerns regarding the potential for hypernatremia and salt and water overload. However, unless the child has an impaired ability to excrete Na, a renal concentrating defect, significant water loss or prolonged fluid restriction, these risks appear to be largely theoretical. The risk of developing hyperchloremic metabolic acidosis has been recognized in the context of rapid isotonic saline infusion delivered perioperatively but has not been reported in the trials of intravenous saline used for maintenance requirements in children to date.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The recommendations in this position statement do not indicate an exclusive course of treatment or procedure to be followed. Variations, taking into account individual circumstances, may be appropriate. Internet addresses are current at time of publication.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Friedman JN, Canadian Paediatric Society, Acute Care Committee. Risk of acute hyponatremia in hospitalized children and youth receiving maintenance intravenous fluids. Paediatr Child Health. 2013 Feb;18(2):102-4. [30 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2013 Feb" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Canadian Paediatric Society - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Canadian Paediatric Society&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Acute Care Committee&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Principal Author&lt;/em&gt;: Jeremy N Friedman&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Committee Members&lt;/em&gt;: Laurel Chauvin-Kimoff MD (&lt;em&gt;Chair&lt;/em&gt;); Isabelle M Chevalier MD (&lt;em&gt;Board Representative&lt;/em&gt;); Catherine A Farrell MD; Jeremy N Friedman MD; Angelo Mikrogianakis MD (&lt;em&gt;Past Chair&lt;/em&gt;); Oliva Ortiz-Alvarez MD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Liaisons&lt;/em&gt;: Dominic Allain MD, CPS Paediatric Emergency Medicine Section; Marilyn Monk, Canadian Association of Paediatric Health Centres; Jennifer Walton MD, CPS Hospital Paediatrics Section&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available from the &lt;a href=&quot;http://www.cps.ca/en/documents/position/acute-hyponatremia-in-hospitalized-children-and-youth&quot; title=&quot;Canadian Paediatric Society Web site&quot;&gt;Canadian Paediatric Society Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on September 25, 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

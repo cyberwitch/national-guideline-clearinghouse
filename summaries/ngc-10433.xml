@@ -1,0 +1,190 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Multiple sleep latency testing (MSLT) and maintenance of wakefulness testing (MWT).&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;AIM Specialty Health. Multiple sleep latency testing (MSLT) and maintenance of wakefulness testing (MWT). Chicago (IL): AIM Specialty Health; 2014 May 20. 4 p.  [5 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Initial multiple sleep latency testing (MSLT) and/or maintenance of wakefulness testing (MWT) is appropriate for suspected narcolepsy when all of the following conditions are met&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ol style=&quot;list-style-type: lower-alpha;&quot;&gt;&#xA;    &lt;li&gt;Daytime hypersomnolence has been present for at least eight weeks &lt;/li&gt;&#xA;    &lt;li&gt;The patient has at least one of the following:&#xA;    &lt;ol style=&quot;list-style-type: lower-roman;&quot;&gt;&#xA;        &lt;li&gt;Disrupted nocturnal sleep &lt;/li&gt;&#xA;        &lt;li&gt;Cataplexy &lt;/li&gt;&#xA;        &lt;li&gt;Hallucinations (hypnagogic or hypnopompic) &lt;/li&gt;&#xA;        &lt;li&gt;Sleep paralysis &lt;/li&gt;&#xA;        &lt;li&gt;The patient has undergone polysomnography (PSG) since the onset of symptoms and symptoms persist despite adequate treatment of obstructive sleep apnea (if present) &lt;/li&gt;&#xA;    &lt;/ol&gt;&#xA;    &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;Repeat MSLT and/or MWT is appropriate for suspected narcolepsy when all of the following conditions are met&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ol style=&quot;list-style-type: lower-alpha;&quot;&gt;&#xA;    &lt;li&gt;Previous MSLT/MWT did not provide a diagnosis of narcolepsy &lt;/li&gt;&#xA;    &lt;li&gt;The patient has continued symptoms suggestive of narcolepsy &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;MSLT and/or MWT is appropriate for idiopathic hypersomnia when all of the following conditions are met&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ol style=&quot;list-style-type: lower-alpha;&quot;&gt;&#xA;    &lt;li&gt;Daytime hypersomnolence has been present for at least eight weeks &lt;/li&gt;&#xA;    &lt;li&gt;The patient has at least one of the following:&#xA;    &lt;ol style=&quot;list-style-type: lower-roman;&quot;&gt;&#xA;        &lt;li&gt;Difficult morning awakening &lt;/li&gt;&#xA;        &lt;li&gt;Prolonged night sleep &lt;/li&gt;&#xA;        &lt;li&gt;Sleep drunkenness &lt;/li&gt;&#xA;        &lt;li&gt;Frequent non-refreshing daytime naps &lt;/li&gt;&#xA;        &lt;li&gt;The patient has undergone PSG since the onset of symptoms and symptoms persist despite adequate treatment of obstructive sleep apnea (if present) &lt;/li&gt;&#xA;    &lt;/ol&gt;&#xA;    &lt;/li&gt;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Narcolepsy or idiopathic hypersomnia&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Neurology" />
+      <FieldValue Value="Pulmonary Medicine" />
+      <FieldValue Value="Sleep Medicine" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Allied Health Personnel" />
+      <FieldValue Value="Health Plans" />
+      <FieldValue Value="Managed Care Organizations" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+      <FieldValue Value="Respiratory Care Practitioners" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To provide appropriate indications for multiple sleep latency testing (MSLT) and/or maintenance of wakefulness testing (MWT) in the evaluation of narcolepsy or idiopathic hypersomnia&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adults with excessive daytime sleepiness or other symptoms of narcolepsy&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xA;    &lt;li&gt;Multiple sleep latency testing (MSLT) &lt;/li&gt;&#xA;    &lt;li&gt;Maintenance of wakefulness testing (MWT) &lt;/li&gt;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Accurate and safe diagnosis &lt;/li&gt;&#xA;    &lt;li&gt;Persistence of symptoms &lt;/li&gt;&#xA;    &lt;li&gt;Comorbidities &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Review of AIM Guideline References&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The first screening process identified 52 AIM Specialty Health (AIM) guideline references relevant to the guideline. A full-text review retained 38 references and 1 article was added from reference list.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Guidelines Search&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A manual search of the American Academy of Sleep Medicine (AASM) and American Thoracic Society (ATS) Web sites was conducted on February 3, 2014 yielding 9 systematic reviews and 17 guidelines. A National Guideline Clearinghouse search using the keywords &quot;sleep apnea&quot;, &quot;polysomnography&quot;, &quot;sleep apnoea&quot;, &quot;narcolepsy&quot;, and &quot;positive airway pressure&quot; was conducted on the same day, yielding 108 results. These searches resulted in 3 guidelines for full-text review. Two of these guidelines were added to the evidence tables.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Scientific Literature Update Search&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A manual search of the Institute for Clinical Systems Improvement (ICSI), Blue Cross Blue Shield Health Technology Assessment (BCBS HTA), Oregon Health Evidence Review Commission, Washington HTA Program, National Health Service (NHS) HTA Programme and of the Institute for Clinical and Economic Review (ICER), the Agency for Healthcare Research and Quality (AHRQ), the Canadian Agency for Drugs and Technologies in Health (CADTH), California committee, and the Centers for Medicare and Medicaid Services (CMS) for grey literature on February 4, 2014 gave 1 result and 5 reports, respectively. Two reports had full-text review and were added to the evidence tables. A PubMed/MEDLINE update search on the same day for literature published from January 2012 to February 2014, using keywords and index terms for polysomnography, home sleep testing, positive airway pressure treatment, oral appliances, and narcolepsy yielded 767 results. Fifty-four had abstract review and 2 articles were added through ongoing surveillance. Thirty-one of these articles had full-text review and 19 of these were added to the evidence tables.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Research Process&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The research and development process is primarily conducted by the lead physician author with staff support, including medical librarians, and is overseen by the AIM members of the Clinical Guidelines Committee (CGC). The resources considered during AIM Guidelines development can include but are not limited to:&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Professional Society Guidelines &lt;/li&gt;&#xA;    &lt;li&gt;Professional Society Appropriateness Criteria &lt;/li&gt;&#xA;    &lt;li&gt;Agency for Healthcare Research and Quality (AHRQ) Comparative Effectiveness Guidance &lt;/li&gt;&#xA;    &lt;li&gt;The Centers for Medicare and Medicaid Services (CMS) &lt;/li&gt;&#xA;    &lt;li&gt;Initiatives sponsored by Specialty Licensing Boards &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Additional web-based searches for evidence-based clinical guidelines and appropriate use criteria may also be performed using the National Guideline Clearinghouse website. Searches of the primary literature for an AIM Guideline under review are also conducted using standard databases and clinical knowledge resources. Relevant evidence-based literature or information may be brought to AIM's attention at any time by providers, AIM's physician reviewers, committee members, or other interested parties. This additional information may warrant off-cycle review and modification to include clinically-important recommendations, in addition to the usual process as determined by the Chair of the CGC.&lt;/p&gt;&#xA;&lt;p&gt;A database is used to track the various sources of information referenced. A digital copy of each source document, including primary literature, is stored. If the content license prohibits storing a digital copy, a print copy is stored. Quality data on actual case review by AIM's physician reviewers using the guidelines under consideration shall also be made available during the guideline review process.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Sixty-three references were in the evidence tables reviewed by expert panelists. No guideline recommendation changes were made. For this guideline, 4 references were retained, 4 were removed, and 1 added during review.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Evidence tables were organized around key clinical questions, some applicable to multiple guidelines. The key question applicable to this guideline was:&lt;/p&gt;&#xA;&lt;p class=&quot;Indent&quot;&gt;How do different tests (including multiple sleep latency test [MSLT] and maintenance of wakefulness test [MWT]) compare in their ability to diagnose narcolepsy in adults?&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Guideline Development and Review Process&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Review Process&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;When a new Guideline(s) is considered, the Chair of the Clinical Guidelines Committee (CGC) may choose to form a Specialty Panel to assist with the drafting and review of the Guideline. Similarly, the assigned AIM Medical Director may use a Specialty Panel to review and comment on proposed revisions to existing Guidelines.&lt;/p&gt;&#xA;&lt;p&gt;In order for a new or revised Guideline to be approved for use by AIM, it must be reviewed by the Internal Panel of AIM physician reviewers. The Internal Panel considers supporting evidence as well as usability and validity within the education and adjudication process. The Internal Panel votes to forward recommendations to the Independent Physician Panel.&lt;/p&gt;&#xA;&lt;p&gt;The Independent Physician Panel considers supporting evidence and the potential impact of draft AIM Guidelines on clinical outcomes and practice. The external panel votes to forward recommendations onto the CGC.&lt;/p&gt;&#xA;&lt;p&gt;An AIM Medical Director is assigned to each program or solution for purposes of the guideline development and review process. These AIM Medical Directors are responsible for drafting new Guidelines as necessary and ensuring that every Guideline and the procedures for applying it, is reviewed and assessed for continued validity at least once annually. The assigned AIM Medical Directors are responsible for monitoring the clinical and regulatory environment with the support of AIM medical librarians to determine when Guideline revisions are necessary, based on new, potentially-relevant evidence and other factors. The assigned AIM Medical Directors are responsible for supporting the Vice President, Clinical Operations in facilitating education and training for the staff regarding the Guidelines.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Committee and Panel Operational Process&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Review requires that the Guideline and any supporting materials be provided to members who are given sufficient time for review. The body then meets (either in person or telephonically) to discuss the proposed changes or enhancements. Approval of a Guideline is demonstrated by a vote of at least a majority of the members of that body who are present at the meeting (but in no event fewer than three [3] affirmative votes). If approval is received, then the Guideline can proceed to the next stage of the process. If committee approval is not received at any stage of the process, then the assigned AIM Medical Director shall be responsible for addressing committee member concerns and resubmitting the Guideline for committee review.&lt;/p&gt;&#xA;&lt;p&gt;Minutes of all meetings are maintained as well as documentation of all proposed, approved and tabled Guidelines and changes to Guidelines. All input received during any level of review is recorded and noted in any subsequent review. Input received after approval of a Guideline is presented at the next regularly scheduled CGC meeting.&lt;/p&gt;&#xA;&lt;p&gt;The AIM Quality Improvement Committee (QIC) reviews and accepts the Guidelines.&lt;/p&gt;&#xA;&lt;p&gt;Ultimate responsibility and accountability for the development, review and updating of AIM's Guidelines are delegated to the CGC. No new or revised Guideline can be implemented without CGC approval.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="External Peer Review" />
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Clinical Guidelines Committee (CGC) considers medical director feedback and Internal and External Panel recommendations. Data from guidelines use in appropriateness reviews, provider comments, and other feedback are also used in developing recommendation revisions. The CGC is the final and ultimate approving body.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The AIM Quality Improvement Committee (QIC) reviews and accepts the Guidelines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of evidence supporting the recommendations is not specifically stated.&lt;/p&gt;&#xA;&lt;p&gt;The recommendations were based on a review of published literature. When evidence was unavailable, limited, unclear, or not directly generalizable to the patient populations under consideration, expert consensus was used to develop recommendations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate use of multiple sleep latency testing (MSLT) and maintenance of wakefulness testing (MWT) for diagnosis and treatment of sleep disorders&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="430" OrdBy="800" Name="Contraindications">
+    <Field FieldID="144" OrdBy="805" ID="431" Name="Contraindications" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Multiple sleep latency testing (MSLT) and maintenance of wakefulness testing (MWT) should not be performed while the patient is taking (or within two weeks of stopping) stimulant medications, sedatives or rapid eye movement (REM) suppressing medications.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;AIM Specialty Health (AIM) has developed proprietary diagnostic and treatment management clinical guidelines (together with any updates, referred to collectively as the &quot;Guidelines&quot;). The Guidelines are designed to evaluate and direct the appropriate management of sleep diagnostic testing and treatment scenarios. They are based on data from the peer-reviewed scientific literature, from criteria developed by specialty societies and from guidelines adopted by other health care organizations. Access to these guidelines is being provided for informational purposes only. AIM is under no obligation to update its Guidelines. Therefore, these Guidelines may be out of date. &lt;/li&gt;&#xA;    &lt;li&gt;The Guidelines do not constitute medical advice and/or medical care, and do not guarantee results or outcomes. The Guidelines are not a substitute for the experience and judgment of a physician or other health care professionals. Any clinician seeking to apply or consult the Guidelines is expected to use independent medical judgment in the context of individual clinical circumstances to determine any patient's care or treatment. The Guidelines do not address coverage, benefit or other plan specific issues. &lt;/li&gt;&#xA;    &lt;li&gt;The Guidelines are provided &quot;as is&quot; without warranty of any kind, either expressed or implied. AIM disclaims all responsibility for any consequences or liability attributable or related to any use, non-use or interpretation of information contained in the Guidelines. &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;AIM Specialty Health. Multiple sleep latency testing (MSLT) and maintenance of wakefulness testing (MWT). Chicago (IL): AIM Specialty Health; 2014 May 20. 4 p.  [5 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline is not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2014 May 20" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="AIM Specialty Health - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;AIM Specialty Health&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Clinical Guidelines Committee (CGC)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Board certified physicians, including three board-certified sleep medicine specialists&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All members of any body are required to report and discuss any potential conflicts of interest. In the event that a member discloses a conflict of interest that may influence the Guideline development process or specific recommendations, the member must not participate in the vote specific to the relevant recommendation. Ongoing review and management of conflict of interest is the responsibility of the Clinical Guidelines Committee (CGC).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available by request. Please contact AIM Specialty Health at &lt;a href=&quot;mailto:NGC-request@aimspecialtyhealth.com&quot;&gt;NGC-request@aimspecialtyhealth.com&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on September 25, 2014. The information was verified by the guideline developer on October 23, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

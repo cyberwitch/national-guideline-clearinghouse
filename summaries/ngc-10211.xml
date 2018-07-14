@@ -1,0 +1,177 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Cerclage for the management of cervical insufficiency.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Obstetricians and Gynecologists (ACOG). Cerclage for the management of cervical insufficiency. Washington (DC): American College of Obstetricians and Gynecologists (ACOG); 2014 Feb. 8 p.&amp;nbsp;(ACOG practice bulletin; no. 142).&amp;nbsp; [50 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The grades of evidence (&lt;strong&gt;I-III&lt;/strong&gt;) and levels of recommendations (&lt;strong&gt;A-C&lt;/strong&gt;) are defined at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The following recommendations are based on good or consistent scientific evidence (Level A)&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Although women with a current singleton pregnancy, prior spontaneous preterm birth at less than 34 weeks of gestation, and short cervical length (less than 25 mm) before 24 weeks of gestation do not meet the diagnostic criteria for cervical insufficiency, available evidence suggests that cerclage placement may be effective in this setting. Cerclage is associated with significant decreases in preterm birth outcomes, as well as improvements in composite neonatal morbidity and mortality, and may be considered in women with this combination of history and ultrasonographic findings. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cerclage placement in women without a prior spontaneous preterm birth and a cervical length less than 25 mm detected between 16 weeks and 24 weeks of gestation has not been associated with a significant reduction in preterm birth. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The following recommendations are based on limited or inconsistent scientific evidence (Level B)&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Certain nonsurgical approaches, including activity restriction, bed rest, and pelvic rest have not been proved to be effective for the treatment of cervical insufficiency and their use is discouraged. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The standard transvaginal cerclage methods currently used include modifications of the McDonald and Shirodkar techniques. The superiority of one suture type or surgical technique over another has not been established. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cerclage may increase the risk of preterm birth in women with a twin pregnancy and an ultrasonographically detected cervical length less than 25 mm and is not recommended. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Neither antibiotics nor prophylactic tocolytics have been shown to improve the efficacy of cerclage, regardless of timing or indication. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A history-indicated cerclage can be considered in a patient with a history of unexplained second trimester delivery in the absence of labor or abruptio placentae. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The following recommendations are based primarily on consensus and expert opinion (Level C)&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Cerclage should be limited to pregnancies in the second trimester before fetal viability has been achieved. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Transabdominal cervicoisthmic cerclage generally is reserved for patients in whom a cerclage is indicated based on the diagnosis of cervical insufficiency but cannot be placed because of anatomical limitations (e.g., after a trachelectomy), or in the case of failed transvaginal cervical cerclage procedures that resulted in second-trimester pregnancy loss. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;After clinical examination to rule out uterine activity, or intraamniotic infection, or both, physical examination-indicated cerclage placement (if technically feasible) in patients with singleton gestations who have cervical change of the internal os may be beneficial. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In patients with no complications, transvaginal McDonald cerclage removal is recommended at 36 to 37 weeks of gestation. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For patients who elect cesarean delivery at or beyond 39 weeks of gestation, cerclage removal at the time of delivery may be performed; however, the possibility of spontaneous labor between 37 weeks and 39 weeks of gestation must be considered. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In most cases, removal of a McDonald cerclage in the office setting is appropriate. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;I&lt;/strong&gt;: Evidence obtained from at least one properly designed randomized controlled trial.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-1&lt;/strong&gt;: Evidence obtained from well-designed controlled trials without randomization.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-2&lt;/strong&gt;: Evidence obtained from well-designed cohort or case&amp;ndash;control analytic studies, preferably from more than one center or research group.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-3&lt;/strong&gt;: Evidence obtained from multiple time series with or without the intervention. Dramatic results in uncontrolled experiments also could be regarded as this type of evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;III&lt;/strong&gt;: Opinions of respected authorities, based on clinical experience, descriptive studies, or reports of expert committees.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Levels of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level A&lt;/strong&gt;&amp;mdash;Recommendations are based on good and consistent scientific evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level B&lt;/strong&gt;&amp;mdash;Recommendations are based on limited or inconsistent scientific evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level C&lt;/strong&gt;&amp;mdash;Recommendations are based primarily on consensus and expert opinion.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Cervical insufficiency&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The term cervical insufficiency is used to describe the inability of the uterine cervix to retain a pregnancy in the absence of the signs and symptoms of clinical contractions, or labor, or both in the second trimester.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Management" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Obstetrics and Gynecology" />
+      <FieldValue Value="Surgery" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To provide a review of current evidence of cervical insufficiency, including screening of asymptomatic at-risk women &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To offer guidelines on the use of cerclage for management of cervical insufficiency &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Women with cervical insufficiency&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The diagnosis and management of other cervical issues during pregnancy, such as short cervical length, are discussed more in-depth in other publications of the American College of Obstetricians and Gynecologists (ACOG).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Transvaginal cerclage placement (modification of the McDonald and Shirodkar techniques) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Transabdominal cervicoisthmic cerclage (as indicated) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cerclage removal (as indicated) &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The following interventions were considered but not recommended:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;contentListFont&quot;&gt;&#xD;&#xA;    &lt;li&gt;Certain nonsurgical approaches, including activity restriction, bed rest, and pelvic rest &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative antibiotics or prophylactic tocolytics &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Ultrasonographic surveillance of cervical length after cerclage placement &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Preterm birth outcomes &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Composite neonatal morbidity and mortality &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The MEDLINE database, the Cochrane Library, and the American College of Obstetricians and Gynecologists' own internal resources and documents were used to conduct a literature search to locate relevant articles published between January 2000 and June 2013. The search was restricted to articles published in the English language. Priority was given to articles reporting results of original research, although review articles and commentaries also were consulted. Abstracts of research presented at symposia and scientific conferences were not considered adequate for inclusion in this document. Guidelines published by organizations or institutions such as the National Institutes of Health and the American College of Obstetricians and Gynecologists were reviewed, and additional studies were located by reviewing bibliographies of identified articles. When reliable research was not available, expert opinions from obstetrician-gynecologists were used.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Studies were reviewed and evaluated for quality according to the method outlined by the U.S. Preventive Services Task Force (1989).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;I&lt;/strong&gt;: Evidence obtained from at least one properly designed randomized controlled trial.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-1&lt;/strong&gt;: Evidence obtained from well-designed controlled trials without randomization.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-2&lt;/strong&gt;: Evidence obtained from well-designed cohort or case&amp;ndash;control analytic studies, preferably from more than one center or research group.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-3&lt;/strong&gt;: Evidence obtained from multiple time series with or without the intervention. Dramatic results in uncontrolled experiments also could be regarded as this type of evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;III&lt;/strong&gt;: Opinions of respected authorities, based on clinical experience, descriptive studies, or reports of expert committees.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Analysis of available evidence was given priority in formulating recommendations. When reliable research was not available, expert opinions from obstetrician-gynecologists were used. See also the &quot;Rating Scheme for the Strength of Recommendations&quot; field regarding Level C recommendations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Levels of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level A&lt;/strong&gt;&amp;mdash;Recommendations are based on good and consistent scientific evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level B&lt;/strong&gt;&amp;mdash;Recommendations are based on limited or inconsistent scientific evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level C&lt;/strong&gt;&amp;mdash;Recommendations are based primarily on consensus and expert opinion.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Practice Bulletins are validated by two internal clinical review panels composed of practicing obstetrician-gynecologists generalists and sub-specialists. The final guidelines are also reviewed and approved by the American College of Obstetricians and Gynecologists (ACOG) Executive Board.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Cerclage is associated with significant decreases in preterm birth outcomes, as well as improvements in composite neonatal morbidity and mortality.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Overall, there is a low risk of complications with cerclage placement. Reported complications include rupture of membranes, chorioamnionitis, cervical lacerations, and suture displacement. The incidence of complications varies widely in relation to the timing and indications for the cerclage. A cerclage in the presence of membrane rupture or dilation generally is associated with an increased risk of complications. Life-threatening complications of uterine rupture and maternal septicemia are extremely rare but have been reported with all types of cerclage. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Compared with transvaginal cerclage, transabdominal cerclage carries a much greater risk of hemorrhage, which can be life threatening, in addition to all the other complications associated with abdominal surgery. Furthermore, it generally precludes the performance of uterine evacuation or vaginal delivery. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In some, but not all studies, cerclage retention with preterm premature rupture of membranes (PROM) has been associated with increased rates of neonatal mortality from sepsis, neonatal sepsis, respiratory distress syndrome, and maternal chorioamnionitis. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The information in this guideline&amp;nbsp;is designed to aid practitioners in making decisions about appropriate obstetric and gynecologic care. These guidelines should not be construed as dictating an exclusive course of treatment or procedure. Variations in practice may be warranted based on the needs of the individual patient, resources, and limitations unique to the institution or type of practice.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Audit Criteria/Indicators" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Obstetricians and Gynecologists (ACOG). Cerclage for the management of cervical insufficiency. Washington (DC): American College of Obstetricians and Gynecologists (ACOG); 2014 Feb. 8 p.&amp;nbsp;(ACOG practice bulletin; no. 142).&amp;nbsp; [50 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2014 Feb" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="American College of Obstetricians and Gynecologists - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American College of Obstetricians and Gynecologists (ACOG)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American College of Obstetricians and Gynecologists (ACOG) Committee on Practice Bulletins&amp;mdash;Obstetrics&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This Practice Bulletin was developed by the Committee on Practice Bulletins&amp;mdash;Obstetrics with the assistance of Orion Rust, MD and Anthony Odibo, MD, MSCE.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;American College of Obstetricians and Gynecologists (ACOG) committees are created or abolished and their overall function defined by the Executive Board. Appointments are made for one year, with the understanding that such appointment may be continued for a total of three years. The majority of committee members are Fellows, but Junior Fellows also are eligible for appointment. Some committees may have representatives from other organizations when this is particularly appropriate to committee activities. The president elect appoints committee members annually.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No electronic copies available&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Print copies: Available for purchase from the American College of Obstetricians and Gynecologists (ACOG) Distribution Center, PO Box 933104, Atlanta, GA 31193-3104; telephone, 800-762-2264; e-mail: &lt;a href=&quot;mailto:sales@acog.org&quot;&gt;sales@acog.org&lt;/a&gt;. The ACOG Bookstore is available online at the &lt;a href=&quot;http://sales.acog.org&quot; title=&quot;ACOG Web site&quot;&gt;ACOG Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A proposed performance measure is included in the original guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on March 18, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

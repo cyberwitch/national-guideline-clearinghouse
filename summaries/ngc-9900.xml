@@ -1,0 +1,186 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Second-trimester abortion.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Obstetricians and Gynecologists (ACOG). Second-trimester abortion. Washington (DC): American College of Obstetricians and Gynecologists (ACOG); 2013 Jun. 13 p.&amp;nbsp;(ACOG practice bulletin; no. 135).&amp;nbsp; [106 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The grades of evidence (&lt;strong&gt;I-III&lt;/strong&gt;) and levels of recommendations (&lt;strong&gt;A-C&lt;/strong&gt;) are defined at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The following recommendations and conclusions are based on good and consistent scientific evidence (Level A)&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Cervical preparation is recommended before dilation and evacuation (D&amp;amp;E) to decrease risk of cervical trauma. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mifepristone followed in 24&amp;ndash;48 hours by misoprostol is the most effective regimen for second-trimester medical abortion. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Misoprostol as a single agent is effective for medical abortion. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Administration of prophylactic antibiotics decreases the risk of infection after surgical abortion and, therefore, should be provided to all patients undergoing D&amp;amp;E. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Except for hysteroscopic sterilization, diaphragm, or cervical cap, all forms of contraception can be considered after second-trimester abortion and initiated on the day of the procedure. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The following recommendations and conclusions are based on limited or inconsistent scientific evidence (Level B)&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;D&amp;amp;E is associated with fewer complications than medical abortion involving misoprostol regimens. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;When there is a suspicion of abnormal placentation, D&amp;amp;E is the preferred abortion method, and preparations should be made for possible hemorrhage by ensuring the procedure is performed at an appropriate facility with accessibility to blood products, interventional radiology, and the capability to perform a hysterectomy if necessary. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The use of vasopressin in the paracervical block may decrease blood loss from D&amp;amp;E. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Methylergonovine maleate is an appropriate first-line uterotonic agent unless contraindicated, as in patients with hypertension. Misoprostol is an effective agent in the setting of postabortion hemorrhage, and doses of 800&amp;ndash;1,000 micrograms are recommended. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If refractory bleeding is thought to be due to atony or lower uterine segment bleeding, a Foley catheter or intrauterine balloon should be inserted to tamponade the endometrial cavity. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Because the risk of uterine rupture associated with prior cesarean delivery is similar to the risk among women without a prior cesarean delivery, guidelines support the safety of misoprostol specifically and medical abortion generally in women with one prior cesarean delivery. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The following recommendations are based primarily on consensus and expert opinion (Level C)&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;In order to ensure access to D&amp;amp;E, residency training programs should offer integrated abortion training that includes second-trimester D&amp;amp;E. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;All physicians should facilitate timely referrals for abortion care to reduce delays in accessing services. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Interventions to improve and facilitate early identification of pregnancy should be encouraged, including efforts to educate women about the signs and symptoms of pregnancy. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Grades of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;I&lt;/strong&gt; Evidence obtained from at least one properly designed randomized controlled trial&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-1&lt;/strong&gt; Evidence obtained from well-designed controlled trials without randomization&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-2&lt;/strong&gt; Evidence obtained from well-designed cohort or case-control analytic studies, preferably from more than one center or research group&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-3&lt;/strong&gt; Evidence obtained from multiple time series with or without the intervention. Dramatic results in uncontrolled experiments also could be regarded as this type of evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;III&lt;/strong&gt; Opinions of respected authorities, based on clinical experience, descriptive studies, or reports of expert committees&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Levels of Recommendations&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level A&lt;/strong&gt; &amp;mdash; Recommendations are based on good and consistent scientific evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level B&lt;/strong&gt; &amp;mdash; Recommendations are based on limited or inconsistent scientific evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level C&lt;/strong&gt; &amp;mdash; Recommendations are based primarily on consensus and expert opinion.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unwanted pregnancy&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Management" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Emergency Medicine" />
+      <FieldValue Value="Obstetrics and Gynecology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To provide evidence-based guidelines for the medical and surgical methods of second-trimester termination as well as for the management of associated complications&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Women seeking second-trimester abortion for a variety of medical and social reasons, such as:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Delayed awareness of pregnancy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Delayed access to health care or insurance/funding &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Difficulties in locating and traveling to a provider &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Poverty, lower education level, and having multiple disruptive life events &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Detection of major anatomic or genetic anomalies in the second trimester &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Obstetric and medical indications such as preeclampsia and preterm premature rupture of membranes, among other conditions &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pregnancy failure before 20 weeks of gestation and fetal demise &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Dilation and evacuation (D&amp;amp;E) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mifepristone &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Misoprostol &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Prophylactic antibiotics &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Methylergonovine maleate &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Vasopressin &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Foley catheter or intrauterine balloon &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Residency training programs in D&amp;amp;E &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Reducing delays that contribute to second-trimester identification &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Improve and facilitate early identification of pregnancy &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Procedural complications, such as uterine perforation, infection, incomplete abortion &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Preservation of fetal anatomy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cost-effectiveness &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Surgical benefits and risks &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Maternal morbidity and mortality &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The MEDLINE database, the Cochrane Library, and the American College of Obstetricians and Gynecologists' own internal resources and documents were used to conduct a literature search to locate relevant articles published between January 1990 to November 2012. The search was restricted to articles published in the English language. Priority was given to articles reporting results of original research, although review articles and commentaries also were consulted. Abstracts of research presented at symposia and scientific conferences were not considered adequate for inclusion in this document. Guidelines published by organizations or institutions such as the National Institutes of Health and the American College of Obstetricians and Gynecologists were reviewed, and additional studies were located by reviewing bibliographies of identified articles. When reliable research was not available, expert opinions from obstetrician&amp;ndash;gynecologists were used.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Grades of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;I&lt;/strong&gt; Evidence obtained from at least one properly designed randomized controlled trial&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-1&lt;/strong&gt; Evidence obtained from well-designed controlled trials without randomization&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-2&lt;/strong&gt; Evidence obtained from well-designed cohort or case&amp;ndash;control analytic studies, preferably from more than one center or research group&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-3&lt;/strong&gt; Evidence obtained from multiple time series with or without the intervention. Dramatic results in uncontrolled experiments also could be regarded as this type of evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;III&lt;/strong&gt; Opinions of respected authorities, based on clinical experience, descriptive studies, or reports of expert committees&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Studies were reviewed and evaluated for quality according to the method outlined by the U.S. Preventive Services Task Force. See the &quot;Rating Scheme for the Strength of the Evidence&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Analysis of available evidence was given priority in formulating recommendations. When reliable research was not available, expert opinions from obstetrician-gynecologists were used. See also the &quot;Rating Scheme for the Strength of the Recommendations&quot; field regarding Level C recommendations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Levels of Recommendations&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level A&lt;/strong&gt; &amp;mdash; Recommendations are based on good and consistent scientific evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level B&lt;/strong&gt; &amp;mdash; Recommendations are based on limited or inconsistent scientific evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level C&lt;/strong&gt; &amp;mdash; Recommendations are based primarily on consensus and expert opinion.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Practice Bulletins are validated by two internal clinical review panels composed of practicing obstetrician-gynecologists generalists and sub-specialists. The final guidelines are also reviewed and approved by the American College of Obstetricians and Gynecologists (ACOG) Executive Board.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Appropriate provision and management of second-trimester abortion &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Decreased incidence of complications &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Medical abortions involving mifepristone combined with misoprostol have faster times to completion, decreased hospital time, and a lower risk of retained placenta, compared with regimens with misoprostol used alone. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The mortality rate associated with abortion is low (0.6 per 100,000 legal, induced abortions), and the risk of death associated with childbirth is approximately 14 times higher than that with abortion. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Rare complications associated with both dilation and evacuation (D&amp;amp;E) and medical abortion include hemorrhage, cervical laceration, retained products of conception, and infection. Uterine perforation can occur with D&amp;amp;E, whereas uterine rupture can occur with medical abortion. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Other rare complications may include disseminated intravascular coagulation and embolism. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adverse events, such as pain and gastrointestinal adverse effects can occur. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The information is designed to aid practitioners in making decisions about appropriate obstetric and gynecologic care. These guidelines should not be construed as dictating an exclusive course of treatment or procedure. Variations in practice may be warranted based on the needs of the individual patient, resources, and limitations unique to the institution or type of practice.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Foreign Language Translations" />
+      <FieldValue Value="Patient Resources" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+      <FieldValue Value="Safety" />
+      <FieldValue Value="Timeliness " />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Obstetricians and Gynecologists (ACOG). Second-trimester abortion. Washington (DC): American College of Obstetricians and Gynecologists (ACOG); 2013 Jun. 13 p.&amp;nbsp;(ACOG practice bulletin; no. 135).&amp;nbsp; [106 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2013 Jun" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="American College of Obstetricians and Gynecologists - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American College of Obstetricians and Gynecologists (ACOG)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American College of Obstetricians and Gynecologists (ACOG) Committee on Practice Bulletins&amp;mdash;Gynecology&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This Practice Bulletin was developed by the Committee on Practice Bulletins&amp;mdash;Gynecology with the assistance of Jody Steinauer, MD, Andrea Jackson, MD, and Daniel Grossman, MD.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;American College of Obstetricians and Gynecologists (ACOG) committees are created or abolished and their overall function defined by the Executive Board. Appointments are made for one year, with the understanding that such appointment may be continued for a total of three years. The majority of committee members are Fellows, but Junior Fellows also are eligible for appointment. Some committees may have representatives from other organizations when this is particularly appropriate to committee activities. The president elect appoints committee members annually.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="159" OrdBy="1255" ID="453" Name="Guideline Endorser(s)" Type="orglist">
+      <FieldValue Value="Society for Maternal-Fetal Medicine - Nonprofit Organization" />
+      <FieldValue Value="Society of Family Planning - Professional Association" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No electronic copies available&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Print copies: Available for purchase from the American College of Obstetricians and Gynecologists (ACOG) Distribution Center, PO Box 933104, Atlanta, GA 31193-3104; telephone, 800-762-2264; e-mail: &lt;a href=&quot;mailto:sales@acog.org&quot;&gt;sales@acog.org&lt;/a&gt;. The ACOG Bookstore is available online at the &lt;a href=&quot;http://sales.acog.org/&quot; title=&quot;ACOG Web site&quot;&gt;ACOG Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Frequently asked questions: Induced abortion. Atlanta (GA): American College of Obstetricians and Gynecologists (ACOG); 2011 Oct. 3 p. Electronic copies: Available in Portable Document Format (PDF) from the &lt;a href=&quot;http://www.acog.org/~/media/For%20Patients/faq043.pdf?dmc=1&amp;amp;ts=20130730T1051356044&quot; title=&quot;ACOG Web site&quot;&gt;American College of Obstetricians and Gynecologists (ACOG) Web site&lt;/a&gt;. Copies are also available in &lt;a href=&quot;http://www.acog.org/For_Patients/Search_Patient_Education_Pamphlets_-_Spanish/Files/Aborto_provocado&quot; title=&quot;ACOG Web site&quot;&gt;Spanish&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Disclaimer&quot;&gt;Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This summary was completed by ECRI Institute on July 30, 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Copyright June 2013 by the American College of Obstetricians and Gynecologists. All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, posted on the Internet, or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without prior written permission from the publisher.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Requests for authorization to make photocopies should be directed to Copyright Clearance Center, 222 Rosewood Drive, Danvers, MA 01923, (978) 750-8400.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,190 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Work-related carpal tunnel syndrome diagnosis and treatment guideline.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Washington State Department of Labor and Industries. Work-related carpal tunnel syndrome diagnosis and treatment guideline. Olympia (WA): Washington State Department of Labor and Industries; 2014 Jan. 17 p.  [41 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: Washington State Department of Labor and Industries. Work-related carpal tunnel syndrome diagnosis and treatment guideline. Olympia (WA): Washington State Department of Labor and Industries; 2009 Apr. 16 p.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Review Criteria for the Diagnosis and Treatment of Work-Related Carpal Tunnel Syndrome&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; colspan=&quot;8&quot;&gt;Review Criteria for the Diagnosis and Treatment of Work-related Carpal Tunnel Syndrome&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;SURGICAL PROCEDURE&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;CONSERVATIVE CARE&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; colspan=&quot;6&quot;&gt;CLINICAL FINDINGS&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;&amp;nbsp;&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;&amp;nbsp;&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;&amp;nbsp;&lt;/td&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;SUBJECTIVE&lt;/th&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;&amp;nbsp;&lt;/td&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;OBJECTIVE&lt;/th&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;&amp;nbsp;&lt;/td&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;DIAGNOSTIC&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot; rowspan=&quot;3&quot;&gt;Open Carpal Tunnel Release&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Endoscopic Carpal Tunnel Release&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Splinting, especially at night&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Glucocorticoid injections (no more than 2)&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Job modification&lt;/td&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;AND&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&lt;strong&gt;Complaints of numbness, tingling, or &quot;burning&quot; pain of the hand or first 3 digits&lt;/strong&gt;&lt;/td&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;OR&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Decreased sensation to pin in palm and first 3 digits&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Weakness or atrophy of the thenar eminence muscles&lt;/td&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;AND&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&lt;strong&gt;Abnormal EDS as demonstrated by any abnormality in one of the following*:&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Median motor distal latency (8 cm) &amp;gt;4.5 msec&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            &lt;strong&gt;Note&lt;/strong&gt;: If median motor distal latency is abnormal, then ulnar motor distal latency at 8 cm must be WNL (&amp;le;3.9 msec)&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Median sensory distal latency: either &amp;ge;2.3 msec (8 cm) recorded palm to wrist or &amp;ge;3.6 msec (14 cm) recorded index finger to wrist. If either of these tests is used alone, at least one other sensory nerve in the ipsilateral hand should be normal&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Median-ulnar motor latency difference (APB vs. ADM) at 8 cm &amp;gt;1.6 msec&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: In the absence of conservative care or with minimal conservative care, a request for surgery can still be considered, pending clinical findings.&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&amp;nbsp;&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&lt;strong&gt;Note:&lt;/strong&gt; Nocturnal symptoms may be prominent.&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&amp;nbsp;&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&amp;nbsp;&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&amp;nbsp;&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Median-ulnar sensory latency difference to digits (14 cm) &amp;ndash; index or long finger compared to ulnar recorded at the small finger, or median-ulnar difference recorded at the ring finger &amp;gt;0.5 msec&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Median-ulnar sensory latency difference across palm (8 cm) &amp;gt;0.3 msec&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Median-radial sensory latency difference to thumb (10 cm) &amp;gt;0.6 msec&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Combined sensory index &amp;gt;0.9 msec&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot; colspan=&quot;6&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: NCVs should be scheduled immediately to corroborate the clinical diagnosis. NCVs are required if time loss extends beyond two weeks or if surgery is requested.&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;*NCVs must be done with control for skin temperature with normal appropriate control nerves (as described in Section B of the original guideline document). Values are true for temperature in range of 30&amp;deg;&amp;ndash;34&amp;deg;C.&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Abbreviations: ADM, abductor digiti minimi; APB, abductor pollicis brevis; EDS, electrodiagnostic studies; NCV, nerve conduction velocity study; WNL, within normal limits.&lt;/p&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Work-related carpal tunnel syndrome &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Risk Assessment" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Orthopedic Surgery" />
+      <FieldValue Value="Physical Medicine and Rehabilitation" />
+      <FieldValue Value="Radiology" />
+      <FieldValue Value="Surgery" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Health Care Providers" />
+      <FieldValue Value="Health Plans" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+      <FieldValue Value="Utilization Management" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To facilitate appropriate authorization of carpal tunnel surgeries by the utilization review team and claim adjudicators, leading to better outcomes for workers with these conditions &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To serve as an educational resource for physicians who treat injured workers in the Washington workers' compensation system under Title 51 Revised Code of Washington (RCW) and as review criteria for the Department's utilization review team to help ensure diagnosis and treatment of carpal tunnel syndrome is of the highest quality &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The injured worker with carpal tunnel syndrome in the Washington workers' compensation system&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Diagnosis/Evaluation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Evaluation of subjective and objective clinical findings (e.g., symptoms of numbness, tingling, or burning pain of the hand, and decreased sensation to pin in palm and first 3 digits) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Electrodiagnostic testing&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Nerve conduction velocity (NCV) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Needle electromyography (EMG) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Quantitative sensory testing (QST) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The department does not cover quantitative sensory tests.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Treatment&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Conservative treatment&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Neutral position wrist splits &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Glucocorticoids &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Forearm/wrist stretching home exercise regimens &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Job modification &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Surgical treatment (carpal tunnel release) &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The following treatments are not recommended for carpal tunnel syndrome because there is inadequate or conflicting evidence concerning their effectiveness: vitamin B6 (pyridoxine), oral diuretics, magnets, lasers, Botulinum toxin injections, iontophoresis.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Sensitivity and specificity of diagnostic assessments &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Response to surgical decompression of the median nerve &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Function &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Ability to return to work&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The literature search was conducted from August 2013 until October 2013. PubMed was the main database searched for peer-reviewed articles. Some of the search terms used in PubMed were: &lt;em&gt;median nerve entrapment, carpal tunnel syndrome, carpal tunnel surgery, carpal tunnel and work-relatedness, diagnostic test and carpal tunnel, carpal tunnel treatment&lt;/em&gt;. The search was filtered to select English language, randomized controlled trials, systematic reviews, and meta-analyses.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Additional citation tracking was also performed from October 2013 to December 2013 by department staff for potentially relevant studies not initially retrieved from the electronic database.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;For the 2013 update, 203 articles were selected for review based on the title; 107 were included after abstract review.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus (Committee)" />
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Not Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The quality and strength of the evidence were assessed using the American Academy of Neurology (AAN) clinical guideline process manual rating scheme. Refer to the AAN Clinical Practice Guideline Process Manual, &lt;a href=&quot;https://www.aan.com/Guidelines/Home/Development&quot; title=&quot;AAN Web site&quot;&gt;https://www.aan.com/Guidelines/Home/Development&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The process for guideline development is contained in a separate document, titled Medical Treatment Guidelines in Washington Workers' Compensation, June 2010 (see the &quot;Availability of Companion Documents&quot; field). A formal subcommittee was not convened for this review of the carpal tunnel syndrome guideline. The review was conducted by Labor &amp;amp; Industries (L&amp;amp;I) staff, and discussed with the Industrial Insurance Medical Advisory Committee (IIMAC) members who worked on the previous guideline, then discussed and voted on in a meeting of the full IIMAC on January 23, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="External Peer Review" />
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;After the full advisory committee has given their input and any recommended changes are made, the third draft guideline is posted on the web and distributed via a provider listserv for public review and comment. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Once all public comments are received and reviewed, responses are provided by the subcommittee. Both comments and responses are posted on the web. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The subcommittee may make further revisions to the draft guideline based on public input and any other information they have received. This then results in a fourth draft. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The fourth draft is presented to the full advisory committee in an open public meeting. Oral comments are invited from the public, and the full committee may recommend further changes, potentially creating a fifth and final draft. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Once the full committee makes the advisory recommendation to adopt the guideline, it becomes final and is again posted on the web and distributed via the provider listserv. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Labor &amp;amp; Industries (L&amp;amp;I) then posts on the web a Provider Bulletin announcing the new or revised guideline and distributes it via the provider listserv. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This guideline was based on the weight of the best available clinical and scientific evidence from a systematic review of the literature and on a consensus of expert opinion.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate diagnosis and treatment of work-related carpal tunnel syndrome&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;False positive or false negative diagnostic tests&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Both documentation of appropriate symptoms and signs and a statement attesting to probable work-relatedness must be present for Labor and Industries to accept a carpal tunnel syndrome (CTS) claim. Nerve conduction velocity studies (NCVs) should be scheduled immediately to corroborate the clinical diagnosis. Completion of a nerve conduction study for a presumptive case of CTS is required if time loss extends beyond two weeks or if surgery is requested.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Most guidelines are implemented within the utilization review (UR) program. Labor and Industries (L&amp;amp;I) guidelines have priority over other proprietary guidelines and criteria that may exist. Where L&amp;amp;I guidelines are not available, proprietary ones may be used. Reviewers apply each guideline as a standard for the majority of requests in the Washington workers' compensation program. For the minority of workers who appear to fall outside of the guideline and whose complexity of clinical findings exceeds the specificity of the guideline, further review by a physician is conducted.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;When a surgical procedure is requested for a patient who meets the guideline criteria, the reviewer will recommend approval to the claim manager. If the criteria are not met, the request will be referred to a physician consultant who will review the patient's file, offer to discuss the case with the requesting physician, and make a recommendation to the claim manager. The flexibility built into this decision making process is important in two ways. First, it enables the Washington State Industrial Insurance Medical Advisory Committee (IIMAC) to develop surgical indications fairly quickly. Second, it plays a major role in legitimizing the work of the subcommittee in the eyes of practicing physicians in Washington.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Completed guidelines will be communicated to practicing physicians via L&amp;amp;I's website and through its provider listserv (&lt;a href=&quot;http://www.lni.wa.gov/Main/Listservs/Provider.asp&quot; title=&quot;WSDLI Web site&quot; target=&quot;_blank&quot;&gt;http://www.lni.wa.gov/Main/Listservs/Provider.asp&lt;/a&gt;). Education and training will be provided to reviewers and staff to ensure their proper application within the UR program. Where possible, continuing medical education (CME) credits may be offered.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Chart Documentation/Checklists/Forms" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Washington State Department of Labor and Industries. Work-related carpal tunnel syndrome diagnosis and treatment guideline. Olympia (WA): Washington State Department of Labor and Industries; 2014 Jan. 17 p.  [41 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="1995 Nov (revised 2014 Jan)" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Washington State Department of Labor and Industries - State/Local Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Washington State Department of Labor and Industries&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Labor and Industries' Industrial Insurance Medical Advisory Committee (IIMAC), Subcommittee on Upper Extremity Entrapment Neuropathies&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Industrial Insurance Medical Advisory Committee (IIMAC) Committee Members&lt;/em&gt;: Gregory T. Carter, MD, MS; Dianna Chamblin, MD (&lt;em&gt;Chair&lt;/em&gt;); G.A. DeAndrea, MD, MBA; Jordan Firestone, MD, PhD, MPH; Andrew Friedman, MD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Subcommittee Clinical Experts&lt;/em&gt;: Christopher H. Allan, MD; Douglas P. Hanel, MD; Michel Kliot, MD; Lawrence R. Robinson, MD; Thomas E. Trumble, MD; Nicholas B. Vedder, MD; Michael D. Weiss, MD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Consultants&lt;/em&gt;: Terrell Kjerulf, MD, Qualis Health; Ken O'Bara, MD, Qualis Health; Scott Carlson, MD; Jeffrey (Jerry) G. Jarvik, MD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Department Staff&lt;/em&gt;: Gary M. Franklin, MD, MPH, Medical Director; Simone P. Javaher, BSN, MPA, Occupational Nurse Consultant; Reshma N. Kearney, MPH, Epidemiologist; Bintu Marong, BS, MS, Epidemiologist&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Washington State Department of Labor and Industries&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: Washington State Department of Labor and Industries. Work-related carpal tunnel syndrome diagnosis and treatment guideline. Olympia (WA): Washington State Department of Labor and Industries; 2009 Apr. 16 p.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available in Portable Document Format (PDF) from the &lt;a href=&quot;http://www.lni.wa.gov/ClaimsIns/Files/OMD/MedTreat/CarpalTunnel.pdf&quot; title=&quot;Washington State Department of Labor and Industries Web site&quot; target=&quot;_blank&quot;&gt;Washington State Department of Labor and Industries Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Medical treatment guidelines for Washington Workers' Compensation. Guideline process. Olympia (WA): Washington State Department of Labor and Industries. 2010 Jun. 4 p. Electronic copies: Available in Portable Document Format (PDF) from the &lt;a href=&quot;http://www.lni.wa.gov/ClaimsIns/Files/OMD/MedTreat/Guidelinehistoryprocess.pdf&quot; title=&quot;Washington State Department of Labor and Industries Web site&quot; target=&quot;_blank&quot;&gt;Washington State Department of Labor and Industries Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;In addition, a hand diagram and an electrodiagnostic worksheet are provided in the &lt;a href=&quot;http://www.lni.wa.gov/ClaimsIns/Files/OMD/MedTreat/CarpalTunnel.pdf&quot; title=&quot;Washington State Department of Labor and Industries Web site&quot; target=&quot;_blank&quot;&gt;original guideline document&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This summary was completed by ECRI on February 14, 2000. It was sent to the guideline developer for review on February 15, 2000; however, to date, no comments have been received. The guideline developer has given NGC permission to publish the NGC summary. This summary was updated by ECRI on May 27, 2004. The information was verified by the guideline developer on June 14, 2004. This NGC summary was updated by ECRI Institute on September 24, 2009. The information was verified&amp;nbsp;by the guideline developer on October 16, 2009. This summary was updated by ECRI Institute on May 22, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is in the public domain. Washington State Department of Labor and Industries (L&amp;amp;I) does not copyright its medical treatment guidelines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

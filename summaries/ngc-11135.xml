@@ -1,0 +1,178 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Hospital-based violence intervention programs targeting adult populations: an Eastern Association for the Surgery of Trauma evidence-based review.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Affinati S, Patton D, Hansen L, Ranney M, Christmas AB, Violano P, Sodhi A, Robinson B, Crandall M, Eastern Association for the Surgery of Trauma Injury Control and Violence Prevention Section [trunc]. Hospital-based violence intervention programs targeting adult populations: an Eastern Association for the Surgery of Trauma evidence-based review. Trauma Surg Acute Care Open. 2016;1:1-7. [40 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Populations (P), Intervention (I), Comparator (C) and Outcome (O) (PICO) Question&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Are hospital-based intervention programs (HVIPs) attending to adult patients (age 18+) treated for intentional violent injury more effective than usual standard care in improving the following outcomes: intentional violent injury reinjury and/or death; arrest and/or incarceration; substance abuse and/or mental issues; quality of life; job and/or school attainment?&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The guideline authors make no recommendation with respect to adult-focused HVIP interventions to reduce violent reinjury and other outcomes, due to quality of evidence concerns such as self-selection bias and small sample sizes. However, they acknowledge that some single center programs have been effective at improving outcomes among motivated patients. Ensuring that studies are sufï¬ciently and adequately staffed, continuing efforts to increase research funding for gun violence-related issues, and developing strategies to not only reach but also retain adult populations injured in intentional violence may lessen the constraints prohibiting robust empirical support for HVIPs.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Intentional violent injury&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Prevention" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Emergency Medicine" />
+      <FieldValue Value="Preventive Medicine" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Hospitals" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+      <FieldValue Value="Psychologists/Non-physician Behavioral Health Clinicians" />
+      <FieldValue Value="Public Health Departments" />
+      <FieldValue Value="Social Workers" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To evaluate the preventive efï¬cacy of hospital-based violence intervention programs (HVIPs) in adult patients (age 18+) treated for intentional violent injury&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adult victims of intentional violent trauma&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Given the complex multitude of variables pertaining to transnational political, social, and cultural heterogeneity, this review's objective was restricted to the United States of America (USA).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Any trauma center, emergency department, or hospital-based postinjury violence intervention program (HVIP)&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: No recommendation with respect to adult-focused HVIP interventions to reduce violent reinjury and other outcomes was made due to the quality of evidence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Intentional violent injury, reinjury and/or death &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Job and/or school attainment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Arrest and/or incarceration &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Substance abuse and/or mental health issues &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Quality of life &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Inclusion Criteria for This Review&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Study Types&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Studies included randomized controlled trials, prospective and retrospective observational studies, and case&amp;ndash;control studies. Case reports, conceptual pieces, and reviews containing no original data or analyses were excluded. Additionally, any papers on child abuse, sexual assault, and/or intimate partner violence were excluded. Studies were limited to those written in English and conducted in the United States of America (USA). No limitations were put on year of publication.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Review Methods&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Search Strategy&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A research librarian aided the systematic search of PubMed, Web of Science, Google Scholar, and the Cochrane Library. After a preliminary query, the guideline authors chose to apply the following PubMed search string: (&quot;Violence&quot;[Mesh] AND (&quot;Recurrence&quot;[Mesh] OR recur* OR recidivism) AND &quot;Health Facilities&quot;[Mesh] AND (prevention OR intervention*). The guideline authors then inspected each review article's reference section. No restrictions were placed on either language or dates. They did, however, only include studies in the USA. Figure 1 in the original guideline document contains the MeSH terms used for the initial search. Eight months later a research assistant member of the writing team performed a unique and independent systematic search. Two new articles were found, neither of which met the populations (P), intervention (I), comparator (C), and outcome (O) (PICO) question criteria. Finally, in January 2016, an institutional research librarian performed a literature search which found two additional relevant articles, and these articles were included in their literature review.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Study Selection&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;After completing an exhaustive literature search, three independent reviewers and a research assistant screened the titles and abstracts, excluding reviews, case reports, youth-focused articles, and unrelated articles. The articles identiï¬ed in 2016 were screened by a single reviewer for inclusion. The resulting studies were used for the review. The study selection process is highlighted in the PRISMA ï¬ow diagram for Figure 2 in the original guideline document.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A total of 71 abstracts were identiï¬ed by the search. Of these, zero were duplicates, three were excluded after title review, and one more was identiï¬ed after abstract review. Of the 25 articles selected for full review, the team found that 8 met their predetermined criteria. The remaining articles were either entirely or primarily youth focused (meaning participants were under the age of 18) or were reviews themselves and were therefore excluded from the ï¬nal data analysis. The subsequent literature search in 2016 found two more articles, bringing the total article number of reviewed articles to 10.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The total number of reviewed articles was 10. The study selection process is highlighted in the PRISMA flow diagram for Figure 2 in the original guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Grading of Recommendations Assessment, Development and Evaluation (GRADE) Methodology Levels for Rating the Quality of Evidence&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Grading of Recommendations Assessment, Development and Evaluation (GRADE) Methodology Levels for Rating the Quality of Evidence&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;&gt;Quality Level&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;&gt;Definitions&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;&gt;High&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Very confident that the true effect lies close to estimate of effect.&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;&gt;Moderate&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Moderate effect; true effect is likely close to estimate of effect but may be substantially different.&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;&gt;Low&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Limited confidence; true effect may be substantially different from estimate of effect.&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;&gt;Very Low&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Little confidence; true effect likely substantially different from estimate of effect.&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Data Extraction and Management&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;All articles, Grading of Recommendations Assessment, Development and Evaluation (GRADE) resources, and instructions were electronically available to all members of the writing team. Each independent reviewer shared his or her populations (P), intervention (I), comparator (C), and outcome (O) (PICO) sheet and literature review with all members of the team. Independent interpretations of the data were shared through group email, conference calls, and in-person discourse. No major reviewer discrepancies in grading occurred. Had they occurred, the guideline authors would have used a modiï¬ed Delphi technique to resolve differences.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Methodological Quality Assessment&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The validated GRADE methodology was used for this study. The GRADE methodology entails the creation of a predetermined PICO question or set of PICO questions that the literature must answer. Each designated reviewer independently evaluates the data in aggregate with respect to the quality of the evidence to adequately answer each PICO question and quantified the strength of any recommendations. Reviewers are asked to determine effect size, risk of bias, inconsistency, indirectness, precision, and publication bias.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Results&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;After applying validated GRADE methods, the quality of evidence proved too weak to warrant a separate assessment of interventional efficacy for each outcome.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Understanding that violent injury prevention in adult populations has been less well studied than among youth, the writing team's leadership a priori created the populations (P), intervention (I), comparator (C), and outcome (O), or PICO question. Given the complex multitude of variables pertaining to transnational political, social, and cultural heterogeneity, this review's objective was restricted to the United States of America (USA).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;PICO Questions&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;Population&lt;/strong&gt;: Adult victims of intentional violent trauma. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;Intervention&lt;/strong&gt;: Any trauma center, emergency department, or hospital-based postinjury violence intervention program. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;Comparator&lt;/strong&gt;: Usual standard of care. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;Outcomes&lt;/strong&gt;: Intentional violent injury reinjury and/or death, job and/or school attainment, arrest and/or incarceration, substance abuse and/or mental health issues, and quality of life. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Are HVIPs attending to adult patients (age 18+) treated for intentional violent injury more effective than the usual standard care in improving the following outcomes: intentional violent injury reinjury and/or death; arrest and/or incarceration; substance abuse and/or mental issues; quality of life; job and/or school attainment? (PICO 1).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Grading of Recommendations Assessment, Development and Evaluation (GRADE) Definition of Strong and Weak Recommendation&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Recommendations are based on the overall quality of the evidence on the participant. GRADE methodology suggests the phrases, 'we recommend' for strong evidence, and 'we suggest' or 'we conditionally recommend' for weaker evidence.&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: GRADE Definition of Strong and Weak Recommendation&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;&gt;&amp;nbsp;&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;&gt;Strong Recommendation&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;&gt;Weak/Conditional Recommendation&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot; scope=&quot;row&quot;&gt;For patients&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Most patients would want the recommended course of action.&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Most patients would want the recommended course of action, but many would not.&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot; scope=&quot;row&quot;&gt;For clinicians&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Most patients should receive the recommended course of action.&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Different choices will exist for different patients, and clinicians should help patients decide.&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot; scope=&quot;row&quot;&gt;For policy makers &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Recommended course should be adopted as policy.&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Considerable debate and stakeholder involvement needed to make policy.&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Two cost-effectiveness analyses were performed on previously studied samples, using reported reinjury reduction rates. Markov mathematical modeling was used in both studies, which shared a coinvestigator. Modeling results concluded in both studies that there is a cost savings with hospital-based violence prevention programs (HVIPs).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="External Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Externally peer reviewed&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Of the 10 papers included in the guideline synthesis, 4 were randomized clinical trials (RCTs) and 6 were observational studies: 1 prospective and 5 retrospective, including 2 cost-effectiveness analyses. The 8 papers that provided original data about reinjury were all of low quality.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Hospital-based violence intervention programs (HVIPs) have emerged nationwide to help address the societal and economic costs of violence. The goal of these programs is to intervene with those individuals who survive violent injury, at this 'sole access point' into the healthcare system. In addressing 'the psychosocial challenges that these patients face,' HVIPs are designed to interrupt the costly cycles of violent injury by transforming medical treatment into a catalyst for life and societal change. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Of the seven articles reporting measurements of intentional violent injury recidivism and/or death, four demonstrated no effect (among three original sample pools). Three studies consisting of three unique sample pools suggested a positive interventional impact on intentional violent injury recidivism and/or death: The first study noted a 1-year reinjury reduction rate from 8.7% to 2.9%. Authors of the second study wrote that their 'nonintervention group was six times more likely than intervention group to be hospitalized as a result of a violent injury.' The third study reported a reduction in intentional violent reinjury from 16% to 4%. The three studies with a positive outcome had low sample sizes (combined n=254). One of these studies did not report how outcomes were assessed and another was limited by its historical comparison control group and the exclusion of inactive participants when measuring success. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The Eastern Association for the Surgery of Trauma (EAST) is a multi-disciplinary professional society committed to improving the care of injured patients. The Ad Hoc Committee for Practice Management Guideline Development of EAST develops and disseminates evidence-based information to increase the scientific knowledge needed to enhance patient and clinical decision-making, improve health care quality, and promote efficiency in the organization of public and private systems of health care delivery. Unless specifically stated otherwise, the opinions expressed and statements made in this publication reflect the authors' personal observations and do not imply endorsement by nor official policy of EAST. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&quot;Clinical practice guidelines are systematically developed statements to assist practitioner and patient decisions about appropriate health care for specific clinical circumstances.&quot;* These guidelines are not fixed protocols that must be followed, but are intended for health care professionals and providers to consider. While they identify and describe generally recommended courses of intervention, they are not presented as a substitute for the advice of a physician or other knowledgeable health care professional or provider. Individual patients may require different treatments from those specified in a given guideline. Guidelines are not entirely inclusive or exclusive of all methods of reasonable care that can obtain/produce the same results. While guidelines can be written that take into account variations in clinical settings, resources, or common patient characteristics, they cannot address the unique needs of each patient nor the combination of resources available to a particular community or health care professional or provider. Deviations from clinical practice guidelines may be justified by individual circumstances. Thus, guidelines must be applied based on individual patient needs using professional judgment. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Institute of Medicine. Clinical practice guidelines: directions for a new program. MJ Field and KN Lohr (eds) Washington, DC: National Academy Press. 1990: pg 39.&lt;/p&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Affinati S, Patton D, Hansen L, Ranney M, Christmas AB, Violano P, Sodhi A, Robinson B, Crandall M, Eastern Association for the Surgery of Trauma Injury Control and Violence Prevention Section [trunc]. Hospital-based violence intervention programs targeting adult populations: an Eastern Association for the Surgery of Trauma evidence-based review. Trauma Surg Acute Care Open. 2016;1:1-7. [40 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2016" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Eastern Association for the Surgery of Trauma - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Eastern Association for the Surgery of Trauma (EAST)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Eastern Association for the Surgery of Trauma Injury Control and Violence Prevention Section and Guidelines Section&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Authors&lt;/em&gt;: Steven Affinati, The Family Institute at Northwestern University, Evanston, Illinois, USA; Desmond Patton, School of Social Work and School of Information, University of Michigan, Ann Arbor, Michigan, USA; Luke Hansen, Department of Medicine, Northwestern University Feinberg School of Medicine, Chicago, Illinois, USA; Megan Ranney, Department of Emergency Medicine, Warren Alpert Medical School of Brown University, Providence, Rhode Island, USA; A Britton Christmas, Department of Surgery, The F. H. 'Sammy' Ross, Jr Trauma Center, Carolinas Medical Center, Charlotte, North Carolina, USA; Pina Violano, Department of Injury Prevention, Community Outreach &amp;amp; Research, Yale-New Haven Hospital, New Haven, Connecticut, USA; Aparna Sodhi, Northwestern University, Evanston, Illinois, USA ; Bryce Robinson, Department of Surgery, University of Washington Harborview Medical Center, Seattle, Washington, USA; Marie Crandall, Department of Surgery, University of Florida College of Medicine, Jacksonville, Florida, USA&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Competing interests: None declared.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://www.east.org/Content/documents/practicemanagementguidelines/HospitalBased_InjuryPrevention_EBR_Published_TSACO_09_2016.pdf&quot; title=&quot;EAST Web site&quot;&gt;Eastern Association for the Surgery of Trauma (EAST) Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Kerwin AJ, Haut ER, Burns JB, Como JJ, Haider A, Stassen N, Dahm P, Eastern Association for the Surgery of Trauma Practice Management Guidelines Ad Hoc Committee. The Eastern Association of the Surgery of Trauma approach to practice management guideline development using Grading of Recommendations Assessment, Development, and Evaluation (GRADE) methodology. J Trauma Acute Care Surg. 2012 Nov;73(5 Suppl 4):S283-7. Available from the &lt;a href=&quot;https://www.east.org/Content/documents/east_approach_to_grade.pdf&quot; title=&quot;EAST Web site&quot;&gt;Eastern Association for the Surgery of Trauma (EAST) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on March 8, 2017. The guideline developer verified the information on March 10, 2017.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is copyrighted by the Eastern Association for the Surgery of Trauma (EAST).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

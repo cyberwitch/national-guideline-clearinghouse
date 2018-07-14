@@ -1,0 +1,185 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Guideline for sharps safety.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ogg MJ, Conner R. Guideline for sharps safety. In: 2015 guidelines for perioperative practice. Denver (CO): Association of periOperative Registered Nurses (AORN); 2013 Jun. p. 365-88. [209 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Note from the Association of periOperative Nurses (AORN)&lt;/strong&gt;: Sharps safety is a priority in the perioperative environment and includes considerations for standard precautions, health care worker vaccination, post-exposure protocols and follow-up treatment, and treatment for health care workers infected with a bloodborne pathogen. These topics are addressed in other recommended practices documents, and although they are mentioned briefly where applicable (e.g., standard precautions), the broader discussions of these topics are outside the scope of this document.&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-roman;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Health care facilities must establish a written bloodborne pathogens exposure control plan (29 Code of Federal Regulation [CFR] 1910.1030, 2009). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative personnel must use sharps with safety-engineered devices (i.e., engineering controls) (29 CFR 1910.1030, 2009). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative personnel must use work practice controls when handling scalpels, hypodermic needles, suture needles, bone fragments, K-wires, burrs, saw blades, drill bits, trocars, razors, bone cutters, towel clips, scissors, electrosurgical tips, skin hooks, retractors, and other sharp devices (29 CFR 1910.1030, 2009; Perry, Parker, &amp;amp; Jagger, 2005; Perry, Parker, &amp;amp; Jagger, 2009). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative personnel must use personal protective equipment (PPE) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sharp devices must be contained and disposed of safely. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The perioperative registered nurse (RN) should demonstrate personal and professional responsibility in preventing sharps injuries and preventing the transmission of bloodborne pathogens. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Personnel should receive initial and ongoing education and competency verification on their understanding of the principles of and performance of the processes for sharps safety (Kak, Burkhalter, &amp;amp; Cooper, 2001). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Documentation should reflect activities related to sharps safety (29 CFR 1910.1030, 2009). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Policies and procedures for sharps safety processes and practices should be developed, reviewed periodically, revised as necessary, and readily available in the practice setting. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative team members should participate in a variety of quality improvement activities to monitor and improve the prevention of sharps injuries. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Any condition requiring the use of surgical or other invasive procedures&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Prevention" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Nursing" />
+      <FieldValue Value="Preventive Medicine" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Nurses" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To provide guidance for identifying potential sharps hazards and developing and implementing best practices to prevent sharps injuries and reduce bloodborne pathogen exposure to perioperative patients and personnel&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Perioperative healthcare personnel and patients undergoing surgical and other invasive procedures&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Establishment of written bloodborne pathogens exposure control plan &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Use of sharps with safety-engineered devices (i.e., engineering controls) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Work practice controls when handling specific sharps &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Use of personal protective equipment (PPE) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Safe containment and disposal of sharp devices &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Personal and professional responsibility by preoperative staff in preventing sharps injuries and preventing the transmission of bloodborne pathogens &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Initial and ongoing staff education and competency verification &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Documentation of activities related to sharps safety &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Development, periodic review and revision of policies and procedures for sharps safety processes and practices &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Participation of perioperative team members in quality improvement activities &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patient and workplace safety &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Quality assessment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Performance improvement activities &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Evidence Review&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A medical librarian conducted a systematic review of MEDLINE&amp;reg;, CINAHL&amp;reg;, Scopus&amp;reg;, and the Cochrane Database of Systematic Reviews for meta-analyses, randomized and non-randomized trials and studies, systematic and non-systematic reviews, guidelines, case reports, and opinion documents and letters.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Search terms included: needlestick injuries, sharps injuries, blood-borne pathogens, occupational accidents, occupational injuries, medical staff, nurses, perioperative nursing, operating room nursing, perioperative nurses, operating room nurses, operating rooms, surgical procedures, surgical instruments, safety devices, sutures, scalpels, sharps, scalpel injuries, needlesticks, needle sticks, safety scalpels, safety-engineered sharps, blunt-tip needles, hands-free passing, neutral zone, double gloving, and double-gloving.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The lead author and medical librarian identified and obtained relevant guidelines from government agencies, other professional organizations, and standards-setting bodies. The lead author assessed additional professional literature, including some that initially appeared in other articles provided to the author.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The initial search was conducted in 2011 and was limited to articles published in English from 1992, when the Occupational Safety and Health Administration (OSHA)'s Bloodborne Pathogens Final Standard was established. The librarian established continuing alerts on sharps safety-related topics and provided relevant results to the lead author. The lead author and medical librarian also identified relevant guidelines from accreditation organizations, government agencies, and standards-setting bodies. In addition, the lead author requested other articles identified through literature appraisal and other outside sources.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;316 articles met the inclusion criteria and were included in the review.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;I: Randomized controlled trial (RCT) or experimental study, systematic review of all RCTs&lt;/p&gt;&#xD;&#xA;&lt;p&gt;II: Quasi-experimental study, systematic review of quasi-experimental studies or combination of quasi-experimental and RCTs&lt;/p&gt;&#xD;&#xA;&lt;p&gt;III: Non-experimental studies, qualitative studies, systematic review of non-experimental studies, combination of non-experimental, quasi-experimental, and RCTs, or any or all studies are qualitative&lt;/p&gt;&#xD;&#xA;&lt;p&gt;IV: Clinical practice guidelines, position or consensus statements&lt;/p&gt;&#xD;&#xA;&lt;p&gt;V: Literature review, expert opinion, case Report, community standard, clinician experience, consumer experience, organizational experience (quality improvement, financial)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Articles identified by the search were provided to the project team for evaluation. The team consisted of the lead author, three members of the Recommended Practices Advisory Board, two members of the Research Committee, and a doctorally prepared evidence appraiser. The lead author divided the search results into topics and assigned members of the team to review and critically appraise each article using the Johns Hopkins Evidence-Based Practice Model and the Research or Non-Research Evidence Appraisal Tools as appropriate. The literature was independently evaluated and appraised according to the strength and quality of the evidence. Each article was then assigned an appraisal score as agreed upon by consensus of the team.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The collective evidence supporting each intervention within a specific recommendation was summarized and used to rate the strength of the evidence using the Association of periOperative Registered Nurses (AORN) Evidence Rating Model. Factors considered in review of the collective evidence were the quality of research, quantity of similar studies on a given topic, and consistency of results supporting a recommendation.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;1: Strong Evidence&lt;/strong&gt;: Interventions or activities for which effectiveness has been demonstrated by strong evidence from rigorously-designed studies, meta-analyses, or systematic reviews, rigorously-developed clinical practice guidelines, or regulatory requirements.&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Evidence from a meta-analysis or systematic review of research studies that incorporated evidence appraisal and synthesis of the evidence in the analysis. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Supportive evidence from a single well-conducted randomized controlled trial. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Guidelines that are developed by a panel of experts, that derive from an explicit literature search methodology, and include evidence appraisal and synthesis of the evidence. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;1: Regulatory Requirement&lt;/strong&gt;: Federal law or regulation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;2: Moderate Evidence&lt;/strong&gt;: Interventions or activities for which the evidence is less well established than for those listed under &quot;Strong Evidence.&quot;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Supportive evidence from a well-conducted research study. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Guidelines developed by a panel of experts which are primarily based on the evidence but not supported by evidence appraisal and synthesis of the evidence. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Non-research evidence with consistent results and fairly definitive conclusions. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;3: Limited Evidence&lt;/strong&gt;: Interventions or activities for which there is currently insufficient evidence or evidence of inadequate quality.&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Supportive evidence from a poorly conducted research study. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Evidence from non-experimental studies with high potential for bias. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Guidelines developed largely by consensus or expert opinion. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Non-research evidence with insufficient evidence or inconsistent results. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Conflicting evidence, but where the preponderance of the evidence supports the recommendation. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;4: Benefits Balanced With Harms&lt;/strong&gt;: Selected interventions or activities for which the Association of periOperative Registered Nurses (AORN) Recommended Practices Advisory Board (RPAB) is of the opinion that the desirable effects of following this recommendation outweigh the harms.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;5: No Evidence&lt;/strong&gt;: Interventions or activities for which no supportive evidence was found during the literature search completed for the recommendation.&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Consensus opinion &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="External Peer Review" />
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Recommended Practices for Sharps Safety have been approved by the Association of periOperative Registered Nurses (AORN) Recommended Practices Advisory Board. They were presented as proposed recommendations for comments by members and others. They are effective June 15, 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="98" OrdBy="605" ID="425" Name="References Supporting the Recommendations" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;29 CFR 1910.1030. Occupational exposure. Bloodborne pathogens. U.S. Government Printing Office; 2009. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kak N, Burkhalter B, Cooper MA. Measuring the competence of healthcare providers. Operations research issue paper (1). [internet]. Bethesda (MD): Quality Assurance Project for the U.S. Agency for International Development; 2001&amp;nbsp;[accessed 2013 Sep 30]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Perry J, Parker G, Jagger J. EPINet report: 2007 percutaneous injury rates. University of Virginia Health System; 2009. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Perry J, Parker G, Jagger JJ. EPINet report: 2003 percutaneous injury rates. Adv Expo Prev. 2005;7(4):42-5.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified for selected recommendations. See the full guideline document for systematic review and discussion of evidence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate practices for sharps safety to prevent patient and health care worker injury&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;These recommended practices represent the Association's official position on questions regarding optimal perioperative nursing practice. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;No attempt has been made to gain consensus among users, manufacturers, and consumers of any material or product. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Compliance with the Association of periOperative Registered Nurses (AORN) recommended practices is voluntary. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;AORN's recommended practices are intended as achievable and represent what is believed to be an optimal level of patient care within surgical and invasive procedure settings. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Although they are considered to represent the optimal level of practice, variations in practice settings and clinical situations may limit the degree to which each recommendation can be implemented. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Tool Kits" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ogg MJ, Conner R. Guideline for sharps safety. In: 2015 guidelines for perioperative practice. Denver (CO): Association of periOperative Registered Nurses (AORN); 2013 Jun. p. 365-88. [209 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2013 Jun" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Association of periOperative Registered Nurses - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Association of periOperative Registered Nurses (AORN)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Association of periOperative Registered Nurses (AORN) Recommended Practices Advisory Board&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Lead Author&lt;/em&gt;: Mary J. Ogg, MSN, RN, CNOR, Perioperative Nursing Specialist, AORN Nursing Department, Denver, Colorado&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Contributing Author&lt;/em&gt;: Ramona Conner, MSN, RN, CNOR, Manager, Standards and Recommended Practices, AORN Nursing Department, Denver, Colorado&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Team Members&lt;/em&gt;: George D. Allen, PhD, MS, RN, CNOR, CIC, Director, Infection Control, Downstate Medical Center and Clinical Assistant Professor, SUNY College of Health Related Professions, Brooklyn, NY; Amy L. Halverson, MD, American College of Surgeons; Rodney W. Hicks, PhD, ARNP, RN, FAANP, FAAN, Professor, Western University of Health Science, Pomona, CA; Elayne Kornblatt Phillips, PhD-BSN, MPH, RN, International Healthcare Worker Safety Center, University of Virginia, Charlottesville; Rev Donna S. Nussman, PhD, RN, Surgical Health Care Consultant and Adjunct Professor, College of Mechanical Engineering/BioEngineering Department, University of North Carolina - Charlotte; Lisa Spruce, DNP, RN, ACNS, ACNP, ANP, CNOR, Director of Evidence-based Nursing Practice, AORN, Inc, Denver, CO&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No financial relationships relevant to the content of this guideline have been disclosed by the authors, planners, peer reviewers, or staff.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available for purchase from the &lt;a href=&quot;http://www.aorn.org/guidelines/purchase-guidelines&quot; title=&quot;Association of periOperative Registered Nurses (AORN) Web site&quot;&gt;Association of periOperative Registered Nurses (AORN) Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A sharps safety tool kit is available to subscribers of the &lt;a href=&quot;https://www.aorn.org/member_apps/account/login?returnUrl=http%3a%2f%2fwww.aorn.org%2fguidelines%2fclinical-resources%2ftool-kits%2fsharps-safety-tool-kit&quot; title=&quot;Association of periOperative Nurses Web (AORN) site&quot;&gt;Association of periOperative Nurses (AORN) Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on April 17, 2014. The information was verified by the guideline developer on May 7, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

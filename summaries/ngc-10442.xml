@@ -1,0 +1,183 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Work-related acute cauda equina syndrome (CES) diagnosis and treatment.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Washington State Department of Labor and Industries. Work-related acute cauda equina syndrome (CES) diagnosis and treatment. Olympia (WA): Washington State Department of Labor and Industries; 2014 Apr 26. 5 p.  [12 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: Washington State Department of Labor Industries. Work-related acute cauda equina syndrome (CES) diagnosis and treatment. Olympia (WA): Washington State Department of Labor and Industries; 2009 Aug 1. 5 p. [11 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Review Criteria for the Diagnosis and Treatment of Acute Cauda Equina Syndrome (CES)&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Review Criteria for the Diagnosis and Treatment of Acute Cauda Equina Syndrome&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;A request may be appropriate for&lt;/th&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;If the patient has&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; colspan=&quot;3&quot;&gt;AND the diagnosis is supported by these clinical findings&lt;/th&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;AND this has been done (if recommended)&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&lt;em&gt;Surgical Procedure&lt;/em&gt;&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&lt;em&gt;Diagnosis&lt;/em&gt;&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&lt;em&gt;Subjective&lt;/em&gt;&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&lt;em&gt;Objective&lt;/em&gt;&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&lt;em&gt;Imaging&lt;/em&gt;&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&amp;nbsp;&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Lumbar decompression&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Cauda equina syndrome&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Partial or complete loss of bladder and/or bowel function (incontinence or retention not otherwise explained)&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            &lt;strong&gt;AND/OR&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Acute low back pain&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            &lt;strong&gt;AND/OR&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Bilateral/unilateral sciatica&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            &lt;strong&gt;AND/OR&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Sexual dysfunction&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Diminished or absent anal sphincter tone&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            &lt;strong&gt;AND/OR&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Saddle anesthesia&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            &lt;strong&gt;AND/OR&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Numbness and/or weakness involving both legs or multiple nerve roots in one leg is present&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            &lt;strong&gt;AND/OR&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Urinary retention, incontinence, and/or patulous anus&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            &lt;strong&gt;AND/OR&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Reduced or absent bulbo cavernosus reflex&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            &lt;strong&gt;AND/OR&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Gait disturbances&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;A lesion with mass effect on the cauda equina is present in the spinal canal, compressing multiple lumbo-sacral nerve roots (usually large mass effect) as documented by:&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Lumbar magnetic resonance imaging (MRI) (the diagnostic procedure of choice)&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            &lt;strong&gt;OR&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;            &lt;br /&gt;&#xD;&#xA;            Computed tomography (CT) or CT myelography may provide useful information, especially when MRI cannot be done or is limited by hardware artifact&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&lt;strong&gt;Conservative care alone is rarely indicated&lt;/strong&gt;&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Acute cauda equina syndrome&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Emergency Medicine" />
+      <FieldValue Value="Neurological Surgery" />
+      <FieldValue Value="Neurology" />
+      <FieldValue Value="Orthopedic Surgery" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Health Care Providers" />
+      <FieldValue Value="Health Plans" />
+      <FieldValue Value="Managed Care Organizations" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+      <FieldValue Value="Utilization Management" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To provide an educational resource for physicians who treat injured workers in the Washington workers' compensation system under Title 51 Revised Code of Washington (RCW) and review criteria for the Department's utilization review team to help ensure diagnosis and treatment of cauda equina syndrome is of the highest quality &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To provide standards that ensure a uniformly high quality of care for injured workers in Washington State &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To summarize information from the available medical literature and expert clinical opinion to help physicians make an accurate diagnosis quickly and deliver the appropriate care as soon as possible &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The injured worker with cauda equina syndrome&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Diagnosis/Evaluation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Evaluation of subjective (sensory symptoms) and objective (neurological deficits) clinical findings &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Diagnostic tests, including magnetic resonance imaging (MRI), computed tomography (CT) scan or CT myelography, x-rays, ultrasound, or urodynamic tests &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Treatment&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Conservative treatment (not generally recommended) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Decompression surgery (e.g., micro discectomy, wide laminectomy with discectomy) &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Incidence of work-related cauda equina syndrome (CES) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Appropriate authorization of CES surgeries by the utilization review team and claim adjudicators &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Incidence of CES by cause (disc herniation, trauma, etc.) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Degree of recovery following treatment &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The literature search was conducted in February and March of 2014. PubMed was the main database searched for peer reviewed articles. The search terms used in PubMed were: &lt;em&gt;cauda equina syndrome, cauda equina syndrome and treatment, cauda equina syndrome and diagnosis, cauda equina syndrome and evidence-based medicine&lt;/em&gt;. The search was filtered to select English language and humans, in the past five years. The studies reviewed were case articles, case reports, and case series studies (of class III/IV evidence). Cauda equina syndrome is not appropriate for randomized controlled studies.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Filters: 5 years, abstract available, English and humans&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Number of Source Documents&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Search Date&lt;/th&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Search Term&lt;/th&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Results&lt;/th&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;*Selected Based on Title&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;02/20/2014&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Cauda Equina Syndrome&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;281&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;20&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;02/21/2014&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Cauda Equina Syndrome and treatment&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;222&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;19&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;02/24/2014&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Cauda Equina Syndrome and diagnosis&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;179&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;36&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;02/24/2014&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Cauda Equina Syndrome and evidence based medicine&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;111&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;17&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Some of these articles overlapped.&lt;/p&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The quality and strength of the evidence were assessed using the American Academy of Neurology (AAN) clinical guideline process manual rating scheme. More information about the Industrial Insurance Medical Advisory Committee (IIMAC) guideline process is included in a separate document (see the &quot;Availability of Companion Documents&quot; field). Refer to the &lt;a href=&quot;https://www.aan.com/Guidelines/Home/Development&quot; title=&quot;AAN Web site&quot;&gt;AAN Clinical Practice Guideline Process Manual&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The process for guideline development is contained in a separate document, titled Medical Treatment Guidelines in Washington Workers' Compensation, June 2010 (see the &quot;Availability of Companion Documents&quot; field). A formal subcommittee was not convened for this review of the carpal tunnel syndrome guideline. The review was conducted by Washington State Department of Labor and Industries (L&amp;amp;I) staff, and discussed with the Industrial Insurance Medical Advisory Committee (IIMAC) members who worked on the previous guideline, then discussed and voted on in a meeting of the full IIMAC on April 25, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="External Peer Review" />
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This guideline was carefully reviewed by Labor &amp;amp; Industries' epidemiology and health policy staff, and then by the Industrial Insurance Medical Advisory Committee (IIMAC), which included the main author of the previous acute cauda equina syndrome (CES) guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is not specifically stated for each recommendation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline was based on the weight of the best available clinical and scientific evidence from a systematic review of the literature and on a consensus of expert opinion.&amp;nbsp;Due to the emergent nature of acute cauda equina syndrome (CES), controlled studies are not feasible and the literature is limited to case series, case studies and narrative reviews.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate diagnosis and treatment of work-related acute cauda equina syndrome (CES)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This guideline is intended as an educational resource for physicians who treat injured workers in the Washington workers' compensation system under Title 51 Revised Code of Washington (RCW). The guideline serves as a review criteria for the Department's utilization review team to help ensure diagnosis and treatment of cauda equina syndrome is of the highest quality. The emphasis is on accurate diagnosis and treatment that is curative or rehabilitative.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Most guidelines are implemented within the utilization review (UR) program. Labor and Industries (L&amp;amp;I) guidelines have priority over other proprietary guidelines and criteria that may exist. Where L&amp;amp;I guidelines are not available, proprietary ones may be used. Reviewers apply each guideline as a standard for the majority of requests in the Washington workers' compensation program. For the minority of workers who appear to fall outside of the guideline and whose complexity of clinical findings exceeds the specificity of the guideline, further review by a physician is conducted.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;When a surgical procedure is requested for a patient who meets the guideline criteria, the reviewer will recommend approval to the claim manager. If the criteria are not met, the request will be referred to a physician consultant who will review the patient's file, offer to discuss the case with the requesting physician, and make a recommendation to the claim manager. The flexibility built into this decision-making process helps legitimize the work of the subcommittee in the eyes of practicing physicians in Washington.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Completed guidelines will be communicated to practicing physicians via L&amp;amp;I's website and through its &lt;a href=&quot;http://www.lni.wa.gov/Main/Listservs/Provider.asp&quot; title=&quot;Washington State Department of L and I Web site&quot; target=&quot;_blank&quot;&gt;provider listserv&lt;/a&gt;. Education and training will be provided to reviewers and staff to ensure their proper application within the UR program. Where possible, continuing medical education (CME) credits may be offered.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Timeliness " />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Washington State Department of Labor and Industries. Work-related acute cauda equina syndrome (CES) diagnosis and treatment. Olympia (WA): Washington State Department of Labor and Industries; 2014 Apr 26. 5 p.  [12 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="1991 Jan (revised 2014 Apr 26)" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Washington State Department of Labor and Industries - State/Local Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Washington State Department of Labor and Industries (L&amp;amp;I)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Washington State Department of Labor and Industries (L&amp;amp;I), Industrial Insurance Medical Advisory Committee (IIMAC)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: Washington State Department of Labor Industries. Work-related acute cauda equina syndrome (CES) diagnosis and treatment. Olympia (WA): Washington State Department of Labor and Industries; 2009 Aug 1. 5 p. [11 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available from the &lt;a href=&quot;http://www.lni.wa.gov/ClaimsIns/Files/OMD/MedTreat/CaudaEquina.pdf&quot; title=&quot;Washington State Department of Labor and Industries Web site&quot; target=&quot;_blank&quot;&gt;Washington State Department of Labor and Industries Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Medical treatment guidelines for Washington Workers' Compensation. Washington State Department of Labor and Industries. Guideline process. 2010 Jun. 4 p. Electronic copies: Available from the &lt;a href=&quot;http://www.lni.wa.gov/ClaimsIns/Files/OMD/MedTreat/Guidelinehistoryprocess.pdf&quot; title=&quot;Washington State Department of Labor and Industries Web site&quot; target=&quot;_blank&quot;&gt;Washington State Department of Labor and Industries Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This summary was completed by ECRI on February 14, 2000. It was sent to the guideline developer for review on February 15, 2000; however, to date, no comments have been received. The guideline developer has given NGC permission to publish the NGC summary. This summary was updated by ECRI on May 27, 2004. The information was verified by the guideline developer on June 14, 2004. This summary was updated by ECRI Institute on November 16, 2009. The information was verified by the guideline developer on December 16, 2009. This summary was updated by ECRI Institute on July 15, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is in the public domain. Washington State Department of Labor &amp;amp; Industries (L&amp;amp;I) does not copyright its medical treatment guidelines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

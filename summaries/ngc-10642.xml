@@ -1,0 +1,182 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;The utility of positron emission tomography in epilepsy.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Burneo JG, Poon R, Kellett S, Houle S, Snead OC. The utility of positron emission tomography in epilepsy. Toronto (ON): Cancer Care Ontario (CCO); 2015 Jan 29. 30 p.&amp;nbsp;(PET recommendation report; no. 13).&amp;nbsp; [51 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xA;&lt;p&gt;The PET Recommendation Report, initially the full original Guideline, over time will expand to contain new information emerging from reviewing and updating activities.&lt;/p&gt;&#xA;&lt;p&gt;Please visit the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=328569&quot; title=&quot;CCO Web site&quot;&gt;Cancer Care Ontario Web site&lt;/a&gt; for details on any new evidence that has emerged and implications to the guidelines.&lt;/p&gt;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Recommendations&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xA;    &lt;li&gt;&lt;sup&gt;18&lt;/sup&gt;F-fluorodeoxyglucose (&lt;sup&gt;18&lt;/sup&gt;F-FDG) positron emission tomography (PET) is recommended for the presurgical evaluation of adult and pediatric patients with medically intractable focal or partial epilepsy in the setting of a comprehensive epilepsy surgery program within a Regional Epilepsy Surgery Center of Excellence. &lt;/li&gt;&#xA;    &lt;li&gt;Due to insufficient evidence, a recommendation cannot be made for or against the use of &lt;sup&gt;18&lt;/sup&gt;F-FDG PET in the detection of cortical malformations in patients with intractable infantile spasms when magnetic resonance imaging (MRI) or computed tomography (CT) fails to show structural abnormalities. &lt;/li&gt;&#xA;    &lt;li&gt;Due to insufficient evidence, a recommendation cannot be made for or against the use of &lt;sup&gt;18&lt;/sup&gt;F-FDG PET/MRI coregistration in the presurgical evaluation of patients with medically intractable epilepsy. &lt;/li&gt;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Epilepsy&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Neurological Surgery" />
+      <FieldValue Value="Neurology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Other" />
+      <FieldValue Value="Patients" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;To guide the Ontario Positron Emission Tomography (PET) Steering Committee in their decision making with respect to the development of indications for the use of PET in epilepsy &lt;/li&gt;&#xA;    &lt;li&gt;To inform clinicians and patients who are seeking information about PET as a presurgical tool in epilepsy &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adult and pediatric patients with medically intractable epilepsy being considered for surgery&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;sup&gt;18&lt;/sup&gt;F-fluorodeoxyglucose (&lt;sup&gt;18&lt;/sup&gt;F-FDG) positron emission tomography (PET)&amp;nbsp;for presurgical evaluation of adult and pediatric patients with medically intractable focal or partial epilepsy&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The following interventions were considered but there was insufficient evidence to make a recommendation for or against:&lt;/p&gt;&#xA;&lt;ul class=&quot;contentListFont&quot;&gt;&#xA;    &lt;li&gt;&lt;sup&gt;18&lt;/sup&gt;F-FDG PET in the detection of cortical malformations in patients with intractable infantile spasms when magnetic resonance imaging (MRI) or computed tomography (CT) fail to show structural abnormalities. &lt;/li&gt;&#xA;    &lt;li&gt;&lt;sup&gt;18&lt;/sup&gt;F-FDG PET/MRI coregistration in the presurgical evaluation of patients with medically intractable epilepsy. &lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Diagnostic accuracy (sensitivity, specificity, positive predictive value [PPV], negative predictive value [NPV]) &lt;/li&gt;&#xA;    &lt;li&gt;Surgical management impact &lt;/li&gt;&#xA;    &lt;li&gt;Patient outcome impact &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Literature Search Strategy&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The literature was searched using MEDLINE (1946 to September Week 4 2013) and EMBASE (1974 to 2013 Week 29) databases in OVID. The search strategy combined disease-specific terms (exp epilepsy/ or epilep$.ti,ab.) with intervention-specific terms (exp tomography, emission computed/ or pet or positron emission tomograph$ or positron-emission),ti, ab.). See Appendix 1 in the original guideline document for the search strategy.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In addition, annual meetings of the American Epilepsy Society (&lt;a href=&quot;https://www.aesnet.org/meetings_events/annual_meeting_abstracts&quot; title=&quot;American Epilepsy Society Web site&quot;&gt;https://www.aesnet.org/meetings_events/annual_meeting_abstracts&lt;/a&gt;) were searched up to September 2013 for other relevant abstracts. Likewise, the &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Canadian Medical Association Infobase (&lt;a href=&quot;https://www.cma.ca/En/Pages/clinical-practice-guidelines.aspx&quot; title=&quot;CMA InfoBase Web site&quot;&gt;https://www.cma.ca/En/Pages/clinical-practice-guidelines.aspx&lt;/a&gt;) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;National Guideline Clearinghouse (&lt;a href=&quot;http://www.guideline.gov/&quot; title=&quot;NGC Web site&quot; target=&quot;_blank&quot;&gt;http://www.guideline.gov/&lt;/a&gt;) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;And Cochrane Database of Systematic Reviews (&lt;a href=&quot;http://www.thecochranelibrary.com/view/0/index.html&quot; title=&quot;Cochrane Database Web site&quot;&gt;http://www.thecochranelibrary.com/view/0/index.html&lt;/a&gt;) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;were searched up to September 2013 for existing evidence-based practice guidelines. Relevant articles and abstracts were selected and reviewed by two reviewers, and the reference lists from these were searched for additional studies, as were the reference lists from relevant review articles.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Study Selection Criteria&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Inclusion Criteria&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Fully published reports or abstracts that met the following criteria were selected for inclusion:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Systematic reviews, randomized controlled trials (RCTs), and prospective or retrospective studies that evaluated the use of &lt;sup&gt;18&lt;/sup&gt;F-fluorodeoxyglucose (&lt;sup&gt;18&lt;/sup&gt;F-FDG) positron emission tomography (PET) in medically intractable epilepsy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Studies that included &amp;ge;12 patients of any age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Reported on at least one of the following outcomes: diagnostic accuracy (sensitivity, specificity, positive predictive value [PPV], negative predictive value [NPV]), surgical management impact, or patient outcome impact &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Studies that used a suitable reference standard (intracranial electroencephalogram (EEG), surgical eligibility, good surgical outcome [Engel class I, II, or III]) when appropriate &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusion Criteria&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Studies of non-&lt;sup&gt;18&lt;/sup&gt;F-FDG PET &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Non-systematic reviews, letters, editorials, individual case reports, historical articles, or commentaries &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Reports published in a language other than English &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Literature Search Results&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;No existing systematic reviews or evidence-based guidelines were found that specifically evaluated the use of &lt;sup&gt;18&lt;/sup&gt;F-FDG PET against a suitable reference standard. In addition, there were no RCTs comparing the diagnostic accuracy and clinical utility of &lt;sup&gt;18&lt;/sup&gt;F-FDG PET with intracranial electroencephalogram (EEG). However, 36 retrospective studies and three prospective studies were identified to be relevant to this recommendation report (see Figure 1 in the original guideline document). Six of these studies were reported solely in abstract form, while two studies had both the full publication and the abstract. The eligible studies were conducted in various contexts but the Working Group believed the outcomes valued in this report would be relevant to the Regional Epilepsy Surgery Centres of Excellence context.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;39 studies were included in the qualitative synthesis (36 retrospective studies and three prospective studies).&lt;/p&gt;&#xA;&lt;p&gt;See Figure 1 in the original guideline document for a literature flow diagram.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Synthesizing the Evidence&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Due to the heterogeneity of the studies in the patient population, study design, outcome measurements, and methods of positron emission tomography (PET) interpretation, the results of the studies included in the systematic review could not be pooled. An assessment of study quality was performed for all fully published reports by one methodologist.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Study Design and Quality&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;For the fully published reports, study quality was assessed using the Quality Assessment of Diagnostic Accuracy Studies (QUADAS-2) tool (see Appendix II in the original guideline document). Abstracts were not assessed due to limited reporting of study information. The overall quality varied among the studies but the large majority were judged to have low risk of bias. The most common concern was the influence of PET results on the interpretation of the reference standard. That is, localization with intracranial electroencephalogram (EEG), decision to perform surgery, and classification of surgical outcomes were often not blinded to PET findings. Furthermore, some studies excluded patients with magnetic resonance imaging (MRI) abnormalities (i.e., structural lesions), incomplete tests or short follow-up, lost to follow up, or a definite extratemporal seizure origin.&lt;/p&gt;&#xA;&lt;p&gt;Refer to the &quot;Results&quot; section in the original guideline document for further information concerning the analysis of the evidence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This recommendation report, produced by the Program in Evidence-based Care (PEBC) and the Ontario Positron Emission Tomography (PET) Steering Committee of Cancer Care Ontario, was developed through a systematic review of the available evidence. The body of evidence, which forms the basis of the recommendations, was reviewed by two clinical experts in the epilepsy field, two methodologists, and one member of the PET Steering Committee (imaging expert in mental illness and addictions).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Not stated" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The recommendations are supported by prospective and retrospective studies.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The potential benefit of positron emission tomography (PET) in the presurgical evaluation of patients with intractable epilepsy lies in its ability to provide data for localizing the seizure focus and to determine resectability. The evidence from the review proposes that PET is able to provide complementary information that can guide decision making toward successful surgery.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;False negative results of positron emission tomography (PET)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Care has been taken in the preparation of the information contained in this report. Nonetheless, any person seeking to apply or consult the report is expected to use independent medical judgment in the context of individual clinical circumstances or seek out the supervision of a qualified clinician. Cancer Care Ontario makes no representation or guarantees of any kind whatsoever regarding the report content or use or application and disclaims any responsibility for its application or use in any way. &lt;/li&gt;&#xA;    &lt;li&gt;For localizing epileptic foci or guiding intracranial electrode placement as part of the presurgical evaluation in a Regional Epilepsy Surgery Center of Excellence, patients with temporal lobe epilepsy may benefit more from positron emission tomography (PET) than patients with extratemporal lobe epilepsy. &lt;/li&gt;&#xA;    &lt;li&gt;The evidence is suggestive that localization is greater when PET is assessed using statistical parametric mapping (SPM) and this method may be superior to visual interpretation for particular types of epilepsy. However, defining the exact group of patients for whom PET is likely to provide enhanced localization information based on SPM is beyond the scope of this report. &lt;/li&gt;&#xA;    &lt;li&gt;Patients with intractable infantile spasms exhibiting focal metabolic abnormality on PET could be considered for surgery, provided that epileptogenicity of focal malformation is confirmed electrographically during the presurgical evaluation in a Regional Epilepsy Surgery Centre of Excellence. Surgery would not be considered based solely upon a focal area of hypometabolism on PET without other corroborating data. &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Quick Reference Guides/Physician Guides" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Burneo JG, Poon R, Kellett S, Houle S, Snead OC. The utility of positron emission tomography in epilepsy. Toronto (ON): Cancer Care Ontario (CCO); 2015 Jan 29. 30 p.&amp;nbsp;(PET recommendation report; no. 13).&amp;nbsp; [51 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2015 Jan 29" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Program in Evidence-based Care - State/Local Government Agency [Non-U.S.]" />
+    </Field>
+    <Field FieldID="123" OrdBy="1230" ID="448" Name="Guideline Developer Comment" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Program in Evidence-based Care (PEBC) is a Province of Ontario initiative sponsored by Cancer Care Ontario and the Ontario Ministry of Health and Long-Term Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Program in Evidence-based Care (PEBC) is a provincial initiative of Cancer Care Ontario supported by the Ontario Ministry of Health and Long-Term Care. All work produced by the PEBC is editorially independent from the Ontario Ministry of Health and Long-Term Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Utility of Positron Emission Tomography in Epilepsy Working Group&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Authors&lt;/em&gt;: J.G. Burneo, R. Poon, S. Kellett, S. Houle, O.C. Snead&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The authors and reviewers reported that they had no conflicts of interest.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xA;&lt;p&gt;The PET Recommendation Report, initially the full original Guideline, over time will expand to contain new information emerging from reviewing and updating activities.&lt;/p&gt;&#xA;&lt;p&gt;Please visit the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=328569&quot; title=&quot;CCO Web site&quot;&gt;Cancer Care Ontario Web site&lt;/a&gt; for details on any new evidence that has emerged and implications to the guidelines.&lt;/p&gt;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=328569&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Cancer Care Ontario Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The utility of positron emission tomography in epilepsy. Summary. Toronto (ON): Cancer Care Ontario; 2015 Jan 29. 3 p. Electronic copies: Available from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=328571&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Cancer Care Ontario (CCO) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Program in Evidence-based Care handbook. Toronto (ON): Cancer Care Ontario (CCO); 2012. 14 p. Electronic copies: Available from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=50876&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;CCO Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on March 20, 2015.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions. Please refer to the &lt;a href=&quot;http://www.cancercare.on.ca/ontariocancernews/copyright.html&quot; title=&quot;CCO Web site&quot;&gt;Copyright and Disclaimer Statements&lt;/a&gt; posted at the Program in Evidence-based Care section of the Cancer Care Ontario Web site.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

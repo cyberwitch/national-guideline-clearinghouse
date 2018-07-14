@@ -1,0 +1,180 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;AARC clinical practice guideline: effectiveness of nonpharmacologic airway clearance therapies in hospitalized patients.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Strickland SL, Rubin BK, Drescher GS, Haas CF, O'Malley CA, Volsko TA, Branson RD, Hess DR. AARC clinical practice guideline: effectiveness of nonpharmacologic airway clearance therapies in hospitalized patients. Respir Care. 2013 Dec;58(12):2187-93. [59 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24222709&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Hospitalized Adult and Pediatric Patients Without Cystic Fibrosis&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendations Supported by Low-Level Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Chest physiotherapy (CPT) is not recommended for the routine treatment of uncomplicated pneumonia. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Airway clearance therapy (ACT) is not recommended for routine use in patients with chronic obstructive pulmonary disease (COPD). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;ACT may be considered in patients with COPD with symptomatic secretion retention, guided by patient preference, toleration, and effectiveness of therapy. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;ACT is not recommended if the patient is able to mobilize secretions with cough, but instruction in effective cough technique (e.g., forced expiratory technique [FET]) may be useful. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Adult and Pediatric Patients with Neuromuscular Disease, Respiratory Muscle Weakness, or Impaired Cough&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendations Supported by Low-Level Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Cough assist techniques should be used in patients with neuromuscular disease (NMD), particularly when peak cough flow is &amp;lt;270 L/min. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;CPT, positive expiratory pressure (PEP), intrapulmonary percussive ventilation (IPV), and high-frequency chest wall compression (HFCWC) cannot be recommended, due to insufficient evidence. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Postoperative Adult and Pediatric Patients&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendations Supported by Low-Level Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Incentive spirometry is not recommended for routine, prophylactic use in postoperative patients. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Early mobility and ambulation is recommended to reduce postoperative complications and promote airway clearance. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;ACT is not recommended for routine postoperative care. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Any disease/condition requiring airway clearance therapy (ACT)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Critical Care" />
+      <FieldValue Value="Geriatrics" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Pediatrics" />
+      <FieldValue Value="Pulmonary Medicine" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Allied Health Personnel" />
+      <FieldValue Value="Health Care Providers" />
+      <FieldValue Value="Hospitals" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+      <FieldValue Value="Respiratory Care Practitioners" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To determine whether the use of nonpharmacologic airway clearance therapy (ACT) improves oxygenation, reduces length of time on the ventilator, reduces stay in the intensive care unit (ICU), resolves atelectasis/consolidation, and/or improves respiratory mechanics, versus usual care in 3 populations &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To provide guidance to clinicians in the identification, selection, and application of ACT techniques &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Hospitalized adult and pediatric patients without cystic fibrosis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adult and pediatric patients with neuromuscular disease, respiratory muscle weakness, or impaired cough &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Postoperative adult and pediatric patients &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Airway clearance therapy (ACT) in patients with chronic obstructive pulmonary disease (COPD) with symptomatic secretion retention &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Effective cough technique, including forced exhalation technique (FET) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Early mobility and ambulation &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The following interventions were considered but not recommended due to insufficient evidence:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;contentListFont&quot;&gt;&#xD;&#xA;    &lt;li&gt;Chest physiotherapy (CPT) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Positive expiratory pressure (PEP) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Intrapulmonary percussive ventilation (IPV) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;High-frequency chest wall compression (HFCWC) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Incentive spirometry &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Length of stay in intensive care unit (ICU) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Resolution of atelectasis/consolidation, and/or improved respiratory mechanics &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pulmonary function &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sputum weight/volume &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Oxygenation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Gas exchange &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pulmonary complications &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Duration of ventilation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Heart rate &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dyspnea &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Harms of airway clearance techniques &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mean arterial pressure &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Breathing frequency &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Exercise tolerance &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Quality of life &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Need for mechanical ventilation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Hospital readmission (time to exacerbation) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Literature Search Strategy&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The primary literature search employed the MEDLINE (via the PubMed interface) and Cumulative Index of Nursing and Allied Health Literature (CINAHL) databases. The search strategies used a combination of subject heading terms appropriate for each database and key words relevant to airway clearance (e.g., sputum clearance, CPT). Reviewers limited searches to literature published in English since 1990 to ensure that interventions used currently would be represented. The searches were conducted in August 2012. Reviewers imported all citations into an electronic database and into the DistillerSR program for screening. They also manually searched the reference lists of included studies and of recent narrative and systematic reviews and meta-analyses addressing airway clearance in adults to locate citations of potential relevance.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Inclusion and Exclusion Criteria&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Studies needed to include subjects over 1 year of age without cystic fibrosis, who were receiving nonpharmacologic airway clearance therapies and who were either hospitalized (but not postoperative) or postoperative, had neuromuscular disease or respiratory muscle weakness, or who had impaired cough. Note that reviewers excluded studies of subjects with cystic fibrosis, as the Cystic Fibrosis Foundation recently published guidelines specifically related to airway clearance. Studies had to report on interventions explicitly used for airway clearance and include a treatment group and an appropriate comparison group (see Table 1 in the systematic review [see the &quot;Availability of Companion Documents&quot; field]). Comparators included other nonpharmacologic airway clearance approaches, no airway clearance intervention, or placebo. The reviewers also required that studies address one of the outcomes related to the effects of the intervention on mucus clearance outlined in Table 1 in the systematic review. Studies with any length of follow-up and in the hospital setting (i.e., not home- or out-patient-clinic-based) were included.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Study Selection&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Once they identified potential articles, reviewers examined the abstracts to determine whether studies met the inclusion criteria. Two reviewers separately evaluated each abstract for inclusion or exclusion, using an abstract review form. If one reviewer concluded that the article could be eligible for the review based on the abstract, it was retained for full text assessment. Two reviewers independently assessed the full text of each included study, using a standardized form that included questions stemming from the inclusion/exclusion criteria. Disagreements between reviewers were resolved by a third-party adjudicator. The group of abstract and full text reviewers included expert clinicians and health services researchers, and studies had to be excluded by at least one clinician and one methodologist. AARC members involved in screening were paired with Vanderbilt Evidence-Based Practice Center staff in order to maintain rigor and protect against bias.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;32 studies met the review criteria, including 24 randomized controlled trials, 7 crossover randomized controlled trials, and one prospective cohort study.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Not Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Data Extraction and Synthesis&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Reviewers extracted data on study design, population characteristics (including age, underlying conditions, and need for mechanical ventilation), intervention characteristics (including type and duration of intervention and concomitant therapies), and key outcomes data into evidence tables. In addition to outcomes related to airway clearance intervention effectiveness, reviewers extracted all data available on harms of airway clearance. Harms encompass the full range of specific negative effects, including the narrower definition of adverse events. Reviewers determined that the differences among populations, interventions, controls, and outcome measures rendered meta-analysis inappropriate. Thus, the analysis was qualitative.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Quality (Risk of Bias) Assessment of Individual Studies&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Reviewers assessed quality using separate tools, as appropriate by study design. Tools included the Cochrane Risk of Bias tool for randomized controlled trials (RCTs) and the Newcastle-Ottawa scale for cohort studies. Reviewers rated the quality for key outcomes for which data were provided. If a study noted, for example, that a given outcome was not significantly different between groups but did not provide the relevant data, the authors did not rate quality for that outcome. Two reviewers independently assessed the quality of each study, with final decisions made via discussion to reach consensus or by third-party adjudication by a senior methodologist, as needed. The parameters outlined in Table 2 in the systematic review (see the &quot;Availability of Companion Documents&quot; field) were used to translate quality ratings into final levels (good, fair, poor). Reviewers defined &quot;good&quot; studies as not having any of the criteria that create a high risk of bias. For studies with &quot;unclear&quot; ratings, they considered the likelihood that a factor would bias a given outcome and the importance of the limitation and down-graded the final level as appropriate.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The American Association for Respiratory Care (AARC) commissioned a systematic literature review (see the &quot;Availability of Companion Documents&quot; field), and AARC committee members participated in the review process. As a collaborative effort, the AARC team and the Vanderbilt Evidence-Based Practice Center developed the key questions and inclusion and exclusion criteria, and engaged in identification and review of abstracts. The AARC members involved in the work were paired with Vanderbilt Evidence-Based Practice Center staff in order to maintain rigor and protect against bias.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Because no high-level evidence was available and the recommendations are based on low-level evidence, the guideline authors have not used a formal guideline development process such as the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) system. Rather, the recommendations are based on a consensus of the committee, informed by a systematic review of the literature (see the &quot;Availability of Companion Documents&quot; field) and clinical experience. The systematic review helped frame the issues and allowed for an identification of potential harms.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Not stated" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The recommendations are based on a consensus of the committee, informed by a systematic review of the literature (see the &quot;Availability of Companion Documents&quot; field) and clinical experience. No high-level evidence was available and the recommendations are based on low-level evidence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate utilization of  nonpharmacologic airway clearance therapies in hospitalized patients&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The harms of airway clearance techniques were not consistently reported, though airway clearance techniques were generally considered safe in studies that did comment on adverse effects. Further research with clearly characterized populations and interventions is needed to understand the potential benefits and harms of these techniques.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Strickland SL, Rubin BK, Drescher GS, Haas CF, O'Malley CA, Volsko TA, Branson RD, Hess DR. AARC clinical practice guideline: effectiveness of nonpharmacologic airway clearance therapies in hospitalized patients. Respir Care. 2013 Dec;58(12):2187-93. [59 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24222709&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2013 Dec" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="American Association for Respiratory Care - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American Association for Respiratory Care (AARC)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Authors&lt;/em&gt;: Shawna L Strickland, PhD, RRT-NPS, AE-C, FAARC; Bruce K Rubin, MD, MEngr, MBA, FAARC; Gail S Drescher, MA, RRT; Carl F Haas, MLS, RRT, FAARC; Catherine A O'Malley, RRT-NPS; Teresa A Volsko, MHHS, RRT, FAARC; Richard D Branson, MSc, RRT, FAARC; Dean R Hess, PhD, RRT, FAARC&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Dr Rubin has disclosed relationships with GlaxoSmithKline, Pfizer, InspiRx, Fisher &amp;amp; Paykel, Teleflex, Philips Respironics, Novartis, Electromed, and Salter Labs.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Ms O'Malley has disclosed relationships with Novartis and Pari Respiratory Equipment.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Mr Branson has disclosed relationships with Covidien, Hamilton Medical, Advanced Circulatory Systems, Ikaria, Bayer, and Breathe Technologies.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Dr Hess has disclosed relationships with Philips Respironics, Pari Respiratory Equipment, Covidien, Maquet, and Merck.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The other authors have disclosed no conflicts of interest.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://rc.rcjournal.com/content/58/12/2187.full&quot; title=&quot;Respiratory Care Journal Web site&quot;&gt;Respiratory Care Journal Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Print copies: Available from the American Association for Respiratory Care (AARC), 9425 N. MacArthur Blvd., Ste. 100, Irving, TX 75063.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Andrews J, Sathe NA, Krishnaswami S, McPheeters ML. Nonpharmacologic airway clearance techniques in hospitalized patients: a systematic review. Respir Care. 2013 Dec;58(12):2160-86. Available from the &lt;a href=&quot;http://rc.rcjournal.com/content/58/12/2160.full&quot; title=&quot;Respiratory Care Journal Web site&quot;&gt;Respiratory Care Journal Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on April 9, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

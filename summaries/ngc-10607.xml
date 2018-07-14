@@ -1,0 +1,179 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Guideline for surgical attire.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Spruce L, Van Wicklin SA, Conner RL. Guideline for surgical attire. In: 2015 guidelines for perioperative practice. Denver (CO): Association of periOperative Registered Nurses (AORN); 2014. p. 97-120. [123 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Note from the Association of periOperative Nurses (AORN)&lt;/strong&gt;: The original guideline document provides guidance for surgical attire including scrub attire, shoes, jewelry, head coverings, and masks worn in the semi-restricted and restricted areas of the perioperative practice setting. The original guideline document also provides guidance for personal items such as stethoscopes, backpacks, briefcases, cell phones, and tablets.&lt;/p&gt;&#xA;&lt;p&gt;The original guideline document does not address patient clothing or linens used in health care facilities. A complete discussion of the use of personal protective equipment (PPE) and sterile attire worn at the surgical field is outside the scope of the original guideline document. Refer to the National Guideline Clearinghouse (NGC) summaries of the AORN guidelines: &lt;a href=&quot;/content.aspx?id=43784&quot; title=&quot;Guideline #9619&quot;&gt;Recommended practices for sterile technique&lt;/a&gt;, &lt;a href=&quot;/content.aspx?id=43785&quot; title=&quot;Guideline #9620&quot;&gt;Recommended practices for prevention of transmissible infections in the perioperative practice setting&lt;/a&gt;, and &lt;a href=&quot;/content.aspx?id=47826&quot; title=&quot;Guideline #10244&quot;&gt;Recommended practices for sharps safety&lt;/a&gt; for additional information. The use of nail polish, artificial nails, or other nail enhancements and the recommended fingernail length for perioperative personnel is outside the scope of the original guideline document. Refer to the AORN Guideline for Hand Hygiene for additional information. Ensuring and monitoring personnel compliance with policies and procedures for surgical attire and personal hygiene is a responsibility of the facility or health care organization administrators.&lt;/p&gt;&#xA;&lt;ol style=&quot;list-style-type: upper-roman;&quot;&gt;&#xA;    &lt;li&gt;Clean surgical attire should be worn in the semi-restricted and restricted areas of the perioperative setting. &lt;/li&gt;&#xA;    &lt;li&gt;All individuals who enter the semi-restricted and restricted areas should wear scrub attire that has been laundered at a health care-accredited laundry facility or disposable scrub attire provided by the facility and intended for use within the perioperative setting. &lt;/li&gt;&#xA;    &lt;li&gt;Personnel entering the semi-restricted and restricted areas should cover the head, hair, ears, and facial hair. &lt;/li&gt;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Surgical and other invasive procedures&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Prevention" />
+      <FieldValue Value="Risk Assessment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Nursing" />
+      <FieldValue Value="Surgery" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Nurses" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;To provide guidance for surgical attire including scrub attire, shoes, jewelry, head coverings, and masks worn in the semi-restricted and restricted areas of the perioperative practice setting &lt;/li&gt;&#xA;    &lt;li&gt;To provide guidance for personal items such as stethoscopes, backpacks, briefcases, cell phones, and tablets &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Any patient undergoing surgical or other invasive procedures&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xA;    &lt;li&gt;Clean surgical attire &lt;/li&gt;&#xA;    &lt;li&gt;Laundered or disposable scrub attire worn by all individuals who enter semi-restricted and restricted areas&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;        &lt;li&gt;Laundered in health care-accredited laundry facility &lt;/li&gt;&#xA;        &lt;li&gt;Intended for use in the perioperative setting &lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;Clean surgical head covering for head, hair, ears, and facial hair &lt;/li&gt;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;High level of cleanliness and hygiene within the perioperative environment &lt;/li&gt;&#xA;    &lt;li&gt;Patient and worker safety &lt;/li&gt;&#xA;    &lt;li&gt;Patient exposure to microorganisms &lt;/li&gt;&#xA;    &lt;li&gt;Surgical site infection (SSI) &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Evidence Review&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;On June 25 and June 27, 2013, a medical librarian conducted a systematic search of the databases MEDLINE&amp;reg; and CINAHL&amp;reg; and the Cochrane Database of Systematic Reviews for meta-analyses, systematic reviews, randomized controlled and non-randomized trials and studies, case reports, letters, reviews, and guidelines. The librarian also searched the Scopus database, although not systematically. The search was limited to literature published in English from January 2008 through June 2013.&lt;/p&gt;&#xA;&lt;p&gt;Search terms included &lt;em&gt;surgical attire, clothing, personal protective equipment, protective gloves, respiratory protective devices, masks, eye protection, goggles, scrubs, surgical gown, jumpsuit, head covering, surgical cap, hoods, coveralls, bunny suit, textiles, bedding and linens, privacy curtain, hospital laundry service, laundering, laundry, washing machine, tie, backpack, fanny pack, fleece, briefcase, purse, stethoscope, lanyard, badge, patient attire, patient clothing, colonization, fomites, tattooing, body piercing, jewelry, ring, wedding band, fingernails, eyelashes, facial hair, beard, groin, armpit, scalp, skin, squames, dandruff, epithelial cells, seborrheic dermatitis, computers, mobile communication device, mobile phone, cell phone, cellular phone, tablet computer, smartphone, iPad, iPhone, text messaging, pollen, dust, fungi, mold, equipment contamination, nosocomial, cross infection, infectious disease transmission, surgical wound infection, bacterial load, and infection control&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;At the time of the search, the librarian established weekly alerts on the search topics and until March 2014, presented relevant results to the lead author.&lt;/p&gt;&#xA;&lt;p&gt;Prior to the search, the medical librarian provided to the lead author the results of literature searches conducted for the 2010 edition of the Association of periOperative Registered Nurses (AORN) Recommended Practices for Surgical Attire. These articles had no time restriction. During the development of this edition, the authors also requested supplementary literature searches and additional literature that either did not fit the original search criteria or was discovered during the evidence-appraisal process. The time restriction was not considered in these subsequent searches. Relevant guidelines from government agencies and standards-setting bodies also were identified.&lt;/p&gt;&#xA;&lt;p&gt;Inclusion criteria were research and non-research literature in English, complete publications, relevance to the key questions, and publication dates within the time restriction unless none were available. Excluded were non-peer-reviewed publications; literature that examined the use of sterile gowns, drapes, and masks worn for maintaining sterile technique; low-quality evidence when higher quality evidence was available; and literature outside the time restriction when literature within the time restriction was available.&lt;/p&gt;&#xA;&lt;p&gt;See Figure 1 in the original guideline document for a flow diagram of literature search results.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;123 full-text sources were cited in the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;I: Randomized controlled trial (RCT) or experimental study, systematic review of all RCTs&lt;/p&gt;&#xA;&lt;p&gt;II: Quasi-experimental study, systematic review of quasi-experimental studies or combination of quasi-experimental and RCTs&lt;/p&gt;&#xA;&lt;p&gt;III: Non-experimental studies, qualitative studies, systematic review of non-experimental studies, combination of non-experimental, quasi-experimental, and RCTs, or any or all studies are qualitative&lt;/p&gt;&#xA;&lt;p&gt;IV: Clinical practice guidelines, position or consensus statements&lt;/p&gt;&#xA;&lt;p&gt;V: Literature review, expert opinion, case Report, community standard, clinician experience, consumer experience, organizational experience (quality improvement, financial)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Articles identified by the search were provided to the project team. The team consisted of the lead author, a co-author, five members of the Guidelines Advisory Board, and two evidence appraisers. The lead author and the evidence appraisers reviewed and critically appraised each article using the Association of periOperative Registered Nurses (AORN) Research or Non-Research Evidence Appraisal Tools as appropriate. The literature was independently evaluated and appraised according to the strength and quality of the evidence. Each article was then assigned an appraisal score.&lt;/p&gt;&#xA;&lt;p&gt;Notably, much of the evidence related to surgical attire is not recent evidence. There are no randomized controlled trials (RCTs) or systematic reviews that show a direct causal relationship between surgical attire and surgical site infection (SSI). There are many confounding variables that affect a patient's risk for SSI, and this makes it extraordinarily difficult to identify surgical attire as a singular source of SSIs. It is a well-accepted scientific principle that increased numbers of microorganisms in the perioperative environment will increase the patient's risk for SSI. It is unnecessary, and it may be unethical, for researchers to perform new studies for the sole purpose of demonstrating this recognized concept.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The methodology of the research and non-research evidence used to support this document was critically evaluated by the authors for validity and generalizability to current practice. The collective evidence supporting each intervention within a specific recommendation was summarized by the authors, and the Association of periOperative Registered Nurses (AORN) Evidence Rating Model was used to rate the strength of the evidence. Factors considered in the review of the collective evidence were the quality of evidence, the quantity of similar evidence on a given topic, and the consistency of evidence supporting a recommendation.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;1: Strong Evidence&lt;/strong&gt;: Interventions or activities for which effectiveness has been demonstrated by strong evidence from rigorously-designed studies, meta-analyses, or systematic reviews, rigorously-developed clinical practice guidelines, or regulatory requirements&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Evidence from a meta-analysis or systematic review of research studies that incorporated evidence appraisal and synthesis of the evidence in the analysis &lt;/li&gt;&#xA;    &lt;li&gt;Supportive evidence from a single well-conducted randomized controlled trial &lt;/li&gt;&#xA;    &lt;li&gt;Guidelines that are developed by a panel of experts, that derive from an explicit literature search methodology, and include evidence appraisal and synthesis of the evidence. &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;1: Regulatory Requirement&lt;/strong&gt;: Federal law or regulation&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2: Moderate Evidence&lt;/strong&gt;: Interventions or activities for which the evidence is less well established than for those listed under &quot;1: Strong Evidence&quot;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Supportive evidence from a well-conducted research study &lt;/li&gt;&#xA;    &lt;li&gt;Guidelines developed by a panel of experts which are primarily based on the evidence but not supported by evidence appraisal and synthesis of the evidence &lt;/li&gt;&#xA;    &lt;li&gt;Non-research evidence with consistent results and fairly definitive conclusions &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;3: Limited Evidence&lt;/strong&gt;: Interventions or activities for which there are currently insufficient evidence or evidence of inadequate quality.&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Supportive evidence from a poorly conducted research study &lt;/li&gt;&#xA;    &lt;li&gt;Evidence from non-experimental studies with high potential for bias &lt;/li&gt;&#xA;    &lt;li&gt;Guidelines developed largely by consensus or expert opinion &lt;/li&gt;&#xA;    &lt;li&gt;Non-research evidence with insufficient evidence or inconsistent results &lt;/li&gt;&#xA;    &lt;li&gt;Conflicting evidence, but where the preponderance of the evidence supports the recommendation &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;4: Benefits Balanced with Harms&lt;/strong&gt;: Selected interventions or activities for which the Association of periOperative Registered Nurses (AORN) Recommended Practices Advisory Board (RPAB) is of the opinion that the desirable effects of following this recommendation outweigh the harms.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;5: No Evidence&lt;/strong&gt;: Interventions or activities for which no supportive evidence was found during the literature search completed for the recommendation.&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Consensus opinion &lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="External Peer Review" />
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Guideline for Surgical Attire has been approved by the Association of periOperative Registered Nurses (AORN) Guidelines Advisory Board. It was presented as a proposed guideline for comments by members and others. The guideline is effective November 15, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The evidence rating is noted in brackets after each intervention in the original guideline document. Also see the original guideline document for the systematic review and discussion of evidence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Appropriate surgical attire and personal protective equipment (PPE) can provide a high level of cleanliness and hygiene within the perioperative environment and promote patient and worker safety. &lt;/li&gt;&#xA;    &lt;li&gt;Reducing the patient's exposure to microorganisms that are shed from the skin and hair of perioperative personnel may reduce the patient's risk for surgical site infection (SSI). &lt;/li&gt;&#xA;    &lt;li&gt;Refer to the original guideline document for more information concerning benefits of specific interventions. &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;These recommendations represent the Association's official position on questions regarding optimal perioperative nursing practice. &lt;/li&gt;&#xA;    &lt;li&gt;No attempt has been made to gain consensus among users, manufacturers, and consumers of any material or product. &lt;/li&gt;&#xA;    &lt;li&gt;Compliance with the Association of periOperative Registered Nurses (AORN) guideline is voluntary. &lt;/li&gt;&#xA;    &lt;li&gt;AORN's recommended practices are intended as achievable and represent what is believed to be an optimal level of patient care within surgical and invasive procedure settings. &lt;/li&gt;&#xA;    &lt;li&gt;Although they are considered to represent the optimal level of practice, variations in practice settings and clinical situations may limit the degree to which each recommendation can be implemented. &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Mobile Device Resources" />
+      <FieldValue Value="Resources" />
+      <FieldValue Value="Staff Training/Competency Material" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Spruce L, Van Wicklin SA, Conner RL. Guideline for surgical attire. In: 2015 guidelines for perioperative practice. Denver (CO): Association of periOperative Registered Nurses (AORN); 2014. p. 97-120. [123 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2014" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Association of periOperative Registered Nurses - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Association of periOperative Registered Nurses (AORN)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Association of periOperative Registered Nurses (AORN) Guidelines Advisory Board&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Lead Author&lt;/em&gt;: Lisa Spruce, DNP, RN, ACNS, ACNP, ANP, CNOR, Director of Evidence-based Perioperative Practice, AORN Nursing Department, Denver, Colorado&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Co-author&lt;/em&gt;: Sharon A. Van Wicklin, MSN, RN, CNOR, CRNFA, CPSN, PLNC, Perioperative Nursing Specialist AORN Nursing Department, Denver, Colorado&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Contributing Author&lt;/em&gt;: Ramona Conner, MSN, RN, CNOR, Manager, Standards and Guidelines, AORN Nursing Department, Denver, CO&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Team Members&lt;/em&gt;: Paula Berrett, BS, CRCST, Utah Valley Regional Medical Center, Provo, Utah, International Association of Healthcare Central Service Material Management liaison to the AORN Guidelines Advisory Board; Angela Hewett, MD, MS, University of Nebraska Medical Center, Omaha, Nebraska, Society for Healthcare Epidemiology of America liaison to the AORN Guidelines Advisory Board; Antonia B. Hughes, MA, BSN, RN, CNOR, Perioperative Education Specialist, Baltimore Washington Medical Center, Glen Burnie, Maryland; Deborah Mulloy, PhD, RN, CNOR, Brigham &amp;amp; Womens Hospital, Newtonville, Massachusetts; Janice A. Neil, RN, PhD, American Association of Colleges of Nursing Leadership Fellow, Associate Professor and Chair, Department of Undergraduate Nursing Science, East Carolina University College of Nursing, Greenville, North Carolina; Marcia R. Patrick, MSN, RN, CIC, Association for Professionals in Infection Control and Epidemiology liaison to the AORN Guidelines Advisory Board and Independent Consultant, Tacoma, Washington&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No financial relationships relevant to the content of this guideline have been disclosed by the authors, planners, peer reviewers, or staff.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available for purchase from the &lt;a href=&quot;http://www.aorn.org/guidelines/purchase-guidelines&quot; title=&quot;Association of periOperative Registered Nurses (AORN) Web site&quot;&gt;Association of periOperative Registered Nurses (AORN) Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Surgical attire evidence table. Dencer (CO): Association of periOperative Nurses; 2014. 11 p. Available from the &lt;a href=&quot;http://www.aorn.org/-/media/aorn/guidelines/evidence-rating-and-tables/evidence-table-for-surgical-attire.pdf?la=en&amp;amp;hash=5B1B4E17D4F320652AF484788746BD79FDB77678&quot; title=&quot;Association of periOperative Nurses (AORN) Web site&quot;&gt;Association of periOperative Nurses (AORN) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Additional implementation tools, including clinical FAQ's, webinars, online learning modules, videos, community discussions and journal articles are available from the &lt;a href=&quot;https://www.aorn.org/guidelines/guideline-implementation-topics/aseptic-technique/surgical-attire&quot; title=&quot;AORN Web site&quot;&gt;AORN Web site&lt;/a&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;In addition, an AORN Guidelines for Perioperative Practice eBook mobile app is available for purchase from the &lt;a href=&quot;http://www.aorn.org/guidelines/purchase-guidelines/ebook-mobile-app&quot; title=&quot;AORN Web site&quot;&gt;AORN Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on January 9, 2015. The information was verified by the guideline developer on February 25, 2015.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,179 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;The role of targeted therapies in the management of progressive glioblastoma: a systematic review and evidence-based clinical practice guideline.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Olson JJ, Nayak L, Ormond DR, Wen PY, Kalkanis SN, Ryken TC, AANS/CNS Joint Guidelines Committee. The role of targeted therapies in the management of progressive glioblastoma: a systematic review and evidence-based clinical practice guideline. J Neurooncol. 2014 Jul;118(3):557-99. [157 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24740195&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The rating schemes used for the strength of the evidence (&lt;strong&gt;Class I-III&lt;/strong&gt;) and the levels of recommendations (&lt;strong&gt;Level 1-3&lt;/strong&gt;) are defined at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Recommendation&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level III&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Treatment with bevacizumab is recommended as it provides improved disease control compared to historical controls as measured by best imaging response and progression free survival at 6 months.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Given that there are a large number of therapies are available for progressive glioblastoma that may be applied under selected circumstances dependent on patient characteristics and treating physician judgment, it is strongly recommended that patients with progressive glioblastoma be enrolled in properly designed clinical investigations to provide convincing evidence of therapeutic value.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Definition&lt;/strong&gt;&lt;/span&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Evidence Classification for Therapeutic Studies&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class I&lt;/strong&gt;: Evidence provided by one or more well-designed randomized controlled clinical trials, including overview (meta-analyses) of such trials&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class II&lt;/strong&gt;: Evidence provided by well-designed observational studies with concurrent controls (e.g., case control and cohort studies)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class III&lt;/strong&gt;: Evidence provided by expert opinion, case series, case reports and studies with historical controls&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Evidence Classification for Diagnostic Studies&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class I&lt;/strong&gt;: Evidence provided by one or more well-designed clinical studies of a diverse population using a &quot;gold standard&quot; reference test in a blinded evaluation appropriate for the diagnostic applications and enabling the assessment of sensitivity, specificity, positive and negative predictive values, and where applicable, likelihood ratios&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class II&lt;/strong&gt;: Evidence provided by one or more clinical studies of a restricted population using a &quot;gold standard&quot; reference test in a blinded evaluation of diagnostic accuracy and enabling assessment of sensitivity, specificity, positive and negative predictive values, and where applicable, likelihood ratios&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class III&lt;/strong&gt;: Evidence provided by expert opinion, studies that do not meet the criteria for the delineation of sensitivity, specificity, positive and negative predictive values, and where applicable, likelihood ratios&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Levels of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 1&lt;/strong&gt;: Generally accepted principles for patient management, which reflect a high degree of clinical certainty (usually this requires Class I evidence which directly addresses the clinical questions or overwhelming Class II evidence when circumstances preclude randomized clinical trials)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 2&lt;/strong&gt;: Recommendations for patient management which reflect clinical certainty (usually this requires Class II evidence or a strong consensus of Class III evidence)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 3&lt;/strong&gt;: Other strategies for patient management for which the clinical utility is uncertain (inconclusive or conflicting evidence or opinion)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Progressive glioblastoma&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Management" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Neurology" />
+      <FieldValue Value="Oncology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Hospitals" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;To provide a cataloging, review, and systematic evaluation of progressive glioblastoma treatments to allow the practicing physician to determine their role in patient management &lt;/li&gt;&#xA;    &lt;li&gt;To provide the latest up-to-date evidence-based recommendations for the management of patients with progressive glioblastoma centering on questions related to commonly encountered clinical scenarios &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adult patients with progressive glioblastoma&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xA;    &lt;li&gt;Bevacizumab &lt;/li&gt;&#xA;    &lt;li&gt;Enrollment in properly designed clinical investigations &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: See the original guideline document for detailed information concerning other interventions that were considered but not recommended.&lt;/p&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Improvement in average life expectancy &lt;/li&gt;&#xA;    &lt;li&gt;Time of disease progression &lt;/li&gt;&#xA;    &lt;li&gt;Improved disease control &lt;/li&gt;&#xA;    &lt;li&gt;Quality of life &lt;/li&gt;&#xA;    &lt;li&gt;Survival &lt;/li&gt;&#xA;    &lt;li&gt;Mortality &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following electronic databases were searched from January 1990 through June 2012: MEDLINE and EMBASE. A broad search strategy using a combination of subheadings and text words was employed. In brief, a search was executed for progressive glioblastoma treatment with targeted therapies. Specifically that included progressive, recurrent, or relapsing glioma or glioblastoma and combined with targeted therapy and molecular agents and then quality of life, survival and mortality. The search strategy is documented in the companion document (see the &quot;Availability of Companion Documents&quot; field). Reference lists of included studies were also reviewed.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Literature Eligibility Criteria&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Published in English &lt;/li&gt;&#xA;    &lt;li&gt;Adult patients (age &amp;ge;18) with progressive glioblastoma were included in the study and the data on their outcomes could be separated from other histologies &lt;/li&gt;&#xA;    &lt;li&gt;Fully published (i.e., not in abstract form) peer reviewed primary studies involving targeted therapy used alone or in combinations &lt;/li&gt;&#xA;    &lt;li&gt;Number of study participants with progressive glioblastoma &amp;ge;5 &lt;/li&gt;&#xA;    &lt;li&gt;For studies with mixed histologic populations, baseline pretreatment and outcome information on study participants is provided for patients with progressive glioblastoma separate from other histologies &lt;/li&gt;&#xA;    &lt;li&gt;For studies with consideration of more than one treatment regimen, baseline pretreatment and outcome information on study participants is provided in a manner that can be separated by treatment &lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The search resulted in 232 publications being identified as having potential relevance. Importantly the search for  cytotoxic chemotherapy related publications identified a number of manuscripts also dealing with targeted therapies and resulted in additions to this group. A total of 1,673 publications were identified by the search method and underwent title and abstract screening. Of those, 299 were deemed better information regarding this guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Evidence Classification for Therapeutic Studies&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Class I&lt;/strong&gt;: Evidence provided by one or more well-designed randomized controlled clinical trials, including overview (meta-analyses) of such trials&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Class II&lt;/strong&gt;: Evidence provided by well-designed observational studies with concurrent controls (e.g., case control and cohort studies)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Class III&lt;/strong&gt;: Evidence provided by expert opinion, case series, case reports and studies with historical controls&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Evidence Classification for Diagnostic Studies&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Class I&lt;/strong&gt;: Evidence provided by one or more well-designed clinical studies of a diverse population using a &quot;gold standard&quot; reference test in a blinded evaluation appropriate for the diagnostic applications and enabling the assessment of sensitivity, specificity, positive and negative predictive values, and where applicable, likelihood ratios&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Class II&lt;/strong&gt;: Evidence provided by one or more clinical studies of a restricted population using a &quot;gold standard&quot; reference test in a blinded evaluation of diagnostic accuracy and enabling assessment of sensitivity, specificity, positive and negative predictive values, and where applicable, likelihood ratios&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Class III&lt;/strong&gt;: Evidence provided by expert opinion, studies that do not meet the criteria for the delineation of sensitivity, specificity, positive and negative predictive values, and where applicable, likelihood ratios&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Studies which met the eligibility criteria had their data extracted by one reviewer and the extracted information was checked by a second reviewer. Evidence and summary tables, reporting the extracted study information and evidence classification, were generated for all of the included studies for each of the questions. The literature in the evidence tables was expanded upon in the scientific foundation of each section so as to emphasize important points supporting its classification and contribution to recommendations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Writing groups were created from the entire clinical guideline panel based on expertise to address each of the disciplines and areas of therapy chosen to be part of this set of clinical guidelines. Each group was involved with literature selection, creation and editing of the evidence/summary tables for their specific discipline. Using this information, the writing groups then drafted the clinical practice guideline for their respective discipline. The draft guidelines were then circulated to the entire clinical guideline panel for feedback, discussion, and ultimately approval.&lt;/p&gt;&#xA;&lt;p&gt;Both the evidence classification and the strength of the recommendations were graded according to the American Association of Neurological Surgeons (AANS)/Congress of Neurological Surgeons (CNS) (see the &quot;Rating Scheme for the Strength of the Evidence&quot; and &quot;Rating Scheme for the Strength of the Recommendations&quot; fields). The class of evidence assigned to each study was based on study design (i.e., class I, II, or III). The strength of the recommendations made (i.e., level 1, 2, or 3) was directly linked to the evidence classification and took into account aspects of study quality and whether or not the plan was accomplished, not just study design. Specifically, the level of a recommendation made could be decreased, based on consensus input, if there were methodological concerns regarding the studies that provided evidence for that particular recommendation.&lt;/p&gt;&#xA;&lt;p&gt;See Figure 1 in the methodology document (see the &quot;Availability of Companion Documents&quot; field) for an outline of the key steps in the process of developing these clinical practice guidelines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Levels of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Level 1&lt;/strong&gt;: Generally accepted principles for patient management, which reflect a high degree of clinical certainty (usually this requires Class I evidence which directly addresses the clinical questions or overwhelming Class II evidence when circumstances preclude randomized clinical trials)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Level 2&lt;/strong&gt;: Recommendations for patient management which reflect clinical certainty (usually this requires Class II evidence or a strong consensus of Class III evidence)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Level 3&lt;/strong&gt;: Other strategies for patient management for which the clinical utility is uncertain (inconclusive or conflicting evidence or opinion)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="External Peer Review" />
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The completed evidence-based clinical practice guidelines on the diagnosis and management of progressive glioblastoma were presented to the Joint Guidelines Committee (JGC) of the American Association of Neurological Surgeons (AANS)/Congress of Neurological Surgeons (CNS) for approval. The reviewers for the JGC were vetted by the Journal of Neuro-Oncology for suitability and expertise to serve as reviewers for the purposes of publication in that journal also. As part of their evaluation process, the JGC reviewers could provide input on the content of the clinical practice guidelines.&lt;/p&gt;&#xA;&lt;p&gt;Development of this set of evidence-based clinical practice guidelines was editorially independent from the funding agencies. The funding agencies (CNS Executive Committee, and AANS/CNS Joint Tumor Section Executive Committee) review of these guideline papers, following JGC assessment and recommendations for endorsement but prior to submission for publication, was limited to whether or not to endorse or reject this body of work.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate treatment of patients with progressive glioblastoma with bevacizumab to improve survival outcomes&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The use of bevacizumab alone is not without toxicities as the authors of one study report the most common grade 3 or greater toxicities for the use of this agent alone include hypertension (8.3%) and convulsions (6.0%).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The information in these guidelines reflects the current state of knowledge at the time of completion. The presentations are designed to provide an accurate review of the subject matter covered. These guidelines are disseminated with the understanding that the recommendations by the authors and consultants who have collaborated in their development are not meant to replace the individualized care and treatment advice from a patient's physician(s). If medical advice or assistance is required, the services of a physician should be sought. The proposals contained in these guidelines may not be suitable for use in all circumstances. The choice to implement any particular recommendation contained in these guidelines must be made by a managing physician in light of the situation in each particular patient and on the basis of existing resources.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Olson JJ, Nayak L, Ormond DR, Wen PY, Kalkanis SN, Ryken TC, AANS/CNS Joint Guidelines Committee. The role of targeted therapies in the management of progressive glioblastoma: a systematic review and evidence-based clinical practice guideline. J Neurooncol. 2014 Jul;118(3):557-99. [157 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24740195&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2014 Jul" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="American Association of Neurological Surgeons - Medical Specialty Society" />
+      <FieldValue Value="Congress of Neurological Surgeons - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;These guidelines were funded exclusively by the CNS and Tumor Section of the American Association of Neurological Surgeons and the Congress of Neurological Surgeons (CNS) whom received no funding from outside commercial sources to support the development of this document unless otherwise stated in this section.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Guideline Panel&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Authors&lt;/em&gt;: Jeffrey J. Olson, MD, Department of Pathology and Laboratory Medicine, Emory University School of Medicine, Atlanta, GA; Lakshmi Nayak, MD, Dana-Farber Cancer Institute, Boston, MA, Department of Neurology Brigham and Women's Cancer Center, Boston, MA; David Ryan Ormond, MD, Department of Neurological Surgery, Emory University School of Medicine, Atlanta, GA; Patrick Y. Wen, MD, Dana-Farber Cancer Institute, Boston, MA, Department of Neurology, Brigham and Women's Cancer Center, Boston, MA; Steven N. Kalkanis, MD, Department of Neurosurgery, Henry Ford Health System, Detroit, MI; Timothy Charles Ryken, MD, MS, FACS, Department of Neurosurgery, Iowa Spine and Brain Institute, Iowa City, IA&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Task Force Members report potential conflicts of interest (COI) prior to beginning work on the guideline and at the time of publication. COI disclosures are reviewed by the Task Force Chair and taken into consideration when determining writing assignments. Resolution of potential COIs included Task Force members&amp;nbsp;being assigned to chapters that did not involve or in any way relate to the potential COIs disclosed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available to subscribers from the &lt;a href=&quot;http://link.springer.com/article/10.1007/s11060-013-1339-4/fulltext.html&quot; title=&quot;Journal of Neuro-Oncology Web site&quot;&gt;Journal of Neuro-Oncology Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Olson JJ, Ryken TC. Kalkanis SN. Introduction, rationale, and methodology. J Neurooncol. 2014 Jul;118(3): 429&amp;ndash;434. Available to subscribers from the &lt;a href=&quot;http://link.springer.com/article/10.1007/s11060-013-1329-6/fulltext.html&quot; title=&quot;Journal of Neuro-Oncology Web site&quot;&gt;Journal of Neuro-Oncology Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on September 3, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

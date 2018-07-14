@@ -1,0 +1,189 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Common breast problems.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;University of Michigan Health System. Common breast problems. Ann Arbor (MI): University of Michigan Health System; 2013 Jun. 11 p.  [10 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: University of Michigan Health System. Common breast problems. Ann Arbor (MI): University of Michigan Health System; 2007 Oct. 10 p. [7 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Note from the University of Michigan Health System (UMHS) and the National Guideline Clearinghouse (NGC)&lt;/em&gt;&lt;/strong&gt;: The following guidance was current as of June 2013. Because UMHS occasionally releases minor revisions to its guidance based on new information, users may wish to consult the &lt;a href=&quot;http://www.med.umich.edu/1info/fhp/practiceguides/breast.html&quot; title=&quot;UMHS Web site&quot;&gt;original guideline document&lt;/a&gt; for the most current version.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Note from NGC&lt;/strong&gt;: The following key aspects and recommendations summarize the content of the guideline. Refer to the full text for detailed information on each of the screening procedures.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The strength of recommendation (I-III) and levels of evidence (A-D) are defined at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Key Aspects and Recommendations&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Palpable Mass or Asymmetric Thickening/Nodularity on Physical Exam&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Discrete masses&lt;/span&gt; elevate the index of suspicion. Physical exam cannot reliably rule out malignancy.&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Breast imaging is the next diagnostic approach to aid in diagnosis &lt;em&gt;[I C]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Initial imaging evaluation: if age &amp;ge;30 years then mammogram followed by breast ultrasound; if age &amp;lt;30 years then breast ultrasound &lt;em&gt;[I C]&lt;/em&gt;. Follow-up depends on results (see Figure 1 of the original guideline document). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Asymmetrical thickening/nodularity&lt;/span&gt; has a lower index of suspicion, but should be assessed with breast imaging based on age as for patients with a discrete mass. If imaging is:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Suspicious or highly suggestive&lt;/span&gt; (Breast Imaging Reporting and Data System [BI-RADS] category 4 or 5) or if the area is assessed on clinical exam as suspicious, then biopsy after imaging &lt;em&gt;[I C]&lt;/em&gt;. Referral to a breast care specialist may be useful. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Probably benign&lt;/span&gt; (BI-RADS 3): if clinically benign, observe every 3&amp;ndash;6 months and image every 6&amp;ndash;12 months for 2 years to assess stability &lt;em&gt;[I C]&lt;/em&gt;; if clinically suspicious, biopsy tissue &lt;em&gt;[I C]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Negative or benign&lt;/span&gt; (BI-RADS 1 or 2): if clinically benign, then follow-up physical exam in 3 months &lt;em&gt;[I C]&lt;/em&gt;, if clinically suspicious, biopsy tissue &lt;em&gt;[I C]&lt;/em&gt;. Simple cysts (Benign finding, BI-RADS 2) need aspiration only if symptomatic. &lt;em&gt;[I C]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Referral to breast care specialist&lt;/span&gt; is also recommended for: (a) any suspicious mass or (b) any woman at very high risk for breast cancer &lt;em&gt;[I D]&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Inflammation and Other Skin Changes&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;If cellulitic breast skin changes&lt;/span&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Do not completely resolve after a course of antibiotics&lt;/span&gt;, refer to a breast specialist for consideration of breast biopsy to rule out inflammatory breast cancer &lt;em&gt;[I C]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Are associated with a fluctuant, painful mass&lt;/span&gt;, refer to a breast specialist or emergency department for management of a possible breast abscess &lt;em&gt;[I C]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;If eczematoid changes of the nipple-areolar skin persist&lt;/span&gt; &amp;gt;1-2 weeks or do not respond to topical treatment, refer to a breast specialist for possible biopsy to rule out Paget's disease of the nipple &lt;em&gt;[I C]&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Breast Pain With Negative Physical Exam (see Figure 2 in the original guideline document)&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;If physical exam and appropriate breast imaging are negative&lt;/span&gt;, the likely diagnosis is benign mastalgia: reassure patient. A trial of topical agents is reasonable (see text of the original guideline document) &lt;em&gt;[II A]&lt;/em&gt;. Recommendation for a well-fitted bra is often helpful &lt;em&gt;[II C]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;If persistent or localized pain&lt;/span&gt; not responsive after 2-3 months of conservative treatment, refer to breast specialist &lt;em&gt;[I C]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Nipple Discharge Without Abnormal Exam Findings (see Figure 3 in the original guideline document)&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;If discharge is spontaneous or watery/serous or if other risk factors are present&lt;/span&gt; (persistent, serosanguinous, single duct), refer to a breast specialist and consider diagnostic imaging &lt;em&gt;[I C]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;If discharge is non-spontaneous&lt;/span&gt;, if clearly galactorrhea, pursue medical workup and do not refer to breast specialist &lt;em&gt;[I C]&lt;/em&gt;. If discharge is from multiple ducts and gray to green in color, do not refer to a breast specialist unless patient requests referral for symptomatic relief &lt;em&gt;[I C]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Special Populations&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Pregnant women&lt;/span&gt;. If concerning indications, imaging is relatively safe and should be done &lt;em&gt;[I C]&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Men&lt;/span&gt;. Diagnose and treat enlargement or pain &lt;em&gt;[I C]&lt;/em&gt;. Breast mass is rare, but suspicious for cancer &lt;em&gt;[I C]&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Augmented breasts&lt;/span&gt;. Evaluation/management of above conditions is similar, but imaging issues &lt;em&gt;[I C]&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Levels of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-alpha;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Randomized controlled trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Controlled trials, no randomization &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Observational trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Opinion of expert panel &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strength of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-roman;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Generally should be performed &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;May be reasonable to perform &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Generally should not be performed &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following algorithms are provided in the original guideline document:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Palpable Breast Mass or Asymmetric Thickening/Nodularity: Diagnosis and Treatment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Breast Pain Diagnosis and Treatment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Nipple Discharge Diagnosis and Treatment (no mass) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Common breast problems:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Palpable mass or asymmetric thickening/nodularity on clinical exam &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Inflammation and other skin changes &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Breast pain with negative exam &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Nipple discharge without abnormal exam findings &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Risk Assessment" />
+      <FieldValue Value="Screening" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Obstetrics and Gynecology" />
+      <FieldValue Value="Radiology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To identify appropriate evaluation and management strategies for common breast problems &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To identify appropriate indications for referral to a breast specialist &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adults age 18 and older &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Diagnosis/Evaluation/Risk Assessment/Screening&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Physical exam &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Diagnostic imaging:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Mammography &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Ultrasound &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Magnetic resonance imaging (as an adjunct screening method for high-risk women) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Biopsy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Fine needle aspiration (FNA) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Risk assessment (Breast Imaging Reporting and Data System [BI-RADS]) &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Management/Treatment&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Pharmacologic treatment for breast pain including evening of primrose oil, diclofenac gel, non-steroidal anti-inflammatory drugs (NSAIDs), and hormonally active medicines including tamoxifen, danazol, gonadotrophin releasing hormone analogs&amp;nbsp;and bromocriptine &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Referral to breast specialist or emergency department as indicated &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Antibiotics &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Nonpharmacologic interventions to reduce breast pain, such as a well-fitting bra, relaxation techniques, warm compresses or cold packs, gentle massage &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Management of special populations:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Pregnant women &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Men &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Augmented breasts &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Positive predictive value, sensitivity and/or specificity of diagnostic tests &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Incidence of breast cancer &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The literature searches for this update began with the results of the literature searches performed for the earlier version of this guideline through June 2005. For this update the Breast Cancer Screening and Diagnosis Guidelines of the National Comprehensive Cancer Network (2012) and its supporting literature through early 2012 was used to address the topics of: palpable mass, asymmetric thickening/nodularity, inflammation and other skin changes, breast pain. To supplement that literature, searches in MEDLINE were performed. For the major keywords of adult women; since 6/1/2005; English language; and guidelines, controlled trials (including meta-analyses), and cohort studies; specific searches were performed for breast pain, galactorrhea and other nipple discharge, and breast mass in pregnancy. For the major keywords of adult men; since 6/1/2005; English language; and guidelines, controlled trials (including meta-analyses), and cohort studies; specific searches were performed for breast mass or pain.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The searches were supplemented with recent clinical trials known to expert members of the panel. The search was single cycle.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Levels of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-alpha;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Randomized controlled trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Controlled trials, no randomization &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Observational trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Opinion of expert panel &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Conclusions were based on prospective randomized clinical trials if available, to the exclusion of other data. If randomized clinical trials were not available, observational studies were admitted to consideration. If no such data were available, expert opinion was used to estimate effect size.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Strength of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-roman;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Generally should be performed &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;May be reasonable to perform &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Generally should not be performed &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Drafts of this guideline were reviewed in clinical conferences and by distribution for comment within departments and divisions of the University of Michigan Medical School to which the content is most relevant: Family Medicine, General Medicine, General Obstetrics &amp;amp; Gynecology, Radiology/Breast Imaging, and Surgical Oncology. The Executive Committee for Clinical Affairs of the University of Michigan Hospitals and Health Centers endorsed the final version.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Conclusions were based on prospective randomized controlled trials (RCTs) if available, to the exclusion of other data. If RCTs were not available, observational studies were admitted to consideration. If no such data were available, expert opinion was used to estimate effect size.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate evaluation and management strategies for&amp;nbsp;patients who present with common breast problems&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Mammography as a diagnostic tool may result in false negatives, especially in younger women. Overall, 10% of diagnostic mammograms are false negatives, with approximately twice the rate for younger women and half that rate for women over age 65. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For evaluation of solid masses, or nonpalpable masses detected by mammography, the sensitivity of fine needle aspiration (FNA) is variable, primarily dependent on the skill of the aspirator. Estimates of false negatives range from 1% to 35% for palpable lesions and up to 68% for nonpalpable lesions. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Side effects of hormonally active medicines tend to limit their tolerability. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;These guidelines should not be construed as including all proper methods of care or excluding other acceptable methods of care reasonably directed to obtaining the same results. The ultimate judgment regarding any specific clinical procedure or treatment must be made by the physician in light of the circumstances presented by the patient.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Clinical Algorithm" />
+      <FieldValue Value="Patient Resources" />
+      <FieldValue Value="Resources" />
+      <FieldValue Value="Staff Training/Competency Material" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;University of Michigan Health System. Common breast problems. Ann Arbor (MI): University of Michigan Health System; 2013 Jun. 11 p.  [10 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2007 Oct (revised 2013 Jun)" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="University of Michigan Health System - Academic Institution" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;University of Michigan Health System&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Breast Care Guideline Team&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Team Leader&lt;/em&gt;: Monica M Dimagno, MD, General Medicine&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Team Members&lt;/em&gt;: R Van Harrison, PhD, Medical Education; Lisa A Newman, MD, MPH, Surgical Oncology; Ebony C Parker-Featherstone, MD, Family Medicine; Mark D Pearlman, MD, Obstetrics &amp;amp; Gynecology; Mark A Helvie, MD, Radiology/Breast Imaging&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Guidelines Oversight Team&lt;/em&gt;: Grant Greenberg, MD, MA, MHSA; R Van Harrison, PhD&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The University of Michigan Health System endorses the Guidelines of the Association of American Medical Colleges and the Standards of the Accreditation Council for Continuing Medical Education that the individuals who present educational activities disclose significant relationships with commercial companies whose products or services are discussed. Disclosure of a relationship is not intended to suggest bias in the information presented, but is made to provide readers with information that might be of potential importance to their evaluation of the information.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;None of the members of the Breast Problems Guideline Team have relationships with commercial companies whose products are discussed in this guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: University of Michigan Health System. Common breast problems. Ann Arbor (MI): University of Michigan Health System; 2007 Oct. 10 p. [7 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available from the &lt;a href=&quot;http://www.med.umich.edu/1info/fhp/practiceguides/breast.html&quot; title=&quot;University of Michigan Health System Web site&quot;&gt;University of Michigan Health System Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Continuing Medical Education (CME) information is available from the &lt;a href=&quot;http://ocpd.med.umich.edu/cme/self-study/Breast%20Problems,%20Common&quot; title=&quot;UMHS Web site&quot;&gt;University of Michigan Health System (UMHS) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;National Cancer Institute (NCI) Breast Cancer Risk Assessment Tool. 2011 May. Electronic copies: Available from the &lt;a href=&quot;http://www.med.umich.edu/1info/fhp/practiceguides/breast.html&quot; title=&quot;UMHS Web site&quot;&gt;UMHS Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Breast pain. Ann Arbor (MI): University of Michigan Health System; 2013 Jul. 2 p. Electronic copies: Available from the &lt;a href=&quot;http://www.med.umich.edu/1info/fhp/practiceguides/breast/BreastPain.pdf&quot; title=&quot;UMHS Web site&quot;&gt;University of Michigan Health System (UMHS) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Fibrocystic changes. Ann Arbor (MI): University of Michigan Health System; 2013 Jul. 2 p. Electronic copies: Available from the &lt;a href=&quot;http://www.med.umich.edu/1info/fhp/practiceguides/breast/Fibrocystic.pdf&quot; title=&quot;UMHS Web site&quot;&gt;UMHS Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Galactorrhea. Ann Arbor (MI): University of Michigan Health System; 2013 Jul. 3 p. Electronic copies: Available from the &lt;a href=&quot;http://www.med.umich.edu/1info/fhp/practiceguides/breast/Galactorrhea.pdf&quot; title=&quot;UMHS Web site&quot;&gt;UMHS Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Disclaimer&quot;&gt;Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on January 24, 2008. The information was verified by the guideline developer on February 11, 2008. This summary was updated by ECRI Institute on January 15, 2010 following the U.S. Food and Drug Administration (FDA) advisory on Voltaren Gel. This NGC summary was updated by ECRI Institute on October 21, 2013. This summary was updated by ECRI Institute on September 18, 2015 following the U.S. Food and Drug Administration advisory on non-aspirin nonsteroidal anti-inflammatory drugs (NSAIDs).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is copyrighted by the University of Michigan Health System (UMHS).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,181 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;HealthPartners Dental Group and Clinics third molar guideline.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;HealthPartners Dental Group and Clinics third molar guide. Minneapolis (MN): HealthPartners; 2013 May 1. 17 p.  [102 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: HealthPartners Dental Group and Clinics third molar guideline. Minneapolis (MN): HealthPartners; 2008 Dec 29. 16 p. [89 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Treatment Criteria for Removal of Third Molars: Erupted Third Molars&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Definition&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;An erupted third molar is one so positioned that the entire clinical crown is visible.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Based upon a review of the current literature on the topic of third molar extractions, there is nearly unanimous agreement regarding treatment for fully erupted third molars. The following indications and contraindications reflect the current rationale for removal of erupted third molars. Final determinants for treatment, however, will always be the practitioner's clinical judgment and the patient's informed consent.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Indications for Removal*&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Non-restorable, carious tooth. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Clinical findings of pulp exposure by dental caries. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Clinical findings of fractured tooth. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Internal or external resorption of tooth or of adjacent tooth. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Non-treatable pulpal or periapical lesion. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Acute and/or chronic infection (abscess or cellulitis). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To limit or manage progression of periodontal disease. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tooth shape, size, or position which prevents normal function in the arch. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Hypererupted or ectopic tooth causing occlusal or soft tissue interference. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To facilitate prosthetic rehabilitation. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To facilitate orthodontic tooth movement and stability. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tooth in the line of jaw fracture complicating fracture management. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tooth involved in resection of pathologic lesion. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tooth interfering with orthognathic or reconstructive surgery. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Prophylactic removal, when indicated, for patients with medical or surgical conditions (e.g., organ transplants, alloplastic implants, chemotherapy, radiation therapy). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients informed refusal of non-surgical treatment options. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;No opposing tooth and not needed for prosthetic rehabilitation. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Contraindications for Removal*&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patient's informed refusal of surgical treatment options. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Asymptomatic teeth without indications for removal. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Medical complications. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Age of the patient (see the flowchart in the original guideline document). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Postradiation patients. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Possibility of damage to important adjacent structures. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Bisphosphonate therapy (current or history of). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Post head and neck radiation therapy. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Treatment Criteria for Removal of Third Molars: Partially Erupted Third Molars&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Definition&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A partially erupted tooth is one so positioned that only a portion of the clinical crown is visible.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Based upon a review of the current literature, the following indications and contraindications reflect the current rationale for removal of partially erupted third molars. Final determinants for treatment will always be the practitioner's clinical judgment and the patient's informed consent.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Indications for Removal*&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Non-restorable, carious tooth. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;History of pericoronitis, or initial incident of pericoronitis with poor prognosis for full eruption or for oral hygiene maintenance. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Non-treatable pulpal or periapical lesion. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Acute or chronic infection. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To facilitate prosthetic rehabilitation. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To limit or manage progression of periodontal disease. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Ectopic position and/or tooth shape or size which prevents normal function within the dental arch. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tooth in line of jaw fracture, complicating fracture management. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tooth involved in resection of pathologic lesion. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tooth interfering with orthognathic or reconstructive surgery. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Prophylactic removal, when indicated, for patients with certain medical or surgical conditions (e.g., organ transplants, alloplastic implants, chemotherapy, and radiation therapy). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pathology associated with tooth follicle (e.g., cysts and tumors). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Clinical findings of fractured tooth or adjacent tooth. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Internal or external resorption of tooth or adjacent tooth. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients informed refusal of non-surgical treatment options. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Need for donor transplant. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Caries on distal of second molar. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Contraindications for Removal*&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patient's informed refusal of surgical treatment options. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Asymptomatic with no pathology. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Medical complications. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Age of the patient (see the flowchart in the original guideline document). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Postradiation patients. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Possibility of damage to important adjacent structures. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Asymptomatic with good prognosis for future full eruption. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;First occurrence of pericoronitis, with good prognosis for future maintenance. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Bisphosphonate therapy (current or history of). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Post head and neck radiation therapy. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Treatment Criteria for Removal of Third Molars: Unerupted Third Molars&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Definition&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;An unerupted third molar is one that has not penetrated through the bone and/or soft tissue and entered the oral cavity by an age when such eruption is expected.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The indications for removal of unerupted third molars when associated with pathology have been clearly established. Absolute indications and contraindications for the removal of unerupted asymptomatic third molars cannot be established because no long term studies exist which validate the benefit to the patient either of early removal or deliberate retention of these teeth.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Indications for Removal*&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Pathology associated with tooth follicle (e.g., cyst, tumor). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To facilitate the management of periodontal disease. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Resorption of adjacent tooth. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To facilitate orthodontic treatment. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Unerupted molar under a prosthetic appliance. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tooth in the line of a jaw fracture. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tooth involved in the resection of pathologic lesion. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tooth interfering with orthognathic or reconstructive surgery. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Prophylactic tooth removal, when indicated, for patients with medical or surgical conditions or treatments (e.g., organ transplants, alloplastic implants, chemotherapy, radiation therapy). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Internal or external resorption of tooth. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Need for donor transplant. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Contraindications for Removal*&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patient refuses treatment. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Compromised medical condition. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Age of patient (see the flowchart in the original guideline document). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Increased probability of damage to important adjacent structures. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Bisphosphonate therapy (current or history of). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Post head and neck radiation therapy. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Indications and contraindications are relative, not absolute.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Suggestions to Clinicians&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In summary, the committee have the following suggestions for treatment, referral, and monitoring asymptomatic impacted third molars:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;If the patient is over 30 years of age, third molars should be monitored. Suggested monitoring regimen is an annual radiograph and clinical examination. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If the patient is between 14 and 30 years of age and root formation is at least 1/2 to 2/3 complete, the examining dentist should review treatment options including risks and benefits. Referral to an oral and maxillofacial surgeon for consultation can be made as indicated. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If there are multiple third molars present, the treating general dentist or oral surgeon will consult on the advisability of removal of all third molars simultaneously. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;The decision to have asymptomatic teeth removed should be made by the well informed patient in consultation with their care provider.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An algorithm titled &quot;Flowchart&quot; is provided in the original guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Pathologic, symptomatic, or asymptomatic third molars&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Dentistry" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Dentists" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To provide the HealthPartners Dental Group dentist staff with diagnostic criteria and treatment options for third molars, which will result in better, more uniform care for the patient population&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients in the HealthPartners Dental Groups with pathologic, symptomatic, or asymptomatic third molars&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Evaluation of patients for extraction or non-extraction of third molars based on defined criteria &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Monitoring of asymptomatic patients over 30 years of age by annual radiograph and clinical examination &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Referral of asymptomatic patients 14 to 30 years of age to oral and maxillofacial surgeon for consultation &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Variability in how third molars are treated &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient discomfort &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Amount of missed work and decreased productivity &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Total annual third molar surgery costs &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A PubMed search was performed by the Regions Hospital Library staff on September 10, 2012, with the request for papers related to &quot;indications for third molar extraction.&quot; In addition, the website of the American Academy of Oral and Maxillofacial Surgeons (&lt;a href=&quot;http://www.aaoms.org&quot; title=&quot;AAOMS Web site&quot;&gt;www.aaoms.org&lt;/a&gt;) was queried in September 2012 for their most recent (less than five years) white papers and conference papers on the topic of third molars.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Papers were included for consideration if they were less than five years old and in English.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Not stated" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The guideline developers reviewed published cost analyses.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Not stated" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of evidence supporting the recommendations is not specifically stated.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Benefits of Extraction&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Relation to age: Studies have shown that increased numbers of complications occur with removal of impacted lower third molars in older patients. These complications include: increased pain, swelling, trismus, bleeding, fractured roots, lingual and inferior alveolar nerve injury, localized osteitis, and prolongs healing. Current literature indicates that the ideal age for impacted third molar removal with minimal complications is between the ages of 14 and 30. Based upon root formation, the ideal time for removal of impacted third molars is when root formation is between 1/3 and 2/3 complete. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Relation to periodontal status: Patients with impacted mandibular third molars often have deep periodontal pockets on the distal aspect of the second molar. Early removal of the third molar can help prevent this bone loss, and increase likelihood of bony healing in the area previously occupied by the crown of the third molar. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Benefits of Nonextraction&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Prosthetic potential: A retained third molar could serve as a transplant tooth in the event of adjacent tooth loss, or as a bridge abutment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Avoid unnecessary procedure: Pathological changes related to long term impaction of third molars are not common; many people can live their entire life without any complication form an impacted third molar &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Less morbidity, less missed work: Many studies cite estimates of the amount of discomfort and decreased productivity following elective third molar extraction &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Reduced cost: Both patients and insurers save cost of surgery if it can be avoided without detriment to the patient &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Risks of Extraction&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Sensory nerve alterations: Incidence of sensory nerve (lingual or inferior alveolar) damage following third molar removal ranges from less than 1% to 6% &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Localized osteitis: Localized osteitis will occur in about 1% to 5% of patients regardless of the skill of the surgeon or the surgical protocol &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Additional risks include: Postoperative infection, trismus, hemorrhage, dentoalveolar fractures, displacement of tooth, sinus perforation, adjacent tooth fractures, damage to adjacent restorations, jaw fracture &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Risks of Nonextraction&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Resorption of second molar: Clinical and radiographic studies indicate a range of resorption of adjacent second molars from 3.5% to 4.7%.&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Development of cyst, tumor, or infection: studies have shown that 12% of unerupted teeth had associated pathology and that there was no increase in pathology with increased age of the patient. A cyst has been defined in the literature as a follicular space ranging from 2.0 mm to greater than 5.0 mm. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Crowding of dentition: Removal of third molars to prevent or reduce anterior arch crowding is a controversial practice. Some authors state that removal of third molars provides no benefit with respect to crowding, while others found less crowding when third molars were removed. Since this variation exists, some orthodontists will request removal and some will not. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Recurrent pericoronitis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Periodontal disease &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dental caries &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="430" OrdBy="800" Name="Contraindications">
+    <Field FieldID="144" OrdBy="805" ID="431" Name="Contraindications" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;See the &quot;Major Recommendations&quot; field for relative contraindications for removal of erupted, partially erupted, and unerupted third molars.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Recommendations for extraction of third molar teeth should include, both in conversation with the patient and recorded in the dental record, an explanation for the rational for the extraction recommendation. In the presence of active disease a finding should be recorded. When active disease is not present, but a tooth is being recommended for extraction in anticipation of a problem, the anticipated problem should be recorded.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Clinical Algorithm" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;HealthPartners Dental Group and Clinics third molar guide. Minneapolis (MN): HealthPartners; 2013 May 1. 17 p.  [102 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2008 Dec 29 (revised 2013 May 1)" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="HealthPartners Dental Group - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;HealthPartners Dental Group&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;HealthPartners Dental Group Guideline Update Committee for 3rd Molar Guideline&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Authors&lt;/em&gt;: Dr. Don Worley (&lt;em&gt;Chair&lt;/em&gt;); HealthPartners Dental Group Guideline Update Committee for 3rd Molar Guideline&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: HealthPartners Dental Group and Clinics third molar guideline. Minneapolis (MN): HealthPartners; 2008 Dec 29. 16 p. [89 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: None available&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Print copies: Available from HealthPartners, 8170 33rd Avenue South, P.O. Box 1309, Minneapolis, MN 55440-1309; Phone: (952) 883-5151; Web site: &lt;a href=&quot;http://www.healthpartners.com&quot; title=&quot;HealthPartners Web site&quot;&gt;http://www.healthpartners.com&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on August 19, 2009. The information was verified by the guideline developer on August 24, 2009. This NGC summary was updated by ECRI Institute on February 10, 2014. The updated information was verified by the guideline developer on March 6, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No restrictions regarding downloading and use.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,198 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Options for documenting functional improvement in conservative care.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Washington State Department of Labor and Industries. Options for documenting functional improvement in conservative care. Olympia (WA): Washington State Department of Labor and Industries; 2014 Apr 17. 29 p.  [134 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Practical Application Points&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Outcomes assessment scales provide a concise, valid way to track function and improvement in function. Meaningful change usually involves at least a 30% improvement in score. 50% improvement can typically be considered to be substantial. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Anchored numerical scales are recommended for tracking routine progress, particularly pain interference with important activities. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Regional or condition functional outcome scales should be routinely used at baseline and periodic follow-ups. More frequent follow-up is recommended with higher frequency care. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Psychosocial scales help identify those at higher risk of chronicity and improvement in fear avoidance scales predicts later improvement. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Several physical performance outcomes also have substantial reported reliability and clinical meaningfulness. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Functional Improvement&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Ideally, care should contribute to better and faster improvement in function and return-to-work than natural progression. To determine degree of improvement, it is recommended that specific function and activity levels be documented before care begins and at periodic intervals as care is provided. Examples of valid and reliable patient self-report strategies and tools are included in this resource. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Curative &amp;amp; Rehabilitative Care&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Washington State workers' compensation law mandates that the care workers receive is curative and/or rehabilitative (WAC 296-20-01002). In non-catastrophic cases, this has been operationalized by clinical documentation that demonstrates improved physical function (including return-to-work) is occurring. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Maximal Medical Improvement (MMI)&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;MMI occurs when no marked change in the workers' condition can be expected, with or without treatment. Fluctuations in pain and function may occur once MMI is reached. Over time, improvement or deterioration may occur once MMI is reached. Treatment that results only in temporary or transient changes is not considered proper and necessary (WAC 296-20-01002). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;General Health/Biopsychosocial Status Measurement Summary&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Numerous instruments have been used to capture general health status. Instruments typically capture elements of physical and mental function attributable to the respondent's state of health. The most widely used validated examples include the Short Form (SF)-36, Health Status Questionnaire (HSQ)-36, SF-12, and HSQ-12. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Increasing evidence has emerged that fear of activity and low recovery expectations are associated with poorer outcomes from common musculoskeletal conditions. Increasing attention to assessing and tracking certain mental health and psychosocial health status elements has resulted in using instruments (e.g., STarT Back Screening Tool [SBST]-9, Tampa Scale for Kinesiophobia [TSK-11], Fear-Avoidance Belief Questionnaire [FABQ]) to help determine which interventions should be considered and to assess improvement. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Regional Functional Measurement Summary&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Many anatomic regional area instruments have been developed for the neck, back, and upper and lower limbs. These have the advantage of assessing impact of multiple affected sites with a single instrument. Examples include the Quick Disability of Arm, Shoulder, and Hand (DASH), Neck Disability Index (NDI), Modified Oswestry Low Back Disability Index (ODI), and Lower Extremity Functional Scale (LEFS). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Instruments addressing a specific joint (e.g., Simple Shoulder Test [SST] for shoulder, Foot and Ankle Ability Measure [FAAM] for foot and ankle) have also been validated and sometimes offer more specificity and sensitivity to monitor response to interventions. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Condition-Specific Measurement Summary&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Instruments have also been developed and validated for a specific condition such as carpal tunnel syndrome, lateral epicondylitis, osteoarthritis, and many other conditions seen in occupational and primary care. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Physical Performance Testing (PPT) Measurement Summary&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;PPT may help assess/track conditioning particularly when recovery is not evident by 4 to 6 weeks. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Typical Functional Measurement Thresholds&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Typical Functional Measurement Thresholds&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;Baseline&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;2 to 4 Weeks&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;4 to 8 Weeks&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;Beyond 8 Weeks&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Patient-specific function and/or regional or conditional musculoskeletal scales should be considered for baseline and follow-up. &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Numerical pain interference scale is recommended at every visit (at least weekly). &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;If care may be prolonged or return-to-work delayed, psychosocial scales and performance testing are recommended. &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Musculoskeletal, regional or condition-specific scales should typically be re-administered every 2 to 4 weeks. &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;If improvement is not evident within 2 weeks of care, psychosocial measures particularly fear avoidance should be assessed and tracked. &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot; colspan=&quot;2&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;It is strongly recommended that any scales used during care be re-administered at discharge. In addition to patient management value, such information provides a baseline for any future adjudication issues if worsening of the condition occurs. &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An algorithm titled &quot;Functional Measurement Decision-Making&quot; is provided in the original guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Work-related musculoskeletal conditions&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Prevention" />
+      <FieldValue Value="Rehabilitation" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Chiropractic" />
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Neurology" />
+      <FieldValue Value="Physical Medicine and Rehabilitation" />
+      <FieldValue Value="Rheumatology" />
+      <FieldValue Value="Sports Medicine" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Chiropractors" />
+      <FieldValue Value="Health Care Providers" />
+      <FieldValue Value="Occupational Therapists" />
+      <FieldValue Value="Physical Therapists" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+      <FieldValue Value="Utilization Management" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To provide concise summaries of published clinical and scientific literature regarding utility and effectiveness of commonly used conservative approaches for work-related musculoskeletal conditions; history, examination and special studies; recommendations for supportive, manual, and rehabilitative care including practical clinical resources (useable without licensing/charge in practice for non-commercial use) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To inform care options and shared decision-making &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Workers with, or at risk for, work-related musculoskeletal conditions&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Use of patient-specific function and or regional or conditional musculoskeletal scales, numerical pain interference scale, psychosocial scales, and physical performance testing &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Testing intervals &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Accuracy and clinical utility of commonly used functional measurement instruments/scales&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An extensive search was done on measurement of functional improvement for musculoskeletal conditions common to workers' compensation settings on PubMed and other electronic databases. Articles were retrieved by the Labor and Industries librarians. Additionally, citation tracking was performed by department staff and committee members for potentially relevant studies not retrieved from electronic databases.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The bulk of the literature search and review for this update was conducted during spring 2014. Additional searches were conducted as requested by the Industrial Insurance Chiropractic Advisory Committee Subcommittee members. Search results were limited to human adults only and English only. The original literature search was conducted in spring to summer 2012. Studies that were published in the last 10 years were emphasized.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The following keywords were used in PubMed:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Terms for function measurement scales, instruments, etc. were searched in combination with terms specific to common musculoskeletal injuries and anatomy.&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;The condition&lt;/strong&gt;: Functional improvement for musculoskeletal conditions &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;Work-relatedness&lt;/strong&gt;: Occupational health, injury, disease, workers compensation, return to work, disability &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;Diagnosis&lt;/strong&gt;: Musculoskeletal condition scales, psychosocial scales, regional scales (by anatomic region, e.g., lower extremity, shoulder), condition specific scales (e.g., low back pain, carpal tunnel syndrome) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;181 reviewed (134 cited)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Evidence was graded on a 1-5 scale with 1 being the highest grade:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;1 = Prospective cohort&lt;/p&gt;&#xD;&#xA;&lt;p&gt;2 = Retrospective cohort with case control design&lt;/p&gt;&#xD;&#xA;&lt;p&gt;3 = Retrospective cohort narrow spectrum/no case control&lt;/p&gt;&#xD;&#xA;&lt;p&gt;4 = Cross-sectional study&lt;/p&gt;&#xD;&#xA;&lt;p&gt;5 = Case series&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Individual articles were reviewed by both a clinical expert and epidemiologist with subsequent clinical expert group review to resolve inconsistencies.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Assessing Study Methodologic Quality&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Attributes of study methodology quality vary according to the clinical procedure (e.g., diagnostic, therapeutic intervention) looked at, and specific research questions being studied. The American Academy of Neurology's Clinical Practice Guideline Process Manual offers a comprehensive guide to systematic evidence review, quality attributes and consensus process that generally serves as the approach taken by Industrial Insurance Chiropractic Advisory Committee (IICAC).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;General attributes identified when extracting evidence from studies include identification of population, the intervention and co-interventions and outcomes being addressed in each study. The clinical questions addressed such as diagnostic accuracy, therapeutic effectiveness, or causation are determined. Studies are extracted into evidence tables including quality attributes and/or ratings which are reviewed both by department staff and committee members (usually 2 per study).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Specific quality attributes include: Diagnostic Accuracy &amp;ndash; design, spectrum of patients, validity and relevance of outcome metric; Therapeutic Interventions &amp;ndash; comparison groups (no treatment, placebo, comparative intervention), treatment allocation, blinding/masking (method and degree: single, double, independent), follow-up (period and completion), and analysis (statistical power, intent-to-treat). Specific attention is paid to several factors including reporting of outcomes (primary vs. secondary), relevance of outcome (e.g., function versus pain), and meaningfulness (clinically important change versus minimally detectable change).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Synthesizing Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Consideration of study quality (class), significance (statistical precision), consistency across studies, magnitude of effect, and relevance to populations and procedures were taken into account in preparing draft summaries. Special attention was given to clarifying conclusions related to the clinical questions of interest. Evidence, particularly with low tech and highly diffused examination and conservative procedures addressed here, is rarely truly &quot;definitive,&quot; even when multiple studies exist. Inconsistent conclusions typically reflect error (systematic, random) and/or bias in studies. Data pooling via meta-analysis is useful to reduce random error when studies are of sufficient power and methodologic strength. Larger meaningful effect size may increases confidence in findings.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The conservative care resource/guideline process can be described in the following steps:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Once a topic for a resource/guideline is selected, a subcommittee of the Industrial Insurance Chiropractic Advisory Committee (IICAC) made up of regular members identifies additional content experts to join the subcommittee and/or serve as consultants. Various clinical specialists may provide specific input or be invited to give a presentation to the subcommittee. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A systematic review and summary of the relevant peer-reviewed clinical and scientific literature is done (primarily by department staff and subcommittee members with specific interest and/or expertise in a topic). Claim and billing data from Labor &amp;amp; Industries may also be reviewed. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Literature is retrieved, assessed for quality and summarized in evidence tables which are presented to the subcommittee for review. Then at a variable series of group meetings and phone conferences, the evidence with greatest relevance to the resource/guideline topic is highlighted. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Based on this literature review and assessment by the subcommittee, department staff typically develop an initial draft resource guideline generally organized as follows:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;General summary of topic, case definition, clinical evaluation, interventions, and clinical progress &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Checklist for general chronological management with expected clinical and progress thresholds &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Readily usable functional progress instruments for a given condition &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Evidence summaries for clinical assessment (e.g., history, examination, imaging and special studies, prognostic and management issues, workers' compensation issues) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Evidence summaries for conservative interventions (e.g., physiotherapeutic modalities, bracing, manipulation and mobilization, soft tissue techniques, exercise and rehabilitation approaches, special interventions, common medications [injected and oral]), and workers compensation specific interventions (e.g., ergonomic interventions) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Additional materials (glossaries, procedure descriptions, instrument scoring) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Evidence and methodology process used in development &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Citations &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Subcommittee members critique and revise the guideline based on what is most useful for the clinician in diagnosing and treating the condition in question. Additional expertise, consultation, and literature searches may also be added. This results in a second draft guideline that is then shared with the full advisory committee to obtain their input. At this stage specific content experts/reviewers may be sought as the subcommittee identifies particular issues. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="External Peer Review" />
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;After the full advisory committee and special reviewers provide input, a third draft is produced and distributed to professional and specialty groups, the Industrial Insurance Chiropractic Advisory Committee (IICAC) and others who have expressed interest for broader public comment. This draft is also posted on the web for a four-week period for public review and comment. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Once all public comments are received and reviewed, responses are provided by the subcommittee. Both comments and responses are posted on the web. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The subcommittee may make further revisions to the draft guideline based on public input and any other information they have received. This then results in a fourth draft. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The fourth draft is presented to the full advisory committee in an open public meeting. Oral comments are invited from the public, and the full committee may recommend further changes, potentially creating a fifth and final draft. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Once the full committee makes the advisory recommendation to adopt the resource/guideline, it becomes final and is again posted on the web and distributed as before. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of evidence supporting the recommendations is not specifically stated.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In general, the recommendations were based primarily on a comprehensive review of peer-reviewed published scientific literature. In cases where the data did not appear conclusive, recommendations were based on the consensus opinion of the committee.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Use of appropriate options for documenting functional improvement in conservative care &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Use of evidence-informed discussions by attending providers regarding strategies to track meaningful functional improvement with their patients &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Utilization of validated tools for determining functional status baselines and tracking functional improvement over time (and or with care) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This document is intended to inform care options and shared decision-making. It is not a standard of care, claim management standard, or a substitute for clinical judgment in an individual case. This practice resource does not change Washington State Department of Labor and Industries coverage or payment.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Chart Documentation/Checklists/Forms" />
+      <FieldValue Value="Clinical Algorithm" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Washington State Department of Labor and Industries. Options for documenting functional improvement in conservative care. Olympia (WA): Washington State Department of Labor and Industries; 2014 Apr 17. 29 p.  [134 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2014 Apr 17" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Washington State Department of Labor and Industries - State/Local Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Washington State Department of Labor and Industries&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Washington State Department of Labor and Industries' Industrial Insurance Chiropractic Advisory Committee's Subcommittee on Policy, Practice, and Quality&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Subcommittee Members&lt;/em&gt;: J.F. Lawhead DC (&lt;em&gt;Chair&lt;/em&gt;); Robert Baker, DC; Linda DeGroot, DC; Michael Neely, DC&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Department Staff&lt;/em&gt;: Reshma Kearney, MPH, Epidemiologist; Bintu Marong, MS, Epidemiologist; Robert D. Mootz, DC, Associate Medical Director&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Consultants&lt;/em&gt;: Judy Turner, PhD; Steve Yeomans, DC&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Washington State Department of Labor and Industries is a public state agency and did not receive any outside funding and has no conflicts of interest to report.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available from the &lt;a href=&quot;http://www.lni.wa.gov/ClaimsIns/Files/OMD/IICAC/2014DocumentingFunctionalImprovement.pdf&quot; title=&quot;Washington State Department of Labor and Industries Web site&quot; target=&quot;_blank&quot;&gt;Washington State Department of Labor and Industries Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A progress checklist and links to a number of generic musculoskeletal, psychosocial, and regional scales are available in the &lt;a href=&quot;http://www.lni.wa.gov/ClaimsIns/Files/OMD/IICAC/2014DocumentingFunctionalImprovement.pdf&quot; title=&quot;Washington State Department of L and I&quot; target=&quot;_blank&quot;&gt;original guideline document&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on July 15, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is in the public domain. Washington State Department of Labor and Industries (L&amp;amp;I) does not copyright its medical treatment guidelines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

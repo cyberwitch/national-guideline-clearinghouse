@@ -1,0 +1,204 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Pressure ulcers in the long-term care setting.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Medical Directors Association (AMDA). Pressure ulcers in the long-term care setting. Columbia (MD): American Medical Directors Association (AMDA); 2008. 44 p.  [57 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: American Medical Directors Association (AMDA). Pressure ulcers. Columbia (MD): American Medical Directors Association; 1996. 16 p.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The American Medical Directors Association (AMDA) reaffirmed the currency of this guideline in 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The algorithm &lt;a href=&quot;/algorithm/6410/NGC-6410.html&quot; target=&quot;_blank&quot;&gt;Pressure Ulcers in the Long-Term Care Setting &lt;/a&gt; is to be used in conjunction with the clinical practice guideline. The numbers next to the different components of the algorithm correspond with the steps in the text. Refer to the &amp;quot;Guideline Availability&amp;quot; field for information on obtaining the full text guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A clinical algorithm is provided for &lt;a href=&quot;/algorithm/6410/NGC-6410.html&quot; target=&quot;_blank&quot;&gt;Pressure Ulcers in the Long-Term Care Setting&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Pressure ulcers&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Although other types of ulcers (diabetic, ischemic, venous) may be treated similarly, this guidance should not be construed as applying to their care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Prevention" />
+      <FieldValue Value="Risk Assessment" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Dermatology" />
+      <FieldValue Value="Geriatrics" />
+      <FieldValue Value="Infectious Diseases" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Nursing" />
+      <FieldValue Value="Nutrition" />
+      <FieldValue Value="Preventive Medicine" />
+      <FieldValue Value="Surgery" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Allied Health Personnel" />
+      <FieldValue Value="Dietitians" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Pharmacists" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+      <FieldValue Value="Social Workers" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul type=&quot;disc&quot;&gt;&#xD;&#xA;&lt;li&gt;To improve the quality of care delivered to patients in long-term care facilities&lt;/li&gt;&#xD;&#xA;&lt;li&gt;To offer care providers and practitioners in long-term care facilities a systematic approach to recognizing, assessing, treating, and monitoring patients with pressure ulcers&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Elderly residents of long-term care facilities with or at risk of pressure ulcers&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Recognition/Assessment&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ol start=&quot;1&quot; type=&quot;1&quot;&gt;&#xD;&#xA;&lt;li&gt;Examination of the patient's skin thoroughly to identify pressure ulcers&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;Assessment for risk factors for developing pressure ulcers such as comorbid conditions, drugs that may affect ulcer healing, history of pressure ulcers, impaired or decreased mobility and others using risk assessment instruments (e.g., the Braden Scale for Predicting Pressure Sores, the Norton Score)&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;Assessment of the patients overall physical and psychosocial health and characterization (staging) of the pressure ulcer&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;Identification of physiologic, functional, and psychosocial factors that can affect ulcer treatment and healing&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;Identification of priorities in managing the ulcer and the patient including identification and treatment of causative factors and modifiable comorbid conditions, optimal nutritional support, prevention and management of infection of the ulcer and others&lt;/li&gt;&lt;/ol&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Treatment/Prevention&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ol start=&quot;1&quot; type=&quot;1&quot;&gt;&#xD;&#xA;&lt;li&gt;Establishment of a realistic, individualized interdisciplinary care plan&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;Provision of general support for the patient including hydration, nutrition, pain management, and psychosocial support&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;Management of pressure by proper positioning, turning and transferring techniques; using appropriate positioning devices, support surfaces, and offloading devices; maintaining the lowest possible head elevation&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;Management of infection using topical antibiotics (e.g., bacitracin-polymyxin) if indicated or silver dressing&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;Debridement of necrotic tissue from the ulcer (autolytic, enzymatic, mechanical, surgical)&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;Covering and protecting the ulcer and surrounding skin using appropriate ulcer care products and dressings&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;Management of comorbid conditions (e.g., anemia, chronic obstructive pulmonary disease, diabetes, heart failure, peripheral vascular disease) that may contribute to pressure ulcer risk&lt;/li&gt;&lt;/ol&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Monitoring&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ol start=&quot;1&quot; type=&quot;1&quot;&gt;&#xD;&#xA;&lt;li&gt;Monitoring and documentation of the patient's progress and ulcer healing&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;Recognition and management of ulcer complications such as increasing necrosis, infection, cellulitis&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;Reassessment of treatment and change in approaches if indicated; consideration of surgery and adjunctive therapies (e.g., negative pressure wound therapy)&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;Monitoring of the facility's management of pressure ulcers using specific indicators&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul type=&quot;disc&quot;&gt;&#xD;&#xA;&lt;li&gt;Prevalence and incidence of pressure ulcers in long-term care settings&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Reliability and validity of risk assessment tools for pressure ulcers&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Efficacy of intervention measures&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Time to healing&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;2008 Original Guideline Document&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Not stated&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;2013 Reaffirmation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;MEDLINE and PubMed were searched for updated literature related to the subject published between June 2011 and January 2013. This search is performed annually and completed by the clinical practice committee vice-chair. If new literature does not change the content or scope of the original guideline, it is deemed to be current.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review" />
+      <FieldValue Value="Review of Published Meta-Analyses" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The guideline was developed by an interdisciplinary workgroup using a process that combined evidence- and consensus-based approaches. The workgroups included practitioners and others involved in patient care in long-term care facilities. Beginning with a general guideline developed by an agency, association, or organization such as the Agency for Healthcare Research and Quality (AHRQ), pertinent articles and information, and a draft outline, the group worked to make a concise, usable guideline that is tailored to the long-term care setting. Because scientific research in the long-term care population is limited, many recommendations were based on the expert opinion of practitioners in the field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Guideline developers reviewed a published cost analysis.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="External Peer Review" />
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Guideline revisions were completed under the direction of the Clinical Practice Guideline Steering Committee. The committee incorporated information published in peer-reviewed journals after the original guidelines appeared, as well as comments and recommendations not only from experts in the field addressed by the guideline but also from &amp;quot;hands-on&amp;quot; long-term care practitioners and staff.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;All American Medical Directors Association (AMDA) clinical practice guidelines undergo external review. The draft guideline is sent to approximately 175+ reviewers. These reviewers include AMDA physician members and independent physicians, specialists, nurse practitioners, pharmacists, nurses, consultants in the specified area, and organizations that are knowledgeable of the guideline topic and the long-term care setting.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of evidence supporting the recommendations is not specifically stated.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;The guideline was developed by an interdisciplinary work group using a process that combined evidence- and consensus-based thinking.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;By following essential steps and providing appropriate care of both the patient and the wound, pressure ulcers are most likely to be effectively prevented and treated. Consistent and correct performance of the basic measures discussed in this guideline can help facilities demonstrate that they did everything reasonable to try to prevent pressure ulcers and heal existing ones.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="430" OrdBy="800" Name="Contraindications">
+    <Field FieldID="144" OrdBy="805" ID="431" Name="Contraindications" Type="text">
+      <FieldValue Value="&lt;ul type=&quot;disc&quot;&gt;&#xD;&#xA;&lt;li&gt;Autolytic debridement is contraindicated in ulcers with local infection of surrounding tissues.&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;Negative-pressure wound therapy (NPWT) should not be used in the presence of osteomyelitis, in necrotic ulcers with eschar, if there is a fistula within the ulcer cavity, or if the ulcer is bleeding more than minimally.&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;ul type=&quot;disc&quot;&gt;&#xD;&#xA;&lt;li&gt;This clinical practice guideline is provided for discussion and educational purposes only and should not be used or in any way relied upon without consultation with and supervision of a qualified physician based on the case history and medical condition of a particular patient. The American Medical Directors Association and the American Health Care Association, their heirs, executors, administrators, successors, and assigns hereby disclaim any and all liability for damages of whatever kind resulting from the use, negligent or otherwise, of this clinical practice guideline.&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;The utilization of the American Medical Directors Association's Clinical Practice Guideline does not preclude compliance with State and Federal regulation as well as facility policies and procedures. They are not substitutes for the experience and judgment of clinicians and caregivers. The Clinical Practice Guidelines are not to be considered as standards of care but are developed to enhance the clinicians' ability to practice.&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;AMDA guidelines emphasize key care processes and are organized for ready incorporation into facility-specific policies and procedures to guide staff and practitioner practices and performance. They are meant to be used in a manner appropriate to the population and practice of a particular facility.&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The implementation of this clinical practice guideline (CPG) is outlined in four phases. Each phase presents a series of steps, which should be carried out in the process of implementing the practices presented in this guideline. Each phase is summarized below.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ol start=&quot;1&quot; type=&quot;I&quot;&gt;&#xD;&#xA;&lt;li&gt;&lt;strong&gt;Recognition&lt;/strong&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul type=&quot;disc&quot;&gt;&#xD;&#xA;&lt;li&gt;Define the area of improvement and determine if there is a CPG available for the defined area. Then evaluate the pertinence and feasibility of implementing the CPG&lt;/li&gt;&lt;/ul&gt;&#xD;&#xA;&lt;/li&gt;&lt;/ol&gt;&#xD;&#xA;&#xD;&#xA;&lt;ol start=&quot;2&quot; type=&quot;I&quot;&gt;&#xD;&#xA;&lt;li&gt;&lt;strong&gt;Assessment&lt;/strong&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul type=&quot;disc&quot;&gt;&#xD;&#xA;&lt;li&gt;Define the functions necessary for implementation and then educate and train staff. Assess and document performance and outcome indicators and then develop a system to measure outcomes&lt;/li&gt;&lt;/ul&gt;&#xD;&#xA;&lt;/li&gt;&lt;/ol&gt;&#xD;&#xA;&#xD;&#xA;&lt;ol start=&quot;3&quot; type=&quot;I&quot;&gt;&#xD;&#xA;&lt;li&gt;&lt;strong&gt;Implementation&lt;/strong&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul type=&quot;disc&quot;&gt;&#xD;&#xA;&lt;li&gt;Identify and document how each step of the CPG will be carried out and develop an implementation timetable&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Identify individual responsible for each step of the CPG&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Identify support systems that impact the direct care&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Educate and train appropriate individuals in specific CPG implementation and then implement the CPG&lt;/li&gt;&lt;/ul&gt;&#xD;&#xA;&lt;/li&gt;&lt;/ol&gt;&#xD;&#xA;&#xD;&#xA;&lt;ol start=&quot;4&quot; type=&quot;I&quot;&gt;&#xD;&#xA;&lt;li&gt;&lt;strong&gt;Monitoring&lt;/strong&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul type=&quot;disc&quot;&gt;&#xD;&#xA;&lt;li&gt;Evaluate performance based on relevant indicators and identify areas for improvement&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Evaluate the predefined performance measures and obtain and provide feedback&lt;/li&gt;&lt;/ul&gt;&#xD;&#xA;&lt;/li&gt;&lt;/ol&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;Guideline implementation will be affected by resources available in the facility, including staffing, and will require the involvement of all those in the facility who have a role in patient care.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;Table 12 in the original guideline document provides ample performance measurement indicators and Appendix 1 provides suggested components of a staff training program in pressure ulcer prevention and management.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Clinical Algorithm" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Medical Directors Association (AMDA). Pressure ulcers in the long-term care setting. Columbia (MD): American Medical Directors Association (AMDA); 2008. 44 p.  [57 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="1996 (revised 2008; reaffirmed 2013)" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="American Medical Directors Association - Professional Association" />
+    </Field>
+    <Field FieldID="123" OrdBy="1230" ID="448" Name="Guideline Developer Comment" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Organizational participants included:&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul type=&quot;disc&quot;&gt;&#xD;&#xA;&lt;li&gt;American Association of Homes and Services for the Aging&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;American College of Health Care Administrators&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;American Geriatrics Society&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;American Health Care Association&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;American Society of Consultant Pharmacists&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;National Association of Directors of Nursing Administration in Long-Term Care&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;National Association of Geriatric Nursing Assistants&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;National Conference of Gerontological Nurse Practitioners&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Funding was supported by the following: Ross Products Division of Abbott Laboratories&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Steering Committee&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Committee Members&lt;/em&gt;: Lisa Cantrell, RN, C; Charles Cefalu, MD, MS; Sherrie Dornberger, RNC, CDONA, FDONA; Sandra Fitzler, RN; Joseph Gruber, RPh, FASCP, CGP; Marianna Grachek, MSN, CNHA, CALA; Susan M. Levy, MD, CMD; Evvie F. Munley; Jonathan Musher, MD, CMD; Barbara Resnick, PhD, CRNP; William Simonson, Pharm.D., FASCP, CGP&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: American Medical Directors Association (AMDA). Pressure ulcers. Columbia (MD): American Medical Directors Association; 1996. 16 p.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The American Medical Directors Association (AMDA) reaffirmed the currency of this guideline in 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: None available&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;Print copies: Available from the American Medical Directors Association, 10480 Little Patuxent Pkwy, Suite 760, Columbia, MD 21044. Telephone: (800) 876-2632 or (410) 740-9743; Fax (410) 740-4572. Web site: &lt;a href=&quot;http://www.amda.com/&quot; target=&quot;_blank&quot; title=&quot;AMDA Web site&quot;&gt;www.amda.com&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This summary was completed by ECRI on July 12, 1999. The information was verified by the American Medical Directors Association as of August 8, 1999. This summary was updated by ECRI Institute on May 20, 2008. This summary was updated by ECRI Institute on March 16, 2011 following the U.S. Food and Drug Administration advisory on negative pressure wound therapy (NPWT) systems. The currency of the guideline was reaffirmed by the developer in 2013 and this summary was updated by ECRI Institute on December 2, 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is copyrighted by the American Medical Directors Association (AMDA) and the American Health Care Association. Written permission from AMDA must be obtained to duplicate or disseminate information from the original guideline. For more information, contact AMDA at (410) 740-9743.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

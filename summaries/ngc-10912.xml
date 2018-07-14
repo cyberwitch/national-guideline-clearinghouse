@@ -1,0 +1,182 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Subclinical hypothyroidism in the infertile female population: a guideline.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Practice Committee of the American Society for Reproductive Medicine. Subclinical hypothyroidism in the infertile female population: a guideline. Fertil Steril. 2015 Sep;104(3):545-53. [62 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26239023&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Definitions for the level of evidence (&lt;strong&gt;Level I-III&lt;/strong&gt;) and the strength of the recommendation (&lt;strong&gt;Grade A-C&lt;/strong&gt;) are given at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Summary&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Subclinical hypothyroidism is defined as a thyroid-stimulating hormone (TSH) level greater than the upper limit of normal range (4.5&amp;ndash;5.0 mIU/L) with normal free thyroxine (FT4) levels. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The normal reference range for TSH changes in pregnancy. The upper limit of normal in most laboratories is 4 mIU/L for nonpregnant women and 2.5 mIU/L in the first trimester of pregnancy. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;This guideline was conducted because it is controversial whether or not to use first-trimester pregnancy thresholds for upper limit of TSH (i.e., &amp;gt;2.5 mIU/L) to diagnose and treat subclinical hypothyroidism (SCH) in women with infertility who are attempting pregnancy. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;There is insufficient evidence that SCH (defined as TSH &amp;gt;2.5 mIU/L with a normal FT4) is associated with infertility. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;There is fair evidence that SCH, defined as TSH levels &amp;gt;4 mIU/L, is associated with miscarriage, but insufficient evidence that TSH levels 2.5&amp;ndash;4 mIU/L are associated with miscarriage. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;There is fair evidence that treatment of SCH when TSH levels are &amp;gt;4 mIU/L is associated with improved pregnancy rates and decreased miscarriage rates. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;There is fair evidence that SCH when TSH levels are &amp;gt;4 mIU/L during pregnancy is associated with adverse developmental outcomes; however, treatment did not improve developmental outcomes in the only randomized trial. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;There is fair evidence that thyroid autoimmunity is associated with miscarriage and fair evidence that it is associated with infertility. Levothyroxine treatment may improve pregnancy outcomes in women with positive thyroid antibodies, especially if the TSH level is over 2.5 mIU/L. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;There is good evidence against recommending universal screening of thyroid function during pregnancy. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Recommendations&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Currently available data support that it is reasonable to test TSH in infertile women attempting pregnancy. If TSH concentrations are over the nonpregnant lab reference range (typically &amp;gt;4 mIU/L), patients should be treated with levothyroxine to maintain levels below 2.5 mIU/L. (&lt;strong&gt;Grade B&lt;/strong&gt;) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Given the limited data, if TSH levels prior to pregnancy are between 2.5 and 4 mIU/L, management options include either monitoring levels and treating when TSH &amp;gt;4 mIU/L, or treating with levothyroxine to maintain TSH &amp;lt;2.5 mIU/L. (&lt;strong&gt;Grade C&lt;/strong&gt;) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;During the first trimester of pregnancy it is advisable to treat when the TSH is &amp;gt;2.5 mIU/L. (&lt;strong&gt;Grade B&lt;/strong&gt;) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;While thyroid antibody testing is not routinely recommended, one might consider testing anti-thyroperoxidase (TPO) antibodies for repeated TSH values &amp;gt;2.5 mIU/L or when other risk factors for thyroid disease are present. (&lt;strong&gt;Grade C&lt;/strong&gt;) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If anti-TPO antibodies are detected, TSH levels should be checked and treatment should be considered if the TSH level is over 2.5 mIU/L. (&lt;strong&gt;Grade B&lt;/strong&gt;) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level I&lt;/strong&gt;: Evidence obtained from at least one properly designed randomized, controlled trial.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level II-1&lt;/strong&gt;: Evidence obtained from well-designed controlled trials without randomization.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level II-2&lt;/strong&gt;: Evidence obtained from well-designed cohort or case-control analytic studies, preferably from more than one center or research group.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level II-3&lt;/strong&gt;: Evidence obtained from multiple time series with or without the intervention. Dramatic results in uncontrolled trials might also be regarded as this type of evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level III&lt;/strong&gt;: Opinions of respected authorities based on clinical experience, descriptive studies, or reports of expert committees.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strength of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Grade A&lt;/strong&gt;: There is good evidence to support the recommendations, either for or against.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Grade B&lt;/strong&gt;: There is fair evidence to support the recommendations, either for or against.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Grade C&lt;/strong&gt;: There is insufficient evidence to support the recommendations, either for or against.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Thyroid dysfunction (subclinical hypothyroidism) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Infertility &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The classic definition of subclinical hypothyroidism is a thyrotropin (TSH) level greater than the upper limit of normal range (4.5-5.0 mIU/L) with normal free thyroxine (FT4) levels.&lt;/p&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Screening" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Endocrinology" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Obstetrics and Gynecology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To review the risks and benefits of treating subclinical hypothyroidism in female patients with a history of infertility and miscarriage, as well as obstetrical and neonatal outcomes in this population&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Female patients with a history of infertility and miscarriage&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Testing thyroid-stimulating hormone (TSH) (monitoring and maintaining levels, typically between 2.5 and 4 mIU/L) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Levothyroxine &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Testing anti-thyroperoxidase (TPO) antibodies for repeated TSH values &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Pregnancy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Implantation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Live births &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Miscarriage &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Infertility &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adverse pregnancy outcomes &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Literature Search&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A systematic literature search was performed using a combination of the following keywords: subclinical hypothyroidism, diagnosis, level, criteria, pregnancy loss, abortion, miscarriage, infertility, pregnancy, baby, fetus, birth defect, delivery, antibody, elevated thyroid-stimulating hormone (TSH), live-birth rate, preeclampsia, pregnancy rate, complication, death, and demise.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The search was restricted to MEDLINE citations of human subject research published in the English language from 1966 to March 2014. Studies were eligible if they met one of the following criteria: primary evidence (clinical trials) that assessed the effectiveness of a procedure correlated with outcome measure (pregnancy, implantation, or live-birth rates), meta-analyses, and relevant articles from bibliographies of identified articles.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Inclusion/Exclusion Criteria&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Include relevant articles with:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Human subjects &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;English language &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Level 2-3 evidence and above &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Systematic reviews &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Articles that define subclinical hypothyroidism as TSH &amp;lt;5 mIU/L &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Exclude articles:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Off topic &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Level 3 evidence (opinion, nonsystematic review, case report, very small case series) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Non-English articles &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Without clearly defined subclinical hypothyroidism or a definition of &amp;gt;5 mIU/L &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Database Searched&lt;/strong&gt; - PubMed&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Total selected from all three searches: 134+213+15+47=409 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Total raw from all three searches: 829+1340+47=2216 &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Level of Evidence&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level I&lt;/strong&gt;: Evidence obtained from at least one properly designed randomized, controlled trial.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level II-1&lt;/strong&gt;: Evidence obtained from well-designed controlled trials without randomization.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level II-2&lt;/strong&gt;: Evidence obtained from well-designed cohort or case-control analytic studies, preferably from more than one center or research group.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level II-3&lt;/strong&gt;: Evidence obtained from multiple time series with or without the intervention. Dramatic results in uncontrolled trials might also be regarded as this type of evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level III&lt;/strong&gt;: Opinions of respected authorities based on clinical experience, descriptive studies, or reports of expert committees.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The quality of the evidence was evaluated using the grading system found in the &quot;Rating Scheme for the Strength of the Recommendations&quot; field and is assigned for each reference in the bibliography (see the original guideline document).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The literature was reviewed to answer the following questions:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;How to diagnose subclinical hypothyroidism (SCH)? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Does untreated SCH contribute to miscarriage rates? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Does untreated SCH contribute to infertility? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Does treatment of SCH improve miscarriage rates? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Does treatment of SCH improve live birth rates (LBR) or clinical pregnancy rates (CPR)? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Does untreated SCH affect developmental outcomes? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;When to test for antibodies? &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Strength of Evidence&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Grade A&lt;/strong&gt;: There is good evidence to support the recommendations, either for or against.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Grade B&lt;/strong&gt;: There is fair evidence to support the recommendations, either for or against.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Grade C&lt;/strong&gt;: There is insufficient evidence to support the recommendations, either for or against.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;While a cost-effectiveness study suggested a cost-risk benefit, subsequent randomized trials found there was no benefit to universal screening for subclinical hypothyroidism (SCH) in pregnancy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This document was reviewed by American Society for Reproductive Medicine members, and their input was considered in the preparation of the final document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;One observational study showed a nonstatistically significant improvement in miscarriage rates when treatment was initiated with a thyroid-stimulating hormone (TSH) level of &amp;gt;2.5 mIU/L. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Levothyroxine treatment may improve pregnancy outcomes in women with positive thyroid antibodies, especially if the TSH level is over 2.5 mIU/L. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;See the original guideline document for discussion of overall benefit vs risk for specific recommendations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This report was developed under the direction of the Practice Committee of the American Society for Reproductive Medicine as a service to its members and other practicing clinicians. Although this document reflects appropriate management of a problem encountered in the practice of reproductive medicine, it is not intended to be the only approved standard of practice or to dictate an exclusive course of treatment. Other plans of management may be appropriate, taking into account the needs of the individual patient, available resources, and institutional or clinical practice limitations. The Practice Committee and the Board of Directors of the American Society for Reproductive Medicine have approved this report.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Patient Resources" />
+      <FieldValue Value="Staff Training/Competency Material" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Living with Illness" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Practice Committee of the American Society for Reproductive Medicine. Subclinical hypothyroidism in the infertile female population: a guideline. Fertil Steril. 2015 Sep;104(3):545-53. [62 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26239023&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2015 Sep" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="American Society for Reproductive Medicine - Nonprofit Organization" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American Society for Reproductive Medicine&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Practice Committee of the American Society for Reproductive Medicine&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Committee Members&lt;/em&gt;: Samantha Pfeifer, MD; Samantha Butts, MD, MSCE; Daniel Dumesic, MD; Gregory Fossum, MD; Jeffrey Goldberg, MD; Clarisa Gracia, MD, MSCE; Andrew La Barbera, PhD; Roger Lobo, MD; Randall Odem, MD; Margareta Pisarska, MD; Robert Rebar, MD; Richard Reindollar, MD; Mitchell Rosen, MD; Jay Sandlow, MD; Rebecca Sokol, MD, MPH; Kim Thornton, MD; Michael Vernon, PhD; Eric Widra, MD&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All Committee members disclosed commercial and financial relationships with manufacturers or distributors of goods or services used to treat patients. Members of the Committee who were found to have conflicts of interest based on the relationships disclosed did not participate in the discussion or development of this document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://www.asrm.org/globalassets/asrm/asrm-content/news-and-publications/practice-guidelines/for-non-members/subclinical_hypothyroidism_in_the_infertile_female_population_a_guideline-noprint.pdf&quot; title=&quot;American Society for Reproductive Medicine Web site&quot;&gt;American Society for Reproductive Medicine Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Continuing medical education (CME) credit related to this guideline is available from the &lt;a href=&quot;https://store.asrm.org/Learn/FindACourse.aspx&quot; title=&quot;American Society for Reproductive Medicine Web site&quot;&gt;American Society for Reproductive Medicine Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Hypothyroidism and pregnancy: what should I know? [internet]. Birmingham (AL): American Society for Reproductive Medicine; 2015. Available from the &lt;a href=&quot;http://www.reproductivefacts.org/news-and-publications/patient-fact-sheets-and-booklets/fact-sheets-and-info-booklets/hypothyroidism-and-pregnancy-what-should-i-know/&quot; title=&quot;ReproductiveFacts.org Web site&quot;&gt;ReproductiveFacts.org Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on April 26, 2016. The information was verified by the guideline developer on June 15, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

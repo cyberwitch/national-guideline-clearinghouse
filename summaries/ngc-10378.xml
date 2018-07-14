@@ -1,0 +1,185 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Prevention of skin cancer.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alberta Provincial Cutaneous Tumour Team. Prevention of skin cancer. Edmonton (Alberta): CancerControl Alberta; 2013 Feb. 27 p.&amp;nbsp;(Clinical practice guideline; no. CU-014).&amp;nbsp; [77 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Alberta Provincial Cutaneous Tumour Team endorses the strategies described in the &lt;em&gt;Snapshot of Skin Cancer Prevention Facts and Figures: A Resource to Guide Skin Cancer Prevention in Alberta&lt;/em&gt; (see the &quot;Adaptation&quot; field), developed by the Health Protection Unit (Alberta Health Services, Population and Public Health).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Described briefly is an adaptation of the key recommendations:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;Counseling in the healthcare setting&lt;/strong&gt;. The emphasis of counseling should be on children, adolescents, and young adults for whom there is the most evidence of success and who are at the highest risk of developing skin cancer (see the &quot;Target Population&quot; field) about minimizing exposure to ultraviolet (UV) radiation to reduce the risk of skin cancer. Current evidence is insufficient to recommend counseling adults older than age 24 years about minimizing UV radiation exposure to prevent skin cancer. Counseling should include the following:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;&lt;strong&gt;Limit sun exposure&lt;/strong&gt;.&#xD;&#xA;        &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;            &lt;li&gt;Limit time in the midday sun (typically between 10 am and 4 pm) or when the sun is at its highest (Environment Canada, 2013). &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Use shade wisely (when UV rays are the most intense), but remember that shade structures such as trees, umbrellas or canopies do not offer complete sun protection. Exposure to UV rays reflected on snow, water, and concrete should be avoided. &lt;/li&gt;&#xD;&#xA;        &lt;/ul&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;strong&gt;Wear protective clothing&lt;/strong&gt;.&#xD;&#xA;        &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;            &lt;li&gt;Wear a wide brim (&amp;gt;7.5 cm) hat to protect eyes, ears, face, and back of neck. &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Use sunglasses that provide 99% to 100% UV-A/B protection to protect eyes. &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Wear tightly woven, loose fitting clothes that cover as much of the body as possible; if possible, clothing with an ultraviolet protection factor (UPF) is optimal. &lt;/li&gt;&#xD;&#xA;        &lt;/ul&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;strong&gt;Use sunscreen and protective lip balm&lt;/strong&gt;.&#xD;&#xA;        &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;            &lt;li&gt;Use a broad spectrum sunscreen with a sun protection factor (SPF) of at least 30. &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Apply liberally to ensure adequate protection; higher SPF sunscreens are best. &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Reapply often:&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Every two hours or more often if swimming, toweling, or perspiring heavily &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Immediately after swimming, toweling, or heavy perspiration &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/li&gt;&#xD;&#xA;        &lt;/ul&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;strong&gt;Avoid indoor tanning (tanning beds and sun lamps)&lt;/strong&gt;. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;strong&gt;Protect children and teens&lt;/strong&gt;.&#xD;&#xA;        &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;            &lt;li&gt;Babies younger than six months of age should be kept out of direct sunlight and protected from the sun using hats and protective clothing. &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Children should be provided with sun protection for outdoor activities; use sunscreen on children six months of age or older. &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Parents should counsel teens about the dangers of UV over-exposure and discourage them from using indoor tanning equipment. &lt;/li&gt;&#xD;&#xA;        &lt;/ul&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;strong&gt;Get vitamin D safely&lt;/strong&gt;. Use vitamin D supplements and consume vitamin D fortified foods. Specifically, physicians and health care workers should not recommend tanning beds for vitamin D supplementation. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;strong&gt;Examine the skin&lt;/strong&gt;. Regular examination of the skin will allow an individual to become familiar with his skin and become more likely to notice any changes. Changes to look for include an unusual lesion or a lesion that had changed. Prompt assessment and early referral to a dermatologist is recommended for suspicious pigmented lesions. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;Population-based interventions that limit UV exposure&lt;/strong&gt;. The literature suggests that the most effective interventions for reducing UV exposure are multifaceted and often have a follow-up component or multiple opportunities for interaction with participants. Therefore, combining these interventions may generate greater success than any one intervention can achieve alone.&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;&lt;strong&gt;Legislation to restrict the use of indoor tanning and to ban retail displays, advertising and promotion of indoor tanning&lt;/strong&gt;. Legislation aimed at adolescents should consider both the stringency of the laws (i.e., parental consent versus age group ban for youth restrictions) and the enforcement of the laws (i.e., frequency of local inspections). &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;strong&gt;Policies on the use of sun protection in high risk settings&lt;/strong&gt;. School policies enforcing the use of sun protection are just one component of a larger community-wide, multi-component strategy to address sun exposure in children. There is limited evidence on the effectiveness of sun protection policies for outdoor workers. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;strong&gt;Social marketing and mass media campaigns&lt;/strong&gt;. Carefully planned campaigns designed to build public awareness of skin cancer and increase engagement from the community have been shown to change attitudes, beliefs, knowledge and behavior around UV exposure, with a trending decrease in skin cancer incidence.&#xD;&#xA;        &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;            &lt;li&gt;Promotional efforts that utilize television advertising, radio, public service announcements, outdoor billboard advertising, transit advertising (bus sides), print advertisements, and the Internet can be considered. &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Media campaigns involving an appearance-focused intervention such as UV photography that demonstrate cumulative skin damage in real time could be considered. &lt;/li&gt;&#xD;&#xA;        &lt;/ul&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;Education on sun protection&lt;/strong&gt;. In the workplace setting, training and education for employees, as well as the provision of sun protection equipment may help to improve sun safety practices. Educational, curriculum-based programs in elementary schools that take place over several years have been shown to be effective. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Skin cancer&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Basal cell carcinoma &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Squamous cell carcinoma &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Melanoma &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Counseling" />
+      <FieldValue Value="Prevention" />
+      <FieldValue Value="Risk Assessment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Dermatology" />
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Oncology" />
+      <FieldValue Value="Pediatrics" />
+      <FieldValue Value="Preventive Medicine" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Health Care Providers" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+      <FieldValue Value="Public Health Departments" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To provide family physicians with recommendations on how to counsel patients on the prevention of skin cancer &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To provide policy makers with recommendations on the efficacy of sun protection interventions and policies &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Individuals at high risk of sustaining ultraviolet (UV) damage, leading to the development of skin cancer later in life. This includes individuals who meet any of the following criteria:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;A personal history of melanoma or a first-degree relative who was diagnosed with melanoma &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A history of blistering or severe sunburns before adulthood or chronic exposure to UV light, either due to geographic location or due to the use of artificial tanning &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A skin type that is prone to burning (i.e., fair skin or skin that burns easily, rarely tans, red or blond hair, blue or light eyes, freckle easily) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A large number of moles, irregular moles, or large moles &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;An occupation that requires work outdoors &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A medical condition that makes them immunocompromised &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Counseling in the healthcare setting on the following topics:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Limiting sun exposure &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Wearing protective clothing &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Using sunscreen and protective lip balm &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Avoiding indoor tanning &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Protecting children and teens &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Getting vitamin D safely &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Examining the skin &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Population-based interventions that limit ultraviolet (UV) exposure&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Legislation to restrict use of indoor tanning and ban its promotion &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Policies on the use of sun protection in high risk settings &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Social marketing and mass media campaigns &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Education on sun protection in the workplace and schools &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Ultraviolet (UV) exposure rates &lt;/li&gt;&#xA;    &lt;li&gt;Skin cancer rates &lt;/li&gt;&#xA;    &lt;li&gt;Effectiveness of educational campaigns and policies in reducing UV exposure (sunscreen use, use of UV clothing, hats, etc.) &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+      <FieldValue Value="Searches of Unpublished Data" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Research Questions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Specific research questions to be addressed by the guideline document were formulated by the guideline lead(s) and Knowledge Management (KM) Specialist using the PICO question format (patient or population, intervention, comparisons, outcomes).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Guideline Questions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Who is most at risk and, therefore, most likely to benefit from sun protection strategies? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;What counseling should healthcare providers offer to high-risk individuals regarding ultraviolet (UV) exposure? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;What types of interventions are effective in limiting UV exposure to high-risk individuals? &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Search Strategy&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The MEDLINE, PubMed, EMBASE, and Cumulative Index to Nursing and Allied Health Literature (CINAHL) databases were searched for primary literature on skin cancer prevention. In addition, the following grey literature sources were also searched: Google Scholar, World Health Organization, the Directory of Open Access Repositories (OpenDOAR), OAISter, Turning Research Into Practice (TRIP) Database, Health Sciences Online, Health Canada, and Public Health Agency of Canada.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The search strategy for literature on counseling in the primary care setting for patients regarding UV exposure included the search terms: primary care AND (counseling OR counselling) AND (UV exposure OR ultraviolet light exposure) AND (melanoma OR skin cancer); primary care AND (counseling OR counselling) AND (UV exposure OR ultraviolet light exposure) AND (risk* OR risk factor*). Publications included in this review were limited to systematic reviews and guidelines and totaled eight publications.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The search strategy for literature on interventions for the general population included the search terms: (melanoma or skin cancer) AND (policy OR policies); (melanoma or skin cancer) AND (policy OR policies) AND prevent*; (melanoma or skin cancer) AND (policy OR policies) and sun protection. Non-English publications were excluded from the search; otherwise, any publications describing interventions intended to decrease UV exposure were included if they reported on outcomes related to UV exposure or rates of skin cancer. A total of 20 publications were included in the review.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The search strategy for literature on interventions for specific high-risk groups included the search terms (&lt;em&gt;counseling&lt;/em&gt; OR &lt;em&gt;policy&lt;/em&gt; OR &lt;em&gt;policies&lt;/em&gt; OR &lt;em&gt;social marketing&lt;/em&gt;) AND (&lt;em&gt;melanoma&lt;/em&gt; OR &lt;em&gt;skin cancer&lt;/em&gt;) combined with each of the following: (1) (&lt;em&gt;first-degree relative&lt;/em&gt;* OR &lt;em&gt;hereditary&lt;/em&gt;); (2) (&lt;em&gt;pediatric&lt;/em&gt; OR &lt;em&gt;child&lt;/em&gt;*); (3) (&lt;em&gt;outdoor worker&lt;/em&gt;* OR &lt;em&gt;exposure&lt;/em&gt; OR &lt;em&gt;occupational exposure&lt;/em&gt;); (4) (&lt;em&gt;immunosuppressed&lt;/em&gt; OR &lt;em&gt;immune deficien&lt;/em&gt;*); (5) (&lt;em&gt;freckles&lt;/em&gt; OR &lt;em&gt;lentigo&lt;/em&gt;); and (6) (&lt;em&gt;indoor tanning&lt;/em&gt; OR &lt;em&gt;tanning bed&lt;/em&gt;* OR &lt;em&gt;tanning salon&lt;/em&gt;*). Non-English publications were excluded from the search; otherwise, any publications describing interventions intended to decrease UV exposure were included if they reported on outcomes related to UV exposure or rates of skin cancer. A total of 18 publications were included in the review.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Publications included in the review for literature on counseling in the primary care setting totaled 8 publications. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A total of 20 publications were included in the review for literature on interventions for the general population. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A total of 18 publications were included in the review for literature on interventions for specific high-risk groups. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Not stated" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Evidence was selected and reviewed by a working group comprised of members from the Alberta Cutaneous Tumour Team, content experts from the Health Protection Unit (Population and Public Health), and a Knowledge Management (KM) Specialist from the Guideline Utilization Resource Unit (GURU) (CancerControl Alberta). A detailed description of the methodology used to develop the guideline can be found in the GURU Handbook (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Evidence Tables&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Evidence tables containing the first author, year of publication, patient group/stage of disease, methodology, and main outcomes of interest are assembled using the studies identified in the literature search. Existing guidelines on the topic are assessed by the KM Specialist using portions of the Appraisal of Guidelines Research and Evaluation (AGREE) II instrument (&lt;a href=&quot;http://www.agreetrust.org&quot; title=&quot;AGREE Trust Web site&quot;&gt;http://www.agreetrust.org&lt;/a&gt;) and those meeting the minimum requirements are included in the evidence document. Due to limited resources, GURU does not regularly employ the use of multiple reviewers to rank the level of evidence; rather, the methodology portion of the evidence table contains the pertinent information required for the reader to judge for himself the quality of the studies.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For a complete summary of all articles included in the literature review, please see the Appendix of the original guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Formulating Recommendations&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The working group members formulated the guideline recommendations based on the evidence synthesized by the Knowledge Management (KM) Specialist during the planning process, blended with expert clinical interpretation of the evidence. As detailed in the Guideline Utilization Resource Unit Handbook (see the &quot;Availability of Companion Documents&quot; field), the working group members may decide to adopt the recommendations of another institution without any revisions, adapt the recommendations of another institution or institutions to better reflect local practices, or develop their own set of recommendations by adapting some, but not all, recommendations from different guidelines.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The degree to which a recommendation is based on expert opinion of the working group and/or the Provincial Tumour Team members is explicitly stated in the guideline recommendations. Similar to the American Society of Clinical Oncology (ASCO) methodology for formulating guideline recommendations, the Guideline Utilization Resource Unit (GURU) does not use formal rating schemes for describing the strength of the recommendations, but rather describes, in conventional and explicit language, the type and quality of the research and existing guidelines that were taken into consideration when formulating the recommendations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This guideline was reviewed and endorsed by the Alberta Provincial Cutaneous Tumour Team.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;When the draft guideline document has been completed, revised, and reviewed by the Knowledge Management Specialist and the working group members, it is sent to all members of the Provincial Tumour Team for review and comment. This step ensures that those intended to use the guideline have the opportunity to review the document and identify potential difficulties for implementation before the guideline is finalized. Depending on the size of the document, and the number of people it is sent to for review, a deadline of one to two weeks will usually be given to submit any feedback. Ideally, this review will occur prior to the annual Provincial Tumour Team meeting, and a discussion of the proposed edits will take place at the meeting. The working group members will then make final revisions to the document based on the received feedback, as appropriate. Once the guideline is finalized, it will be officially endorsed by the Provincial Tumour Team Lead and the Executive Director of Provincial Tumour Programs.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="98" OrdBy="605" ID="425" Name="References Supporting the Recommendations" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Environment Canada. Ultraviolet research and monitoring. [internet]. [accessed 2013 Feb 11]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The recommendations were adapted from &lt;em&gt;Snapshot of Skin Cancer Prevention Facts and Figures: A Resource to Guide Skin Cancer Prevention in Alberta&lt;/em&gt;, developed by the Health Protection Unit (Alberta Health Services, Population and Public Health) (see the &quot;Adaptation&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Prevention of skin cancer&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The recommendations contained in this guideline are a consensus of the Alberta Provincial Cutaneous Tumour Team based on a synthesis of currently accepted approaches to management, derived from a review of relevant scientific literature. Clinicians applying these guidelines should, in consultation with the patient, use independent medical judgment in the context of individual clinical circumstances to direct care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alberta Provincial Cutaneous Tumour Team. Prevention of skin cancer. Edmonton (Alberta): CancerControl Alberta; 2013 Feb. 27 p.&amp;nbsp;(Clinical practice guideline; no. CU-014).&amp;nbsp; [77 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This guideline has adapted key recommendations from Quantz S, Petersen J, Parker C, Petz G, Petermann L, Murphy E, Ashbury F. Snapshot of skin cancer prevention facts and figures: a resource to guide to skin cancer prevention in Alberta. Calgary: Alberta Health Services. URL: &lt;a href=&quot;http://www.albertahealthservices.ca/poph/hi-poph-surv-phids-snapshot-skin-cancer.pdf&quot; title=&quot;Alberta Health Services Web site&quot;&gt;http://www.albertahealthservices.ca/poph/hi-poph-surv-phids-snapshot-skin-cancer.pdf&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2013 Feb" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="CancerControl Alberta - State/Local Government Agency [Non-U.S.]" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;CancerControl Alberta&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Alberta Provincial Cutaneous Tumour Team&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Members of the Alberta Provincial Cutaneous Tumour Team include surgeons, medical oncologists, radiation oncologists, dermatologists, pathologists, and nurses.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Participation of members of the Alberta Provincial Cutaneous Tumour Team in the development of this guideline has been voluntary and the authors have not been remunerated for their contributions. There was no direct industry involvement in the development or dissemination of this guideline. CancerControl Alberta recognizes that although industry support of research, education and other areas is necessary in order to advance patient care, such support may lead to potential conflicts of interest. Some members of the Alberta Provincial Cutaneous Tumour Team are involved in research funded by industry or have other such potential conflicts of interest. However the developers of this guideline are satisfied it was developed in an unbiased manner.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://www.albertahealthservices.ca/assets/info/hp/cancer/if-hp-cancer-guide-cu014-prevention.pdf&quot; title=&quot;Alberta Health Services Web site&quot;&gt;Alberta Health Services Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Guideline utilization resource unit handbook. Edmonton (Alberta): CancerControl Alberta; 2013 Jan. 5 p. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on August 12, 2014. The information was verified by the guideline developer on September 22, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

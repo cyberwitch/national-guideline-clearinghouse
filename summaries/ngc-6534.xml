@@ -1,0 +1,183 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Diagnosis and management of vulvar skin disorders.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Obstetricians and Gynecologists (ACOG). Diagnosis and management of vulvar skin disorders. Washington (DC): American College of Obstetricians and Gynecologists (ACOG); 2008 May. 11 p.&amp;nbsp;(ACOG practice bulletin; no. 93).&amp;nbsp; [90 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The American College of Obstetricians and Gynecologists (ACOG) reaffirmed the currency of this guideline in 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The grades of evidence (I-III) and levels of recommendation (A-C) are defined at the end of the &amp;quot;Major Recommendations&amp;quot; field.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The following recommendation is based on limited or inconsistent scientific evidence (Level B)&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul type=&quot;disc&quot;&gt;&#xD;&#xA;&lt;li&gt;The recommended treatment for lichen sclerosus is an ultrapotent topical corticosteroid, such as clobetasol propionate.&lt;/li&gt;&lt;/ul&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The following recommendations are based primarily on consensus and expert opinion (Level C)&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul type=&quot;disc&quot;&gt;&#xD;&#xA;&lt;li&gt;Biopsy of hyperpigmented or exophytic lesions, lesions with changes in vascular patterns, or unresolving lesions is particularly important and should be performed to rule out carcinoma.&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;For patients with biopsy-confirmed Paget disease, further evaluation of the breast, genitourinary tract, and gastrointestinal tract should be undertaken.&lt;/li&gt;&lt;/ul&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Definitions&lt;/u&gt;&lt;/strong&gt;&lt;u&gt;:&lt;/u&gt;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Grades of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;I&lt;/strong&gt; Evidence obtained from at least one properly designed randomized controlled trial.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-1&lt;/strong&gt; Evidence obtained from well-designed controlled trials without randomization.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-2&lt;/strong&gt; Evidence obtained from well-designed cohort or case&amp;#8211;control analytic studies, preferably from more than one center or research group.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-3&lt;/strong&gt; Evidence obtained from multiple time series with or without the intervention. Dramatic results in uncontrolled experiments also could be regarded as this type of evidence.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;III&lt;/strong&gt; Opinions of respected authorities, based on clinical experience, descriptive studies, or reports of expert committees.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Levels of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level A&lt;/strong&gt; &amp;#8212; Recommendations are based on good and consistent scientific evidence.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level B&lt;/strong&gt; &amp;#8212; Recommendations are based on limited or inconsistent scientific evidence.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level C&lt;/strong&gt; &amp;#8212; Recommendations are based primarily on consensus and expert opinion.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Vulvar skin disorders, including:&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul type=&quot;disc&quot;&gt;&#xD;&#xA;&lt;li&gt;Vulvar dermatoses: contact dermatitis, lichen simplex chronicus, lichen sclerosus, lichen planus&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Vulvar atrophy&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Genital human papillomavirus (HPV) infection&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Paget disease&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Crohn's disease&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Infectious Diseases" />
+      <FieldValue Value="Obstetrics and Gynecology" />
+      <FieldValue Value="Pediatrics" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul type=&quot;disc&quot;&gt;&#xD;&#xA;&lt;li&gt;To aid practitioners in making decisions about appropriate obstetric and gynecologic care&lt;/li&gt;&#xD;&#xA;&lt;li&gt;To review diagnostic approaches and provide a structured framework for the management of vulvar disorders&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Women and female children and adolescents with symptoms of vulvar disorders&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Evaluation and Diagnosis&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ol start=&quot;1&quot; type=&quot;1&quot;&gt;&#xD;&#xA;&lt;li&gt;Evaluation of signs and symptoms (e.g., vulvar pain, pruritus)&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Medical history&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Search for common vulvar irritants and allergens&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Vulvar biopsy&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Additional diagnostic tests (e.g., culture, microscopy, vaginal pH)&lt;/li&gt;&lt;/ol&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Treatment and Management&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ol start=&quot;1&quot; type=&quot;1&quot;&gt;&#xD;&#xA;&lt;li&gt;Topical therapies&#xD;&#xA;&#xD;&#xA;&lt;ul type=&quot;disc&quot;&gt;&#xD;&#xA;&lt;li&gt;Estrogen and testosterone creams&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Topical steroid cream (clobetasol propionate)&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Nonhormonal vaginal moisturizer&lt;/li&gt;&lt;/ul&gt;&#xD;&#xA;&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;Systemic immunosuppressive therapies&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Surgery&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Further evaluation of biopsy-confirmed Paget disease&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul type=&quot;disc&quot;&gt;&#xD;&#xA;&lt;li&gt;Symptom relief&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Sexual function&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Well-being&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;2008 Guideline&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The MEDLINE database, the Cochrane Library, and the American College of Obstetricians and Gynecologists' own internal resources and documents were used to conduct a literature search to locate relevant articles published between January 1985 and August 2007. The search was restricted to articles published in the English language. Priority was given to articles reporting results of original research, although review articles and commentaries also were consulted. Abstracts of research presented at symposia and scientific conferences were not considered adequate for inclusion in this document. Guidelines published by organizations or institutions such as the National Institutes of Health and the American College of Obstetricians and Gynecologists were reviewed, and additional studies were located by reviewing bibliographies of identified articles.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;2013 Reaffirmation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The NCBI database was searched from 2008 to 2013. Committee members conducted a literature search with the assistance from the ACOG Resource Center staff who routinely perform the Practice Bulletin literature searches.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Studies were reviewed and evaluated for quality according to the method outlined by the U.S. Preventive Services Task Force:&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;I&lt;/strong&gt; Evidence obtained from at least one properly designed randomized controlled trial.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-1&lt;/strong&gt; Evidence obtained from well-designed controlled trials without randomization.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-2&lt;/strong&gt; Evidence obtained from well-designed cohort or case&amp;#8211;control analytic studies, preferably from more than one center or research group.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-3&lt;/strong&gt; Evidence obtained from multiple time series with or without the intervention. Dramatic results in uncontrolled experiments also could be regarded as this type of evidence.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;III&lt;/strong&gt; Opinions of respected authorities, based on clinical experience, descriptive studies, or reports of expert committees.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;2008 Guideline&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Analysis of available evidence was given priority in formulating recommendations. When reliable research was not available, expert opinions from obstetrician&amp;ndash;gynecologists were used. See also the &quot;Rating Scheme for the Strength of Recommendations&quot; field regarding Grade C recommendations.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;2013 Reaffirmation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Committee on Practice Bulletins - Gynecology met in March 2013 and reaffirmed this document. A committee member reviewed the document and new literature on the topic. The document was then reviewed by the committee and the committee agreed that it is current and accurate.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Based on the highest level of evidence found in the data, recommendations are provided and graded according to the following categories:&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level A&lt;/strong&gt; &amp;#8212; Recommendations are based on good and consistent scientific evidence.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level B&lt;/strong&gt; &amp;#8212; Recommendations are based on limited or inconsistent scientific evidence.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level C&lt;/strong&gt; &amp;#8212; Recommendations are based primarily on consensus and expert opinion.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Practice Bulletins are validated by two internal clinical review panels composed of practicing obstetrician-gynecologists generalists and sub-specialists. The final guidelines are also reviewed and approved by the American College of Obstetricians and Gynecologists (ACOG) Executive Board.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see &amp;quot;Major Recommendations&amp;quot;).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Accurate diagnosis and appropriate management of vulvar skin disorders&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul type=&quot;disc&quot;&gt;&#xD;&#xA;&lt;li&gt;Side effects of:&#xD;&#xA;&#xD;&#xA;&lt;ul type=&quot;disc&quot;&gt;&#xD;&#xA;&lt;li&gt;Topical estrogen therapy in girls&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Topical steroid therapy&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Systemic immunosuppressants&lt;/li&gt;&lt;/ul&gt;&#xD;&#xA;&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;When compared in randomized controlled trials with either estrogen tablets or with the estrogen ring, conjugated equine estrogen cream was found to be significantly associated with adverse effects, including bleeding, breast pain, and perineal pain.&lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;li&gt;All forms of topical estrogen therapy increase the possibility of endometrial hyperplasia and overstimulation.&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;These guidelines should not be construed as dictating an exclusive course of treatment or procedure. Variations in practice may be warranted based on the needs of the individual patient, resources, and limitations unique to the institution or type of practice.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Audit Criteria/Indicators" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Obstetricians and Gynecologists (ACOG). Diagnosis and management of vulvar skin disorders. Washington (DC): American College of Obstetricians and Gynecologists (ACOG); 2008 May. 11 p.&amp;nbsp;(ACOG practice bulletin; no. 93).&amp;nbsp; [90 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2008 May (reaffirmed 2013)" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="American College of Obstetricians and Gynecologists - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American College of Obstetricians and Gynecologists (ACOG)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American College of Obstetricians and Gynecologists (ACOG) Committee on Practice Bulletins - Gynecology&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The American College of Obstetricians and Gynecologists (ACOG) reaffirmed the currency of this guideline in 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No electronic copies available&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Print copies: Available for purchase from the American College of Obstetricians and Gynecologists (ACOG) Distribution Center, PO Box 933104, Atlanta, GA 31193-3104; telephone, 800-762-2264, ext. 192; e-mail: &lt;a href=&quot;mailto:sales@acog.org&quot;&gt;sales@acog.org&lt;/a&gt;. The ACOG Bookstore is available online at the &lt;a href=&quot;http://www.acog.org/bookstore/&quot; title=&quot;ACOG Web site&quot; target=&quot;_blank&quot;&gt;ACOG Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Proposed performance measures are included in the original guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on July 29, 2008. The information was verified by the guideline developer on August 20, 2008. This summary was updated by ECRI Institute on August 18, 2009, following the revised FDA advisory on CellCept (mycophenolate mofetil). The currency of the guideline was reaffirmed by the developer in 2013 and this summary was updated by ECRI Institute on March 7, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

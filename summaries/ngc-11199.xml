@@ -1,0 +1,231 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Inpatient diagnosis and treatment of central vascular catheter (CVC) infections.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;University of Michigan Health System. Inpatient diagnosis and treatment of central vascular catheter (CVC) infections. Ann Arbor (MI): University of Michigan Health System; 2016 Dec. 17 p.  [35 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="705" OrdBy="150" Name="NEATS Assessment">
+    <Field FieldID="183" OrdBy="10" ID="706" Name="Disclosure of Guideline Funding Source" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="184" OrdBy="20" ID="707" Name="Disclosure and Management of Financial Conflict of Interests" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="185" OrdBy="30" ID="708" Name="Guideline Development Group Composition: Multidisciplinary Group" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="186" OrdBy="40" ID="709" Name="Guideline Development Group Composition: Methodologist Involvement" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="187" OrdBy="50" ID="710" Name="Guideline Development Group Composition: Patient and Public Perspectives" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="188" OrdBy="60" ID="711" Name="Use of a Systematic Review of Evidence: Search Strategy" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="189" OrdBy="70" ID="712" Name="Use of a Systematic Review of Evidence: Study Selection" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="190" OrdBy="80" ID="713" Name="Use of a Systematic Review of Evidence: Synthesis of Evidence" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="191" OrdBy="90" ID="714" Name="Evidence Foundations for and Rating Strength of Recommendations: Grading the Quality or Strength of Evidence" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="192" OrdBy="100" ID="715" Name="Evidence Foundations for and Rating Strength of Recommendations: Benefits and Harms of Recommendations" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="193" OrdBy="110" ID="716" Name="Evidence Foundations for and Rating Strength of Recommendations: Evidence Summary Supporting Recommendations" Type="picklist-one">
+      <FieldValue Value="4" />
+    </Field>
+    <Field FieldID="194" OrdBy="120" ID="717" Name="Evidence Foundations for and Rating Strength of Recommendations: Rating the Strength of Recommendations" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="195" OrdBy="130" ID="718" Name="Specific and Unambiguous Articulation of Recommendations" Type="picklist-one">
+      <FieldValue Value="4" />
+    </Field>
+    <Field FieldID="196" OrdBy="140" ID="719" Name="External Review" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="197" OrdBy="150" ID="720" Name="Updating" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Note from the University of Michigan Health System (UMHS) and the National Guideline Clearinghouse (NGC)&lt;/em&gt;&lt;/strong&gt;: The following guidance was current as of December 2016. Because UMHS occasionally releases minor revisions to its guidance based on new information, users may wish to consult the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/InptCVC/CVC.final.pdf&quot; title=&quot;University of Michigan Health System Web site&quot;&gt;original guideline document&lt;/a&gt; for the most current version.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Note from NGC&lt;/strong&gt;: The following key points summarize the content of the guideline. Refer to the original guideline document for additional information.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The strength of recommendation (I-III) and levels of evidence (A-E) are defined at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Key Points&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Diagnosis&lt;/strong&gt; (see Figure 1 in the original guideline document)&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;In any patient with a central vascular catheter (CVC) and clinical suspicion for line infection, blood cultures should be drawn. Do &lt;strong&gt;not&lt;/strong&gt; draw blood cultures routinely via a CVC, unless CVC infection is suspected. &lt;em&gt;[IA]&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Blood cultures should be obtained prior to the initiation of antibiotics, &lt;em&gt;unless&lt;/em&gt; the patient is unstable or critically ill (necessitating immediate initiation of antimicrobials, regardless of whether blood cultures have been obtained). &lt;em&gt;[IB]&lt;/em&gt;&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;When infection is suspected, at least 2 sets of cultures should be drawn (aerobic &amp;amp; anaerobic). &lt;em&gt;[IIB]&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Blood cultures should be drawn from peripheral site and the central line if catheter infection is suspected &lt;em&gt;[IB]&lt;/em&gt;. Blood cultures should not be drawn from central catheters routinely. &lt;em&gt;[IIID]&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Treatment&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Empiric treatment should be initiated after blood cultures are obtained (see Figure 2 in the original guideline document). &lt;em&gt;[IC]&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Definitive antimicrobial therapy should be tailored to the organism identified and the susceptibilities of that organism (see Table 1 in the original guideline document). &lt;em&gt;[IC]&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The preferred management of confirmed CVC infection includes removal of the central vascular catheter in most cases. &lt;em&gt;[ID]&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;There are different considerations for short-term and non-tunneled hemodialysis CVC (see Figure 3 in the original guideline document), long-term CVC (see Figure 4 in the original guideline document), and tunneled hemodialysis CVC (see Figure 5 in the original guideline document). &lt;em&gt;[IC]&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Unless there is an urgent need for central vascular access, new central vascular catheter placement should be delayed until 48 hours after the first negative blood cultures when treating any bacteremia, including CVC-related bacteremia. &lt;em&gt;[IC]&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;CVC removal and infectious disease consultation is recommended for any of the following situations related to CVC infections: cultures positive for &lt;em&gt;Staphylococcus aureus&lt;/em&gt; or &lt;em&gt;Candida&lt;/em&gt; species; persistent bacteremia with any organism after 72 hours of appropriate antimicrobial therapy; persistence of septic shock; presence of an intravascular prosthetic device (e.g., mechanical valve, pacemaker, or automatic implantable cardioverter-defibrillator [AICD]); or development of any complication (e.g., endocarditis, osteomyelitis, suppurative thrombophlebitis, or others). &lt;em&gt;[IC]&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Levels of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-alpha;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Systematic reviews of randomized controlled trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Randomized controlled trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Systematic review of non-randomized controlled trials or observational studies, non-randomized controlled trials, group observation studies (e.g., cohort, cross-sectional, case-control) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Individual observation studies (case study or case series) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Opinion of expert panel &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strength of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-roman;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Generally should be performed &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;May be reasonable to perform &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Generally should not be performed &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following algorithms are provided in the original guideline document:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Approach to Diagnosis of Central Vascular Catheter Infections &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Empiric Antimicrobial Therapy for CVC Infections &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Catheter Management for Infected Short-term CVCs and Non-tunneled Hemodialysis CVCs &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Catheter Management for Infected Long-term CVC &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Catheter Management for Tunneled Hemodialysis CVC &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Definitive Treatment of Uncomplicated CVC Infection &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Central vascular catheter (CVC) infections&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Excluded from the scope of the guideline:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Extracorporeal membrane oxygenation (ECMO) catheters &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Umbilical catheters &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Peripheral catheters, such as midline catheters, peripheral venous or peripheral arterial catheters &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Prevention of central catheter infections &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Critical Care" />
+      <FieldValue Value="Emergency Medicine" />
+      <FieldValue Value="Infectious Diseases" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Pediatrics" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Hospitals" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To improve appropriate early antimicrobial treatment of bloodstream infections, standardize management of central vascular catheter (CVC) infections, and improve patient outcomes associated with CVC infections&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients of all ages with suspected central vascular catheters (CVC) infection&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Diagnosis&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Blood cultures (aerobic and anaerobic) from peripheral site and central line &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Timing of cultures &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Treatment&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Empiric antimicrobial therapy&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Vancomycin &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Beta-lactam/beta-lactamase combination (e.g., piperacillin/tazobactam) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Fourth generation cephalosporin (e.g., cefepime) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Empiric antifungal therapy &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Definitive antimicrobial therapy based on microorganism &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Removal of central vascular catheter (CVC) versus catheter salvage &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Considerations for management of infected short-term and non-tunneled hemodialysis CVC, long-term CVC, and tunneled hemodialysis CVC &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Delay of new vascular catheter placement when treating any bacteremia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Infectious disease consultation &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Sensitivity/specificity of diagnostic test or procedure &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Time to improvement &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cure rate &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Infection rate &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Complications of infections &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mortality &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Strategy for Literature Search&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Within the Medline (Ovid) database, the following search strategy was used for most of the search topics, except for the searches on suppurative thrombosis, endocarditis, and vascular infection. The search below is identified as Main in the search strategies document. Because the appropriate indexing terms either do not exist or were applied inconsistently, the main search uses keywords in addition to MeSH terms to arrive at the following main strategy.&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;*Central Venous Catheters/ or *Catheterization, Central Venous/ or (central line or central lines or (&quot;central venous&quot; and (catheter* or line or lines)) or &quot;central line associated&quot; or &quot;catheter related&quot;).ti. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;(&quot;peripherally inserted central&quot; and (line or lines or port or ports or catheter*)).mp. or (PICC or PICCS).ti,ab. or *catheters, indwelling/ &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;1 or 2 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cross Infection/ or exp *Sepsis/ or exp *Catheter-Related Infections/ or exp *Bacterial Infections/ or *infection/ or *Prosthesis-Related Infections/ &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;3 and 4 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;(CLABSI* or CRBSI* or CR-BSI*).ti,ab. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;5 or 6 &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;The searches on suppurative thrombosis, endocarditis, and vascular infection used the first 3 searches of the main search strategy. The MEDLINE In-Process search was based entirely on keywords.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Results were limited to: Humans, English, and 2008 to current. The Main search retrieved 391 references. When the search hedges for Guidelines, Clinical Trials, and Cohort Studies were added, the base results are as follows: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Central Line Infection - Guidelines, total results were 28 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Central Line Infection - Clinical Trials, total results were 187 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Central Line Infection - Cohort Studies, total results were 402 &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;The search was conducted in components each keyed to a specific causal link in a formal problem structure (available from the guideline authors upon request). The search was supplemented with very recent clinical trials known to expert members of the panel. Negative trials were specifically sought. The search was a single cycle.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Search details and evidence tables available in the methods companion (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The review process resulted in 35 studies identified as best evidence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Levels of Evidence&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-alpha;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Systematic reviews of randomized controlled trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Randomized controlled trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Systematic review of non-randomized controlled trials or observational studies, non-randomized controlled trials, group observation studies (e.g., cohort, cross-sectional, case-control) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Individual observation studies (case study or case series) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Opinion of expert panel &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;After the best evidence was identified, it was organized into evidence tables. Evidence identified by the literature review was carried forward as best evidence unless the subsequent search for this guideline identified better evidence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Guideline recommendations&amp;nbsp;were based on prospective randomized controlled trials (RCTs) if available, to the exclusion of other data; if RCTs were not available, observational studies were admitted to consideration. If no such data were available for a given link in the problem formulation, expert opinion was used to estimate effect size. The &quot;strength of recommendation&quot; for key aspects of care was determined by expert opinion.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Strength of Recommendation&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-roman;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Generally should be performed &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;May be reasonable to perform &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Generally should not be performed&lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Drafts of this guideline were reviewed in clinical conferences and by distribution for comment within departments and divisions of the University of Michigan Medical School to which the content is most relevant: Internal Medicine, Infectious Diseases, Pediatrics, Pediatric Emergency Medicine, Pediatric Infectious Diseases. The Executive Committee for Clinical Affairs of the University of Michigan Hospitals and Health Centers endorsed the final version.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Conclusions were based on prospective randomized controlled trials if available, to the exclusion of other data; if randomized controlled trials were not available, observational studies were admitted to consideration. If no such data were available for a given link in the problem formulation, expert opinion was used to estimate effect size.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Central vascular catheter (CVC) infections have a significant impact on patient morbidity, mortality and costs associated with medical care. In a recent analysis, CVC infections were found to be the most costly healthcare-associated infection at $45,814 per infection. CVC infections are also one of the most deadly healthcare-associated infections, with a mortality rate of 12% to 15%. Implementation of CVC infection management guidelines is intended to improve appropriate early antimicrobial treatment of bloodstream infections, standardize infected CVC management and improve patient outcomes.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;There are some circumstances in which the removal of the infected catheter may not be possible. These are usually circumstances in which either (a) replacing the central vascular catheter (CVC) in another location is not possible (e.g., multiple areas of thrombosis or stenosis or the patient is pediatric with limited access opportunities) or (b) removing the catheter carries prohibitive risk and the benefits of salvage may outweigh the risks of removal. In cases where removal is not possible, the CVC may be left in place during initial antibiotic treatment. In such cases, the clinician must carefully evaluate the risks and benefits of alternative treatments on an individual basis and with the benefit of additional expert guidance. When &lt;em&gt;Staphylococcus aureus&lt;/em&gt;, &lt;em&gt;Pseudomonas aeruginosa&lt;/em&gt;, fungus or mycobacteria are present, rates of treatment failure with catheters left in place are high, and in those catheters that fail salvage there is a high incidence of complications stemming from the infection. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Data supporting the practice of changing CVCs over a wire are weak. In such cases, the clinician must carefully evaluate the risks and benefits of guidewire exchange on an individual basis and with the benefit of additional expert guidance. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Insertion of a CVC in the presence of an active bloodstream infection may result in colonization and infection of the new catheter, resulting in relapse of bacteremia after treatment. A recent small study showed that peripherally inserted central catheters (PICCs) placed within two days of documented bacteremia had an increased risk of relapse of bacteremia (6.5%) when compared to PICCs place at least three days after documentation of negative blood culture (0.3%). In clinical scenarios where there is ongoing need for central vascular access, clinicians must weigh the risk/benefit of placing a new CVC in the setting of active bacteremia. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;These guidelines should not be construed as including all proper methods of care or excluding other acceptable methods of care reasonably directed to obtaining the same results. The ultimate judgment regarding any specific clinical procedure or treatment must be made by the physician in light of the circumstances presented by the patient.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Clinical Algorithm" />
+      <FieldValue Value="Staff Training/Competency Material" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;University of Michigan Health System. Inpatient diagnosis and treatment of central vascular catheter (CVC) infections. Ann Arbor (MI): University of Michigan Health System; 2016 Dec. 17 p.  [35 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2016 Dec" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="University of Michigan Health System - Academic Institution" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The development of this guideline was funded by the University of Michigan Health System.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Central Vascular Catheter Guideline Team&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Team Leads&lt;/em&gt;: Terri L Stillwell, MD, Pediatric Infectious Disease; Carol E Chenoweth, MD, Infectious Diseases&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Team Members&lt;/em&gt;: Marcus D Jarboe, MD, Pediatric Surgery; Matthew A Leavitt, MD, Internal Medicine; Michele M Nypaver, MD, Pediatric Emergency Medicine; Pauline K Park, MD, Surgery; F Jacob Seagull, PhD, Leaning Heath Sciences; Jennifer L Vredeveld, MD, Internal Medicine/Pediatrics&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Inpatient Clinical Guidelines Oversight&lt;/em&gt;: Megan R Mack, MD; David H Wesorick, MD; F Jacob Seagull, PhD&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The University of Michigan Health System endorses the Guidelines of the Association of American Medical Colleges and the Standards of the Accreditation Council for Continuing Medical Education that the individuals who present educational activities disclose significant relationships with commercial companies whose products or services are discussed. Disclosure of a relationship is not intended to suggest bias in the information presented, but is made to provide readers with information that might be of potential importance to their evaluation of the information.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;No relevant personal financial relationships with commercial entities&lt;/span&gt;: Carol E Chenoweth, MD, Marcus D Jarboe, MD, Megan Mack, MD, Michele M Nypaver, MD, Pauline K Park, MD, F Jacob Seagull, PhD, Terri L. Stillwell, MD, and Jennifer L Vredeveld, MD, David Wesorick, MD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Relevant personal financial relationships with commercial entities&lt;/span&gt;: Matthew A Leavitt, MD, a consultant for Teleflex Medical&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/InptCVC/CVC.final.pdf&quot; title=&quot;University of Michigan Health System Web site&quot;&gt;University of Michigan Health System Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The supplemental methodology appendix is available from the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/InptCVC/CVC.Appendix.pdf&quot; title=&quot;University of Michigan Health System (UMHS) Web site&quot;&gt;University of Michigan Health System (UMHS) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A self-study continuing medical education (CME) activity for this guideline is also available from the &lt;a href=&quot;http://ocpd.med.umich.edu/cme/self-study/Inpatient%20Diagnosis%20and%20Treatment%20of%20Central%20Vascular%20Catheter%20(CVC)%20Infections&quot; title=&quot;UMHS Web site&quot;&gt;UMHS Web site&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on June 21, 2017.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NEATS assessment was completed by ECRI Institute on August 8, 2017. The information was verified by the guideline developer on September 1, 2017.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is copyrighted by the University of Michigan Health System (UMHS).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,188 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Inherited thrombophilias in pregnancy.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Obstetricians and Gynecologists (ACOG). Inherited thrombophilias in pregnancy. Washington (DC): American College of Obstetricians and Gynecologists (ACOG); 2013 Sep. 12 p.&amp;nbsp;(ACOG practice bulletin; no. 138).&amp;nbsp; [69 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: American College of Obstetricians and Gynecologists (ACOG). Inherited thrombophilias in pregnancy. Washington (DC): American College of Obstetricians and Gynecologists (ACOG); 2011 Sep. 11 p. (ACOG practice bulletin; no. 124). [66 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The grades of evidence (&lt;strong&gt;I-III&lt;/strong&gt;) and levels of recommendations (&lt;strong&gt;A-C&lt;/strong&gt;) are defined at the end of &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The following recommendations are based on limited or inconsistent scientific evidence (Level B)&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Warfarin, low-molecular-weight heparin (LMWH), and unfractionated heparin do not accumulate in breast milk and do not induce an anticoagulant effect in the infant; therefore, these anticoagulants may be used in women who breastfeed. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Testing for inherited thrombophilias in women who have experienced recurrent fetal loss or placental abruption is not recommended because it is unclear if anticoagulation reduces recurrence. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;There is insufficient evidence to either screen for or treat women with inherited thrombophilias and obstetric histories that include complications such as fetal growth restriction or preeclampsia. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Because of the lack of association between either heterozygosity or homozygosity for the methylenetetrahydrofolate reductase (MTHFR) C677T polymorphism and any negative pregnancy outcomes, including any increased risk for venous thromboembolism, screening with either &lt;em&gt;MTHFR&lt;/em&gt; mutation analyses or fasting homocysteine levels is not recommended. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The following recommendations are based primarily on consensus and expert opinion (Level C)&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Recommended screening tests for inherited thrombophilias should include factor V Leiden mutation; prothrombin &lt;em&gt;G20210A&lt;/em&gt; mutation; and antithrombin, protein C, and protein S deficiencies. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Treatment recommendations for women with inherited thrombophilias are listed in the table below. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;All patients with inherited thrombophilias should undergo individualized risk assessment, which may modify management decisions. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Table: Recommended Thromboprophylaxis for Pregnancies Complicated by Inherited Thrombophilias*&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table. Recommended Thromboprophylaxis for Pregnancies Complicated by Inherited Thrombophilias&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;Clinical Scenario&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;Antepartum Management&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;Postpartum Management&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Low-risk thrombophilia&amp;dagger; without previous VTE&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Surveillance without anticoagulation therapy&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Surveillance without anticoagulation therapy or postpartum anticoagulation therapy if the patient has additional risks factors&amp;Dagger;&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Low-risk thrombophilia with a family history (first-degree relative) of VTE&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Surveillance without anticoagulation therapy &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Postpartum anticoagulation therapy&amp;nbsp; or intermediate-dose LMWH/UFH&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Low-risk thrombophilia&amp;dagger; with a single previous episode of VTE&amp;mdash;Not receiving long-term anticoagulation&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Prophylactic or intermediate-dose LMWH/UFH or surveillance without anticoagulation therapy&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Postpartum anticoagulation therapy or intermediate-dose LMWH/UFH&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;High-risk thrombophilia&lt;sup&gt;&amp;sect;&lt;/sup&gt; without previous VTE&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Surveillance without anticoagulation therapy or prophylactic LMWH or UFH&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Postpartum anticoagulation therapy&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;High-risk thrombophilia&lt;sup&gt;&amp;sect;&lt;/sup&gt; with a single previous episode of VTE or an affected first-degree relative&amp;mdash;Not receiving long-term anticoagulation therapy&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Prophylactic, intermediate-dose, or adjusted-dose LMWH/UFH regimen&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Postpartum anticoagulation therapy or intermediate or adjusted-dose LMWH/UFH for 6 weeks (therapy level should be at least as high as antepartum treatment)&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;No thrombophilia with previous single episode of VTE associated with transient risk factor that is no longer present&amp;mdash;Excludes pregnancy- or estrogen-related risk factor&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Surveillance without anticoagulation therapy&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Postpartum anticoagulation therapy&lt;sup&gt;||&lt;/sup&gt;&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;No thrombophilia with previous single episode of VTE associated with transient risk factor that was pregnancy or estrogen related&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Prophylactic-dose LMWH or UFH&lt;sup&gt;||&lt;/sup&gt;&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Postpartum anticoagulation therapy&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;No thrombophilia with previous single episode of VTE without an associated risk factor (idiopathic)&amp;mdash;Not receiving long-term anticoagulation therapy &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Prophylactic LMWH or UFH&lt;sup&gt;||&lt;/sup&gt;&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Postpartum anticoagulation therapy&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Thrombophilia or no thrombophilia with two or more episodes of VTE&amp;ndash;Not receiving long-term anticoagulation therapy&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Prophylactic or therapeutic-dose LMWH&lt;br /&gt;&#xD;&#xA;            or&lt;br /&gt;&#xD;&#xA;            Prophylactic or therapeutic-dose UFH &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Postpartum anticoagulation therapy&lt;br /&gt;&#xD;&#xA;            or&lt;br /&gt;&#xD;&#xA;            Therapeutic-dose LMWH/UFH for 6 weeks &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Thrombophilia or no thrombophilia with two or more episodes of VTE&amp;ndash;Receiving long-term anticoagulation therapy&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Therapeutic-dose LMWH/UFH &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Resumption of long-term anticoagulation therapy&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Abbreviations: LMWH, low-molecular-weight heparin; UFH, unfractionated heparin; VTE, venous thromboembolism&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Postpartum treatment levels should be greater or equal to antepartum treatment. Treatment of acute VTE and management of antiphospholipid syndrome are addressed in other Practice Bulletins.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;sup&gt;&amp;dagger;&lt;/sup&gt;Low-risk thrombophilia: factor V Leiden heterozygous; prothrombin &lt;em&gt;G20210A&lt;/em&gt; heterozygous; protein C or protein S deficiency.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;sup&gt;&amp;Dagger;&lt;/sup&gt;First-degree relative with a history of a thrombotic episode before age 50 years, or other major thrombotic risk factors (e.g., obesity, prolonged immobility).&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;sup&gt;&amp;sect;&lt;/sup&gt;High-risk thrombophilia: antithrombin deficiency; double heterozygous for prothrombin &lt;em&gt;G20210A&lt;/em&gt; mutation and factor V Leiden; factor V Leiden homozygous or prothrombin &lt;em&gt;G20210A&lt;/em&gt; mutation homozygous.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;sup&gt;||&lt;/sup&gt;Surveillance without anticoagulation is supported as an alternative approach by some experts.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Grades of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;I&lt;/strong&gt; Evidence obtained from at least one properly designed randomized controlled trial.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-1&lt;/strong&gt; Evidence obtained from well-designed controlled trials without randomization.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-2&lt;/strong&gt; Evidence obtained from well-designed cohort or case&amp;ndash;control analytic studies, preferably from more than one center or research group.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-3&lt;/strong&gt; Evidence obtained from multiple time series with or without the intervention. Dramatic results in uncontrolled experiments also could be regarded as this type of evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;III&lt;/strong&gt; Opinions of respected authorities, based on clinical experience, descriptive studies, or reports of expert committees.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Levels of Recommendations&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level A&lt;/strong&gt;&amp;mdash;Recommendations are based on good and consistent scientific evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level B&lt;/strong&gt;&amp;mdash;Recommendations are based on limited or inconsistent scientific evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level C&lt;/strong&gt;&amp;mdash;Recommendations are based primarily on consensus and expert opinion.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Inherited thrombophilias:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Factor V Leiden mutation &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Prothrombin &lt;em&gt;G20210A&lt;/em&gt; mutation &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Protein C deficiency &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Protein S deficiency &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Antithrombin deficiency &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Methylenetetrahydrofolate reductase mutations&lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pregnancy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Venous thromboembolism &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Prevention" />
+      <FieldValue Value="Risk Assessment" />
+      <FieldValue Value="Screening" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Hematology" />
+      <FieldValue Value="Medical Genetics" />
+      <FieldValue Value="Obstetrics and Gynecology" />
+      <FieldValue Value="Pharmacology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To review common thrombophilias and their association with maternal venous thromboembolism risk and adverse pregnancy outcomes, indications for screening to detect these conditions, and management options in pregnancy&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Pregnant, postpartum, and breastfeeding women with inherited thrombophilias&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Risk Assessment/Screening&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patient and family history &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Individualized risk assessment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Screening for inherited thrombophilias:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Factor V Leiden mutation &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Prothrombin &lt;em&gt;G20210A&lt;/em&gt; mutation &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Protein C deficiency &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Protein S deficiency &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Antithrombin deficiency &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Screening with methylenetetrahydrofolate reductase (MTHFR) polymorphisms or measurement of fasting homocysteine levels was considered but not recommended.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Management/Treatment&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Low-molecular-weight heparin (LMWH) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Unfractionated heparin &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Warfarin &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Surveillance &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Compression stockings/pneumatic compression boots &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;International normalized ratio (INR) monitoring &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Incidence of venous thromboembolism &lt;/li&gt;&#xA;    &lt;li&gt;Adverse pregnancy outcomes &lt;/li&gt;&#xA;    &lt;li&gt;Adverse effects of therapy &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The MEDLINE database, the Cochrane Library, and the American College of Obstetricians and Gynecologists' own internal resources and documents were used to conduct a literature search to locate relevant articles published between January 1985 and January 2013. The search was restricted to articles published in the English language. Priority was given to articles reporting results of original research, although review articles and commentaries also were consulted. Abstracts of research presented at symposia and scientific conferences were not considered adequate for inclusion in this document. Guidelines published by organizations or institutions such as the National Institutes of Health and the American College of Obstetricians and Gynecologists were reviewed, and additional studies were located by reviewing bibliographies of identified articles. When reliable research was not available, expert opinions from obstetrician&amp;ndash;gynecologists were used.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Studies were reviewed and evaluated for quality according to the method outlined by the U.S. Preventive Services Task Force:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;I&lt;/strong&gt; Evidence obtained from at least one properly designed randomized controlled trial.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-1&lt;/strong&gt; Evidence obtained from well-designed controlled trials without randomization.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-2&lt;/strong&gt; Evidence obtained from well-designed cohort or case&amp;ndash;control analytic studies, preferably from more than one center or research group.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II-3&lt;/strong&gt; Evidence obtained from multiple time series with or without the intervention. Dramatic results in uncontrolled experiments also could be regarded as this type of evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;III&lt;/strong&gt; Opinions of respected authorities, based on clinical experience, descriptive studies, or reports of expert committees.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Analysis of available evidence was given priority in formulating recommendations. When reliable research was not available, expert opinions from obstetrician-gynecologists were used. See also the &quot;Rating Scheme for the Strength of the Recommendations&quot; field regarding Level C recommendations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Based on the highest level of evidence found in the data, recommendations are provided and graded according to the following categories:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level A&lt;/strong&gt; &amp;mdash; Recommendations are based on good and consistent scientific evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level B&lt;/strong&gt; &amp;mdash; Recommendations are based on limited or inconsistent scientific evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level C&lt;/strong&gt; &amp;mdash; Recommendations are based primarily on consensus and expert opinion.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Practice Bulletins are validated by two internal clinical review panels composed of practicing obstetrician-gynecologists generalists and sub-specialists. The final guidelines are also reviewed and approved by the American College of Obstetricians and Gynecologists (ACOG) Executive Board.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Appropriate management of inherited thrombophilias in pregnancy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Decreased maternal venous thromboembolism risk &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Reduction of adverse pregnancy outcomes such as fetal loss, preeclampsia, fetal growth restriction, and placental abruption &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Bleeding risks associated with anticoagulation therapy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To avoid paradoxical thrombosis and skin necrosis from the early antiprotein C effect of warfarin, women should continue to take therapeutic doses of unfractionated heparin or low-molecular-weight heparin (LMWH) for 5 days and until the international normalized ratio (INR) is therapeutic (2.0&amp;ndash;3.0) for 2 consecutive days. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The information is designed to aid practitioners in making decisions about appropriate obstetric and gynecologic care. These guidelines should not be construed as dictating an exclusive course of treatment or procedure. Variations in practice may be warranted based on the needs of the individual patient, resources, and limitations unique to the institution or type of practice.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Audit Criteria/Indicators" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Living with Illness" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Obstetricians and Gynecologists (ACOG). Inherited thrombophilias in pregnancy. Washington (DC): American College of Obstetricians and Gynecologists (ACOG); 2013 Sep. 12 p.&amp;nbsp;(ACOG practice bulletin; no. 138).&amp;nbsp; [69 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2010 Apr (revised 2013 Sep)" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="American College of Obstetricians and Gynecologists - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American College of Obstetricians and Gynecologists (ACOG)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American College of Obstetricians and Gynecologists (ACOG) Committee on Practice Bulletins&amp;mdash;Obstetrics&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This Practice Bulletin was developed by the Committee on Practice Bulletins&amp;mdash;Obstetrics with the assistance of Charles Lockwood, MD, George Wendel, MD, and Neil Silverman, MD.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;American College of Obstetricians and Gynecologists (ACOG) committees are created or abolished and their overall function defined by the Executive Board. Appointments are made for one year, with the understanding that such appointment may be continued for a total of three years. The majority of committee members are Fellows, but Junior Fellows also are eligible for appointment. Some committees may have representatives from other organizations when this is particularly appropriate to committee activities. The president elect appoints committee members annually.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: American College of Obstetricians and Gynecologists (ACOG). Inherited thrombophilias in pregnancy. Washington (DC): American College of Obstetricians and Gynecologists (ACOG); 2011 Sep. 11 p. (ACOG practice bulletin; no. 124). [66 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No electronic copies available&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Print copies: Available for purchase from the American College of Obstetricians and Gynecologists (ACOG) Distribution Center, PO Box 933104, Atlanta, GA 31193-3104; telephone, 800-762-2264; e-mail: &lt;a href=&quot;mailto:sales@acog.org&quot;&gt;sales@acog.org&lt;/a&gt;. The ACOG Bookstore is available online at the &lt;a href=&quot;http://www.acog.org/bookstore/&quot; title=&quot;ACOG Bookstore Web site&quot;&gt;ACOG Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A proposed performance measure is included in the original guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on September 16, 2010. This NGC summary was updated by ECRI Institute on October 21, 2011. This NGC summary was updated by ECRI Institute on October 25, 2013. This summary was updated by ECRI Institute on March 10, 2014 following the U.S. Food and Drug Administration advisory on Low Molecular Weight Heparins.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

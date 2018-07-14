@@ -1,0 +1,244 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Guideline for positioning the patient.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Van Wicklin SA. Guideline for positioning the patient. In: 2017 Guidelines for Perioperative Practice. Denver (CO): AORN, Inc.; 2017 May. p. e1-e72. [529 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="705" OrdBy="150" Name="NEATS Assessment">
+    <Field FieldID="183" OrdBy="10" ID="706" Name="Disclosure of Guideline Funding Source" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="184" OrdBy="20" ID="707" Name="Disclosure and Management of Financial Conflict of Interests" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="185" OrdBy="30" ID="708" Name="Guideline Development Group Composition: Multidisciplinary Group" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="186" OrdBy="40" ID="709" Name="Guideline Development Group Composition: Methodologist Involvement" Type="picklist-one">
+      <FieldValue Value="Unknown" />
+    </Field>
+    <Field FieldID="187" OrdBy="50" ID="710" Name="Guideline Development Group Composition: Patient and Public Perspectives" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="188" OrdBy="60" ID="711" Name="Use of a Systematic Review of Evidence: Search Strategy" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="189" OrdBy="70" ID="712" Name="Use of a Systematic Review of Evidence: Study Selection" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="190" OrdBy="80" ID="713" Name="Use of a Systematic Review of Evidence: Synthesis of Evidence" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="191" OrdBy="90" ID="714" Name="Evidence Foundations for and Rating Strength of Recommendations: Grading the Quality or Strength of Evidence" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="192" OrdBy="100" ID="715" Name="Evidence Foundations for and Rating Strength of Recommendations: Benefits and Harms of Recommendations" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="193" OrdBy="110" ID="716" Name="Evidence Foundations for and Rating Strength of Recommendations: Evidence Summary Supporting Recommendations" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="194" OrdBy="120" ID="717" Name="Evidence Foundations for and Rating Strength of Recommendations: Rating the Strength of Recommendations" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="195" OrdBy="130" ID="718" Name="Specific and Unambiguous Articulation of Recommendations" Type="picklist-one">
+      <FieldValue Value="4" />
+    </Field>
+    <Field FieldID="196" OrdBy="140" ID="719" Name="External Review" Type="picklist-one">
+      <FieldValue Value="2" />
+    </Field>
+    <Field FieldID="197" OrdBy="150" ID="720" Name="Updating" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Note from the Association of periOperative Nurses (AORN)&lt;/strong&gt;: This document provides guidance to perioperative team members for positioning patients undergoing operative and other invasive procedures in the perioperative practice setting.&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-roman;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Perioperative team members should provide care that respects the dignity and privacy of each patient during patient positioning (Standards of perioperative nursing, 2017). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The perioperative registered nurse (RN) should conduct a preoperative patient assessment to identify patients at risk for positioning injury, develop a plan of care, and implement interventions to prevent injury. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative team members should identify and provide the positioning equipment and devices required for the operative or invasive procedure (Fletcher, 2014; Penprase &amp;amp; Johnson, 2014; Dybec, 2004). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative team members should select, clean, inspect, and maintain positioning equipment, devices, and support surfaces and should ensure they are repaired or replaced when damaged, defective, or obsolete (Chitlik, 2011; Patient positioning, 2011). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative team members should use operating room (OR) beds, positioning equipment and devices, and support surfaces correctly (Patient positioning, 2011). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative personnel should identify potential hazards associated with positioning activities and should establish safe practices. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative team members should position patients on surfaces that reduce the potential for pressure injury. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative team members should implement safe positioning practices. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative team members should implement safe practices when positioning the patient in the supine or modifications of the supine position. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative team members should implement safe practices when positioning the patient in the Trendelenburg or modifications of the Trendelenburg position. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative team members should implement safe practices when positioning the patient in the reverse Trendelenburg or modifications of the reverse Trendelenburg position. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative team members should implement safe practices when positioning the patient in the lithotomy or modifications of the lithotomy position. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative team members should implement safe practices when positioning the patient in the sitting or semi-sitting or modifications of the sitting or semi-sitting position. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative team members should implement safe practices when positioning the patient in the lateral or modifications of the lateral position. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative team members should implement safe practices when positioning the patient in the prone or modifications of the prone position. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative team members should implement measures to reduce the risk for injuries when positioning patients who are pregnant. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative team members should implement measures to reduce the risk for injuries when positioning patients who are obese. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The perioperative RN should collaborate with the perianesthesia RN to identify patient injury caused by intraoperative positioning (Fletcher, 2014). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The health care organization should maintain records of patient care related to patient positioning and organizational processes related to positioning equipment and devices. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Personnel with responsibility for positioning patients should receive initial and ongoing education and complete competency verification activities related to patient positioning. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The health care organization should develop policies and procedures for positioning the patient, revise them as necessary, and make them readily available in the practice setting in which they are used. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The health care organization's quality management program should evaluate patient positioning. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Any disease or condition that requires surgery or other invasive procedures &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pressure ulcers and other injuries that may occur during surgical positioning &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Prevention" />
+      <FieldValue Value="Risk Assessment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Nursing" />
+      <FieldValue Value="Surgery" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Hospitals" />
+      <FieldValue Value="Nurses" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To provide guidance to perioperative team members for positioning patients undergoing operative and other invasive procedures in the perioperative practice setting&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients undergoing surgical and other invasive procedures&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Demonstrating respect and privacy during patient positioning &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Conducting preoperative and postoperative nursing assessments specific to patient positioning &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Identifying, selecting, maintaining, and using positioning equipment and devices &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Selecting and using pressure-redistributing support surfaces and prophylactic dressings to prevent pressure injury &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Using neurophysiological monitoring to identify and prevent potential positioning injuries &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Implementing safe practices for positioning patients in the supine, Trendelenburg, reverse Trendelenburg, lithotomy, sitting and semi-sitting, lateral, and prone positions and modifications of these positions &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Implementing safe practices for positioning patients who are pregnant or obese &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Documenting patient positioning and positioning-related activities &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Planning education and verifying competency of personnel responsible for patient positioning &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Developing policies and procedures related to patient positioning &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Implementing quality improvement programs related to patient positioning &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Problems and risk factors associated with positioning surgical patients &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Inter-rater reliability of different measuring scales &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Control of identified hazards &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Contamination of devices used for positioning &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Change in somatosensory evoked potentials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient's comfort and privacy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Physician satisfaction &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Degree of Trendelenburg position required for adequate visualization &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Position-related complications (e.g., pressure injury, nerve injury, cerebral desaturation, venous air embolism, etc.) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A medical librarian conducted a systematic literature search of the databases Ovid MEDLINE&amp;reg;, EBSCO CINAHL&amp;reg;, Scopus&amp;reg;, and the Ovid Cochrane Database of Systematic Reviews. The search was limited to literature published in English from 2008 through February 2016. At the time of the initial search, weekly alerts were created for the topics included in that search. Results from these alerts were provided to the lead author until September 2016. The lead author requested a supplementary search on eye protection and requested additional articles that either did not fit the original search criteria or were discovered during the evidence appraisal process. The lead author and the medical librarian also identified relevant guidelines from government agencies, professional organizations, and standards-setting bodies.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Search terms included &lt;em&gt;positioning, positioning injury, compression injury, shear, friction, pressure, interface pressure, pressure ulcers, pressure reducing, pressure relieving, positioning surfaces, support surfaces, positioning equipment, positioning devices, safety straps, OR table, OR bed, OR mattress, alternating pressure mattresses, procedure table, padding, foam, gel, viscoelastic, supine, Fowler/Semi-Fowler/beach chair, lithotomy, lateral, prone, Trendelenburg/reverse Trendelenburg, jack-knife/Kraske, &lt;/em&gt;and&lt;em&gt; robotic&lt;/em&gt;. Other subject headings and keywords were included to address specific positioning devices, alternative terms for positions, patient-monitoring indicators, and risk assessment.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Inclusion and Exclusion Criteria&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Inclusion criteria were research and non-research literature in English, complete publications, and publication dates within the time restriction unless none were available. Excluded were non-peer-reviewed publications and literature on surgical smoke safety. Letters and editorials were excluded. Low-quality evidence was excluded when higher-quality evidence was available, and literature outside the time restriction was excluded when literature within the time restriction was available.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In total, 1,013 research and non-research sources of evidence were identified for possible inclusion, and of these, 529 are cited in the guideline. See Figure 1 in the original guideline document for a flow diagram of literature search results.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;I&lt;/strong&gt;: Randomized controlled trial (RCT) or experimental study, systematic review of all RCTs&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II&lt;/strong&gt;: Quasi-experimental study, systematic review of quasi-experimental studies or combination of quasi-experimental and RCTs&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;III&lt;/strong&gt;: Non-experimental studies, qualitative studies, systematic review of non-experimental studies, combination of non-experimental, quasi-experimental, and RCTs, or any or all studies are qualitative&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;IV&lt;/strong&gt;: Clinical practice guidelines, position or consensus statements&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;V&lt;/strong&gt;: Literature review, expert opinion, case report, community standard, clinician experience, consumer experience, organizational experience (quality improvement, financial)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Included articles were independently evaluated and critically appraised according to the strength and quality&#xA;of the evidence. Articles identified in the search were provided to the project team for evaluation. The team consisted of the lead author and one evidence appraiser. The articles were reviewed and critically&#xA;appraised using the Association of periOperative Registered Nurses (AORN) Research or Non-Research Evidence Appraisal Tools as appropriate. Each article was then assigned an appraisal score. The appraisal score is noted in brackets after each reference in the original guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The collective evidence supporting each intervention within a specific recommendation was summarized,&#xA;and the Association of periOperative Registered Nurses (AORN) Evidence Rating Model (see the &quot;Rating Scheme for the Strength of the Recommendations&quot; field)  was used to rate the strength of the evidence. Factors considered in review of the collective evidence were the quality of the evidence, the quantity of similar evidence on a given topic, and the consistency of the evidence supporting a recommendation. The evidence rating is noted in brackets after each intervention in the original guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;1: Strong Evidence&lt;/strong&gt;: Interventions or activities for which effectiveness has been demonstrated by high quality evidence from rigorously-designed studies, meta-analyses, or systematic reviews, or rigorously-developed clinical practice guidelines&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Evidence from a meta-analysis or systematic review of research studies that incorporated evidence appraisal and synthesis of the evidence in the analysis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Supportive evidence from a single well-conducted randomized controlled trial (RCT) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Guidelines that are developed by a panel of experts, that derive from an explicit literature search methodology, and include evidence appraisal and synthesis of the evidence &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;1: Regulatory Requirement&lt;/strong&gt;: Federal law or regulation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;2: High Evidence&lt;/strong&gt;: Interventions or activities for which effectiveness has been demonstrated by evidence from:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Good quality systematic review of RCTs &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;High quality systematic review in which all studies are quasi-experimental or a combination of RCTs and quasi-experimental studies &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;High quality quasi-experimental study &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;High quality systematic review in which all studies are non-experimental or include a combination of RCTs, quasi-experimental, and non-experimental studies. Any or all studies may be qualitative. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;High quality non-experimental studies &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;High quality qualitative studies &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Good quality clinical practice guideline, consensus or position statement &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;3: Moderate Evidence&lt;/strong&gt;: Interventions or activities for which the evidence has been demonstrated by evidence from:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Good quality systematic review in which all studies are quasi-experimental or a combination of RCTs and quasi-experimental studies &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Good quality quasi-experimental study &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;High or good quality literature review, case report, expert opinion, or organizational experience &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;4: Limited Evidence&lt;/strong&gt;: Interventions or activities for which there are currently insufficient evidence or evidence of low quality&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Supportive evidence from a poorly conducted research study &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Evidence from non-experimental studies with high potential for bias &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Guidelines developed largely by consensus or expert opinion &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Non-research evidence with insufficient evidence or inconsistent results &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Conflicting evidence, but where the preponderance of the evidence supports the recommendation &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;5: Benefits Balanced with Harms&lt;/strong&gt;: Selected interventions or activities for which the Association of periOperative Registered Nurses (AORN) Guidelines Advisory Board is of the opinion that the desirable effects of following this recommendation outweigh the harms&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In a nonexperimental study conducted in a university medical center in Canada, researchers calculated the cost of using the existing operating room (OR) bed mattress and supplemental padding compared with the cost of using a viscoelastic dry polymer gel overlay on top of the OR bed mattress. The researchers found that the use of the viscoelastic gel overlay during procedures lasting 90 minutes or longer decreased the incidence of postoperative pressure injury by 0.51% and resulted in an overall cost savings of $46 per patient ($38.23 in 2017 US dollars).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="External Peer Review" />
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Guideline for Positioning the Patient has been approved by the Association of periOperative Registered Nurses (AORN) Guidelines Advisory Board. It was presented as a proposed guideline for comments by members and others. The guideline is effective May 1, 2017.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="98" OrdBy="605" ID="425" Name="References Supporting the Recommendations" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Chitlik A. Safe positioning for robotic-assisted laparoscopic prostatectomy. AORN J. 2011 Jul;94(1):37-45; quiz 46-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21722770&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Dybec RB. Intraoperative positioning and care of the obese patient. Plast Surg Nurs. 2004 Jul-Sep;24(3):118-22. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15550814&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fletcher HC. Preventing skin injury in the OR. OR Nurse 2015. 2014;8(3):29-34.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Patient positioning. Oper Room Risk Manag. 2011 Aug;2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Penprase B, Johnson C. Optimizing the perioperative nursing role for the older adult surgical patient. OR Nurse 2015. 2014;8(4):26-34.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Standards of perioperative nursing. In: Guidelines for Perioperative Practice. Denver (CO): AORN, Inc; 2015. p. 693-732.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The literature was independently evaluated and appraised according to the strength and quality of the evidence. Each article was then assigned an appraisal score. The appraisal score is noted in brackets after each reference, as applicable. Also see the original guideline document for the systematic review and discussion of evidence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Reduced risk of skin, musculoskeletal, and nerve injury to patients and personnel &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Refer to the original guideline document for additional discussion of potential benefits of specific interventions. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="430" OrdBy="800" Name="Contraindications">
+    <Field FieldID="144" OrdBy="805" ID="431" Name="Contraindications" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;A known patent foramen ovale may be a contraindication to the sitting or semi-sitting position because of the potential for a venous air embolism (VAE) to pass into the systemic arterial circulation. There is a risk for cerebrovascular insult with these positions, and this risk is magnified when the patient is hypotensive. There is a risk for poor venous return from the lower extremities and pooling of blood in the patient's pelvis in the sitting or semi-sitting position. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The incidence of VAE is not well tolerated in patients with chronic obstructive pulmonary disease, and thus, chronic obstructive pulmonary disease may be a contraindication to using the sitting position. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;These recommendations represent the Association's official&#xA;    position on questions regarding optimal perioperative nursing practice. &lt;/li&gt;&#xA;    &lt;li&gt;No attempt has been made to gain consensus among users, manufacturers, and consumers of any material or product. &lt;/li&gt;&#xA;    &lt;li&gt;Compliance with the Association of periOperative Registered Nurses (AORN) guideline is voluntary. &lt;/li&gt;&#xA;    &lt;li&gt;AORN's recommendations are intended as achievable and represent&#xA;    what is believed to be an optimal level of patient care within surgical&#xA;    and invasive procedure settings. &lt;/li&gt;&#xA;    &lt;li&gt;Although they are considered to represent the optimal level of&#xA;    practice, variations in practice settings and clinical situations may&#xA;    limit the degree to which each recommendation can be implemented.&lt;/li&gt;&#xA;    &lt;li&gt;There are a vast variety of surgical positions and of positioning equipment and devices, and it would not be possible to address them all in this document; therefore, the information in this guideline is limited to the most commonly used positions and positioning equipment and devices.&lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Mobile Device Resources" />
+      <FieldValue Value="Resources" />
+      <FieldValue Value="Staff Training/Competency Material" />
+      <FieldValue Value="Tool Kits" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Van Wicklin SA. Guideline for positioning the patient. In: 2017 Guidelines for Perioperative Practice. Denver (CO): AORN, Inc.; 2017 May. p. e1-e72. [529 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2017 May" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Association of periOperative Registered Nurses - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Association of periOperative Registered Nurses (AORN)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Association of periOperative Registered Nurses (AORN) Guidelines Advisory Board&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Lead Author&lt;/em&gt;: Sharon A. Van Wicklin, MSN, RN, CNOR, CRNFA(E), CPSN-R, PLNC, Senior Perioperative Practice Specialist, AORN Nursing Department, Denver, Colorado&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Team members&lt;/em&gt;: Marie A. Bashaw, DNP, RN, NEA-BC, CNOR, Assistant Professor, Wright State University College of Nursing and Health, Dayton, Ohio; Rodney W. Hicks, PhD, RN, FNP-BC, FAANP, FAAN, Professor, College of Graduate Nursing, Western University of Health Sciences, Pomona, California; Lynn J. Reede, DNP, MBA, CRNA, FNAP, Senior Director, Professional Practice, American Association of Nurse Anesthetists, Park Ridge, Illinois; Jay Bowers, BSN, RN, CNOR, TNCC, Clinical Educator, West Virginia University Healthcare, Morgantown; Diana L. Wadlund, MSN, ACNP-C, CRNFA, Nurse Practitioner, Paoli Hospital, Paoli, Pennsylvania; Donna Ford, MSN, RN-BC, CNOR, CRCST, Staff Registered Nurse, Mayo Clinic, Rochester, Minnesota.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No financial relationships relevant to the content of this guideline have been disclosed by the authors, planners, peer reviewers, or staff.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available to subscribers from the &lt;a href=&quot;http://www.aorn.org/eSubscription/&quot; title=&quot;AORN Web site&quot;&gt;Association of periOperative Nurses Web (AORN) site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Guideline for positioning the patient. Evidence table. 2017. 85 p. Available from the &lt;a href=&quot;https://www.aorn.org/-/media/aorn/guidelines/evidence%20rating%20and%20tables/evidence_table_positioning_2017.pdf?la=en&quot; title=&quot;AORN Web site&quot;&gt;Association of periOperative Nurses (AORN) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Additional resources, including online learning modules, videos, and tool kits are available from the &lt;a href=&quot;https://www.aorn.org/guidelines/guideline-implementation-topics/patient-care/positioning-the-patient&quot; title=&quot;AORN Web site&quot;&gt;AORN Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Documents related to the evidence rating model, hierarchy of evidence, and expanded appraisal tools are available from the &lt;a href=&quot;https://www.aorn.org/guidelines/about-aorn-guidelines/evidence-rating&quot; title=&quot;AORN Web site&quot;&gt;AORN Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In addition, an AORN Guidelines for Perioperative Practice eBook mobile app is available from the &lt;a href=&quot;http://www.aorn.org/guidelines/purchase-guidelines/ebook-mobile-app&quot; title=&quot;AORN Web site&quot;&gt;AORN Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on June 15, 2017. The information was verified by the guideline developer on June 23, 2017.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NEATS assessment was completed by ECRI Institute on July 12, 2017. The information was verified by the guideline developer on August 29, 2017.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

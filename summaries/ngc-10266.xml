@@ -1,0 +1,188 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Referral and follow-up surveillance of cutaneous melanoma.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alberta Provincial Cutaneous Tumour Team. Referral and follow-up surveillance of cutaneous melanoma. Edmonton (Alberta): CancerControl Alberta; 2013 Feb. 10 p.&amp;nbsp;(Clinical practice guideline; no. CU-001).&amp;nbsp; [24 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: Alberta Cutaneous Tumour Team. Referral and follow-up surveillance of cutaneous melanoma. Edmonton (Alberta): Alberta Health Services, Cancer Care; 2011 Feb. 9 p. (Clinical practice guideline; no. CU-001). [24 references] &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;For staging please refer to the Appendix in the original guideline document (Balch et al., 2009).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Referral&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;All patients who have malignant melanoma could be seen at a cancer treatment centre for assessment.&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Referral is strongly encouraged for all patients with lesions 1 mm in thickness or greater, Clark IV or Clark V or if ulcerated. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;All patients with lesions less than 1 mm depth of invasion should be followed by their referring physician. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;It is expected that a referral will be forwarded to the cancer treatment centre regarding the patient's assessment. The referral will include the following (BC Cancer Agency, 2008):&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Letter describing the clinical disease &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Pathology reports (e.g., melanoma biopsy or excision, lymph node dissection, and all previous reports of skin lesions) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Operative reports (e.g., lymph node dissection and wide excision) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Laboratory reports (e.g., liver function tests [LFT]) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Information regarding other malignancies &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Imaging reports (e.g., chest x-ray) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Follow-up and Surveillance&lt;/span&gt;&lt;/strong&gt; (National Comprehensive Cancer Network, 2009)&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;All patients are to be informed of signs of locoregional recurrence. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Physicians who wish to be involved in the long-term follow-up of their patients may do so. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Manual skin examination to be conducted by dermatologist. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Stage-specific recommendations follow.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;In Situ Malignant Melanoma&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;At least annual skin exam for life. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Educate patient on monthly skin self exam. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The patient may be seen in the cancer clinic then discharged to the referring physician.&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;History and physical exam (with emphasis on nodes and skin). &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Exam should ensure adequate excision of the original lesion and include a review of skin self examination. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;No routine investigation is indicated; radiologic imaging may be used to investigate specific signs or symptoms. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Lesions Less Than 1 mm&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;At least annual skin exam for life. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;History and physical examination (with emphasis on nodes and skin) every 6 to 12 months in the first year, with subsequent full skin exams annually for life. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Educate patient in monthly self skin and lymph node exam. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The patient may be seen in the cancer clinic then discharged to the referring physician.&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;The patient should have a history and physical examination with full skin review carried out every 6 months for the first year and then annually. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;No routine investigation is indicated; radiologic imaging may be used to investigate specific signs or symptoms; an initial chest x-ray for documentation and future comparison is optional. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Intermediate and Thick Lesions (Lesions &amp;lt;1.0 mm with Ulceration or Lesions 1.0&amp;ndash;4.0 mm and &amp;gt;4 mm)&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;At least annual skin exam for life. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Educate patient in monthly self skin and lymph node exam. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The patient may be seen in the cancer clinic then discharged to the referring physician.&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;History and physical examination (with emphasis on nodes and skin) at least every 6 months for the first 3 years, annually for the next 2 years, and then annually as clinically indicated. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Computed tomography (CT) scan to follow-up for specific signs and symptoms. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Proven Nodal Metastases&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The patient should be followed at the cancer centre at a frequency determined by the attending physician depending on the treatment plan. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;History and physical examination (with emphasis on nodes and skin) every 3 to 6 months for 3 years, then every 4 to 12 months for 2 years, then annually as clinically indicated. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Additional investigations (e.g., blood work, imaging, etc.) as per symptoms &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Stage IV: Lesions of Any Thickness with Proven Distant Metastases&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The patient should be followed at the cancer centre at a frequency determined by the attending physician depending on the treatment plan. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;History and physical examination (with emphasis on nodes and skin) every 3 to 6 months for 3 years, then every 4 to 12 months for 2 years, then annually as clinically indicated. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Additional investigations (e.g., blood work, imaging, etc.) as per symptoms. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Patients Receiving Interferon Therapy&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The patient will be seen by the attending medical oncologist monthly during the year of treatment, every 3 months for&amp;nbsp;two more visits and then every 6 months thereafter in the outpatient clinic.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Ocular Melanoma&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients with ocular melanoma will be assessed by the referring ophthalmologist and receive an initial assessment in the clinic. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Subsequent follow up will be once yearly for 5 years and consist of a history and physical exam, liver function studies, a chest x-ray and an ultrasound. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For uveal melanoma, a reasonable consensus protocol is 6-monthly follow-up, with full clinical examination. Liver imaging, LFTs, and possibly a plain chest radiograph may be undertaken regularly or intermittently as clinically indicated (National Health and Medical Research Council [NHMRC], 2008). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For conjunctival melanoma, due to the high likelihood of recurrence or new ocular lesions, indefinite biannual assessment is recommended; these patients should be followed-up for life (NHMRC, 2008). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Cutaneous melanoma&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Counseling" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Screening" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Dermatology" />
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Oncology" />
+      <FieldValue Value="Ophthalmology" />
+      <FieldValue Value="Radiology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To provided consensus-based guidelines to improve overall survival, disease-free survival, and quality of life for adult patients with high-risk malignant melanoma who are rendered disease-free following resection&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adults over the age of 18 years with malignant melanoma&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Different principles may apply to pediatric patients.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Referral to the cancer treatment centre &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Follow-up and surveillance&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Skin exam annually &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Educating patients about skin and lymph node self-exam &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;History and physical examination &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Imaging (chest x-ray, computed tomography [CT]) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Blood work &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Special considerations for patients on interferon therapy and patients with ocular melanoma &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Quality of life &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Overall survival &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Time and expense of surveillance &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Feelings of anxiety/reassurance by patient &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Discovery of recurrences &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Diagnostic yield &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sensitivity and false positive rate of diagnostic tests &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Level of cumulative radiation exposure with imaging &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Research Questions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Specific research questions to be addressed by the guideline document were formulated by the guideline lead(s) and Knowledge Management (KM) Specialist using the PICO question format (Patient or Population, Intervention, Comparisons, Outcomes).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Guideline Questions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Which patients should be referred to the cancer treatment centre? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;What should the referral consist of? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;What is the appropriate duration of follow-up? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;What are the recommended follow-up intervals? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;What should be assessed during follow-up? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Who should conduct the follow-up? &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Search Strategy&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The MEDLINE (1966 through January 2011), CINAHL, Cochrane, American Society of Clinical Oncology (ASCO) Abstracts and proceedings, and CANCERLIT databases were searched. The search included practice guidelines, systematic reviews, meta-analyses, randomized controlled trials, and clinical trials. Search terms included: monitoring, surveillance, follow up, ultrasound or ultrasonography, referral, and malignant melanoma.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For the 2013 update of the guideline, PubMed was searched for evidence on follow-up in cutaneous melanoma. The search term &quot;melanoma&quot; was used and results were limited to clinical trials, published between January 2012 and January 2013. Citations were hand-searched for relevant studies.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Not stated" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Evidence was selected and reviewed by a working group comprised of members from the Alberta Provincial Cutaneous Tumour Team and a Knowledge Management (KM) Specialist from the Guideline Utilization Resource Unit (GURU). A detailed description of the methodology followed during the guideline development process can be found in the GURU Handbook (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Evidence Tables&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Evidence tables containing the first author, year of publication, patient group/stage of disease, methodology, and main outcomes of interest are assembled using the studies identified in the literature search. Existing guidelines on the topic are assessed by the KM Specialist using portions of the Appraisal of Guidelines Research and Evaluation (AGREE) II instrument (&lt;a href=&quot;http://www.agreetrust.org&quot; title=&quot;AGREE Web site&quot;&gt;http://www.agreetrust.org&lt;/a&gt;) and those meeting the minimum requirements are included in the evidence document. Due to limited resources, GURU does not regularly employ the use of multiple reviewers to rank the level of evidence; rather, the methodology portion of the evidence table contains the pertinent information required for the reader to judge for himself the quality of the studies.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Formulating Recommendations&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The working group members formulate the guideline recommendations based on the evidence synthesized by the Knowledge Management (KM) Specialist during the planning process, blended with expert clinical interpretation of the evidence. As detailed in the Guideline Utilization Resource Unit Handbook (see the &quot;Availability of Companion Documents&quot; field), the working group members may decide to adopt the recommendations of another institution without any revisions, adapt the recommendations of another institution or institutions to better reflect local practices, or develop their own set of recommendations by adapting some, but not all, recommendations from different guidelines.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The degree to which a recommendation is based on expert opinion of the working group and/or the Provincial Tumour Team members is explicitly stated in the guideline recommendations. Similar to the American Society of Clinical Oncology (ASCO) methodology for formulating guideline recommendations, the Guideline Utilization Resource Unit (GURU) does not use formal rating schemes for describing the strength of the recommendations, but rather describes, in conventional and explicit language, the type and quality of the research and existing guidelines that were taken into consideration when formulating the recommendations.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Following a review of the evidence by the Alberta Provincial Cutaneous Tumour Team, no changes to the recommendations were made.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This guideline was reviewed and endorsed by the Alberta Provincial Cutaneous Tumour Team.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;When the draft guideline document has been completed, revised, and reviewed by the Knowledge Management (KM) Specialist and the working group members, it will be sent to all members of the Provincial Tumour Team for review and comment. This step ensures that those intended to use the guideline have the opportunity to review the document and identify potential difficulties for implementation before the guideline is finalized. Depending on the size of the document, and the number of people it is sent to for review, a deadline of one to two weeks will usually be given to submit any feedback. Ideally, this review will occur prior to the annual Provincial Tumour Team meeting, and a discussion of the proposed edits will take place at the meeting. The working group members will then make final revisions to the document based on the received feedback, as appropriate. Once the guideline is finalized, it will be officially endorsed by the Provincial Tumour Team Lead and the Executive Director of Provincial Tumour Programs.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="98" OrdBy="605" ID="425" Name="References Supporting the Recommendations" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Balch CM, Gershenwald JE, Soong SJ, Thompson JF, Atkins MB, Byrd DR, Buzaid AC, Cochran AJ, Coit DG, Ding S, Eggermont AM, Flaherty KT, Gimotty PA, Kirkwood JM, McMasters KM, Mihm MC Jr, Morton DL, Ross MI, Sober AJ, Sondak VK. Final version of 2009 AJCC melanoma staging and classification. J Clin Oncol. 2009 Dec 20;27(36):6199-206. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19917835&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;BC Cancer Agency. Referral of melanoma. Vancouver (BC): BC Cancer Agency; 2008. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Comprehensive Cancer Network (NCCN). Melanoma guidelines. Fort Washington (PA): National Comprehensive Cancer Network (NCCN); 2009. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Health and Medical Research Council. Clinical practice guidelines for the management of melanoma in Australia and New Zealand: ocular and periocular melanoma: supplementary document. Canberra (Australia): National Health and Medical Research Council; 2008. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The best evidence currently available on the follow-up and surveillance of malignant melanoma is low-level evidence, as no prospective randomized controlled trials have yet been performed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate referral and follow-up surveillance of cutaneous melanoma&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The yield from imaging in the follow-up setting is low, while false positive rates and cumulative exposure to imaging radiation are of concern.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The recommendations contained in this guideline are a consensus of the Alberta Provincial Cutaneous Tumour Team and are a synthesis of currently accepted approaches to management, derived from a review of relevant scientific literature. Clinicians applying these guidelines should, in consultation with the patient, use independent medical judgment in the context of individual clinical circumstances to direct care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Present the guideline at the local and provincial tumour team meetings and weekly rounds. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Post the guideline on the Alberta Health Services&amp;nbsp;website. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Send an electronic notification of the new guideline to all members of CancerControl Alberta. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Living with Illness" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alberta Provincial Cutaneous Tumour Team. Referral and follow-up surveillance of cutaneous melanoma. Edmonton (Alberta): CancerControl Alberta; 2013 Feb. 10 p.&amp;nbsp;(Clinical practice guideline; no. CU-001).&amp;nbsp; [24 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2011 Feb (revised 2013 Feb)" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="CancerControl Alberta - State/Local Government Agency [Non-U.S.]" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;CancerControl Alberta&lt;/p&gt;&#xD;&#xA;&lt;p&gt;There was no direct industry involvement in the development or dissemination of this guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Alberta Provincial Cutaneous Tumour Team&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Members of the Alberta Provincial Cutaneous Tumour Team include medical oncologists, radiation oncologists, surgical oncologists, dermatologists, nurses, pathologists, and pharmacists.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Participation of members of the Alberta Provincial Cutaneous Tumour Team in the development of this guideline has been voluntary and the authors have not been remunerated for their contributions. CancerControl Alberta recognizes that although industry support of research, education and other areas is necessary in order to advance patient care, such support may lead to potential conflicts of interest. Some members of the Alberta Provincial Cutaneous Tumour Team are involved in research funded by industry or have other such potential conflicts of interest. However the developers of this guideline are satisfied it was developed in an unbiased manner.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: Alberta Cutaneous Tumour Team. Referral and follow-up surveillance of cutaneous melanoma. Edmonton (Alberta): Alberta Health Services, Cancer Care; 2011 Feb. 9 p. (Clinical practice guideline; no. CU-001). [24 references] &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://www.albertahealthservices.ca/assets/info/hp/cancer/if-hp-cancer-guide-cu001-followup-surveillance.pdf&quot; title=&quot;Alberta Health Services Web site&quot;&gt;Alberta Health Services Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Guideline utilization resource unit handbook. Edmonton (Alberta): CancerControl Alberta; 2013 Jan. 5 p. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on December 24, 2012. The information was verified by the guideline developer on February 13, 2013. This summary was updated by ECRI Institute on April 28, 2014. The updated information was verified by the guideline developer on June 6, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

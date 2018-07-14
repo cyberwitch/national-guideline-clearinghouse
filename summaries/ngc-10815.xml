@@ -1,0 +1,179 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;EFNS-ENS/EAN guideline on concomitant use of cholinesterase inhibitors and memantine in moderate to severe Alzheimer's disease.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Schmidt R, Hofer E, Bouwman FH, Buerger K, Cordonnier C, Fladby T, Galimberti D, Georges J, Heneka MT, Hort J, LaczÃ³ J, Molinuevo JL, O'Brien JT, Religa D, Scheltens P, Schott JM, Sorbi S. EFNS-ENS/EAN Guideline on concomitant use of cholinesterase inhibitors and memantine in moderate to severe Alzheimer's disease. Eur J Neurol. 2015 Jun;22(6):889-98. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25808982&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's (2013) revised inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Panel suggests that the use of a combination of cholinesterase inhibitor (ChEI) plus memantine rather than ChEI alone may provide useful benefits in patients with moderate to severe Alzheimer's disease (AD). Despite statistically significant differences, the observed treatment effects remain modest in terms of clinical management of individual patients. The strength of the evidence for use of the combination for moderate to severe AD varied between the four domains. It was strong for patients with behavioural symptoms. The overall strength of recommendation was weak.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Moderate to severe Alzheimer's disease (AD)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Management" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Geriatrics" />
+      <FieldValue Value="Neurology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To develop guidelines on the question of whether combined cholinesterase inhibitors (ChEI)/memantine treatment rather than ChEI alone should be used in patients with moderate to severe Alzheimer's disease (AD) to improve global clinical impression (GCI), cognition, behaviour and activities of daily living (ADL)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Alzheimer's disease (AD) patients in the moderate to severe disease stage&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Combined cholinesterase inhibitors (ChEI) and memantine treatment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;ChEI alone (not recommended) &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Global clinical impression (GCI) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cognitive functioning &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Behaviour &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Activities of daily living (ADL) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adverse events &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Search Strategy&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The time period covered by the literature research was from 01/2004 to 01/2013.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Trials were identified from a search of ALOIS, the specialized register of the Cochrane Dementia and Cognitive Improvement Group, using the search terms &quot;Alzheimer's disease&quot;, &quot;donepezil&quot;, &quot;E2020&quot;, &quot;Aricept&quot;, &quot;galanthamin&quot;, &quot;galantamine&quot;, &quot;reminyl&quot;, &quot;rivastigmine&quot;, &quot;exelon&quot;, &quot;ENA 713&quot; and &quot;ENA-713&quot;, &quot;memantine&quot;, &quot;combination therapy&quot; and &quot;dual therapy&quot;. This register consists of records from major healthcare databases including MEDLINE (Ovid SP), EMBASE (Ovid SP), PsycINFO (Ovid SP), CINAHL (EBSCOhost) and Lilacs (Bireme). It also searches major trial and pharmaceutical industry trials registers. ALOIS covers all randomized controlled trials of interventions for people with dementia, for people with cognitive impairment and for the improvement of, or prevention of decline in, cognitive function in healthy people. It was created in 2008 and represents a free open-access resource. The panellists found 11 publications related to the patients, intervention, comparison, and outcome (PICO) question.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Trial Inclusion&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Other than in the study by Schneider et al. which included patients with mild cognitive impairment and mild Alzheimer's disease (AD), the panellists considered only trials if they included moderate to severe AD patients, assessed at least one of the outcomes defined in the PICO question and followed a randomized double-blind, parallel group design. Seven studies fulfilled these criteria. To avoid duplications they excluded those studies which represented &lt;em&gt;post hoc&lt;/em&gt; analysis of the original MEM-MD-02 trial, leaving four trials to be included in the analysis.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Four trials were included in the analysis.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Guideline development followed the Grading of Recommendations Assessment, Development and Evaluation (GRADE) Working Group. The GRADE approach is based on a sequential assessment of the quality of evidence. Figure 6 in the original guideline document provides the GRADE evidence profile. Based on the study design and the results of the meta-analysis this evidence profile classifies the quality of evidence in one of four levels ranging from very low to high for the overall underlying literature for each important outcome.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Meta-Analysis" />
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Data Extraction&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The clinical and demographic characteristics and data on outcomes under investigation were extracted from primary reports. All data were independently extracted by two panellists and discrepancies were resolved by discussion.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Assessment of the Risk of Study Bias&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Based on the description of methodology all included studies were evaluated for random sequence generation (selection bias), allocation concealment (selection bias), blinding of participants and personnel (performance bias), blinding of outcome assessment (detection bias), incomplete outcome data (attrition bias), selective reporting (reporting bias) and other bias that might have been detected during the review process.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Data Synthesis and Analysis&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Panel performed a meta-analysis to estimate the difference between the group with cholinesterase inhibitor (ChEI) and memantine treatment and the group with ChEI monotherapy. The data of each clinical domain (activities of daily living [ADL], behaviour, cognitive functioning, global clinical impression [GCI]), as well as serious adverse events, were pooled separately. In order to be able to pool data from different rating scales within a domain, the standardized mean difference (SMD) was chosen as the effect size. The risk difference was calculated for serious adverse events. A random effects meta-analysis with an inverse-variance weighting approach was conducted using the RevMan 5.2 software and yielded a combined SMD/risk difference with a 95% confidence interval (CI) and several measures of heterogeneity (e.g., &lt;em&gt;I&lt;/em&gt;&lt;sup&gt;2&lt;/sup&gt; index). A Grading of Recommendations Assessment, Development and Evaluation (GRADE) evidence profile was created using the GRADEpro software for each clinical domain and serious adverse events.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;GRADE Evidence Profile&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Figure 6 in the original guideline document provides the GRADE evidence profile. Based on the study design and the results of the meta-analysis this evidence profile classifies the quality of evidence in one of four levels ranging from very low to high for the overall underlying literature for each important outcome.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus (Delphi)" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Methods&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Guideline development followed the Grading of Recommendations Assessment, Development and Evaluation (GRADE) Working Group in line with the 2012 recommendations for preparation of neurological management guidelines by the European Federation of Neurological Societies (EFNS) scientific task forces (see the &quot;Availability of Companion Documents&quot; field). The GRADE approach is based on a sequential assessment of the quality of evidence, followed by assessment of the balance between advantages and disadvantages, and finally judgement about the strength of recommendations.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;The Clinical Question&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;As in any well-conducted research study, the GRADE guideline development addresses well-designed clinical questions. Each clinical question contains the four components known by the acronym &quot;PICO&quot;: patients; intervention; comparison; and the outcome(s) of interest, both beneficial and harmful. The PICO question was whether a combination of cholinesterase inhibitors (ChEI) plus memantine rather than ChEI alone should be used in patients with moderate to severe Alzheimer's disease (AD) in general and specifically to improve (i) global clinical impression (GCI), (ii) cognitive functioning, (iii) behaviour and (iv) activities of daily living (ADL). In line with the GRADE recommendations, when several outcomes are possible for each clinical question the GRADE approach asks panellists to make explicit judgements about the importance of each outcome for making a recommendation. Each panellist was asked to make an explicit judgement in writing using a nine-point scale with scores in the range 7&amp;ndash;9 identifying outcomes of critical importance for decision making. Ratings between 4 and 6 characterized important but not critical outcomes and those in the range between 1 and 3 were outcomes of limited importance. The rating of the importance of the different outcomes took place prior to systematic statistical outcome evaluation. Overall, all outcomes were considered to be of critical importance with the mean of the ratings being 7.9 for ADL, 7.6 for behaviour, 7.3 for cognitive functioning, 6.3 for GCI. The importance of serious adverse events was also rated and obtained a mean score of 6.5.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Determination of the Direction and Strength of Recommendation and Consensus Finding&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Determination of direction and strengths of recommendations was based on the balance between desirable and undesirable eï¬ects of combined ChEI and memantine treatment versus ChEI treatment alone, the quality of evidence, values and preferences and costs. For details refer to the EFNS guidance for preparation of neurological management guidelines. Direction was a recommendation &quot;for&quot; or &quot;against&quot; combined ChEI and memantine treatment, and the strength of recommendation had only two levels: &quot;strong&quot; or &quot;weak&quot;. Recommendations were given for each outcome. Consensus was reached by use of the Delphi method during which panellists answered a questionnaire, working independently without meeting in person. After each round, a panellist served as a facilitator and provided an anonymous summary of the panellists' opinions from the previous round, and participants were encouraged to revise their earlier answers in light of the replies from other members of the group.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Direction and Strength of Recommendation&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Agreement of panellists was reached after the second round of the consensus finding procedure. All panellists agreed already in the first round that, compared to ChEI monotherapy, the desirable effects of combined ChEI and memantine treatment outweigh undesirable effects in patients with moderate to severe AD. With one exception there existed also agreement in the first round that the general recommendation in favour of combination therapy is weak. All panellists gave a weak recommendation for ADL, a strong recommendation for behaviour with two exceptions and a weak recommendation for cognition and GCI with three exceptions. In the second round all panellists agreed on recommendations in favour of combined ChEI plus memantine treatments as summarized in Table 2 in the original guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Guideline development followed the Grading of Recommendations Assessment, Development and Evaluation (GRADE) Working Group. Direction was a recommendation &quot;for&quot; or &quot;against&quot; combined cholinesterase inhibitor (ChEI) and memantine treatment, and the strength of recommendation had only two levels: &quot;strong&quot; or &quot;weak.&quot;&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;It is well established that behavioural symptoms in patients with Alzheimer's disease (AD) are associated with higher care costs than in AD patients with no or little behavioural change. A 1-point increase on the neuropsychiatric inventory (NPI), which is a tool to assess dementia-related behavioural symptoms with a maximum score of 144, increases the annual care costs by US $247&amp;ndash;409. Therefore the approximately 3 point diï¬erence on NPI between cholinesterase inhibitors (ChEI) monotherapy and combination therapy translates into substantial cost savings.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All authors reviewed the manuscript prior to submission. The guidelines were validated according to the European Federation of Neurological Societies (EFNS) criteria (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The recommendation is based on a systematic review and meta-analysis of randomized controlled trials based on a literature search in ALOIS, the register of the Cochrane Dementia and Cognitive Improvement Group.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The meta-analysis suggests a small but significant benefit of combined cholinesterase inhibitor (ChEI) plus memantine treatment over ChEI treatment alone on behaviour, cognitive functions and global clinical impression (GCI), with no evidence for major differences in the rate of serious adverse events with combination as opposed to monotherapy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;See Table 1 in the original guideline document for baseline characteristics and frequency of serious adverse events of included studies.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Guideline development was based on the opinion of 17 researchers from 12 countries in the setting of the European Federation of Neurological Societies (EFNS)/European Neurological Society (ENS) dementia panel, and it is thus likely that the opinions expressed represent a European view.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Staff Training/Competency Material" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Schmidt R, Hofer E, Bouwman FH, Buerger K, Cordonnier C, Fladby T, Galimberti D, Georges J, Heneka MT, Hort J, LaczÃ³ J, Molinuevo JL, O'Brien JT, Religa D, Scheltens P, Schott JM, Sorbi S. EFNS-ENS/EAN Guideline on concomitant use of cholinesterase inhibitors and memantine in moderate to severe Alzheimer's disease. Eur J Neurol. 2015 Jun;22(6):889-98. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25808982&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2015 Jun" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="European Academy of Neurology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;There was no funding.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;European Federation of Neurological Societies (EFNS)/European Neurological Society (ENS) Dementia Panel&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Panel Members&lt;/em&gt;: R. Schmidt, Department of Neurology, Medical University of Graz, Graz, Austria; E. Hofera, Department of Neurology, Medical University of Graz, Institute for Medical Informatics, Statistics and Documentation, Medical University of Graz, Graz, Austria; F. H. Bouwman, Alzheimer Centre, VU University Medical Centre, Amsterdam, The Netherlands; K. Buerger, Institute for Stroke and Dementia Research (ISD), Klinikum der Universit&amp;auml;t M&amp;uuml;nchen, Campus Gro&amp;szlig;hadern, Munich, Germany; C. Cordonnier, Department of Neurology, Univ Lille Nord de France, UDSL, CHU Lille, Lille, France; T. Fladby, Department of Neurology, Akershus University Hospital, Ahus, Norway; D. Galimberti, Neurology Unit, Department of Pathophysiology and Transplantation, University of Milan, IRCCS Ospedale Maggiore Policlinico, Fondazione C&amp;agrave; Granda, Milan, Italy; J. Georges, Alzheimer Europe, Luxembourg City, Luxembourg; M. T. Heneka, Clinic and Polyclinic for Neurology, Clinical Neuroscience Unit, German Centre for Neurodegenerative Diseases (DZNE), Bonn, Germany; J. Hort, Second Faculty of Medicine, Department of Neurology, Charles University in Prague and Motol University Hospital, Prague 5, International Clinical Research Centre, St Anne's University Hospital, Brno, Czech Republic; J. Lacz&amp;oacute;, Second Faculty of Medicine, Department of Neurology, Charles University in Prague and Motol University Hospital, Prague 5, International Clinical Research Centre, St Anne's University Hospital, Brno, Czech Republic; J. L. Molinuevo, Alzheimer's Disease and other Cognitive Disorders Unit, Department of Neurology, Hospital Cl&amp;iacute;nic, IDIBAPS, Barcelona, Spain; J. T. O'Brien, Department of Psychiatry, University of Cambridge, Level E4 Cambridge Biomedical Campus, Cambridge, UK; D. Religa, Karolinska Institutet Alzheimer Disease Research Centre, Karolinska University Hospital, Stockholm, Sweden, Mossakowski Medical Research Centre, Polish Academy of Sciences, Warsaw, Poland; P. Scheltens, Alzheimer Centre, VU University Medical Centre, Amsterdam, The Netherlands; J. M. Schott, Dementia Research Centre, Institute of Neurology, UCL Queen Square, London, UK; S. Sorbi, Department of Neuroscience, Psychology, Drug Research and Child Health (NEUROFARBA), University of Florence, Florence, Italy&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Reinhold Schmidt received honoraria for consultancy from Pfizer and Axon Neuroscience. Edith Hofer reported no potential conflict of interest. Femke H Bouwman received grant money from General Electrics. Katharina B&amp;uuml;rger received payments for lectures from Merz Pharmaceuticals and reimbursements for participation in observational studies from Merz Pharmaceuticals and Eli Lilly and for participation in clinical trials from Genentech and Servier. Charlotte Cordonnier was board member for Bayer. Tormod Fladby reported no potential conflict of interest and Daniela Galimberti reported also no potential conflict of interest. Jean Georges served as board member for GSK, provided consultancy services from Pfizer and received honoraria for lectures from Lundbeck. Michael Heneka reported reimbursement for advisory board meeting attendance from Novartis and payment for lectures from Nutricia. Jakub Hort was reimbursed for board memberships from Elan, Sotio, Alzheon, Axon Neurosciences and Merck and for consultancy for Pfizer, Lundbeck, Elan, Axon Neurosciences, Novartis, Alzheon, Merck and Sotio; he received payments for lectures from Novartis, Lundbeck, Zentiva and Elteca and holds stocks from Alzheon, Polyhymnia. Jan Laczo holds stocks from Polythymnia TS Ltd. Jose Luis Molinuevo received payments for board membership by Lundbeck, MSD, BMS, GE, Novartis, Immunogenetics, and for lectures from Lundbeck, Piramal, GE, Eli Lilly, Novartis and Pfizer. John O'Brien received honoraria for consultancy from GE, TauRx and Cytox; he received research grants from NIHR and Avid and payments for lectures from GE and Eli Lilly. Dorota Religa reported no potential conflict of interest. Philip Scheltens received grants from GE Healthcare and Merck, honoraria for consultancy from Sanofi, TauRx, Janssen, Nutricia and Takeda, and payment for development of educational presentations from GE and for travel from Roche. Jonathan Schott received grant funding from Alzheimer's Research UK, the UK Alzheimer's Society, Medical Research Council, Engineering and Physical Sciences Research Council and Eli Lilly. He also received reimbursement for consultancy for Eli Lilly, payments for lectures for the BMJ group and royalties for Henry Stewart Talks. Sandro Sorbi reported no conflict of interest.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's (2013) revised inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available to subscribers from the &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1111/ene.12707/abstract&quot; title=&quot;European Journal of Neurology Web site&quot;&gt;European Journal of Neurology Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Leone MA, Brainin M, Boon P, Pugliatti M, Keindl M, Bassetti CL. Guidance for the preparation of neurological management guidelines by EFNS scientific task forces&amp;ndash;revised recommendations 2012. Eur J Neurol. 2013 Mar;20(3):410-9. Available from the &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1111/ene.12043/epdf&quot; title=&quot;European Journal of Neurology Web site&quot;&gt;European Journal of Neurology Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Continuing Medical Education questions are available to registered users from the &lt;a href=&quot;http://www.eaneurology.org/&quot; title=&quot;European Academy of Neurology Web site&quot;&gt;European Academy of Neurology Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on January 6, 2016. The information was verified by the guideline developer on January 19, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the Wiley Online Library copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

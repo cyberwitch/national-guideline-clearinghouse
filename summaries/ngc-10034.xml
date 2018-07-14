@@ -1,0 +1,187 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Extra-corporeal photopheresis in the management of graft-versus-host disease in patients who have received allogeneic blood or bone marrow transplants: recommendations.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bredeson C, Rumble RB, Varela NP, Kuruvilla J, Kouroukis CT, Stem Cell Transplant Steering Committee. Extra-corporeal photopheresis in the management of graft-versus-host disease in patients who have received allogeneic blood or bone marrow transplants: recommendations. Toronto (ON): Cancer Care Ontario (CCO); 2013 Aug 29. 29 p.&amp;nbsp;(Recommendation report; no. SCT-5).&amp;nbsp; [35 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The EVIDENCE-BASED SERIES report, initially the full original Guideline, over time will expand to contain new information emerging from their reviewing and updating activities.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Please visit the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=286433&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Cancer Care Ontario Web site&lt;/a&gt; for details on any new evidence that has emerged and implications to the guidelines. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Extra-corporeal Photopheresis (ECP) in the Management of Graft-versus-Host Disease (GVHD)&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;ECP is an acceptable therapy for the treatment of steroid-dependent/refractory acute GVHD in adult and paediatric patients. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;ECP is an effective therapy for the treatment of steroid-dependent/refractory chronic GVHD in adult and paediatric patients. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Graft-versus-host disease (GVHD)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Assessment of Therapeutic Effectiveness" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Allergy and Immunology" />
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Hematology" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Oncology" />
+      <FieldValue Value="Pediatrics" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To determine whether there is a benefit associated with the use of extra-corporeal photopheresis (ECP) compared with other treatment options for patients who have received an allogeneic transplant and are experiencing graft-versus-host disease (GVHD) if response rate, survival, or improvement in symptoms are the outcomes of interest&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adult and paediatric patients who have received an allogeneic transplant and are experiencing graft-versus-host disease (GVHD)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Extra-corporeal photopheresis (ECP) in the management of graft-versus-host disease (GVHD)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Response rate (skin response, extracutaneous response) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Survival &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Improvement in symptoms &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adverse effects &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Literature Search Strategy&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The MEDLINE (Ovid) (1995 through July Week 1 2012) database was searched on July 17, 2012 and updated on August 14, 2013. The search strategy for MEDLINE is shown in Appendix 1 of the original guideline. Search terms for stem cell transplantation, bone marrow transplantation, and peripheral blood stem cell transplantation were combined, and articles that also included graft-versus-host disease outcomes where photopheresis was administered were retained. As it was expected that there would be little indexed evidence, no restrictions were made based on publication date.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Relevant articles and abstracts were selected and reviewed by two reviewers, and the reference lists from these sources were searched for additional trials. Personal files were also searched.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Study Selection Criteria&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Inclusion Criteria&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Articles were selected for inclusion in this systematic review of the evidence if they were published full-report articles or published meeting abstracts of:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Studies that reported on outcomes of extra-corporeal photopheresis administered for either acute or chronic graft-versus-host disease for patients of all ages following allogeneic stem cell transplantation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;One of the following publication types or study designs: practice guidelines with systematic review, systematic reviews (with meta-analyses), systematic reviews (without meta-analyses), randomized phase III trials, randomized phase II trials, or other comparative studies. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;No specific outcomes were required, as long as the study met the two points above.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Exclusion Criteria&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Studies were excluded if they were:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Letters, comments, books, notes, or editorial publication types. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Articles published in a language other than English, due to financial considerations for translation. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Reported on fewer than five patients. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A total of 18 papers were retained.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus (Committee)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Meta-Analysis" />
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Synthesizing the Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;When clinically homogeneous results from two or more trials were available, a meta-analysis would be conducted using the Review Manager software (RevMan 4.2) available from the Cochrane Collaboration. For time-to-event outcomes, hazard ratios (HRs), rather than the number of events at a certain time point, would be the preferred statistic for meta-analysis, and would be used as reported. If the HR and/or its standard error were not reported, they would be derived from other information reported in the study, if possible, using the methods described by Parmar et al. For all outcomes, the generic inverse variance model with random effects, or other appropriate random effects models in (the software used) would be used.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Statistical heterogeneity would be calculated using the &amp;chi;&lt;sup&gt;2&lt;/sup&gt; test for heterogeneity and the I&lt;sup&gt;2&lt;/sup&gt; percentage. A probability level for the &amp;chi;&lt;sup&gt;2&lt;/sup&gt; statistic less than or equal to 10% (p&amp;le;0.10) and/or an I&lt;sup&gt;2&lt;/sup&gt; greater than 50% would be considered indicative of statistical heterogeneity.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Assessment of Study Quality&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For systematic reviews that would be used as the sole evidence base for our recommendations, the Assessment of Multiple Systematic Reviews (AMSTAR) tool would be used to assess quality. For Clinical Practice Guidelines, the Assessment of Guidelines Research and Evaluation (AGREE) II instrument would be used to assess quality. However, because of the time and effort necessary to properly implement the AGREE II instrument, it would be used only if adaptation of the recommendations was considered feasible by the working group given the nature and coverage of the guideline and an informal assessment of the guideline's methods. Where recommendations from clinical practice guidelines (CPGs) were not adapted, the evidence base in those CPGs would be informally assessed for completeness, and any relevant evidence within would be considered as a basis for recommendations in this report. Any meta-analysis would be assessed for quality using similar criteria as used for randomized controlled trials (RCTs), where appropriate. RCTs would be assessed for quality by examining the following seven criteria: the method of randomization, reporting of blinding, the power and sample size calculation, length of follow-up, reporting details of the statistical analysis, reporting on withdrawals to treatment and other losses to follow-up, and reporting on the sources of funding for the research. Comparative, but non-randomized, evidence would be assessed according to full reporting of the patient selection criteria, the interventions each patient received, all relevant outcomes, and the source of funding.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This recommendation report, produced by the Program in Evidence-based Care (PEBC) and the Stem Cell Transplantation Steering Committee (the Committee) of Cancer Care Ontario (CCO), was developed through a systematic review of the available evidence and the interpretation of that evidence by clinical experts to develop recommendations. A working group was formed of members of the Committee to develop the report.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Not stated" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The recommendations are supported by a consensus report based on a systematic review, randomized controlled trials,&amp;nbsp;a non-randomized controlled trial, prospective cohort studies, retrospective cohort studies, a clinical practice guideline, comparative and non-comparative studies, and case series.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;One study detected a statistically significant difference in response rates in favour of extra-corporeal photopheresis (ECP) over conventional corticosteroid treatment (40% vs. 10%; p=0.002). Similarly, another study reported a significant increase in the overall response rate associated with EPC when compared to conventional treatment (26% vs. 8%; p=0.04). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;One study reported on quality-of-life outcomes, with a significant benefit being detected with ECP treatment compared with conventional treatment (ECP: 19% vs. control: 2.5%; p=0.01). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A randomized controlled trial (RCT) reported on total skin scores, eye, oral, and joint changes associated with graft-versus-host disease (GVHD), and adverse events. Significant differences were only detected in eye GVHD, which showed an improvement associated with ECP compared with conventional treatment (ECP: 30% vs. control: 7%; p=0.04). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A case series reported on changes from baseline scores after 6 months for cutaneous, hepatic, pulmonary, mucosal, and neuromuscular chronic GVHD (cGVHD), and significant improvements were detected for cutaneous cGVHD scores only (baseline: 89% [skin median score: 131, 132] vs. 6 months: 52% [skin median score: 61]; p=0.003). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Extra-corporeal photopheresis (ECP) is currently a covered therapy in Ontario for patients with steroid refractory graft-versus-host disease (GVHD) who meet certain eligibility criteria. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Care has been taken in the preparation of the information contained in this report. Nonetheless, any person seeking to apply or consult the report is expected to use independent medical judgment in the context of individual clinical circumstances or seek out the supervision of a qualified clinician. Cancer Care Ontario makes no representation or guarantees of any kind whatsoever regarding the report content or use or application and disclaims any responsibility for its application or use in any way. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Quick Reference Guides/Physician Guides" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bredeson C, Rumble RB, Varela NP, Kuruvilla J, Kouroukis CT, Stem Cell Transplant Steering Committee. Extra-corporeal photopheresis in the management of graft-versus-host disease in patients who have received allogeneic blood or bone marrow transplants: recommendations. Toronto (ON): Cancer Care Ontario (CCO); 2013 Aug 29. 29 p.&amp;nbsp;(Recommendation report; no. SCT-5).&amp;nbsp; [35 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2013 Aug 29" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Program in Evidence-based Care - State/Local Government Agency [Non-U.S.]" />
+    </Field>
+    <Field FieldID="123" OrdBy="1230" ID="448" Name="Guideline Developer Comment" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Program in Evidence-based Care (PEBC) is a Province of Ontario initiative sponsored by Cancer Care Ontario and the Ontario Ministry of Health and Long-Term Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Program in Evidence-based Care (PEBC) is a provincial initiative of Cancer Care Ontario supported by the Ontario Ministry of Health and Long-Term Care. All work produced by the PEBC is editorially independent from the Ontario Ministry of Health and Long-Term Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Stem Cell Transplant Steering Committee&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Primary Authors&lt;/em&gt;: C. Bredeson (&lt;em&gt;Lead Author&lt;/em&gt;), R.B. Rumble, N.P. Varela, J. Kuruvilla, C.T. Kouroukis&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The authors of this recommendation report disclosed potential conflicts of interest relating to the topic. The lead author reported a potential conflict because if photopheresis were to become a widely funded procedure, his income could potentially increase by more than $10,000. The remaining authors reported no conflicts of interest.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The EVIDENCE-BASED SERIES report, initially the full original Guideline, over time will expand to contain new information emerging from their reviewing and updating activities.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Please visit the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=286433&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Cancer Care Ontario Web site&lt;/a&gt; for details on any new evidence that has emerged and implications to the guidelines. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available in Portable Document Format (PDF) from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=286433&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Cancer Care Ontario Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Extra-corporeal photopheresis in the management of graft-versus-host disease in patients who have received allogeneic blood or bone marrow transplants: recommendations. Summary. Toronto (ON): Cancer Care Ontario (CCO); 2013 Aug 29. 3 p. Electronic copies: Available in Portable Document Format (PDF) from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=286435&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Cancer Care Ontario (CCO) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Program in evidence-based care handbook. Toronto (ON): Cancer Care Ontario (CCO); 2011. 15 p. Electronic copies: Available in PDF from the &lt;a href=&quot;https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=50876&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;CCO Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on December 16, 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions. Please refer to the &lt;a href=&quot;https://www.cancercare.on.ca/ontariocancernews/copyright.html&quot; title=&quot;Cancer Care Ontario Web site&quot;&gt;Copyright and Disclaimer Statements&lt;/a&gt; posted at the Program in Evidence-based Care section of the Cancer Care Ontario Web site.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

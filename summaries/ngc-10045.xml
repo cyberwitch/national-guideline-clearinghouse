@@ -1,0 +1,188 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Management of symptomatic vulvovaginal atrophy: 2013 position statement of The North American Menopause Society.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Management of symptomatic vulvovaginal atrophy: 2013 position statement of The North American Menopause Society. Menopause. 2013 Sep;20(9):888-902. [149 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23985562&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: The North American Menopause Society. The role of local vaginal estrogen for treatment of vaginal atrophy in postmenopausal women: 2007 position statement of The North American Menopause Society. Menopause. 2007 May-Jun;14(3 Pt 1):355-69; quiz 370-1.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The strength of recommendation (&lt;strong&gt;Level A, Level B, Level C&lt;/strong&gt;) is defined at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Conclusions and Recommendations&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;First-line therapies for women with symptomatic vulvovaginal atrophy (VVA) include nonhormonal lubricants with intercourse and, if indicated, regular use of long-acting vaginal moisturizers. [&lt;strong&gt;Level A&lt;/strong&gt;] &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For symptomatic women with moderate to severe VVA and for those with milder VVA who do not respond to lubricants and moisturizers, estrogen therapy (ET) either vaginally at low dose or systemically remains the therapeutic standard. Low-dose vaginal estrogen is preferred when VVA is the only menopausal symptom. [&lt;strong&gt;Level A&lt;/strong&gt;] &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Ospemifene is another option for dyspareunia. [&lt;strong&gt;Level A&lt;/strong&gt;] &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For women with a history of breast or endometrial cancer, management depends on a woman's preference, need, understanding of potential risks, and consultation with her oncologist. [&lt;strong&gt;Level C&lt;/strong&gt;] &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;ET carries a class effect risk of venous thromboembolism (VTE). Low-dose vaginal estrogen may carry a very low risk, but there has been no report of an increased risk in the vaginal estrogen clinical trials. Data in high-risk women are lacking. [&lt;strong&gt;Level C&lt;/strong&gt;] &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A progestogen is generally not indicated when low-dose vaginal estrogen is administered for symptomatic VVA. Endometrial safety data are not available for use longer than 1 year. [&lt;strong&gt;Level B&lt;/strong&gt;] &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If a woman is at high risk of endometrial cancer or is using a higher dose of vaginal ET, transvaginal ultrasound or intermittent progestogen therapy may be considered. There are insufficient data to recommend routine annual endometrial surveillance in asymptomatic women using vaginal ET. [&lt;strong&gt;Level C&lt;/strong&gt;] &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Spotting or bleeding in a postmenopausal woman who has an intact uterus requires a thorough evaluation that may include transvaginal ultrasound and/or endometrial biopsy. [&lt;strong&gt;Level A&lt;/strong&gt;] &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For women treated for non-hormone-dependent cancer, management of VVA is similar to that for women without a cancer history. [&lt;strong&gt;Level B&lt;/strong&gt;] &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Vaginal ET or ospemifene, with appropriate clinical surveillance, can be continued as long as bothersome symptoms are present. [&lt;strong&gt;Level C&lt;/strong&gt;] &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Proactive education on vaginal health is recommended for postmenopausal women. [&lt;strong&gt;Level C&lt;/strong&gt;] &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Definitions&lt;/strong&gt;&lt;/span&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strength of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Strength of Recommendation&quot;&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th width=&quot;15%&quot; class=&quot;Center&quot; valign=&quot;top&quot;&gt;Level A&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Supported by sufficient, consistent scientific evidence&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;Level B&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Supported by limited or inconsistent evidence&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;Level C&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Based primarily on expert opinion&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Symptomatic vulvovaginal atrophy (VVA)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Assessment of Therapeutic Effectiveness" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Endocrinology" />
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Geriatrics" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Obstetrics and Gynecology" />
+      <FieldValue Value="Oncology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Health Care Providers" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To update and expand the previous position statement of The North American Menopause Society (NAMS) on the management of symptomatic vulvovaginal atrophy (VVA) in postmenopausal women &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To review the science of vulvovaginal aging and assess the safety and effectiveness of products for the treatment of symptomatic VVA in postmenopausal women &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Postmenopausal women&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Nonhormonal vaginal lubricants and moisturizers &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Low-dose vaginal estrogen (estradiol vaginal cream, conjugated estrogens [CE] vaginal cream, estrone vaginal cream, estradiol vaginal ring, estradiol hemihydrate vaginal tablet) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Systemic hormone therapy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Ospemifene &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Considerations for women with a history of breast or endometrial cancer &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Transvaginal ultrasound or intermittent progestogen therapy in women at high risk of endometrial cancer or if using a higher dose of vaginal estrogen &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Transvaginal ultrasound and/or endometrial biopsy if spotting or bleeding occur &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Proactive education on vaginal health &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Symptom relief &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Quality of life &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sexual function&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adverse effects of treatment&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The North American Menopause Society (NAMS) searched the literature on vulvovaginal atrophy (VVA) and &quot;atrophic vaginitis&quot; as well as on dyspareunia and vaginal lubrication in postmenopausal women.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The literature search was conducted in PubMed from 2006 to May 2013. No inclusion or exclusion criteria were used. Search terms included the following key words: vaginal atrophy, vulvovaginal atrophy, and vaginal changes at menopause.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A 9-person Panel composed of expert clinicians and researchers in the field of vulvovaginal health reviewed the literature to evaluate new evidence on local estrogen as well as on other management options available or in development for symptomatic vulvovaginal atrophy (VVA). If the evidence was contradictory or inadequate to form a conclusion, a consensus-based opinion was established.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Once the Panel completed its draft, the Position Statement was submitted to The North American Menopause Society (NAMS) Board of Trustees for additional review, comments, and edits. The Board is composed of both clinicians and researchers from multiple specialties and disciplines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Strength of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Strength of Recommendation&quot;&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th width=&quot;15%&quot; class=&quot;Center&quot; valign=&quot;top&quot;&gt;Level A&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Supported by sufficient, consistent scientific evidence&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;Level B&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Supported by limited or inconsistent evidence&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;Level C&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Based primarily on expert opinion&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Once the Panel completed its draft, the Position Statement was submitted to The North American Menopause Society (NAMS) Board of Trustees for additional review, comments, and edits. The Board is composed of both clinicians and researchers from multiple specialties and disciplines. The Board approved the Position Statement with edits, and the Panel reviewed it one final time.&lt;/p&gt;&#xA;&lt;p&gt;The Board of Trustees conducted independent review and revision and approved the position statement on June 7, 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of evidence supporting the recommendations is not specifically stated.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate management of symptomatic vulvovaginal atrophy (VVA) in postmenopausal women&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Because there are no published reports on the irritation potential of different over-the-counter (OTC) vaginal lubricants and moisturizers, women can test these on a small patch of skin for 24 hours before using them intravaginally. If the product they test successfully on the skin still causes irritation in the vagina, they can switch products to the iso-osmolar, propylene glycol-free, or silicone-based lubricants (see Table 1 in the original guideline for brand names). Note that oil-based lubricants can erode condoms; however, most brands of water-based and silicone-based lubricants are latex safe and condom compatible. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;All government-approved, low-dose vaginal estrogen therapy (ET) products in the United States and Canada differ slightly in their adverse event profiles. However, the dosing and the symptoms captured differed among the products tested. Vulvovaginal candidiasis, vaginal bleeding, and breast pain have been reported. The incidence of vulvovaginal candidiasis in postmenopausal women is largely unstudied, but studies suggest that women who experience spontaneous menopause and use vaginal ET may be at higher risk. A 2006 Cochrane review found no report of increased risk of venous thromboembolism (VTE), but data for women at high risk of VTE are lacking. Vaginal bleeding, breast pain, and nausea have been reported in some vaginal estrogen trials. These symptoms are dose related and suggest that the dose was large enough to result in noteworthy systemic absorption. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The primary concern regarding use of any ET in women who have an intact uterus is the risk of endometrial carcinoma associated with unopposed estrogen. Although available evidence suggests that low doses of vaginal estrogen are generally safe for the endometrium, the long-term data are limited. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The concern for women at risk of VTE or breast cancer is systemic absorption of estrogen. Most studies measuring systemic estradiol in vaginal estrogen users were done before 2007. Studies of circulating estradiol since that time also have reported an increase in circulating estrogen, but the clinical relevance of the small increases remains unclear. There could be a growth-promoting effect or an apoptotic effect on breast cancer, depending on the circumstances, and there could even be a small beneficial effect on bone. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Because the efficacy of aromatase inhibitors (AIs) is based on their ability to reduce estrogen levels below those typically seen in postmenopausal women, even the small increases in circulating estrogen levels seen with low-dose vaginal ETs may render AI therapy less effective. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Systemic hormone therapy (HT) has been associated with an increase in stress incontinence and renal stones. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In one study of ospemifene, vasomotor symptoms were the most common adverse event, with rates of 2% in the placebo group and 7.2% in the group taking 60 mg of ospemifene. The prescribing information for ospemifene contains precautions similar to those listed for estrogens and other selective estrogen-receptor modulators (SERMs), such as class labeling for risk of VTE. With regard to breast cancer, it is stated that ospemifene should not be used in women with breast cancer or at high risk for breast cancer because the drug has not been adequately studied in that group. Ospemifene has, however, demonstrated antiestrogenic activity in preclinical models of breast cancer. Data in women with or at risk for breast cancer are lacking. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="430" OrdBy="800" Name="Contraindications">
+    <Field FieldID="144" OrdBy="805" ID="431" Name="Contraindications" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Although most symptomatic women are candidates for vaginal estrogen therapy (ET), potential contraindications exist. Vaginal ET is inappropriate for postmenopausal women with undiagnosed vaginal/uterine bleeding and controversial in women with estrogen-dependent neoplasia (e.g., breast, endometrial). Comanagement with the woman's oncologist may be considered in the case of estrogen-dependent neoplasia. The role of low-dose vaginal ET in women at increased risk of thrombosis has not been studied.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Patient Resources" />
+      <FieldValue Value="Slide Presentation" />
+      <FieldValue Value="Staff Training/Competency Material" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Management of symptomatic vulvovaginal atrophy: 2013 position statement of The North American Menopause Society. Menopause. 2013 Sep;20(9):888-902. [149 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23985562&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2007 May (revised 2013 Sep)" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="The North American Menopause Society - Nonprofit Organization" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This position statement was made possible by donations to The North American Menopause Society (NAMS) Education &amp;amp; Research Fund. There was no commercial support.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The North American Menopause Society (NAMS) 2013 Symptomatic Vulvovaginal Atrophy Advisory Panel&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Advisory Panel Members&lt;/em&gt;: Margery L.S. Gass, MD, NCMP (&lt;em&gt;Chair&lt;/em&gt;), The North American Menopause Society, Cleveland, OH; Gloria A. Bachman, MD, University of Medicine and Dentistry of New Jersey, Robert Wood Johnson Medical School, New Brunswick, NJ; Steven R. Goldstein, MD, NCMP, New York University School of Medicine, New York, NY; Sheryl A. Kingsberg, PhD, Case Western Reserve University School of Medicine, Cleveland, OH; James H. Liu, MD, Case Western Reserve University School of Medicine, Cleveland, OH; Mark G. Martens, MD, Jersey Shore University Medical Center, Neptune, NJ; Diane T. Pace, PhD, FNP, FAANP, NCMP, University of Tennessee Health Science Center College of Nursing, Memphis, TN; JoAnn V. Pinkerton, MD, NCMP, University of Virginia Health Sciences Center, Charlottesville, VA; Jan L. Shifren, MD, NCMP, Harvard Medical School, Boston, MA&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Disclosures indicate financial relationships with relevant commercial interests in the past 12 months.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Position Statement Advisory Panel&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Margery L.S. Gass, MD, NCMP - No relevant financial relationships &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Gloria A. Bachmann, MD - Advisory board; Grants/Research support: Shionogi &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Steven R. Goldstein, MD, NCMP - Advisory board: Bayer, Depomed, NovoNordisk, Shionogi; Consultant: Cook ObGyn, Philips Ultrasound; Speakers bureau: Merck, Warner Chilcott &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sheryl A. Kingsberg, PhD - Consultant/Advisory board: Apricus, Biosante, Novo Nordisk, Palatin, Pfizer, Shionogi, Sprout, Trimel Biopharm, Viveve &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;James H. Liu, MD - Advisory board: Noven, Shionogi, Teva; Consultant: Noven; Grants/Research support: ABVie &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mark G. Martens, MD - No relevant financial relationships &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Diane T. Pace, PhD, FNP, FAANP, NCMP - No relevant financial relationships &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;JoAnn V. Pinkerton, MD, NCMP - Consultant/Contractor: Pfizer, Depomed, Noven, Novogyne, Shionogi &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Jan L. Shifren, MD, NCMP - Royalties/Patents: UpToDate &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;NAMS 2012/2013 Board of Trustees&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Diane T. Pace, PhD, FNP, FAANP, NCMP (&lt;em&gt;President&lt;/em&gt;) - No relevant financial relationships &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Jan L. Shifren, MD, NCMP (&lt;em&gt;President Elect&lt;/em&gt;) - Royalties/Patents: UpToDate &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;JoAnn E. Manson, MD, DrPH, NCMP (&lt;em&gt;Immediate Past President&lt;/em&gt;) - No relevant financial relationships &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pauline M. Maki, PhD (&lt;em&gt;Treasurer&lt;/em&gt;) - Advisory board/Consultant: Depomed &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Michelle P. Warren, MD, NCMP (&lt;em&gt;Secretary&lt;/em&gt;) - Advisory board/Consultant: Agile Therapeutics, Depomed-Serada, Ferring, Pfizer, Yoplait; Grants/Research support: Pfizer; Speakers bureau: Ascend Therapeutics &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Margery L.S. Gass, MD, NCMP (&lt;em&gt;Executive Director&lt;/em&gt;) - No relevant financial relationships &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Howard N. Hodis, MD - No relevant financial relationships &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Andrew M. Kaunitz, MD, FACOG, NCMP - Advisory board/Consultant: Bayer, Merck; Grants/Research support: Bayer, Endoceutics, Medical Diagnostic Laboratories, Noven, Teva; Royalties/Patents: UpToDate &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sheryl A. Kingsberg, PhD - Advisory board/Consultant: Apricus, Biosante, Novo Nordisk, Palatin, Pfizer, Shionogi, Sprout, Trimel Biopharm, Viveve &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Gloria Richard-Davis, MD, FACOG - Advisory board/Consultant: Bayer &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Peter F. Schnatz, DO, FACOG, FACP, NCMP - No relevant financial relationships &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Marla Shapiro, MDCM, CCFP, MHSc, FRCP(C), FCFP, NCMP - Advisory board/Consultant: Amgen, AstraZeneca, Merck, Novartis, Pfizer; Grants/Research support: Amgen, Pfizer, SIGMA; Speakers bureau: Amgen, AstraZeneca, Bayer, GlaxoSmithKline, Merck, Novartis, Novo Nordisk, Pfizer, Sanofi Pasteur, Warner Chilcott &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Lynnette Leidy Sievert, PhD - No relevant financial relationships &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Isaac Schiff, MD (&lt;em&gt;Ex Officio&lt;/em&gt;) - No relevant financial relationships &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Wulf H. Utian, MD, PhD, DSc(Med) (&lt;em&gt;Ex Officio&lt;/em&gt;) - Advisory board/Consultant: Cleveland Clinic Foundation Innovations Center, Hygeia, Pharmavite, SenoSENSE, Inc., Shire Pharma, Therapeutics MD &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;NAMS Staff&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Kathy Method - No relevant financial relationships &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Penny Allen - No relevant financial relationships &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: The North American Menopause Society. The role of local vaginal estrogen for treatment of vaginal atrophy in postmenopausal women: 2007 position statement of The North American Menopause Society. Menopause. 2007 May-Jun;14(3 Pt 1):355-69; quiz 370-1.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available in Portable Document Format (PDF) from &lt;a href=&quot;http://www.menopause.org/docs/default-source/2013/vva-position-statement.pdf?sfvrsn=0&quot; title=&quot;NAMS Web site&quot;&gt;The North American Menopause Society (NAMS) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Print copies: Available from NAMS, 5900 Landerbrook Drive, Suite 390, Mayfield Heights, OH 44124, USA. Order forms are available in Portable Document Format (PDF) from &lt;a href=&quot;http://www.menopause.org/&quot; title=&quot;NAMS web site&quot;&gt;The NAMS Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Management of symptomatic vulvovaginal atrophy (VVA): key points from the 2013 position statement of The North American Menopause Society. Slide set. Mayfield Heights (OH): North American Menopause Society (NAMS); 2013. 14 p. Electronic copies: Available from &lt;a href=&quot;http://www.menopause.org/docs/default-source/2013/vva-ps-slide-set.pptx?sfvrsn=2&quot; title=&quot;NAMS Web site&quot;&gt;The North American Menopause Society (NAMS) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Management of symptomatic vulvovaginal atrophy: 2013 position statement of The North American Menopause Society. NAMS continuing medical education (CME) activity. Available from the &lt;a href=&quot;http://www.menopause.org/docs/default-source/2013/vva-ps-cme.pdf&quot; title=&quot;NAMS Web site&quot;&gt;NAMS Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Symptomatic vulvovaginal atrophy at menopause: identification and intervention. CME Webcast in collaboration with Haymarket Medical. Available from the &lt;a href=&quot;http://www.menopause.org/for-professionals/cme-activities/nams-haymarket-cme&quot; title=&quot;NAMS Web site&quot;&gt;NAMS Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Changes in the vagina and vulva. Available from &lt;a href=&quot;http://www.menopause.org/for-women/sexual-health-menopause-online/changes-at-midlife/changes-in-the-vagina-and-vulva&quot; title=&quot;NAMS Web site&quot;&gt;The North American Menopause Society (NAMS) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Disclaimer&quot;&gt;Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This summary was completed by ECRI Institute on June 28, 2007. The information was verified by the guideline developer on July 13, 2007. This NGC summary was updated by ECRI Institute on December 26, 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This summary is based on content contained in the original guideline, which is subject to terms as specified by the guideline developer. Users are free to download a copy of the materials and information on a single computer for personal, noncommercial use only; provided that any copyright, trademark or other proprietary notices are not removed from any materials and information downloaded. Any other use requires written permission from the guideline developer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

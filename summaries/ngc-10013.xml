@@ -1,0 +1,193 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Heart failure - systolic dysfunction.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;University of Michigan Health System. Heart failure - systolic dysfunction. Ann Arbor (MI): University of Michigan Health System; 2013 Aug. 24 p.  [36 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: University of Michigan Health System. Heart failure - systolic dysfunction. Ann Arbor (MI): University of Michigan Health System; 2006 Sep. 18 p. [15 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Note from the University of Michigan Health System (UMHS) and the National Guideline Clearinghouse (NGC)&lt;/strong&gt;&lt;/em&gt;: The following guidance was current as of August 2013. Because UMHS occasionally releases minor revisions to its guidance based on new information, users may wish to consult the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/heart.html&quot; title=&quot;UMHS Web site&quot;&gt;original guideline document&lt;/a&gt; for the most current version.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Note from NGC&lt;/strong&gt;: The following key points summarize the content of the guideline. Refer to the full text for additional information, including detailed information on dosing and cost of drugs as well as information on other interventions considered.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The strength of recommendation (I-III) and levels of evidence (A-D) are defined at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Key Points&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Diagnosis&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Ejection fraction&lt;/span&gt; (EF) evaluated to determine the etiology as systolic dysfunction rather than diastolic dysfunction or valvular heart disease &lt;em&gt;[IA]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Serum B-type natriuretic peptide (BNP)&lt;/span&gt; to help determine if dyspnea is due to heart failure (HF) &lt;em&gt;[IC]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Pharmacologic Therapy&lt;/strong&gt; (see Table 1 in the original guideline document)&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;For patients with systolic dysfunction (EF &amp;lt;40%) who have no contraindications:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Angiotensin-converting enzyme (ACE) inhibitors&lt;/span&gt; for all patients &lt;em&gt;[IA]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Beta blockers&lt;/span&gt; for all patients except those who are hemodynamically unstable, or those who have rest dyspnea with signs of congestion &lt;em&gt;[IA]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Aldosterone antagonist&lt;/span&gt; (low dose) for all patients with symptoms of HF or with a history of hospitalization for HF &lt;em&gt;[IA]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Isosorbide dinitrate-hydralazine&lt;/span&gt; combination for symptomatic HF patients who are African-American &lt;em&gt;[IA]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Diuretics&lt;/span&gt; for symptomatic patients to maintain appropriate fluid balance &lt;em&gt;[IC]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Angiotensin receptor blockers (ARBs)&lt;/span&gt; as a substitute for patients intolerant of ACE inhibitors &lt;em&gt;[IA]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Digoxin&lt;/span&gt; only for patients who remain symptomatic despite diuretics, ACE inhibitors and beta blockers or for those in atrial fibrillation needing rate control &lt;em&gt;[IA]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Device Therapy&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Implantable defibrillators&lt;/span&gt; considered for prophylaxis against sudden cardiac death in patients with EF &amp;le;35% &lt;em&gt;[IA]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Bi-ventricular pacemakers&lt;/span&gt; considered for patients requiring defibrillators who have symptomatic HF and QRS durations &amp;ge;120 msec &lt;em&gt;[IA]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Caution&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;HF patients on multiple medications are at risk of potential drug interactions and side effects. For example, the risk of hyperkalemia is increased in patients with renal insufficiency treated with an aldosterone antagonist and an ACE inhibitor.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Levels of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-alpha;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Randomized controlled trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Controlled trials, no randomization &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Observational trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Opinion of expert panel &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strength of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-roman;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Generally should be performed &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;May be reasonable to perform &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Generally should not be performed &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following algorithms are provided in the original guideline document:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Identifying Systolic Heart Failure &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Device Referral Algorithm &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Left ventricular systolic dysfunction &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Heart failure (HF) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Cardiology" />
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Geriatrics" />
+      <FieldValue Value="Internal Medicine" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Pharmacists" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To improve mortality and morbidity for patients with heart failure (HF) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To present a framework for treating patients with HF&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adult patients with left ventricular systolic dysfunction&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Diagnosis/Evaluation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Evaluation of ejection fraction (EF) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Measurement of serum B-type natriuretic peptide (BNP) levels &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Management/Treatment&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Pharmacologic therapy:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Angiotensin-converting enzyme (ACE) inhibitors &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Beta blockers &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Aldosterone antagonist (low dose) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Isosorbide dinitrate-hydralazine &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Diuretics &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Angiotensin receptor blockers (ARBs) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Digoxin &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Device therapy:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Implantable defibrillators &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Bi-ventricular pacemakers &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Mortality and mortality associated with heart failure (HF) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Symptom relief &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Rate and length of hospitalization &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Drug interactions and side effects &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Quality of life &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The literature search for this project started with the results of literature searches performed in 1998 and 2005 for earlier versions of this guideline. A new search was conducted prospectively using the major keywords of: congestive heart failure, guidelines, controlled trials, cohort studies, published 4/1/05 to 3/1/11, adults, English language on MEDLINE. Terms used for specific topic searches within the major keywords included: electrolytes; functional or stress testing; catheterization; electrogram; left ventricular ejection fraction measurement: echocardiography, sestamibi, radionuclide ventriculogram; natriuretic peptides (A-,B- [BNP], and C-type), troponin, biomarkers; education; dietary restriction; salt substitutes; exercise; devices: ICD, biventricular pacing, AICD, implantable cardiodefibrillator, LVAD; revascularization; diuretics; angiotensin converting enzyme (ACE) inhibitors; angiotensin receptor antagonist/blocker; aldosterone antagonists; digoxin; beta blockers; vasodilators (e.g., nitrates, hydralazine); calcium channel blockers; inotropic agents; anti-arrhythmics; lipid lowering drugs; fish oil, anticoagulants, anti-thrombotics and antiplatelet agents; influenza vaccination; pneumovax immunization; coenzyme Q10; NSAIDs; narcotics; vitamin D; other complementary and alternative medicine: nutritional supplements, herbal remedies (e.g., hawthorn), chocolate, alcohol, tai chi; disease based management; telemanagement (diuretics &amp;amp; weight); comorbid conditions: renal insufficiency, atrial fibrillation, anemia, sleep apnea, diabetes, depression, erectile dysfunction, dementia, arthritis, sinus node inhibition (beta blockers), hypernatremia (vasopressin antagonists); gender differences; racial differences and pharmacotherapy; end of life considerations, palliative care; any other reference identified by the major keywords and not included in results of specific topic searches. Specific search strategies are available upon request.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The search was conducted in components each keyed to a specific causal link in a formal problem structure (available upon request). The search was supplemented with very recent clinical trials known to expert members of the panel. Negative trials were specifically sought. The search was a single cycle.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Levels of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-alpha;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Randomized controlled trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Controlled trials, no randomization &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Observational trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Opinion of expert panel &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Conclusions were based on prospective randomized clinical trials (RCTs) if available, to the exclusion of other data; if RCTs were not available, observational studies were admitted to consideration. If no such data were available for a given link in the problem formulation, expert opinion was used to estimate effect size.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Strength of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-roman;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Generally should be performed &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;May be reasonable to perform &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Generally should not be performed &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Drafts of this guideline were reviewed in clinical conferences and by distribution for comment within departments and divisions of the University of Michigan Medical School to which the content is most relevant: Cardiology, Family Medicine, General Medicine, and Geriatric Medicine. The final version was endorsed by the Clinical Practice Committee of the University of Michigan Faculty Group Practice and the Executive Committee for Clinical Affairs of the University of Michigan Hospitals and Health Centers.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Conclusions were based on prospective randomized controlled trials (RCTs) if available, to the exclusion of other data; if RCTs were not available, observational studies were admitted to consideration. If no such data were available for a given link in the problem formulation, expert opinion was used to estimate effect size.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate management of patients with heart failure (HF)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Heart failure (HF) patients on multiple medications are at risk of potential drug interactions and side effects. For example, the risk of hyperkalemia is increased in patients with renal insufficiency treated with an aldosterone antagonist and an angiotensin-converting enzyme (ACE) inhibitor. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Many of the medications appropriate for heart failure (ACE inhibitors, angiotensin receptor blockers, aldosterone antagonists, digoxin) can affect potassium or can be affected by potassium levels and renal function. Vigilant monitoring is required. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="430" OrdBy="800" Name="Contraindications">
+    <Field FieldID="144" OrdBy="805" ID="431" Name="Contraindications" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Angiotensin-converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs) may cause hyperkalemia in the presence of renal failure and should be avoided or used only with great caution among patients with creatinine (Cr) &amp;gt;2.5, glomerular filtration rate (GFR) &amp;lt;30, or potassium &amp;gt;5.0. Both classes of agents are contraindicated in patients with bilateral renal artery stenosis, unilateral renal artery stenosis with solitary kidney, pregnancy, and allergies. Angioedema can occur rarely with either class of agent. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Beta-blockers:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Absolute contraindications: heart block, bradycardia, severe reversible airway disease. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Relative contraindications: rest dyspnea with signs of congestion, hemodynamic instability. Once these issues have resolved, beta blockers may be added to the chronic regimen. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Isordil-hydralazine cannot be used concomitantly with phosphodiesterase inhibitors (e.g., sildenafil, tadalafil, and vardenafil). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The use of phosphodiesterase type 5 (PDE-5) inhibitors is contraindicated in patients taking nitrates due to profound hypotension that may develop. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;These guidelines should not be construed as including all proper methods of care or excluding other acceptable methods of care reasonably directed to obtaining the same results. The ultimate judgment regarding any specific clinical procedure or treatment must be made by the physician in light of the circumstances presented by the patient.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Clinical Algorithm" />
+      <FieldValue Value="Foreign Language Translations" />
+      <FieldValue Value="Patient Resources" />
+      <FieldValue Value="Staff Training/Competency Material" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;University of Michigan Health System. Heart failure - systolic dysfunction. Ann Arbor (MI): University of Michigan Health System; 2013 Aug. 24 p.  [36 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="1999 Aug (revised 2013 Aug)" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="University of Michigan Health System - Academic Institution" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;University of Michigan Health System&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Heart Failure Guideline Team&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Team Leader&lt;/em&gt;: William Chavey, MD, Family Medicine&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Team Members&lt;/em&gt;: Barry E. Bleske, PharmD, Pharmacy; R Van Harrison, PhD, Medical Education; Robert V Hogikyan, MD, MPH, Geriatric Medicine; Yeong Kwok, MD, General Medicine; John M. Nicklas, MD, Cardiology&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Consultant&lt;/em&gt;: Todd M Koelling, MD, Cardiology&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Ambulatory Clinical Guidelines Oversight Team&lt;/em&gt;: Grant Greenberg, MD, MA, MHSA; R Van Harrison, PhD&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The University of Michigan Health System endorses the Guidelines of the Association of American Medical Colleges and the Standards of the Accreditation Council for Continuing Medical Education that the individuals who present educational activities disclose significant relationships with commercial companies whose products or services are discussed. Disclosure of a relationship is not intended to suggest bias in the information presented, but is made to provide readers with information that might be of potential importance to their evaluation of the information.&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Financial Disclosures/Relationships&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Team Member/ Consultant&lt;/th&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Company&lt;/th&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Relationship&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot; rowspan=&quot;2&quot;&gt;Barry Bleske, PharmD&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Boehringer Ingelheim, Otsuka&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Speakers bureau&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Otsuka&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Research funding&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;William Chavey, MD&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;(None)&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&amp;nbsp;&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Van Harrison, PhD&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;(None)&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&amp;nbsp;&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Todd Koelling, MD&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&amp;nbsp;&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&amp;nbsp;&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Yeong Kwok, MD&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;(None)&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&amp;nbsp;&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;John Nicklas, MD&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Aastrom&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Consultant&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Robert V Hogikyan, MD, MPH&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;(None)&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&amp;nbsp;&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: University of Michigan Health System. Heart failure - systolic dysfunction. Ann Arbor (MI): University of Michigan Health System; 2006 Sep. 18 p. [15 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available from the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/heart.html&quot; title=&quot;University of Michigan Health System Web site&quot;&gt;University of Michigan Health System Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Continuing Medical Education (CME) information is available from the &lt;a href=&quot;http://ocpd.med.umich.edu/cme/self-study&quot; title=&quot;University of Michigan Health System Web site&quot;&gt;University of Michigan Health System Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Understanding heart failure: answers to common questions. Ann Arbor (MI): University of Michigan Health System; 2013 Aug. 6 p. Electronic copies: Available in Portable Document Format (PDF) from the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/heart/HeartFailure.pdf&quot; title=&quot;University of Michigan Health System (UHMS) Web site&quot;&gt;University of Michigan Health System (UHMS) Web site&lt;/a&gt;. Also available in various foreign language translations from the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/heart/HeartFailure.pdf&quot; title=&quot;University of Michigan Health System (UHMS) Web site&quot;&gt;UMHS Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;My I-SMART diabetes action plan. Ann Arbor (MI): University of Michigan Health System; 2010. 2 p. Electronic copies: Available in PDF from the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/diabetes/ISMART.pdf&quot; title=&quot;University of Michigan Health System (UHMS) Web site&quot;&gt;UHMS Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Disclaimer&quot;&gt;Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This summary was completed by ECRI on August 21, 2000. The information was verified by the guideline developer on November 22, 2000. This summary was updated by ECRI on January 8, 2007. The updated information was verified by the guideline developer on January 19, 2007. This summary was updated by ECRI Institute on September 7, 2007 following the revised U.S. Food and Drug Administration (FDA) advisory on Coumadin (warfarin). This summary was updated by ECRI Institute on January 4, 2010 following the U.S. Food and Drug Administration advisory on Plavix (Clopidogrel). This summary was updated by ECRI Institute on May 17, 2010 following the U.S. Food and Drug Administration advisory on Plavix (clopidogrel). This NGC summary was updated by ECRI Institute on December 12, 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is copyrighted by the University of Michigan Health System (UMHS).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

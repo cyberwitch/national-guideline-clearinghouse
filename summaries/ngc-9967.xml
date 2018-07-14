@@ -1,0 +1,189 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Pharyngitis.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;University of Michigan Health System. Pharyngitis. Ann Arbor (MI): University of Michigan Health System; 2013 May. 10 p.  [10 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: University of Michigan Health System. Pharyngitis. Ann Arbor (MI): University of Michigan Health System; 2006 Oct. 10 p. [9 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Note from the University of Michigan Health System (UMHS) and the National Guideline Clearinghouse (NGC)&lt;/em&gt;&lt;/strong&gt;: The following guidance was current as of May 2013. Because UMHS occasionally releases minor revisions to its guidance based on new information, users may wish to consult the &lt;a href=&quot;http://www.med.umich.edu/1info/fhp/practiceguides/pharyngitis.html&quot; title=&quot;UMHS Web site&quot;&gt;original guideline document&lt;/a&gt;for the most current version.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Note from NGC&lt;/strong&gt;: The following key points summarize the content of the guideline. Refer to the full text for detailed information on each of the screening procedures.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The strength of recommendation (I-III) and levels of evidence (A-D) are defined at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Key Points&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;General Principles&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Viral pathogens cause most cases of pharyngitis: around 90% in adults and 70% in children &lt;em&gt;[C]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The primary reason to identify and treat group A streptococcal (GAS) pharyngitis is to decrease the risk of acute rheumatic fever (ARF) &lt;em&gt;[IB]&lt;/em&gt;. The endemic incidence of ARF is around 0.23-1.88/100,000. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Early treatment of GAS can decrease the time a patient is symptomatic by 1-2 days from a typical 3-7 days &lt;em&gt;[IB]&lt;/em&gt; and can decrease the period of contagiousness &lt;em&gt;[IB]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Diagnosis&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Signs/symptoms of severe sore throat, fever, tender anterior cervical lymphadenopathy, red pharynx with tonsillar swelling +/- exudate, and no cough indicate a higher probability of GAS pharyngitis for both adults and children. Algorithms of epidemiologic and clinical factors improve diagnosis by identifying patients with an exceedingly low risk of GAS infection &lt;em&gt;[C]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Laboratory confirmation:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Neither culture nor rapid antigen screen differentiate individuals with GAS pharyngitis from GAS carriers with an intercurrent viral pharyngitis. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Consider clinical and epidemiological findings (see Table 2 in the original guideline document) when deciding to perform a microbiological test &lt;em&gt;[IB]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Patients with manifestations highly suggestive of a viral infection such as coryza, scleral conjunctival inflammation, hoarseness, cough, discrete ulcerative lesions, or diarrhea, are unlikely to have GAS infection and generally should NOT be tested for GAS infection &lt;em&gt;[IIB]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Throat culture is the presumed &quot;gold standard&quot; for diagnosis. Rapid streptococcal antigen tests identify GAS more rapidly, but have variable sensitivity &lt;em&gt;[B]&lt;/em&gt;.&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Reserve rapid strep tests for patients with a reasonable probability of having GAS. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Confirm negative screen results by culture in patients &amp;lt;16 years old (and consider in parents/siblings of school age children) due to their higher risk of acute rheumatic fever &lt;em&gt;[IIC]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;If screening for GAS in very low risk patients is desired, culture alone is cost-effective &lt;em&gt;[IIC]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Treatment&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Penicillin V is the drug of choice in patients who can swallow pills. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If using suspension, amoxicillin is better tolerated than penicillin V due to the salty/bitter taste. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Amoxicillin as a single daily dose (1 gram/day) for 10 days is as effective as penicillin V or amoxicillin given multiple times per day for 10 days. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A single dose of intramuscular penicillin G benzathine avoids the problem of adherence, but is painful. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If allergic to penicillin, a 10-day course of a first generation cephalosporin is indicated if no history of a type I hypersensitivity to penicillin. Oral clindamycin is an acceptable alternative, if one is unable to use a first generation cephalosporin. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A macrolide is also acceptable for patients allergic to penicillins (resistant rates range 5-8%). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Children with a recurrence of GAS pharyngitis shortly after completing a course of an oral antimicrobial agent can be retreated with the same agent, given an alternative oral drug, or given an intramuscular injection of penicillin G benzathine (expert opinions differ). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Antibiotics must be started within 9 days after onset of acute illness and continued for 10 days (5 days for azithromycin) to eradicate GAS from the upper respiratory tract and prevent ARF &lt;em&gt;[D]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Controversial Areas&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Diagnosis over the telephone based on symptoms alone without lab testing is unreliable &lt;em&gt;[IIID]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Based on a phone description, a nurse triage algorithm may guide screening for GAS &lt;em&gt;[IID]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;When an appropriately symptomatic patient is &amp;ge;3 years old and has a family member recently diagnosed with laboratory confirmed GAS pharyngitis, one may treat without screening &lt;em&gt;[IID]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Levels of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-alpha;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Randomized controlled trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Controlled trials, no randomization &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Observational trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Opinion of expert panel &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strength of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-roman;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Generally should be performed &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;May be reasonable to perform &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Generally should not be performed &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An algorithm titled &quot;An Approach to the Patient With Pharyngitis&quot; is provided in the original guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Pharyngitis&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Pediatrics" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To minimize the risk of developing rheumatic fever and suppurative complications &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To utilize symptoms to determine probability of group A streptococcal (GAS) pharyngitis before testing &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To confirm all negative GAS rapid screen results with culture in patients &amp;lt;16 years old &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To reduce indiscriminate use of antibiotics, minimizing adverse effects and bacterial drug resistance &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients 3 years old through adulthood with a sore throat&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Diagnosis&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Assessment of signs and symptoms &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Rapid group A streptococcal (GAS) screen &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Throat culture &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Management/Treatment&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Amoxicillin &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Penicillin V &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Benzathine penicillin G &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cephalexin &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Clindamycin &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Azithromycin &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Diagnostic accuracy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Rate of prescription of antibiotics &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Symptomatic improvement (i.e., symptom scores) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Overall duration of symptoms (days) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Incidence of acute rheumatic fever (ARF)&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cost-effectiveness &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adverse effects of antibiotic use&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The literature search for this update began with the results of the literature search performed for the 2006 version of this guideline performed in June 2005. A search for literature published since that time was performed. The search on Medline was conducted prospectively for literature published from 6/1/05 to 3/30/11. One set of searches used the major keywords of: GAS pharyngitis (streptococcal infections, streptococcus pyogenes, pharyngitis, pharynx), strep throat; human; English; guidelines, controlled trials, cohort studies. Within these major keywords, specific searches were performed for the following topics: history; physical exam, signs, symptoms throat culture (strep culture); rapid strep screen; observation; antibiotics, other treatment/management, rheumatic fever or group A strep reactive arthritis; and other references found under the major search terms. Specific search terms and strategy are available upon request. Another set of searches used the major keywords of viral pharyngitis/viral sore throat with specific searches performed for: alternative and complimentary therapies (e.g., zinc, vitamin C, echinacea); other treatment.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The search was conducted in components each keyed to a specific causal link in a formal problem structure (available upon request). The search was supplemented with recent clinical trials known to expert members of the panel. Negative trials were specifically sought. The search was a single cycle.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Levels of Evidence &lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-alpha;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Randomized controlled trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Controlled trials, no randomization &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Observational trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Opinion of expert panel &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Conclusions were based on prospective randomized controlled trials (RCTs) if available, to the exclusion of other data; if RCTs were not available, observational studies were admitted to consideration. If no such data were available for a given link in the problem formulation, expert opinion was used to estimate effect size.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Strength of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-roman;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Generally should be performed &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;May be reasonable to perform &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Generally should not be performed &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Tables 4 and 6 in the original guideline document contain cost information for antibiotic treatment for group A streptococcal pharyngitis and frequent recurrent group A streptococcal pharyngitis.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Drafts of this guideline were reviewed in clinical conferences and by distribution for comment within departments and divisions of the University of Michigan Medical School to which the content is most relevant: Family Medicine, General Internal Medicine, General Pediatrics, Pediatric Medical Surgical Joint Practice Committee, and Mott Executive Committee. The Executive Committee for Clinical Affairs of the University of Michigan Hospitals and Health Centers endorsed the final version.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for some of the recommendations (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The most important goal in treating group A streptococcal (GAS) infection is to decrease the occurrence of acute rheumatic fever (ARF). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Appropriate management of individuals with pharyngitis, including those at high risk for complications of GAS (e.g., ARF) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The value of early diagnosis in the minority of cases when group A streptococcal (GAS) infection is present and identified by antigen testing must be weighed against the higher total laboratory charges for the majority of non-GAS pharyngitis cases which require a confirmatory throat culture in patients less than 16 years old. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Antibiotic side effects may include rash, nausea, abdominal pain, and/or diarrhea. A single intramuscular injection of benzathine penicillin produces a significant amount of pain at the injection site that may last a number of days, as well as increased risk of anaphylaxis. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Azithromycin could cause potentially fatal irregular heart rhythm in some patients. At-risk patients include those with a slower-than-normal heartbeat, with potassium or magnesium deficiencies, and those using medications to treat existing heart arrhythmia. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="430" OrdBy="800" Name="Contraindications">
+    <Field FieldID="144" OrdBy="805" ID="431" Name="Contraindications" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The antibiotic rifampin is relatively contraindicated for pregnant women.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;These guidelines should not be construed as including all proper methods of care or excluding other acceptable methods of care reasonably directed to obtaining the same results. The ultimate judgment regarding any specific clinical procedure or treatment must be made by the physician in light of the circumstances presented by the patient.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Clinical Algorithm" />
+      <FieldValue Value="Patient Resources" />
+      <FieldValue Value="Staff Training/Competency Material" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;University of Michigan Health System. Pharyngitis. Ann Arbor (MI): University of Michigan Health System; 2013 May. 10 p.  [10 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="1996 Nov (revised 2013 May)" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="University of Michigan Health System - Academic Institution" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;University of Michigan Health System&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Pharyngitis Guideline Team&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Team Leader&lt;/em&gt;: Terrance P Murphy, MD, Pediatrics&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Team Members&lt;/em&gt;: R Van Harrison, PhD, Medical Education; Annissa J Hammoud, MD, Internal Medicine-Pediatrics; Gary Yen, MD, Family Medicine&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Consultants&lt;/em&gt;: Kristin C Klein, PharmD, College of Pharmacy&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Guidelines Oversight Team&lt;/em&gt;: Grant Greenberg, MD, MA, MHSA; R Van Harrison, PhD&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The University of Michigan Health System endorses the Guidelines of the Association of American Medical Colleges and the Standards of the Accreditation Council for Continuing Medical Education that the individuals who present educational activities disclose significant relationships with commercial companies whose products or services are discussed. Disclosure of a relationship is not intended to suggest bias in the information presented, but is made to provide readers with information that might be of potential importance to their evaluation of the information.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Neither the members of the Pharyngitis guideline team nor the consultant have a relationship with commercial companies whose products are discussed in this guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: University of Michigan Health System. Pharyngitis. Ann Arbor (MI): University of Michigan Health System; 2006 Oct. 10 p. [9 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available from the &lt;a href=&quot;http://www.med.umich.edu/1info/fhp/practiceguides/pharyngitis.html&quot; title=&quot;University of Michigan Health System Web site&quot;&gt;University of Michigan Health System Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Continuing Medical Education (CME) information is available from the &lt;a href=&quot;http://ocpd.med.umich.edu/cme/self-study/Pharyngitis&quot; title=&quot;University of Michigan Health System Web site&quot;&gt;University of Michigan Health System Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Sore throat (pharyngitis). University of Michigan Health System; 2012 Jul. 2 p. Electronic copies: Available in Portable Document Format (PDF) from the &lt;a href=&quot;http://www.med.umich.edu/1info/fhp/practiceguides/pharyngitis/Pharyngitis.pdf&quot; title=&quot;University of Michigan Health System Web site&quot;&gt;University of Michigan Health System Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Disclaimer&quot;&gt;Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This summary was completed by ECRI on May 20, 1999. The information was verified by the guideline developer on June 17, 1999. This summary was updated by ECRI on December 14, 2001. The updated information was verified by the guideline developer as of February 8, 2002. This summary was updated by ECRI Institute on April 23, 2007. The updated information was verified by the guideline developer on April 25, 2007. This NGC summary was updated by ECRI Institute on October 21, 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is copyrighted by the University of Michigan Health System (UMHS).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

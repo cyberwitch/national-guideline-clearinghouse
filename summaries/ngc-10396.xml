@@ -1,0 +1,180 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;American College of Medical Genetics and Genomics guideline for the clinical evaluation and etiologic diagnosis of hearing loss.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alford RL, Arnos KS, Fox M, Lin JW, Palmer CG, Pandya A, Rehm HL, Robin NH, Scott DA, Yoshinaga-Itano C, ACMG Working Group on Update of Genetics Evaluation Guidelines for the Etiologic Diagnosis [trunc], Professional Practice and Guidelines Committee. American College of Medical Genetics and Genomics guideline for the clinical evaluation and etiologic diagnosis of hearing loss. Genet Med. 2014 Apr;16(4):347-55. [114 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24651602&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: Genetic Evaluation of Congenital Hearing Loss Expert Panel. Genetics evaluation guidelines for the etiologic diagnosis of congenital hearing loss. American College of Medical Genetics and Genomics (ACMG) statement. Genet Med. 2002 May-Jun;4(3):162-71. [31 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;All newborns and infants with confirmed hearing loss should undergo a comprehensive evaluation in which patient-focused medical and birth histories and a three-generation pedigree and family medical history are obtained, and a physical examination that focuses on dysmorphic physical findings is performed. Evaluation of children and young adults with hearing loss should follow a similar approach. Evaluation of deaf or hard-of-hearing adults should be customized based on the age of onset and other characteristics of the hearing loss (see Figure 1 in the original guideline document).&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;The medical and birth histories may be helpful in differentiating between acquired versus inherited causes of hearing loss. Elements of medical and birth histories focused on hearing loss include the following:&#xD;&#xA;        &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;            &lt;li&gt;Prenatal history, including maternal infections (e.g., cytomegalovirus [CMV], rubella) and illnesses (e.g., syphilis), or medication or drug exposures (e.g., thalidomide, retinoic acid) &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Neonatal history, including premature birth, low birth weight, birth hypoxia, hyperbilirubinemia, sepsis, and exposure to ototoxic medications &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Postnatal history, including viral illnesses, bacterial meningitis, head trauma, noise exposure, and exposure to ototoxic medications &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Audiometric assessment of the hearing loss, including sensorineural versus conductive or mixed hearing loss; age of onset; progressive, nonprogressive, or fluctuating nature of the hearing loss; laterality, symmetry, severity, and configuration of the hearing loss; and the presence or absence of vestibular dysfunction or auditory neuropathy &lt;/li&gt;&#xD;&#xA;        &lt;/ul&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;The pedigree and family medical history should focus on identifying the following:&#xD;&#xA;        &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;            &lt;li&gt;First- and second-degree relatives with hearing loss or with features commonly associated with hearing loss (such as pigmentary, branchial, or renal anomalies) or sudden cardiac death &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;A pattern of inheritance &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Ethnicity and country of origin &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;A common origin from ethnically or geographically isolated areas &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Consanguinity &lt;/li&gt;&#xD;&#xA;        &lt;/ul&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;The physical examination should focus on dysmorphic and other physical findings such as the following:&#xD;&#xA;        &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;            &lt;li&gt;Unusual facial appearance, with attention to asymmetry &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Pigmentary anomalies &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Neck, skin, facial, or ear anomalies &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Neurological abnormalities &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Balance disturbances &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Skeletal abnormalities &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Other unusual physical findings &lt;/li&gt;&#xD;&#xA;        &lt;/ul&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;2&quot;&gt;&#xD;&#xA;    &lt;li&gt;For individuals with findings that suggest a syndromic genetic etiology for their hearing loss:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Pretest genetic counseling should be provided, and, with patient's informed consent, genetic testing, if available, should be ordered to confirm the diagnosis&amp;mdash;this testing may include single-gene tests, hearing loss sequencing panels, whole-exome sequencing (WES), whole-genome sequencing (WGS), chromosome analysis, or microarray-based copy-number analysis, depending on clinical findings. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Appropriate studies should be undertaken to determine whether other organs are involved. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Appropriate near-term and long-term screening and management should be arranged, including referrals to specialists, as indicated by the associated manifestations of the particular syndrome. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;3&quot;&gt;&#xD;&#xA;    &lt;li&gt;For individuals lacking physical findings suggestive of a known syndrome and having medical and birth histories that do not suggest an environmental cause of hearing loss, a tiered diagnostic approach should be implemented.&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Pretest genetic counseling should be provided, and, with patient's informed consent, genetic testing should be ordered.&#xD;&#xA;        &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;            &lt;li&gt;Single-gene testing may be warranted in cases in which the medical or family history, or presentation of the hearing loss, suggests a specific etiology. For example, testing for mitochondrial deoxyribonucleic acid (DNA) mutations associated with aminoglycoside ototoxicity may be considered for individuals with a history of use of aminoglycoside antibiotics. &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;In the absence of any specific clinical indications and for singleton cases and cases with apparent autosomal recessive inheritance, the next step should be testing for DFNB1-related hearing loss (due to mutations in &lt;em&gt;GJB2&lt;/em&gt; and adjacent deletions in &lt;em&gt;GJB6&lt;/em&gt;). &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;If initial genetic testing is negative, genetic testing using gene panel tests, next-generation sequencing (NGS) technologies such as large sequencing panels targeted toward hearing loss&amp;ndash;related genes, WES, or WGS may be considered. Because several tests are clinically available, the clinician must be aware of the genes included in the test (panel) chosen and the performance characteristics of the platform chosen, including coverage, analytic sensitivity, and what types of mutations will be detected. It should be noted that the cost of these new genetic sequencing technologies is decreasing so rapidly that a tiered approach to testing may soon no longer be cost effective. In particular, for large sequencing panels targeted toward hearing loss&amp;ndash;related genes, it may, in some cases, already be more cost effective to use NGS technologies as the initial test in the evaluation of hearing loss. However, issues related to genomic testing, such as the likelihood of incidental findings, will have to be addressed. &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;If genetic testing reveals mutation(s) in a hearing loss&amp;ndash;related gene, mutation-specific genetic counseling should be provided, followed by appropriate medical evaluations and referrals. &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;If genetic testing fails to identify an etiology for a patient's hearing loss, the possibility of a genetic or acquired etiology remains. This point must be emphasized because it can be misunderstood by clinicians and by patients and their families. For interested patients and families, further genetic testing may be pursued on a research basis. &lt;/li&gt;&#xD;&#xA;        &lt;/ul&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Temporal bone imaging by computed tomography or magnetic resonance imaging should be considered as a complement to genetic testing, particularly if the diagnosis remains unclear, if cochlear implantation is being considered, if auditory neuropathy is noted, in cases of progressive hearing loss, or if other clinical concerns exist. The anticipated clinical utility of imaging studies should be balanced against the risks associated with radiation exposure and sedation. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;CMV testing should be done at the same time as genetic testing for infants with congenital hearing loss. For later-onset or progressive hearing loss, CMV testing can be obtained, but the likelihood that a positive test is due to postnatal exposure increases with age. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;4&quot;&gt;&#xD;&#xA;    &lt;li&gt;Referral to a multidisciplinary care center, when available, is recommended.&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;A team approach that includes otolaryngologists, clinical geneticists, genetic counselors, audiologists, speech and language specialists, early hearing intervention and family support specialists (which may include other individuals who are deaf or hard of hearing or other parents of deaf or hard-of-hearing children), and other appropriate specialists offers optimal opportunity to provide ongoing management and support of deaf and hard-of-hearing individuals and their families as their needs change over time. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;For cases in which the genetic evaluation failed to identify an underlying cause, periodic follow-up care every 3 years with a geneticist may be appropriate for several reasons. First, subtle features of syndromic forms of hearing loss may not be apparent at birth or early in childhood but may appear as deaf or hard-of-hearing individuals grow into adulthood. These may prompt additional medical tests or referrals for specialty care. Second, follow-up visits offer the opportunity to inform individuals about new genetic tests that may have become available or changes in the interpretation of previous test results as medical knowledge advances. Finally, follow-up visits may also help identify clinical concerns unrelated to hearing loss, for which referral for specialty care may be appropriate (see Figure 1 in the original guideline document). &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;5&quot;&gt;&#xD;&#xA;    &lt;li&gt;Regardless of whether genetic test results are positive, negative, or inconclusive, results should be communicated through the process of genetic counseling. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An algorithm titled &quot;Graphic Overview of Approaches to the Clinical Evaluation and Etiologic Diagnosis of Hearing Loss&quot; is provided in the original guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Hearing loss (inherited or acquired)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Counseling" />
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Medical Genetics" />
+      <FieldValue Value="Otolaryngology" />
+      <FieldValue Value="Pediatrics" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To provide information about the frequency, causes, and presentations of hearing loss &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To suggest approaches to the clinical evaluation of deaf and hard-of-hearing individuals aimed at identifying an etiologic diagnosis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To provide informative and effective patient education and genetic counseling &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Deaf and hard-of-hearing individuals of any age&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patient history&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Prenatal, neonatal, and postnatal history &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Audiometric assessment of the hearing loss &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Family pedigree (relatives with hearing loss, inheritance patterns, ethnicity, and consanguinity) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Physical examination focused on dysmorphic and other physical findings &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Genetic testing&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Hearing loss sequencing panels, whole-exome sequencing (WES), whole-genome sequencing (WGS), chromosome analysis, or microarray-based copy-number analysis &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Single gene testing &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;DFNB1 testing &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Genetic counseling (including mutation-specific genetic counseling) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Temporal bone imaging by computed tomography &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Magnetic resonance imaging (MRI) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cytomegalovirus (CMV) testing &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Referral to a multidisciplinary care center&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Team approach &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Follow-up care &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Sensitivity of diagnostic tests &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Clinical utility of genetic and non-genetic testing &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Prognostic accuracy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Efficacy of patient education &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A PubMed literature search was performed for the years 2011 to 2014. Additionally, Internet search engines were used to gather information from resources not contained within PubMed (resources used are cited in the original guideline document). Search terms included hearing loss, genetic, deafness, hereditary, and terms specific to individual genes including KCNQ4, ACTG1, SOX10, PAX3, SLC26A4, GJB2, specific syndromes such as Waardenburg syndrome type I, Pendred syndrome, Waardenburg syndrome type II, Usher syndrome types I and II, branchio-oto-renal, and specific ototoxic medications or laboratory methods.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus (Committee)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Not stated" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The recommendations were based on a comprehensive review of published reports. In cases where the data did not appear conclusive, recommendations were based on the consensus opinion of the group.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate clinical evaluation and etiologic diagnosis of individuals with hearing loss&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The anticipated clinical utility of imaging studies (e.g., temporal bone imaging by computed tomography or magnetic resonance imaging) should be balanced against the risks associated with radiation exposure and sedation.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This guideline is designed primarily as an educational resource for clinicians to help them provide quality medical services. Adherence to this guideline is completely voluntary and does not necessarily assure a successful medical outcome. This guideline should not be considered inclusive of all proper procedures and tests or exclusive of other procedures and tests that are reasonably directed to obtaining the same results. In determining the propriety of any specific procedure or test, the clinician should apply his or her own professional judgment to the specific clinical circumstances presented by the individual patient or specimen. Clinicians are encouraged to document the reasons for the use of a particular procedure or test, whether or not it is in conformance with this guideline. Clinicians also are advised to take notice of the date this guideline was adopted, and to consider other medical and scientific information that becomes available after that date. It also would be prudent to consider whether intellectual property interests may restrict the performance of certain tests and other procedures.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Clinical Algorithm" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alford RL, Arnos KS, Fox M, Lin JW, Palmer CG, Pandya A, Rehm HL, Robin NH, Scott DA, Yoshinaga-Itano C, ACMG Working Group on Update of Genetics Evaluation Guidelines for the Etiologic Diagnosis [trunc], Professional Practice and Guidelines Committee. American College of Medical Genetics and Genomics guideline for the clinical evaluation and etiologic diagnosis of hearing loss. Genet Med. 2014 Apr;16(4):347-55. [114 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24651602&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2002 May-Jun (revised 2014 Apr)" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="American College of Medical Genetics and Genomics - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American College of Medical Genetics and Genomics&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American College of Medical Genetics and Genomics Working Group on Update of Genetics Evaluation Guidelines for the Etiologic Diagnosis of Congenital Hearing Loss&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Work Group Members&lt;/em&gt;: Raye L. Alford, PhD, FACMG, Bobby R. Alford Department of Otolaryngology&amp;ndash;Head and Neck Surgery, Baylor College of Medicine, Houston, Texas, USA; Kathleen S. Arnos, PhD, FACMG, Department of Science, Technology, and Mathematics, Gallaudet University, Washington, DC, USA; Michelle Fox, MS, CGC, Department of Pediatrics, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, California, USA, Department of Genetics, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, California, USA; Jerry W. Lin, MD, PhD, Bobby R. Alford Department of Otolaryngology&amp;ndash;Head and Neck Surgery, Baylor College of Medicine, Houston, Texas, USA; Christina G. Palmer, PhD, FACMG, Department of Psychiatry and Biobehavioral Sciences, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, California, USA, Department of Human Genetics, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, California, USA; Arti Pandya, MD, FACMG, Department of Human and Molecular Genetics, Virginia Commonwealth University, Richmond, Virginia, USA; Heidi L. Rehm, PhD, FACMG, Laboratory for Molecular Medicine, Harvard Medical School, Cambridge, Massachusetts, USA; Nathaniel H. Robin, MD, FACMG, Department of Genetics, University of Alabama at Birmingham, Birmingham, Alabama, USA;&amp;nbsp;Daryl A. Scott, MD, PhD,&amp;nbsp;Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, USA, Department of Molecular Physiology and Biophysics, Baylor College of Medicine, Houston, Texas, USA;&amp;nbsp;Christine Yoshinaga-Itano, PhD, School of Medicine, University of Colorado Denver, Aurora, Colorado, USA&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Christina G. Palmer has received grant support to develop educational materials on cancer for the Deaf community. Heidi L. Rehm is employed by a fee-for-service laboratory that offers diagnostic testing for hearing loss. The other authors declare no conflict of interest.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: Genetic Evaluation of Congenital Hearing Loss Expert Panel. Genetics evaluation guidelines for the etiologic diagnosis of congenital hearing loss. American College of Medical Genetics and Genomics (ACMG) statement. Genet Med. 2002 May-Jun;4(3):162-71. [31 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;https://www.acmg.net/docs/ACMG_Guideline_for_Clinical_Eval_and_Etiologic_Dx%20of_Hearing_Loss_GIM_Apr2014.pdf&quot; title=&quot;American College of Medical Genetics and Genomics (ACMG) Web site&quot;&gt;American College of Medical Genetics and Genomics (ACMG) Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on July 24, 2014. The information was verified by the guideline developer on August 1, 2014. This summary was updated by ECRI Institute on February 15, 2017 following the U.S. Food and Drug Administration advisory on general anesthetic and sedation drugs.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

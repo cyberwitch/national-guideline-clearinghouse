@@ -1,0 +1,182 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Guideline for surgical smoke safety.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ogg MJ. Guideline for surgical smoke safety. In: 2017 Guidelines for Perioperative Practice. Denver (CO): Association of periOperative Registered Nurses (AORN); 2016 Dec. p. 477-506. [223 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Note from the Association of periOperative Registered Nurses (AORN)&lt;/strong&gt;: The original guideline document provides guidance on surgical smoke safety precautions to help the perioperative team establish a safe environment for the surgical patient and team members through consistent use of control measures.&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-roman;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The health care organization should provide a surgical smoke-free work environment. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The perioperative team should evacuate all surgical smoke. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative team members should receive initial and ongoing education and competency verification on surgical smoke safety. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Policies and procedures for surgical smoke safety should be developed, reviewed periodically, revised as necessary, and readily available in the practice setting in which they are used. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Perioperative personnel should participate in a variety of quality assurance and performance improvement activities that are consistent with the health care organization's plan to improve understanding and compliance with the principles and processes of surgical smoke evacuation. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Any condition requiring surgical or other invasive procedure in which surgical smoke might be produced&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Prevention" />
+      <FieldValue Value="Risk Assessment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Nursing" />
+      <FieldValue Value="Surgery" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Hospitals" />
+      <FieldValue Value="Nurses" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To provide guidance on surgical smoke safety precautions to help the perioperative team establish a safe environment for the surgical patient and team members through consistent use of control measures&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Perioperative personnel and patients undergoing surgical and other invasive procedures&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Provisions for a surgical smoke-free work environment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Evacuations of all surgical smoke &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Initial and ongoing education and competency verification on surgical smoke safety &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Development and continued review of policies and procedures for surgical smoke safety &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Participation in quality assurance and performance improvement activities &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Surgical smoke exposure hazards (respiratory, chemical, carcinogenic, viral, bacterial) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Symptoms associated with exposure to surgical smoke &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Smoke particle size, distribution, and concentration &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Chemical composition of surgical smoke &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Bacterial and viral content of surgical smoke &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Compliance with smoke evacuation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Visibility of surgical fields &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Effectiveness of safety measures (use of filters, air suctioning, irrigation, exhaust ventilation, smoke evacuation, etc.) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Evidence Review&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A medical librarian conducted systematic searches of the databases MEDLINE&amp;reg;, CINAHL&amp;reg;, Scopus&amp;reg;, and the Cochrane Database of Systematic Reviews. Results were limited to literature published in English from January 1985 to November 2015. During the development of the guideline, the lead author requested additional articles that either did not fit the original search criteria or were discovered during the evidence appraisal process, and the lead author and the medical librarian identified relevant guidelines from government agencies and standards-setting bodies. Updated searches were completed in January 2016.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Search terms related to procedures included the subject headings and keywords &lt;em&gt;diathermy, cautery, laser, electrosurgery,&lt;/em&gt; and &lt;em&gt;surgical procedures, operative&lt;/em&gt;. Search terms and keywords related to by-products included &lt;em&gt;smoke, plume, fume, exhaust, mist, particulate matter, bioaerosols, aerosols, smoke evacuation, smoke extractor,&lt;/em&gt; and &lt;em&gt;occupational air pollutants&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Inclusion criteria were research and non-research literature in English, complete publications, and publication dates within the time restriction unless none were available. Excluded were non-peer-reviewed publications and literature on surgical smoke safety. Letters and editorials were excluded. Low-quality evidence was excluded when higher-quality evidence was available, and literature outside the time restriction was excluded when literature within the time restriction was available.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In total, 274 research and non-research sources of evidence were identified for possible inclusion, and of these, 223 were cited in the guidance document. See Figure 1 in the original guideline document for a flow diagram of literature search results.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;I&lt;/strong&gt;: Randomized controlled trial (RCT) or experimental study, systematic review of all RCTs&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;II&lt;/strong&gt;: Quasi-experimental study, systematic review of quasi-experimental studies or combination of quasi-experimental and RCTs&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;III&lt;/strong&gt;: Non-experimental studies, qualitative studies, systematic review of non-experimental studies, combination of non-experimental, quasi-experimental, and RCTs, or any or all studies are qualitative&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;IV&lt;/strong&gt;: Clinical practice guidelines, position or consensus statements&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;V&lt;/strong&gt;: Literature review, expert opinion, case report, community standard, clinician experience, consumer experience, organizational experience (quality improvement, financial)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Articles identified in the search were provided to the project team for evaluation. The team consisted of the lead author and two evidence appraisers. The lead author divided the search results into topics and assigned members of the team to review and critically appraise each article using the Association of periOperative Registered Nurses (AORN) Research or Non-Research Evidence Appraisal Tools as appropriate. The literature was independently evaluated and appraised according to the strength and quality of the evidence. Each article was then assigned an appraisal score. The appraisal score is noted in brackets after each reference in the original guideline document, as applicable.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The collective evidence supporting each intervention within a specific recommendation was summarized, and the Association of periOperative Registered Nurses (AORN) Evidence Rating Model (see the &quot;Rating Scheme for the Strength of the Recommendations&quot; field) was used to rate the strength of the evidence. Factors considered in the review of the collective evidence were the quality of the evidence, the quantity of similar evidence on a given topic, and the consistency of evidence supporting a recommendation. The evidence rating is noted in brackets after each intervention in the original guideline document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;1: Strong Evidence&lt;/strong&gt;: Interventions or activities for which effectiveness has been demonstrated by high quality evidence from rigorously-designed studies, meta-analyses, or systematic reviews, or rigorously-developed clinical practice guidelines&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Evidence from a meta-analysis or systematic review of research studies that incorporated evidence appraisal and synthesis of the evidence in the analysis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Supportive evidence from a single well-conducted randomized controlled trial (RCT) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Guidelines that are developed by a panel of experts, that derive from an explicit literature search methodology, and include evidence appraisal and synthesis of the evidence &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;1: Regulatory Requirement&lt;/strong&gt;: Federal law or regulation&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;2: High Evidence&lt;/strong&gt;: Interventions or activities for which effectiveness has been demonstrated by evidence from:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Good quality systematic review of RCTs &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;High quality systematic review in which all studies are quasi-experimental or a combination of RCTs and quasi-experimental studies &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;High quality quasi-experimental study &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;High quality systematic review in which all studies are non-experimental or include a combination of RCTs, quasi-experimental, and non-experimental studies. Any or all studies may be qualitative. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;High quality non-experimental studies &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;High quality qualitative studies &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Good quality clinical practice guideline, consensus or position statement &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;3: Moderate Evidence&lt;/strong&gt;: Interventions or activities for which the evidence has been demonstrated by evidence from:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Good quality systematic review in which all studies are quasi-experimental or a combination of RCTs and quasi-experimental studies &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Good quality quasi-experimental study &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;High or good quality literature review, case report, expert opinion, or organizational experience &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;4: Limited Evidence&lt;/strong&gt;: Interventions or activities for which there are currently insufficient evidence or evidence of low quality&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Supportive evidence from a poorly conducted research study &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Evidence from non-experimental studies with high potential for bias &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Guidelines developed largely by consensus or expert opinion &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Non-research evidence with insufficient evidence or inconsistent results &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Conflicting evidence, but where the preponderance of the evidence supports the recommendation &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;5: Benefits Balanced with Harms&lt;/strong&gt;: Selected interventions or activities for which the Association of periOperative Registered Nurses (AORN) Guidelines Advisory Board is of the opinion that the desirable effects of following this recommendation outweigh the harms&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="External Peer Review" />
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Guideline for Surgical Smoke Safety has been approved by the Association of periOperative Registered Nurses (AORN) Guidelines Advisory Board. It was presented as a proposed guideline for comments by members and others. The guideline is effective December 15, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The literature was independently evaluated and appraised according to the strength and quality of the evidence. Each article was then assigned an appraisal score. The appraisal score is noted in brackets after each reference in the original guideline document, as applicable. Also see the original guideline document for the systematic review and discussion of evidence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Reduced exposure of perioperative personnel and surgical patients to hazardous surgical smoke &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Reduced risk of injury to health care personnel and surgical patients &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Refer to the original guideline document for additional discussion of potential benefits of specific interventions. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;These recommendations represent the Association's official position on questions regarding optimal perioperative nursing practice. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;No attempt has been made to gain consensus among users, manufacturers, and consumers of any material or product. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Compliance with the Association of periOperative Registered Nurses (AORN) guideline is voluntary. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;AORN's recommendations are intended as achievable and represent what is believed to be an optimal level of patient care within surgical and invasive procedure settings. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Although they are considered to represent the optimal level of practice, variations in practice settings and clinical situations may limit the degree to which each recommendation can be implemented. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;AORN recognizes the many diverse settings in which perioperative nurses practice; therefore, this guideline is adaptable to all areas where operative or other invasive procedures may be performed. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Mobile Device Resources" />
+      <FieldValue Value="Resources" />
+      <FieldValue Value="Staff Training/Competency Material" />
+      <FieldValue Value="Tool Kits" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ogg MJ. Guideline for surgical smoke safety. In: 2017 Guidelines for Perioperative Practice. Denver (CO): Association of periOperative Registered Nurses (AORN); 2016 Dec. p. 477-506. [223 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2016 Dec" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Association of periOperative Registered Nurses - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Association of periOperative Registered Nurses (AORN)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Association of periOperative Registered Nurses (AORN) Guidelines Advisory Board&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Lead Author&lt;/em&gt;: Mary J. Ogg, MSN, RN, CNOR, Senior Perioperative Practice Specialist, AORN Nursing Department, Denver, Colorado&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Team Members&lt;/em&gt;: Brenda Ulmer, MSN, RN, CNOR, Consultant, Snellville, Georgia; Debra A. Novak, PhD, RN, Senior Service Fellow, National Personal Protective Technology Lab, NIOSH, CDC, Pittsburgh, Pennsylvania; Melanie Sandoval, PhD, RN, ACNP, Assistant Professor of Research, University of Colorado-Denver, School of Medicine, Aurora; Lisa Spruce, DNP, RN, CNS-CP, CNOR, ACNS, ACNP, FAAN, Director, Evidence-based Perioperative Practice, Denver, Colorado; Jocelyn M. Chalquist, BSN, RN, CNOR, Surgical Services Educator, Aurora Medical Center, Kenosha, Wisconsin; Michelle R. Dempsey-Evans, MSN, RN, CNOR, CRCST, Orthopaedic Program Coordinator, Bon Secours Mary Immaculate Hospital, Newport News, Virginia; Nathalie Walker, MBA, RN, CNOR, Louisiana Nursing Supply and Demand Center, Metairie, Louisiana&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No financial relationships relevant to the content of this guideline have been disclosed by the authors, planners, peer reviewers, or staff.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available to subscribers from the &lt;a href=&quot;http://www.aorn.org/eSubscription/&quot; title=&quot;AORN Web site&quot;&gt;Association of periOperative Nurses Web (AORN) site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Print copies: Available for purchase from the &lt;a href=&quot;http://www.aorn.org/guidelines/purchase-guidelines/print-edition&quot; title=&quot;AORN Web site&quot;&gt;AORN Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul title=&quot;disc&quot;&gt;&#xD;&#xA;    &lt;li&gt;Evidence table. Guideline for surgical smoke safety. 2016 Dec. 65 p. Available from the &lt;a href=&quot;http://www.aorn.org/guidelines/about-aorn-guidelines/evidence-tables&quot; title=&quot;AORN Web site&quot;&gt;Association of periOperative Nurses (AORN) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Additional implementation tools, including online learning modules, videos and community discussions, are available from the &lt;a href=&quot;https://www.aorn.org/guidelines/guideline-implementation-topics/patient-and-worker-safety/surgical-smoke&quot; title=&quot;AORN Web site&quot;&gt;AORN Web site&lt;/a&gt;. A tool kit is also available from the &lt;a href=&quot;https://www.aorn.org/guidelines/clinical-resources/tool-kits/management-of-surgical-smoke-tool-kit&quot; title=&quot;AORN Web site&quot;&gt;AORN Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Documents related to the evidence rating model, hierarchy of evidence, and expanded appraisal tools are available from the &lt;a href=&quot;https://www.aorn.org/guidelines/about-aorn-guidelines/evidence-rating&quot; title=&quot;AORN Web site&quot;&gt;AORN Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In addition, an AORN Guidelines for Perioperative Practice eBook mobile app is available from the &lt;a href=&quot;http://www.aorn.org/guidelines/purchase-guidelines/ebook-mobile-app&quot; title=&quot;AORN Web site&quot;&gt;AORN Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on March 7, 2017. The information was not verified by the guideline developer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

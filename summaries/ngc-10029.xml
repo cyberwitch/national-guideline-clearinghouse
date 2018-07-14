@@ -1,0 +1,172 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Clinical genetics evaluation in identifying the etiology of autism spectrum disorders: 2013 guideline revisions.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Schaefer GB, Mendelsohn NJ, Professional Practice and Guidelines Committee. Clinical genetics evaluation in identifying the etiology of autism spectrum disorders: 2013 guideline revisions. Genet Med. 2013 May;15(5):399-407. [76 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23519317&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: Schaefer GB, Mendelsohn NJ. Genetics evaluation for the etiologic diagnosis of autism spectrum disorders. Genet Med 2008;10:4&amp;ndash;12.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;The Diagnostic Process&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Accurate diagnosis&lt;/em&gt;. It is critical that an accurate diagnosis of autism spectrum disorder (ASD) be made before initiating the genetic evaluation. All patients with ASDs should have a formal audiogram to rule out a significant hearing loss. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Role of the patient-centered medical home (PCMH)&lt;/em&gt;. Every individual with an ASD should have a designated primary-care medical home. Often, the primary care physician will be the first professional to raise the question of ASD as a possible diagnosis. After clinical genetics consultation, the primary care physician and the clinical geneticist should be prepared to partner in ordering, scheduling, and coordinating recommended diagnostic tests. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Referral for clinical genetics evaluation&lt;/em&gt;. A genetic consultation should be offered to all persons/families with ASDs. Evaluations should be considered for any individual along the entire ASDs spectrum. The referring professional should discuss expectations and possible outcomes of such an evaluation before making the referral. The referring professional should be aware of what is involved in such a consultation and the potential diagnostic yields and should share this information with the patient/family. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Tiered evaluation&lt;/em&gt;. The clinical genetic evaluation of an individual with an ASD must be customized to the clinical situation. A patient may be referred to the geneticist with the goal of confirming a specific diagnosis that is being considered. Alternatively, a syndromic diagnosis may be apparent to the geneticist in the initial visit. In either case, the diagnosis should be confirmed using accepted clinical criteria and/or laboratory testing (if available). Many recognizable syndromes have a firmly documented association with ASDs. For these conditions, further investigation into the etiology of the ASD is unnecessary (see Table 5 in the original guideline document).&#xD;&#xA;    &lt;p&gt;There are, however, genetic conditions that have been reported in association with ASDs for which the reported association is not convincing. For patients with these conditions, it is recommended that an etiologic evaluation of the ASD be undertaken as an independent process (see Table 6 in the original guideline document). If the clinical geneticist does not identify a specific disorder in the initial evaluation, further testing can be accomplished as outlined in the table below.&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Genetic counseling&lt;/em&gt;. Upon completion of the clinical genetics evaluation, two groups of individuals will have been identified: those with and those without an identifiable etiology. Genetic counseling should be provided to both groups. For those without an identifiable etiology, counseling should be provided using empiric recurrence-risk data. The accepted published recurrence risk for full siblings is approximately 3%&amp;ndash;10%&amp;mdash;although newer studies are suggesting that this risk may be higher. Modified for sex, the risks are 7% if the affected child is female and 4% if the affected child is male. If there are multiple children (two or more) with ASDs, published reports would predict at least a 30% recurrence risk. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Treatment and follow-up&lt;/em&gt;. Clinical geneticists differ greatly in their practice as to their involvement with patients after completion of diagnostic consultations. Management and treatment plans depend on specific etiologic diagnoses. Such cases are often comanaged by agreement by the clinical geneticist and the primary care physician. Changes in technology and in phenotypes often aid in ultimately obtaining a diagnosis in patients for whom a diagnosis is not initially established. Thus, periodic reevaluations should be considered for patients in whom a definitive etiology is not initially discovered. The timing of interval follow-up consultations should be negotiated among the patient/family, the PCMH, and the medical geneticist. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Table: Template for the Clinical Genetic Diagnostic Evaluation of Autism Spectrum Disorder&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Template for the Clinical Genetic Diagnostic Evaluation of Autism Spectrum Disorder&quot;&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&lt;strong&gt;First Tier&lt;/strong&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Three-generation family history with pedigree analysis &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Initial evaluation to identify known syndromes or associated conditions&#xD;&#xA;                &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                    &lt;li&gt;Examination with special attention to dysmorphic features &lt;/li&gt;&#xD;&#xA;                    &lt;li&gt;If specific syndromic diagnosis is suspected, proceed with targeted testing &lt;/li&gt;&#xD;&#xA;                    &lt;li&gt;If appropriate clinical indicators present, perform metabolic and/or mitochondrial testing (alternatively, consider a referral to a metabolic specialist) &lt;/li&gt;&#xD;&#xA;                &lt;/ul&gt;&#xD;&#xA;                &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Chromosomal microarray: oligonucleotide array-comparative genomic hybridization or single-nucleotide polymorphism array &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Deoxyribonucleic acid (DNA) testing for fragile X (to be performed routinely for male patients only)&lt;sup&gt;a&lt;/sup&gt; &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&lt;strong&gt;Second Tier&lt;/strong&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;&lt;em&gt;Methyl-CPG-binding protein 2 (MECP2)&lt;/em&gt; sequencing to be performed for all females with autism spectrum disorders (ASDs) &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;&lt;em&gt;MECP2&lt;/em&gt; duplication testing in males, if phenotype is suggestive &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;&lt;em&gt;Phosphatase and tensin homolog (PTEN)&lt;/em&gt; testing only if the head circumference is &amp;gt;2.5 standard deviation (SD) above the mean &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Brain magnetic resonance imaging only in the presence of specific indicators (e.g., microcephaly, regression, seizures, and history of stupor/coma) &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;sup&gt;a&lt;/sup&gt;DNA testing for fragile X in females if indicators present (e.g., family history and phenotype).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Autism spectrum disorders (ASDs), including:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Autistic disorder &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Asperger syndrome &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pervasive developmental disorder not otherwise specified &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Counseling" />
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Technology Assessment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Medical Genetics" />
+      <FieldValue Value="Pediatrics" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To assist the clinician in the consideration of the following:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Ensuring an accurate diagnosis of autism before proceeding with any investigation &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Discussing testing options, diagnostic yields, and family investment before proceeding with an evaluation &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Communicating and coordinating with the patient-centered medical home (PCMH) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Assessing the continuously expanding and evolving list of available laboratory-testing modalities in light of the published literature &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Recognizing the expanded phenotypes of well-described syndromic and metabolic conditions that overlap with autism spectrum disorders (ASDs) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Defining an individualized evaluation plan based on the unique history and clinical features of a given patient &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To outline a tiered evaluation of the etiology of ASDs based on current evidence &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients and families with autism spectrum disorders (ASDs)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Diagnosis of autism spectrum disorder (ASD), including audiogram &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient-centered medical home (PCMH), with primary care physician partnered with clinical geneticist &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Referral for clinical genetics evaluation, with discussion of expectations and possible outcomes of the evaluation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tiered, or stepwise, clinical genetics evaluation customized to individual patient&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Diagnosis confirmed by clinical criteria and/or laboratory testing &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Further testing if specific disorder is not identified &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Genetic counseling with recurrent risk data &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Follow-up &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Recurrence risk &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Risks and benefits of genetic testing&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Cost &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Practicality &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Expected yield &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The guideline authors searched the following databases: PubMed, Autism database, Autism Genetic Database (University of Kansas), and SFARI Gene for a time period of over 13 months. Databases were searched back to 1960. The search terms used were: Autism AND Genetics, Familial, Recurrence risk, Epidemiology, MECP2, PTEN, UBE3a, Angelman, Mitochondria(l), Cytogenetics, CMA/CGH/microarray, Testing, Linkage, Metabolic, Smith-Lemli-Opitz, Cholesterol, MRI, Neuroimaging, Brain, Teratogen/environment, and Perinatal/neonatal risk factors.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;These searches yielded over 1,000 articles; from these, 285 were selected to read.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;76 articles&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Not stated" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Not stated" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Not stated" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of evidence supporting the recommendations is not specifically stated.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate evaluation of the etiology of autism spectrum disorders (ASDs) &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;It has been argued that cost and the logistics of sedation make neuroimaging studies too risky for the yield. It has been suggested that multiple sedations at an early age are associated with adverse neurodevelopmental outcomes.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This guideline is designed primarily as an educational resource for clinicians to help them provide quality medical services. Adherence to this guideline is completely voluntary and does not necessarily assure a successful medical outcome. This guideline should not be considered inclusive of all proper procedures and tests or exclusive of other procedures and tests that are reasonably directed to obtaining the same results. In determining the propriety of any specific procedure or test, the clinician should apply his or her own professional judgment to the specific clinical circumstances presented by the individual patient or specimen. Clinicians are encouraged to document the reasons for the use of a particular procedure or test, whether or not it is in conformance with this guideline. Clinicians also are advised to take notice of the date this guideline was adopted and to consider other medical and scientific information that becomes available after that date. It also would be prudent to consider whether intellectual-property interests may restrict the performance of certain tests and other procedures.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Schaefer GB, Mendelsohn NJ, Professional Practice and Guidelines Committee. Clinical genetics evaluation in identifying the etiology of autism spectrum disorders: 2013 guideline revisions. Genet Med. 2013 May;15(5):399-407. [76 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23519317&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2008 (revised 2013 May)" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="American College of Medical Genetics and Genomics - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American College of Medical Genetics and Genomics&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Professional Practice and Guidelines Committee&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Authors&lt;/em&gt;: G. Bradley Schaefer, MD, Department of Genetics and Pediatrics, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA; Nancy J. Mendelsohn, MD, Division of Medical Genetics, Children's Hospitals &amp;amp; Clinics of Minnesota, Minneapolis, Minnesota, USA&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The authors declare no conflict of interest.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: Schaefer GB, Mendelsohn NJ. Genetics evaluation for the etiologic diagnosis of autism spectrum disorders. Genet Med 2008;10:4&amp;ndash;12.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;https://www.acmg.net/docs/pp-g-ASD-schaffer-aop-gim201332a.pdf&quot; tilte=&quot;American College of Medical Genetics and Genomics (ACMG) Web site&quot;&gt;American College of Medical Genetics and Genomics (ACMG) Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on November 19, 2013. This summary was updated by ECRI Institute on February 15, 2017 following the U.S. Food and Drug Administration advisory on general anesthetic and sedation drugs.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

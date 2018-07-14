@@ -1,0 +1,182 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Evaluation and management of small-bowel obstruction: an Eastern Association for the Surgery of Trauma practice management guideline.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Maung AA, Johnson DC, Piper GL, Barbosa RR, Rowell SE, Bokhari F, Collins JN, Gordon JR, Ra JH, Kerwin AJ, Eastern Association for the Surgery of Trauma. Evaluation and management of small-bowel obstruction: an Eastern Association for  the Surgery of Trauma practice management guideline. J Trauma Acute Care Surg. 2012 Nov;73(5 Suppl 4):S362-9. [160 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23114494&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: EAST Practice Parameter Workgroup for Management of Small Bowel Obstruction. Practice management guidelines for small bowel obstruction. Chicago (IL): Eastern Association for the Surgery of Trauma (EAST); 2007. 42 p. [80 references]&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Eastern Association for the Surgery of Trauma (EAST) reaffirmed the currency of this guideline on September 22, 2017.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The levels of recommendation (1-3) and classification of evidence (I-III) are defined at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Diagnosis&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Computed tomographic (CT) scan of abdomen and pelvis should be considered in all patients with small-bowel obstruction (SBO) because it can provide incremental information over plain films in differentiating grade, severity, and etiology of SBOs that may lead to changes in management. &lt;strong&gt;Level 1&lt;/strong&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Water-soluble contrast study should be considered in patients who fail to improve after 48 hours of nonoperative management because a normal contrast study can rule out operative SBO. &lt;strong&gt;Level 2&lt;/strong&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If available, multidetector CT scanner and multiplanar reconstruction should be used because they aid in the diagnosis and localization of SBOs. &lt;strong&gt;Level 3&lt;/strong&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Magnetic resonance imaging (MRI) and ultrasound are potential alternatives to computed tomography but may have several logistical limitations. &lt;strong&gt;Level 3&lt;/strong&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;CT scan should be considered to aid in the diagnosis of small-bowel volvulus. Findings include multiple transition points, posterior location, and the &quot;whirl&quot; sign. &lt;strong&gt;Level 3&lt;/strong&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients with SBO and generalized peritonitis on physical examination or with other evidence of clinical deterioration such as fever, leukocytosis, tachycardia, metabolic acidosis, and continuous pain should undergo timely surgical exploration. &lt;strong&gt;Level 1&lt;/strong&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients without the previously mentioned clinical picture can safely undergo initial nonoperative management for both partial and complete SBO, although complete obstruction has a higher level of failure. &lt;strong&gt;Level 1&lt;/strong&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;CT findings consistent with bowel ischemia should suggest a low threshold for operative intervention. &lt;strong&gt;Level 2&lt;/strong&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Laparoscopic treatment of SBO is a viable alternative to laparotomy in selected cases. When successful, it may be associated with decreased morbidity and a shorter length of stay. &lt;strong&gt;Level 2&lt;/strong&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Water-soluble contrast should be considered in the setting of partial SBO that has not resolved in 48 hours because it can improve bowel function (time to bowel movement), decrease length of stay, and is both therapeutic and diagnostic. &lt;strong&gt;Level 2&lt;/strong&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients without resolution of the SBO by days 3 to 5 of nonoperative management should undergo water-soluble contrast study or surgery. &lt;strong&gt;Level 3&lt;/strong&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients with SBO should generally be admitted to a surgical service because this has been shown to be associated with a shorter length of stay, less hospital charges, and lower mortality compared with admission to a medical service. &lt;strong&gt;Level 3&lt;/strong&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Classes of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class I&lt;/strong&gt;: Prospective, randomized, controlled trials&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class II&lt;/strong&gt;: Clinical studies in which data were collected prospectively and retrospective analyses that were based on clearly reliable data. Types of studies so classified include observational studies, cohort studies, prevalence studies, and case-control studies.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class III&lt;/strong&gt;: Studies based on retrospectively collected data. Evidence used in this class includes clinical series, database or registry review, large series of case reviews, and expert opinion.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Levels of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 1&lt;/strong&gt;: The recommendation is convincingly justifiable based on the available scientific information alone. This recommendation is usually based on Class I data, however, strong Class II evidence may form the basis for a Level I recommendation, especially if the issue does not lend itself to testing in a randomized format. Conversely, low quality or contradictory Class I data may not be able to support a Level I recommendation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 2&lt;/strong&gt;: The recommendation is reasonably justifiable by available scientific evidence and strongly supported by expert opinion. This recommendation is usually supported by Class II data or a preponderance of Class III evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 3&lt;/strong&gt;: The recommendation is supported by available data but adequate scientific evidence is lacking. This recommendation is generally supported by Class III data. This type of recommendation is useful for educational purposes and in guiding future clinical research.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Small bowel obstruction&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Critical Care" />
+      <FieldValue Value="Emergency Medicine" />
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Gastroenterology" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Surgery" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To provide up-to-date evidence-based recommendations for small-bowel obstruction (SBO) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To revise and expand on the Eastern Association for the Surgery of Trauma (EAST) 2007 recommendations &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adults and children with small bowel obstruction&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Diagnosis/Management&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;History and physical examination &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Plain radiography &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Computed tomography (CT) scan of abdomen and pelvis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Magnetic resonance imaging (MRI) and ultrasound &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Contrast studies and enteroclysis (water-soluble contrast) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Operative management &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Nonoperative management &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Laparoscopy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adjuncts&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Antibiotics &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Prevention &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Sensitivity and specificity of diagnostic imaging &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Success rate of treatment&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Morbidity and mortality rates &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;2012 Guideline&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A computerized search of the National Library of Medicine MEDLINE database was undertaken using the Entrez interface for English language citations during the period of 2007 through 2011 using the primary search strategy:&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Indent&quot;&gt;intestinal obstruction[mh] AND intestine, small[mh] AND humans[mh] NOT (case reports[pt] OR letter[pt] OR comment[pt] OR news[pt])&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The primary search identified 259 articles that met our criteria. After the exclusion of review and pediatric and inflammatory bowel disease articles, 53 new articles were identified. These articles detailed both prospective and retrospective studies examining adult patients with suspected or proven SBO. These articles were added to the 131 previous studies reviewed in the 2007 practice management guidelines (see the Appendix in the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;2017 Reaffirmation&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A literature search was conducted of OVID and Medline using the keyword and subject headings &quot;small bowel obstruction&quot; and &quot;intestinal obstruction.&quot; The list was then limited to adult and human as well as 2012 - 9/2017. Papers were excluded if the title indicated the paper was not relevant (e.g., inflammatory bowel disease or congenital obstruction or large bowel obstruction). Papers were then selected based on review of the abstracts to ensure that the publications met the relevant subject matter which was diagnosis and/or management of adult small bowel obstruction.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;2012 Guideline&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;53 new articles were identified and added to the 131 previous studies reviewed in the 2007 practice management guidelines.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;2017 Reaffirmation&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;1270 papers were retrieved from the literature search. Of these 178 articles were reviewed by abstract and manuscript by a single reviewer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Class I&lt;/strong&gt;: Prospective, randomized, controlled trials.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class II&lt;/strong&gt;: Clinical studies in which the data were collected prospectively or retrospective analyses that were based on clearly reliable data. Types of studies so classified include observational studies, cohort studies, prevalence studies, and case-control studies.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class III&lt;/strong&gt;: Studies based on retrospectively collected data. Evidence used in this class includes clinical series, database or registry review, large series of case reviews, and expert opinion.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Each article was reviewed and graded according to the level of evidence by at least two surgeons.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Articles were classified as Class I, II, or III as described in the Eastern Association for the Surgery of Trauma (EAST) &quot;Utilizing evidence based outcome measures to develop practice management guidelines: a primer&quot; (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;2012 Guideline&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;All authors participated in the development of the recommendations. Recommendations were classified as level 1, 2, or 3 according to the definitions listed in the &quot;Rating Scheme for the Strength of the Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;2017 Guideline&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Following literature search and review, no articles were found to contradict the recommendations in this guideline. There was further literature to support the use of CT scan to screen for small bowel ischemia and need for operative intervention as well as the use of laparoscopy as initial surgical approach.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Level 1&lt;/strong&gt;: The recommendation is convincingly justifiable based on the available scientific information alone. This recommendation is usually based on Class I data, however, strong Class II evidence may form the basis for a Level I recommendation, especially if the issue does not lend itself to testing in a randomized format. Conversely, low quality or contradictory Class I data may not be able to support a Level I recommendation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 2&lt;/strong&gt;: The recommendation is reasonably justifiable by available scientific evidence and strongly supported by expert opinion. This recommendation is usually supported by Class II data or a preponderance of Class III evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 3&lt;/strong&gt;: The recommendation is supported by available data but adequate scientific evidence is lacking. This recommendation is generally supported by Class III data. This type of recommendation is useful for educational purposes and in guiding future clinical research.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The guideline developers reviewed published cost analyses.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This update to the practice management guidelines was developed, presented, and discussed at the 2012 Eastern Association for the Surgery of Trauma (EAST) Annual Meeting. All authors participated in critical revisions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate evaluation and management of patients with small bowel obstruction&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Complications related to management/treatment&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The Eastern Association for the Surgery of Trauma (EAST) is a multi-disciplinary professional society committed to improving the care of injured patients. The Ad hoc Committee for Practice Management Guideline Development of EAST develops and disseminates evidence-based information to increase the scientific knowledge needed to enhance patient and clinical decision-making, improve health care quality, and promote efficiency in the organization of public and private systems of health care delivery. Unless specifically stated otherwise, the opinions expressed and statements made in this publication reflect the authors' personal observations and do not imply endorsement by nor official policy of the Eastern Association for the Surgery of Trauma. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&quot;Clinical practice guidelines are systematically developed statements to assist practitioner and patient decisions about appropriate health care for specific clinical circumstances.&quot;* These guidelines are not fixed protocols that must be followed, but are intended for health care professionals and providers to consider. While they identify and describe generally recommended courses of intervention, they are not presented as a substitute for the advice of a physician or other knowledgeable health care professional or provider. Individual patients may require different treatments from those specified in a given guideline. Guidelines are not entirely inclusive or exclusive of all methods of reasonable care that can obtain/produce the same results. While guidelines can be written that take into account variations in clinical settings, resources, or common patient characteristics, they cannot address the unique needs of each patient nor the combination of resources available to a particular community or health care professional or provider. Deviations from clinical practice guidelines may be justified by individual circumstances. Thus, guidelines must be applied based on individual patient needs using professional judgment. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Institute of Medicine. Clinical practice guidelines: directions for a new program. MJ Field and KN Lohr (eds) Washington, DC: National Academy Press. 1990: pg 39.&lt;/p&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Maung AA, Johnson DC, Piper GL, Barbosa RR, Rowell SE, Bokhari F, Collins JN, Gordon JR, Ra JH, Kerwin AJ, Eastern Association for the Surgery of Trauma. Evaluation and management of small-bowel obstruction: an Eastern Association for  the Surgery of Trauma practice management guideline. J Trauma Acute Care Surg. 2012 Nov;73(5 Suppl 4):S362-9. [160 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23114494&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2012 Nov (reaffirmed 2017 Sep 22)" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Eastern Association for the Surgery of Trauma - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Eastern Association for the Surgery of Trauma (EAST)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;EAST Practice Management Guidelines Committee&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Authors&lt;/em&gt;: Adrian A. Maung, MD; Dirk C. Johnson, MD; Greta L. Piper, MD; Ronald R. Barbosa, MD; Susan E. Rowell, MD; Faran Bokhari, MD; Jay N. Collins, MD; Joseph R. Gordon, MD; Jin H. Ra, MD; Andrew J. Kerwin, MD&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The authors declare no conflicts of interest.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline updates a previous version: EAST Practice Parameter Workgroup for Management of Small Bowel Obstruction. Practice management guidelines for small bowel obstruction. Chicago (IL): Eastern Association for the Surgery of Trauma (EAST); 2007. 42 p. [80 references]&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Eastern Association for the Surgery of Trauma (EAST) reaffirmed the currency of this guideline on September 22, 2017.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://www.east.org/resources/treatment-guidelines/small-bowel-obstruction,-evaluation-and-management-of&quot; title=&quot;EAST Web site&quot;&gt;Eastern Association for the Surgery of Trauma (EAST) Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Utilizing evidence based outcome measures to develop practice management guidelines: a primer. 2000. 18 p. Available from the &lt;a href=&quot;http://www.east.org/content/documents/east_pmg_primer.pdf&quot; title=&quot;EAST Web site&quot;&gt;Eastern Association for the Surgery of Trauma (EAST) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on September 12, 2008. This NGC summary was updated by ECRI Institute on May 8, 2013. The currency of the guideline was reaffirmed by the developer on September 22, 2017 and this summary was updated by ECRI Institute on February 2, 2018.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is copyrighted by the Eastern Association for the Surgery of Trauma (EAST).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

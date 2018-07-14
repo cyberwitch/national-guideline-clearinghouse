@@ -1,0 +1,242 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Care of the hospitalized patient with acute exacerbation of COPD.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;University of Michigan Health System. Care of the hospitalized patient with acute exacerbation of COPD. Ann Arbor (MI): University of Michigan Health System; 2016 May. 24 p.  [60 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="705" OrdBy="150" Name="NEATS Assessment">
+    <Field FieldID="183" OrdBy="10" ID="706" Name="Disclosure of Guideline Funding Source" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="184" OrdBy="20" ID="707" Name="Disclosure and Management of Financial Conflict of Interests" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="185" OrdBy="30" ID="708" Name="Guideline Development Group Composition: Multidisciplinary Group" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="186" OrdBy="40" ID="709" Name="Guideline Development Group Composition: Methodologist Involvement" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="187" OrdBy="50" ID="710" Name="Guideline Development Group Composition: Patient and Public Perspectives" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="188" OrdBy="60" ID="711" Name="Use of a Systematic Review of Evidence: Search Strategy" Type="picklist-one">
+      <FieldValue Value="4" />
+    </Field>
+    <Field FieldID="189" OrdBy="70" ID="712" Name="Use of a Systematic Review of Evidence: Study Selection" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="190" OrdBy="80" ID="713" Name="Use of a Systematic Review of Evidence: Synthesis of Evidence" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="191" OrdBy="90" ID="714" Name="Evidence Foundations for and Rating Strength of Recommendations: Grading the Quality or Strength of Evidence" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="192" OrdBy="100" ID="715" Name="Evidence Foundations for and Rating Strength of Recommendations: Benefits and Harms of Recommendations" Type="picklist-one">
+      <FieldValue Value="4" />
+    </Field>
+    <Field FieldID="193" OrdBy="110" ID="716" Name="Evidence Foundations for and Rating Strength of Recommendations: Evidence Summary Supporting Recommendations" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="194" OrdBy="120" ID="717" Name="Evidence Foundations for and Rating Strength of Recommendations: Rating the Strength of Recommendations" Type="picklist-one">
+      <FieldValue Value="2" />
+    </Field>
+    <Field FieldID="195" OrdBy="130" ID="718" Name="Specific and Unambiguous Articulation of Recommendations" Type="picklist-one">
+      <FieldValue Value="4" />
+    </Field>
+    <Field FieldID="196" OrdBy="140" ID="719" Name="External Review" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="197" OrdBy="150" ID="720" Name="Updating" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Note from the University of Michigan Health System (UMHS) and the National Guideline Clearinghouse (NGC)&lt;/em&gt;&lt;/strong&gt;: The following guidance was current as of May 2016. Because UMHS occasionally releases minor revisions to its guidance based on new information, users may wish to consult the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/InptCOPD/COPD.final.pdf&quot; title=&quot;University of Michigan Health System Web site&quot;&gt;original guideline document&lt;/a&gt; for the most current version.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Note from NGC&lt;/strong&gt;: The following key points summarize the content of the guideline. Refer to the original guideline document for additional information.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The strength of recommendation (I-III) and levels of evidence (A-D) are defined at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Key Points&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Diagnosis&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The diagnosis of acute exacerbation of chronic obstructive pulmonary disease (AECOPD) is usually made by a clinical assessment that combines historical features, identification of triggers of worsening disease, physical exam findings and ruling out other conditions with similar clinical presentations. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Testing should include a complete blood count (CBC), a chest x-ray (CXR), influenza nasal swab (seasonal), and an electrocardiogram (ECG) in most patients. Additional testing is indicated when an alternate condition is suspected &lt;em&gt;[I, D]. &lt;/em&gt;&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Assessment of Severity and Intensity of Care&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The early evaluation for patients with COPD should identify patients that will require hospitalization, ventilatory support, or intensive care unit (ICU) admission (see Figure 1 in the original guideline document) &lt;em&gt;[I, D]&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Treatment&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Inhaled bronchodilators&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Patients hospitalized with AECOPD should be treated with inhaled albuterol and/or ipratropium, with dose and frequency titrated to effect (see Table 3 in the original guideline document for COPD treatment modalities) &lt;em&gt;[I, C]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Metered-dose inhalers (MDIs), with spacer devices, are the preferred delivery method for short-acting bronchodilators, unless the patient's condition or preference warrants the use of a nebulizer. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Corticosteroids&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Most patients who are hospitalized with an exacerbation of COPD should be treated with systemic corticosteroids, unless side-effects are limiting &lt;em&gt;[I, A]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;A dose of prednisone, 40 mg orally daily, for a 5-day course, is appropriate for most patients, and a dose taper is unnecessary (see Table 3 in the original guideline document for COPD treatment modalities) &lt;em&gt;[I, A]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Antibiotics&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Most patients who are hospitalized with AECOPD should be treated with antibiotics (see Tables 3 and 4 and Figure 2 in the original guideline document)&lt;em&gt; [II, A]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A 5-day duration of antibiotics is likely adequate for inpatients that demonstrate rapid improvement &lt;em&gt;[II, D]&lt;/em&gt;. Longer courses (7-10 days) may be considered for patients with severe illness or those who are slow to respond to treatment. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Supportive care&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Acute oxygen therapy. Oxygen should be provided to treat hypoxemia to a pulse-ox target of 88% to 92% &lt;em&gt;[II, D]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Non-invasive positive pressure ventilatory support (NIPPV).&#xD;&#xA;        &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;            &lt;li&gt;NIPPV in the form of bilevel positive airway pressure (BiPAP) (or continuous positive airway pressure [CPAP]) should be initiated in patients with AECOPD who have persistent or worsening respiratory distress, hypoxemia, or respiratory acidosis despite medical therapy (see Figure 1 in the original guideline document) &lt;em&gt;[I, A]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;NIPPV should be initiated early in AECOPD &lt;em&gt;[I, A]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Predictors for success and contraindications should be highlighted when considering the use of NIPPV (see Table 5 in the original guideline document) &lt;em&gt;[I, D]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Patients who are started on NIPPV should be monitored closely, and the decision whether or not to intubate should be made within 2 hours of starting NIPPV &lt;em&gt;[I, D]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;        &lt;/ul&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Preventative care in the hospital should include smoking cessation interventions &lt;em&gt;[I, A]&lt;/em&gt;, appropriate vaccinations &lt;em&gt;[II, A]&lt;/em&gt;, and venous thromboembolism prevention &lt;em&gt;[I, A]&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;A comprehensive approach to discharge is recommended &lt;em&gt;[I, D]&lt;/em&gt;&#xD;&#xA;        &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;            &lt;li&gt;Key elements of the hospital discharge are summarized in Table 6 of the original guideline document. &lt;/li&gt;&#xD;&#xA;        &lt;/ul&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Levels of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-alpha;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Randomized controlled trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Controlled trials, no randomization &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Observational trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Opinion of expert panel &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strength of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-roman;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Generally should be performed &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;May be reasonable to perform &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Generally should not be performed &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following algorithms are provided in the original guideline document:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Diagnostic Algorithm and Assessment of Severity &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;An Approach to Antibiotic Choice and Use of Sputum Culture for Hospitalized Patients with AECOPD &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Acute exacerbation of chronic obstructive pulmonary disease (AECOPD)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Emergency Medicine" />
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Pulmonary Medicine" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+      <FieldValue Value="Respiratory Care Practitioners" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To provide an evidence-based blueprint for the acute care of patients with chronic obstructive pulmonary disease (AECOPD), in order to standardize and improve the quality of care for these patients&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adult, non-critically-ill hospitalized patients with acute exacerbation of chronic obstructive pulmonary disease (AECOPD)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Diagnosis/Evaluation/Risk Assessment&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Clinical assessment (history, physical exam, signs, symptoms) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Complete blood count &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Chest x-ray &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Influenza nasal swab &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Electrocardiogram (ECG) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Additional testing and imaging as appropriate (e.g., high-resolution computed tomography) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Assessment of severity and intensity of care (e.g., need for ventilatory support or intensive care unit admission) &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Treatment/Management&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Inhaled bronchodilators&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Albuterol and/or ipratropium &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Metered-dose inhalers (MDIs) with spacer devices &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Nebulizers &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Systemic corticosteroids (e.g., oral prednisone) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Antibiotics &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Supportive care&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Acute oxygen therapy &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Non-invasive positive pressure ventilation (NIPPV) (bilevel positive airway pressure [BiPAP] or continuous positive airway pressure [CPAP]) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Preventative care&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Smoking cessation interventions &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Vaccination &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Deep vein thrombosis (DVT) prophylaxis &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Approach to hospital discharge &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Sensitivity of diagnostic tests &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cure rate &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Hospitalization and readmission rates &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Time to improvement &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Length-of-stay &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mortality &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Quality of life &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adverse effects of medications &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Strategy for Literature Search&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Within the Medline (Ovid) database, the following search strategy was used.&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;exp *Pulmonary Disease, Chronic Obstructive/ or (COPD or chronic obstructive pulmonary).ti. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Inpatients/ or exp Hospitalization/ or exp Hospital Units/ or (acute or exacerbat* or hospitali* or inpatient*).ti,ab. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;patient care/ or critical care/ or life support care/ or nursing care/ or perioperative care/ or preoperative care/ or terminal care/ or exp medical staff/ or nursing staff, hospital/ or exp personnel, hospital/ or physicians/ or hospitalists/ &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;2 or 3 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;1 and 4 &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;Results were limited to English language and January 1, 2013 to November 6, 2014 directly, and literature reviewed through the Global Initiative for Chronic Obstructive Lung Disease (GOLD) guideline (updated 2015), which included literature beginning in 2001.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Six-hundred twenty-three articles were retrieved through structured search of databases. Forty-eight additional articles were identified by searching references in retrieved documents, and from recent article known to expert members on panel.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusion Criteria&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Articles were excluded because they failed to meet a threshold of relevance in the following domains:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Study population &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Medical condition &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Time frame &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Setting &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Study type/design: meta-analyses, controlled trials, cohort studies, guidelines &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Language: English &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Specific research question addressed &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Specific factors related to outcomes &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Specific measures/outcomes, e.g., screening result, diagnosis accuracy, treatment outcome, costs &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Relative quality of evidence available for a specific question/topic (i.e., better evidence available) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Consideration of Previous and More Recent Publications &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Additional sources considered were: &lt;/p&gt;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;    &lt;li&gt;Results of a systematic review of literature published from January 2005 to February 2014 prepared for the Veterans Health Administration, U.S. Department of Veterans Affairs, and the U.S. Department of Defense clinical practice guideline Management of Chronic Obstructive Pulmonary Disease, Dec. 2014: The Lewin Group &amp;amp; ECRI Institute. Management of Chronic Obstructive Pulmonary Disease: Evidence Synthesis Report, Clinical Practice Guideline. Falls Church, Virginia: The Lewin Group, April 10, 2014. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;References cited in articles identified by the literature search from January 2013 through November 2014 (described above). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Publications since the literature search &amp;ndash; from December 2015 to December 2016 (meta-analyses, controlled trials, cohort studies, and guidelines) &amp;ndash; known to members of the guideline team. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Fifty-eight articles were identified as best evidence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Levels of Evidence&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-alpha;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Randomized controlled trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Controlled trials, no randomization &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Observational trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Opinion of expert panel &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Strength of Recommendation&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-roman;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Generally should be performed &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;May be reasonable to perform &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Generally should not be performed &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Drafts of this guideline were reviewed in clinical conferences and by distribution for comment within departments and divisions of the University of Michigan Medical School to which the content is most relevant: Family Medicine, Internal Medicine, Emergency Medicine, Respiratory Therapy and Pharmacy. The final version was endorsed by the Clinical Practice Committee of the University of Michigan Medical Group and the Executive Committee for Clinical Affairs of the University of Michigan Hospitals and Health Centers.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;A Cochrane meta-analysis demonstrated that there are several benefits to the use of corticosteroids in the acute exacerbation of chronic obstructive pulmonary disease (AECOPD) population. Corticosteroid use typically results in a reduction of symptoms and improvement in spirometric measurements when given for AECOPD. In addition, the risk of treatment failure is reduced (number needed to treat [NNT] = 9 patients treated with corticosteroids to prevent 1 treatment failure). In non-intensive care unit (ICU) inpatients, the length-of-stay was decreased by an average of 1.2 days in patients treated with systemic corticosteroids. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Studies suggest that antibiotics do improve outcomes in AECOPD patients, even though the majority of the underlying infections are probably viral in nature. It is likely that antibiotics are only of benefit in a subset of patients with a bacterial infection of the airways. Patients with more severe illness (including inpatients) may be more likely to benefit from the use of antibiotics. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The benefits of using noninvasive positive pressure ventilation (NIPPV) in AECOPD are well established. A recent Cochrane review evaluated 14 randomized controlled trials (RCTs) comparing NIPPV plus usual care vs. usual care alone. The relative risk of intubation when using NIPPV was 0.41 with a number needed to treat (NNT) of 4. The relative risk of mortality was 0.52 with a NNT of 10. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The influenza vaccine has been shown to decrease AECOPD in patients with COPD. Although the pneumococcal vaccine has not been shown to reduce AECOPD, it does appear to decrease the risk of invasive pneumococcal disease in a general population. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient education can improve adherence and technique, and decrease hospitalizations for AECOPD. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Studies in the 1980s demonstrated a survival benefit for patients with resting hypoxemia when they were treated with continuous home oxygen therapy. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Long-term use of oxygen may have a reparative effect, and lead to improvements in oxygenation over time, and these may reverse if the oxygen therapy is removed. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Enrollment in pulmonary rehabilitation after AECOPD has been linked to decreased mortality and hospitalization rates, and improvements in quality-of-life. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Although most hospitalized patients will benefit from corticosteroid treatment for acute exacerbation of chronic obstructive pulmonary disease (AECOPD), it should be noted that some patients will suffer side-effects from these agents, and may not tolerate them. The adverse effects of systemic corticosteroids include hyperglycemia, insomnia, psychiatric disturbances (including psychosis), muscle wasting, osteoporosis, and increased appetite/weight gain. Of these, hyperglycemia is the most common. Hyperglycemia can usually, but not always, be actively managed to allow the continued use of the corticosteroids. Insulin may be required to control blood glucose levels when using corticosteroids in the hospital setting. Problems such as severe hyperglycemia, severe insomnia, or psychiatric disturbances may require discontinuation of the corticosteroids. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Since most of the adverse effects of corticosteroids are directly related to the extent of exposure to the medication, there is good reason to use the lowest dose and shortest duration that is effective. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Potential adverse events associated with azithromycin therapy include QT prolongation and hearing loss. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Although there is some evidence that levalbuterol may provide bronchodilation with less beta-adrenergic side effects than albuterol, there is only limited clinical data supporting its use, and no data directly supporting its use in AECOPD. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Refer to Tables 3A, 3B, and 4 for additional side effects of specific treatments.&lt;/p&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="430" OrdBy="800" Name="Contraindications">
+    <Field FieldID="144" OrdBy="805" ID="431" Name="Contraindications" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Contraindications for non-invasive positive pressure ventilation (NIPPV) include:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Cardiac or respiratory arrest &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Nonrespiratory organ failure &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Severe encephalopathy (i.e., Glasgow Coma Scale [GCS] &amp;lt;10) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Severe upper gastrointestinal bleeding &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Hemodynamic instability or unstable cardiac arrhythmia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Facial or neurological surgery, trauma, or deformity &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Upper airway obstruction &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Inability to cooperate/protect airway &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Inability to clear secretions &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;High risk for aspiration (e.g., edentulous patient or presence of nasogastric tube) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Refer to Tables 3A, 3B, and 4 for additional information.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;These guidelines should not be construed as including all proper methods of care or excluding other acceptable methods of care reasonably directed to obtaining the same results. The ultimate judgment regarding any specific clinical procedure or treatment must be made by the physician in light of the circumstances presented by the patient.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Clinical Algorithm" />
+      <FieldValue Value="Patient Resources" />
+      <FieldValue Value="Resources" />
+      <FieldValue Value="Staff Training/Competency Material" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;University of Michigan Health System. Care of the hospitalized patient with acute exacerbation of COPD. Ann Arbor (MI): University of Michigan Health System; 2016 May. 24 p.  [60 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2016 May" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="University of Michigan Health System - Academic Institution" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;University of Michigan Health System&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;COPD Guideline Team&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Team Leads&lt;/em&gt;: Rommel L Sagana, MD, Internal Medicine; David H Wesorick, MD, Internal Medicine&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Team Members&lt;/em&gt;: Benjamin S Bassin, MD, Emergency Medicine; Todd E Georgia, RRT, Respiratory Care; F Jacob Seagull, PhD, Learning Health Sciences; Linda J Stuckey, PharmD, Pharmacy Services&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Inpatient Clinical Guidelines Oversight&lt;/em&gt;: Megan R Mack, MD; David H Wesorick, MD; F Jacob Seagull, PhD&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The University of Michigan Health System endorses the Guidelines of the Association of American Medical Colleges and the Standards of the Accreditation Council for Continuing Medical Education that the individuals who present educational activities disclose significant relationships with commercial companies whose products or services are discussed. Disclosure of a relationship is not intended to suggest bias in the information presented, but is made to provide readers with information that might be of potential importance to their evaluation of the information.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;No team members report a relevant conflict of interest.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/InptCOPD/COPD.final.pdf&quot; title=&quot;University of Michigan Health System Web site&quot;&gt;University of Michigan Health System Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A continuing medical education self-study activity is available from the &lt;a href=&quot;http://ocpd.med.umich.edu/cme/self-study&quot; title=&quot;University of Michigan Health System Web site&quot;&gt;University of Michigan Health System Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Appendix B in the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/InptCOPD/COPD.final.pdf&quot; title=&quot;University of Michigan Health System Web site&quot;&gt;original guideline document&lt;/a&gt; provides an example of an inhaled medication patient education tool.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appendix A in the &lt;a href=&quot;http://www.med.umich.edu/1info/FHP/practiceguides/InptCOPD/COPD.final.pdf&quot; title=&quot;University of Michigan Health System Web site&quot;&gt;original guideline document&lt;/a&gt; provides a patient brochure containing program details concerning the COPD Transitional Care Management Clinic.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Disclaimer&quot;&gt;Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on April 5, 2017.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NEATS assessment was completed by ECRI Institute on August 8, 2017. The information was verified by the guideline developer on September 1, 2017.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is copyrighted by the University of Michigan Health System (UMHS).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,178 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Child passenger safety: an evidence-based review.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Barraco RD, Cheng JD, Bromberg WJ, Falcone RA, Hammond JS, Lui FY, Sandhu RS, Scaff DW. Child passenger safety: an evidence based review. Chicago (IL): Eastern Association for the Surgery of Trauma (EAST); 2010. 32 p.  [53 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Eastern Association for the Surgery of Trauma (EAST) reaffirmed the currency of the guideline in October 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The classes of evidence (I-III) and levels of recommendation (1-3) are defined at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Level 1 Standards&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Child restraint and restraint systems reduce injury and injury severity in all ages reported and are recommended for use.&#xD;&#xA;    &lt;ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;        &lt;li&gt;The highest reductions come from age appropriate, properly used restraints, as per the American Academy of Pediatrics guidelines on selection and use of car safety seats. &lt;/li&gt;&#xD;&#xA;    &lt;/ol&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Please note that these recommendations rose to Level 1 standards based on the preponderance of available literature, including well-done Class II data, that supports the age-appropriate use of child restraints and restraint systems as successful in the reduction of morbidity and mortality.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Level 2 Guidelines&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Rear seat position reduces injury at all ages studied and is recommended especially for those less than or equal to 12 years of age. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Airbags can cause injury and/or death to children less than or equal to 12 years of age and thus seating position with exposure to airbags should be avoided in that age range. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Child restraint laws help reduce injury and mortality and increase compliance with restraint use. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Summary&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Child restraints are clearly effective in injury prevention and reduction of injury severity at all ages examined. Rear seat position is also effective, especially when used in conjunction with child restraints. Legislation is also effective in improving compliance and even reducing injury. There are some data showing that primary laws are the most effective form of legislation. Further research is required on the effectiveness of legislation on injury and mortality.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Classes of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class I&lt;/strong&gt;: Prospective, randomized clinical trials&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class II&lt;/strong&gt;: Clinical studies in which data were collected prospectively or retrospective analyses based on clearly reliable data&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class III&lt;/strong&gt;: Studies based on retrospectively collected data&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Levels of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 1&lt;/strong&gt;: The recommendation is convincingly justifiable based on the available scientific information alone. This recommendation is usually based on Class I data, however, strong class II evidence may form the basis for a level 1 recommendation, especially if the issue does not lend itself to testing in a randomized format. Conversely, low quality or contradictory Class I data may not be able to support a level 1 recommendation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 2&lt;/strong&gt;: The recommendation is reasonably justifiable by available scientific evidence and strongly supported by expert opinion. This recommendation is usually supported by Class II data or a preponderance of Class III evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 3&lt;/strong&gt;: The recommendation is supported by available data but adequate scientific evidence is lacking. This recommendation is generally supported by Class III data. This type of recommendation is useful for educational purposes and in guiding future clinical research.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Child injuries and fatalities from motor vehicle crashes&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Assessment of Therapeutic Effectiveness" />
+      <FieldValue Value="Prevention" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Critical Care" />
+      <FieldValue Value="Emergency Medicine" />
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Pediatrics" />
+      <FieldValue Value="Preventive Medicine" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+      <FieldValue Value="Public Health Departments" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To examine the literature concerning the following questions regarding child vehicle passenger safety:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;What is the effectiveness of child passenger restraints in reducing morbidity and mortality? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;What is the effectiveness of legislation in the reduction of injuries and/or mortality? &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Children age 14 and under&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Child restraint and restraint systems in motor vehicles &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Rear seat position &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Airbags (not recommended for &amp;le;12 years of age) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Child restraint laws &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Injuries &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Morbidity and mortality &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;2010 Guideline&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Eastern Association for the Surgery of Trauma (EAST) Child Passenger Safety Workgroup conducted a Medline search for human, English language literature from 1980 to 2006 on child passenger restraints. Child passenger restraints as keyword only yielded four results. Using &quot;Protective Devices&quot; or &quot;Seat Belts&quot; and combining that with &quot;infant&quot; over similar dates and restrictions, 491 references resulted, with toddler, six resulted, with &quot;child,&quot; 827 references resulted and with &quot;adolescent,&quot; 842 resulted. Studies from other countries that involved legislation were dropped due to issues of generalizability. Fifty-nine were deemed appropriate to answer the above questions, 55 of these were available for review. Fourteen articles examined legislation and 41 articles examined restraint effectiveness with relation to outcomes. We did not utilize technical reports or engineering literature, but felt these were not relevant to the endpoints of morbidity or mortality and many could not be subject to scientific review.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;2015 Reaffirmation&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;PubMed, PubMed Central, the Cochrane Library, and Web of Science were searched from October 12, 2010 to October 12, 2015 using the search terms child restraint system, infant seat belts, child seat belts, infant protective devices, and child protective devices. All articles with injury and/or mortality as an outcome were included. Non-English language, non-injury outcomes, technical articles, editorials, and opinion papers were excluded.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;2010 Guideline&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Fifty-nine articles were deemed appropriate; 55 of these were available for review. Fourteen articles examined legislation and 41 articles examined restraint effectiveness with relation to outcomes.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;2015 Reaffirmation&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The final article list (N=3) was reviewed, and no articles were found to contradict the recommendations in the 2010 guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Classes of Evidence&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class I&lt;/strong&gt;: Prospective, randomized clinical trials&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class II&lt;/strong&gt;: Clinical studies in which data were collected prospectively or retrospective analyses based on clearly reliable data&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Class III&lt;/strong&gt;: Studies based on retrospectively collected data&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An evidentiary table (see the appendix in the original guideline document) was constructed using the 41 references that were identified: Class I, 0 references; Class II, 7 references; and Class III, 34 references.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Articles were classified as Class I, II, or III as described in the Eastern Association for the Surgery of Trauma (EAST) &quot;Utilizing evidence based outcome measures to develop practice management guidelines: a primer&quot; (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;2010 Guideline&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Recommendations were made on the basis of the studies included in the evidentiary table (see the appendix of the original guideline document). Recommendations were classified as level 1, 2, or 3 according to the definitions listed in the &quot;Rating Scheme for the Strength of the Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;2015 Reaffirmation&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A comprehensive literature search was performed Articles were first screened by title and abstract, then salient articles were reviewed by a single reviewer. The final articles list (N=3) was reviewed, and no articles were found to contradict the recommendations in the 2010 guideline. Recent research has largely focused on family compliance with restraint systems. Barriers to use, surveys, and engineering advances to improve ease of use, international perspectives, and compliance with restraint use are the major contributions to the field in the past 5 years.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Levels of Recommendation&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 1&lt;/strong&gt;: The recommendation is convincingly justifiable based on the available scientific information alone. This recommendation is usually based on Class I data, however, strong class II evidence may form the basis for a level 1 recommendation, especially if the issue does not lend itself to testing in a randomized format. Conversely, low quality or contradictory Class I data may not be able to support a level 1 recommendation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 2&lt;/strong&gt;: The recommendation is reasonably justifiable by available scientific evidence and strongly supported by expert opinion. This recommendation is usually supported by Class II data or a preponderance of Class III evidence.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Level 3&lt;/strong&gt;: The recommendation is supported by available data but adequate scientific evidence is lacking. This recommendation is generally supported by Class III data. This type of recommendation is useful for educational purposes and in guiding future clinical research.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Not stated" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age-appropriate use of child passenger safety restraints and restraint systems are successful in the reduction of morbidity and mortality in motor vehicle crashes&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The Eastern Association for the Surgery of Trauma (EAST) is a multi-disciplinary professional society committed to improving the care of injured patients. The Ad hoc Committee for Practice Management Guideline Development of EAST develops and disseminates evidence-based information to increase the scientific knowledge needed to enhance patient and clinical decision-making, improve health care quality, and promote efficiency in the organization of public and private systems of health care delivery. Unless specifically stated otherwise, the opinions expressed and statements made in this publication reflect the authors' personal observations and do not imply endorsement by nor official policy of the Eastern Association for the Surgery of Trauma. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&quot;Clinical practice guidelines are systematically developed statements to assist practitioner and patient decisions about appropriate health care for specific clinical circumstances.&quot;* These guidelines are not fixed protocols that must be followed, but are intended for health care professionals and providers to consider. While they identify and describe generally recommended courses of intervention, they are not presented as a substitute for the advice of a physician or other knowledgeable health care professional or provider. Individual patients may require different treatments from those specified in a given guideline. Guidelines are not entirely inclusive or exclusive of all methods of reasonable care that can obtain/produce the same results. While guidelines can be written that take into account variations in clinical settings, resources, or common patient characteristics, they cannot address the unique needs of each patient nor the combination of resources available to a particular community or health care professional or provider. Deviations from clinical practice guidelines may be justified by individual circumstances. Thus, guidelines must be applied based on individual patient needs using professional judgment. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Institute of Medicine. Clinical practice guidelines: directions for a new program. MJ Field and KN Lohr (eds) Washington, DC: National Academy Press. 1990: pg 39.&lt;/p&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Barraco RD, Cheng JD, Bromberg WJ, Falcone RA, Hammond JS, Lui FY, Sandhu RS, Scaff DW. Child passenger safety: an evidence based review. Chicago (IL): Eastern Association for the Surgery of Trauma (EAST); 2010. 32 p.  [53 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2010 (reaffirmed 2015 Oct)" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Eastern Association for the Surgery of Trauma - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Eastern Association for the Surgery of Trauma (EAST)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Child Passenger Safety Workgroup of the&amp;nbsp;Eastern Association for the Surgery of Trauma (EAST) Practice Management Guideline Committee&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Committee Members&lt;/em&gt;: Robert D. Barraco MD, MPH &lt;em&gt;(Chair)&lt;/em&gt;; Julius D. Cheng, MD, MPH &lt;em&gt;(Vice Chair)&lt;/em&gt;; William J. Bromberg, MD; Richard A. Falcone, MD; Jeffrey S. Hammond, MD, MPH; Felix Y. Lui, MD; Rovinder S. Sandhu, MD; David W. Scaff, DO&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Eastern Association for the Surgery of Trauma (EAST) reaffirmed the currency of the guideline in October 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available from the &lt;a href=&quot;http://www.east.org/resources/treatment-guidelines/child-passenger-safety--an-evidence-based-review&quot; title=&quot;Eastern Association for the Surgery of Trauma (EAST) Web site&quot;&gt;Eastern Association for the Surgery of Trauma (EAST) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Print copies: Available from the Eastern Association for the Surgery of Trauma Guidelines, c/o Robert D. Barraco, MD, Lehigh Valley Health Network, Cedar Crest &amp;amp; I-78, P.O. Box 689, Allentown, PA 18105-1556; Phone: (610) 402-1296; fax (610) 402-1667; Email: &lt;a href=&quot;mailto:sally.lutz@lvh.com&quot;&gt;sally.lutz@lvh.com&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Utilizing evidence based outcome measures to develop practice management guidelines: a primer. 2000. 18 p. Available in Portable Document Format (PDF) from the &lt;a href=&quot;http://www.east.org/content/documents/east_pmg_primer.pdf&quot; title=&quot;Eastern Association for the Surgery of Trauma (EAST) Web site&quot;&gt;Eastern Association for the Surgery of Trauma (EAST) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on April 3, 2013. The information was verified by the guideline developer on May 1, 2013. The currency of the guideline was reaffirmed by the developer in October 2015 and the summary was updated by ECRI Institute on November 13, 2015.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is copyrighted by the Eastern Association for the Surgery of Trauma (EAST).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

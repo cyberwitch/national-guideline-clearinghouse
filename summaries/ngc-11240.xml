@@ -1,0 +1,229 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;ACG clinical guideline: management of patients with acute lower gastrointestinal bleeding.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Strate LL, Gralnek IM. ACG clinical guideline: management of patients with acute lower gastrointestinal bleeding. Am J Gastroenterol. 2016 Apr;111(4):459-74. [140 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26925883&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="705" OrdBy="150" Name="NEATS Assessment">
+    <Field FieldID="183" OrdBy="10" ID="706" Name="Disclosure of Guideline Funding Source" Type="picklist-one">
+      <FieldValue Value="Yes" />
+    </Field>
+    <Field FieldID="184" OrdBy="20" ID="707" Name="Disclosure and Management of Financial Conflict of Interests" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="185" OrdBy="30" ID="708" Name="Guideline Development Group Composition: Multidisciplinary Group" Type="picklist-one">
+      <FieldValue Value="No" />
+    </Field>
+    <Field FieldID="186" OrdBy="40" ID="709" Name="Guideline Development Group Composition: Methodologist Involvement" Type="picklist-one">
+      <FieldValue Value="Unknown" />
+    </Field>
+    <Field FieldID="187" OrdBy="50" ID="710" Name="Guideline Development Group Composition: Patient and Public Perspectives" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="188" OrdBy="60" ID="711" Name="Use of a Systematic Review of Evidence: Search Strategy" Type="picklist-one">
+      <FieldValue Value="4" />
+    </Field>
+    <Field FieldID="189" OrdBy="70" ID="712" Name="Use of a Systematic Review of Evidence: Study Selection" Type="picklist-one">
+      <FieldValue Value="3" />
+    </Field>
+    <Field FieldID="190" OrdBy="80" ID="713" Name="Use of a Systematic Review of Evidence: Synthesis of Evidence" Type="picklist-one">
+      <FieldValue Value="4" />
+    </Field>
+    <Field FieldID="191" OrdBy="90" ID="714" Name="Evidence Foundations for and Rating Strength of Recommendations: Grading the Quality or Strength of Evidence" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="192" OrdBy="100" ID="715" Name="Evidence Foundations for and Rating Strength of Recommendations: Benefits and Harms of Recommendations" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="193" OrdBy="110" ID="716" Name="Evidence Foundations for and Rating Strength of Recommendations: Evidence Summary Supporting Recommendations" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="194" OrdBy="120" ID="717" Name="Evidence Foundations for and Rating Strength of Recommendations: Rating the Strength of Recommendations" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="195" OrdBy="130" ID="718" Name="Specific and Unambiguous Articulation of Recommendations" Type="picklist-one">
+      <FieldValue Value="5" />
+    </Field>
+    <Field FieldID="196" OrdBy="140" ID="719" Name="External Review" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+    <Field FieldID="197" OrdBy="150" ID="720" Name="Updating" Type="picklist-one">
+      <FieldValue Value="1" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Definitions of the quality of evidence (&lt;strong&gt;high, moderate, low, &lt;/strong&gt;and &lt;strong&gt;very low&lt;/strong&gt;) and strength of recommendations (&lt;strong&gt;strong&lt;/strong&gt; and &lt;strong&gt;conditional&lt;/strong&gt;) are provided at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Initial Assessment&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Evaluation and Risk Stratification &lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;A focused history, physical examination, and laboratory evaluation should be obtained at the time of patient presentation to assess the severity of bleeding and its possible location and etiology. Initial patient assessment and hemodynamic resuscitation should be performed simultaneously (&lt;strong&gt;Strong recommendation, very-low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Hematochezia associated with hemodynamic instability may be indicative of an upper gastrointestinal bleeding (UGIB) source, and an upper endoscopy should be performed. A nasogastric aspirate/lavage may be used to assess a possible upper gastrointestinal (GI) source if suspicion of UGIB is moderate (&lt;strong&gt;Strong recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Risk assessment and stratification should be performed to help distinguish patients at high and low risks of adverse outcomes and assist in patient triage including the timing of colonoscopy and the level of care (&lt;strong&gt;Conditional recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Hemodynamic Resuscitation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;4&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients with hemodynamic instability and/or suspected ongoing bleeding should receive intravenous fluid resuscitation with the goal of normalization of blood pressure and heart rate prior to endoscopic evaluation/intervention (&lt;strong&gt;Strong recommendation, very-low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Packed red blood cells should be transfused to maintain the hemoglobin above 7 g/dl. A threshold of 9 g/dl should be considered in patients with massive bleeding, significant comorbid illness (especially cardiovascular ischemia), or a possible delay in receiving therapeutic interventions (&lt;strong&gt;Conditional recommendations, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Management of Anticoagulant Medications&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;âlist-style-type: ;&quot; start=&quot;6&quot;&gt;&#xD;&#xA;    &lt;li&gt;Endoscopic hemostasis may be considered in patients with an international normalized ratio (INR) of 1.5&amp;ndash;2.5 before or concomitant with the administration of reversal agents. Reversal agents should be considered before endoscopy in patients with an INR &amp;gt;2.5 (&lt;strong&gt;Conditional recommendation, very-low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Platelet transfusion should be considered to maintain a platelet count of 50&amp;times;10/l in patients with severe bleeding and those requiring endoscopic hemostasis (&lt;strong&gt;Conditional recommendation, very-low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Platelet and plasma transfusions should be considered in patients who receive massive red blood cell transfusions (&lt;strong&gt;Conditional recommendation, very-low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In patients on anticoagulant agents, a multidisciplinary approach (e.g., hematology, cardiology, neurology, and gastroenterology) should be used when deciding whether to discontinue medications or use reversal agents to balance the risk of ongoing bleeding with the risk of thromboembolic events (&lt;strong&gt;Strong recommendation, very-low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Colonoscopy&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Colonoscopy as a Diagnostic Tool &lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;âlist-style-type: ;&quot; start=&quot;10&quot;&gt;&#xD;&#xA;    &lt;li&gt;Colonoscopy should be the initial diagnostic procedure for nearly all patients presenting with acute lower gastrointestinal bleeding (LGIB) (&lt;strong&gt;Strong recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The colonic mucosa should be carefully inspected during both colonoscope insertion and withdrawal, with aggressive attempts made to wash residual stool and blood in order to identify the bleeding site. The endoscopist should also intubate the terminal ileum to rule out proximal blood suggestive of a small bowel lesion (&lt;strong&gt;Conditional recommendation, very-low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Bowel Preparation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;12&quot;&gt;&#xD;&#xA;    &lt;li&gt;Once the patient is hemodynamically stable, colonoscopy should be performed after adequate colon cleansing. Four to six liters of a polyethylene glycol (PEG)-based solution or the equivalent should be administered over 3 to 4 h until the rectal effluent is clear of blood and stool. Unprepped colonoscopy/sigmoidoscopy is not recommended (&lt;strong&gt;Strong recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A nasogastric tube can be considered to facilitate colon preparation in high-risk patients with ongoing bleeding who are intolerant to oral intake and are at low risk of aspiration (&lt;strong&gt;Conditional recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Timing of Colonoscopy &lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;14&quot;&gt;&#xD;&#xA;    &lt;li&gt;In patients with high-risk clinical features and signs or symptoms of ongoing bleeding, a rapid bowel purge should be initiated following hemodynamic resuscitation and a colonoscopy performed within 24 h of patient presentation after adequate colon preparation to potentially improve diagnostic and therapeutic yield (&lt;strong&gt;Conditional recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In patients without high-risk clinical features or serious comorbid disease or those with high-risk clinical features without signs or symptoms of ongoing bleeding, colonoscopy should be performed next available after a colon purge (&lt;strong&gt;Conditional recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Endoscopic Hemostasis Therapy &lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;16&quot;&gt;&#xD;&#xA;    &lt;li&gt;Endoscopic therapy should be provided to patients with high-risk endoscopic stigmata of bleeding: active bleeding (spurting and oozing); non-bleeding visible vessel; or adherent clot (&lt;strong&gt;Strong recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Diverticular bleeding: through-the-scope endoscopic clips are recommended as clips may be safer in the colon than contact thermal therapy and are generally easier to perform than band ligation, particularly for right-sided colon lesions (&lt;strong&gt;Conditional recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Angioectasia bleeding: noncontact thermal therapy using argon plasma coagulation is recommended (&lt;strong&gt;Conditional recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Post-polypectomy bleeding: mechanical (clip) or contact thermal endotherapy, with or without the combined use of dilute epinephrine injection, is recommended (&lt;strong&gt;Strong recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Epinephrine injection therapy (1:10,000 or 1:20,000 dilution with saline) can be used to gain initial control of an active bleeding lesion and improve visualization but should be used in combination with a second hemostasis modality including mechanical or contact thermal therapy to achieve definitive hemostasis (&lt;strong&gt;Strong recommendation, very-low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Role of Repeat Colonoscopy in the Setting of Early Recurrent Bleeding&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;21&quot;&gt;&#xD;&#xA;    &lt;li&gt;Repeat colonoscopy, with endoscopic hemostasis if indicated, should be considered for patients with evidence of recurrent bleeding (&lt;strong&gt;Strong recommendation, very-low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Non-colonoscopy Interventions&lt;/span&gt; &lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;22&quot;&gt;&#xD;&#xA;    &lt;li&gt;A surgical consultation should be requested in patients with high-risk clinical features and ongoing bleeding. In general, surgery for acute LGIB should be considered after other therapeutic options have failed and should take into consideration the extent and success of prior bleeding control measures, severity and source of bleeding, and the level of comorbid disease. It is important to very carefully localize the source of bleeding whenever possible before surgical resection to avoid continued or recurrent bleeding from an unresected culprit lesion (&lt;strong&gt;Conditional recommendation, very-low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Radiographic interventions should be considered in patients with high-risk clinical features and ongoing bleeding who have a negative upper endoscopy and do not respond adequately to hemodynamic resuscitation efforts and are therefore unlikely to tolerate bowel preparation and urgent colonoscopy (&lt;strong&gt;Strong recommendation, very-low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If a diagnostic test is desired for localization of the bleeding site before angiography, computed tomography (CT) angiography should be considered (&lt;strong&gt;Conditional recommendation, very-low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Prevention of Recurrent Lower Gastrointestinal Bleeding&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;25&quot;&gt;&#xD;&#xA;    &lt;li&gt;Non-aspirin non-steroidal anti-inflammatory drug (NSAID) use should be avoided in patients with a history of acute LGIB, particularly if secondary to diverticulosis or angioectasia (&lt;strong&gt;Strong recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In patients with established high-risk cardiovascular disease and a history of LGIB, aspirin used for secondary prevention should not be discontinued. Aspirin for primary prevention of cardiovascular events should be avoided in most patients with LGIB (&lt;strong&gt;Strong recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In patients on dual antiplatelet therapy or monotherapy with non-aspirin antiplatelet agents (thienopyridine), non-aspirin antiplatelet therapy should be resumed as soon as possible and at least within 7 days based on multidisciplinary assessment of cardiovascular and GI risk and the adequacy of endoscopic therapy (as above, aspirin use should not be discontinued). However, dual antiplatelet therapy should not be discontinued in patients with an acute coronary syndrome within the past 90 days or coronary stenting within the past 30 days (&lt;strong&gt;Strong recommendation, low-quality evidence&lt;/strong&gt;). &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definitions&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Grading of Recommendations Assessment, Development, and Evaluation (GRADE) system was used to evaluate the quality of evidence and strength of recommendation. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Quality of Evidence &lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;High&lt;/strong&gt;: Further research is very unlikely to change confidence in the estimate of effect. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Moderate&lt;/strong&gt;: Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Low&lt;/strong&gt;: Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Very Low&lt;/strong&gt;: Any estimate of effect is very uncertain. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strength of Recommendations &lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strong&lt;/strong&gt;: The desirable effects of an intervention clearly outweigh the undesirable effects or clearly do not. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Conditional&lt;/strong&gt;: The tradeoffs are less certain between the desirable and undesirable effects of an intervention.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An algorithm titled &quot;Algorithm for the management of patients presenting with acute LGIB stratified by bleeding severity&quot; is provided in the original guideline document. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Acute overt lower gastrointestinal bleeding (LGIB)&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: For the purposes of this guideline, LGIB is defined as the onset of hematochezia originating from either the colon or the rectum.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Prevention" />
+      <FieldValue Value="Risk Assessment" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Colon and Rectal Surgery" />
+      <FieldValue Value="Gastroenterology" />
+      <FieldValue Value="Hematology" />
+      <FieldValue Value="Internal Medicine" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To provide recommendations for the management of patients with acute overt lower gastrointestinal bleeding (LGIB)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients with acute overt lower gastrointestinal bleeding (LGIB)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Initial Assessment&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Assessment of hemodynamic status &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Focused history, physical examination, and laboratory evaluation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Upper endoscopy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Risk assessment and stratification &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Management/Treatment&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Hemodynamic resuscitation (performed simultaneously with initial assessment)&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Intravenous fluid resuscitation &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Red blood cell (RBC) transfusion &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Management of coagulation defects&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Endoscopic hemostasis &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Platelet and plasma transfusion &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Use of multidisciplinary approach &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Colonoscopy&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Performed within 24 hours of presentation, following bowel preparation, for high-risk patients and at next available for low-risk patients &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Endoscopic hemostasis therapy (mechanical, thermal, injection, or combination) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Repeat colonoscopy (as indicated) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Non-colonoscopy interventions&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Surgical consultation &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Radiographic interventions (i.e., tagged red blood cell scintigraphy, computed tomographic angiography, angiography) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Computed tomography (CT) angiography &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Prevention&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Non-steroidal anti-inflammatory drugs (NSAIDs) (not recommended) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Aspirin (as indicated) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Non-aspirin antiplatelet therapy &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Incidence and severity of complications &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Rebleeding or ongoing bleeding &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Need for treatment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adverse events &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Morbidity &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mortality &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;With the assistance of a health sciences librarian, a systematic search of the literature was conducted covering the years 1 January 1968 through 2 March 2015 in the PubMed and EMBASE databases and the Cochrane Library including the Cochrane Database of Systematic Reviews, the Database of Abstracts of Reviews of Effect, and Cochrane Central Register of Controlled Trials (CENTRAL). The PubMed search used a combination of Medical Subject Headings (MeSH), as well as terms appearing in titles and abstracts. The final group was limited to English language and human studies. Citations dealing with children and prostatic neoplasms were excluded. Refer to the original guideline document for the search strategy used to cover the lower gastrointestinal tract. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Search strategies in EMBASE and the Cochrane Library databases replicated the terms, limits, and features used in the PubMed search strategy. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;In addition to the literature search, the authors reviewed the references of identified articles for additional studies. The authors also performed targeted searches on topics for which there is relevant literature for upper gastrointestinal bleeding (UGIB) but not lower gastrointestinal bleeding (LGIB) including hemodynamic resuscitation/blood product transfusions and management of anticoagulant and antiplatelet medications.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A total of 2,576 studies were identified, and 133 studies were included in the evidence base. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Quality of Evidence&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;High&lt;/strong&gt;: Further research is very unlikely to change confidence in the estimate of effect. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Moderate&lt;/strong&gt;: Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Low&lt;/strong&gt;: Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Very Low&lt;/strong&gt;: Any estimate of effect is very uncertain.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The GRADE (Grading of Recommendations Assessment, Development and Evaluation) system was used to grade the quality of evidence. See the &quot;Rating Scheme for the Strength of the Evidence&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In the GRADE system, randomized trials are considered high-quality evidence but can be downrated depending on the size, quality, and consistency of studies. Observational studies are generally rated as low-quality studies.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus (Nominal Group Technique)" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The GRADE system was used to rate the strength of each recommendation. See the &quot;Rating Scheme for the Strength of the Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The strength of a recommendation is graded as strong when the desirable effects of an intervention clearly outweigh the undesirable effects and is graded as conditional when uncertainty exists about the trade-offs. Other factors affecting the strength of recommendation include variability in values and preferences of patients and whether an intervention represents a wise use of resources.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Strength of Recommendations&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strong&lt;/strong&gt;: The desirable effects of an intervention clearly outweigh the undesirable effects or clearly do not. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Conditional&lt;/strong&gt;: The tradeoffs are less certain between the desirable and undesirable effects of an intervention.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The American College of Gastroenterology created a special guideline review process, involving members of the Board of Trustees, Practice Parameters Committee and the &lt;em&gt;American Journal of Gastroenterology&lt;/em&gt;. It is their goal to review the guideline, allow the Practice Parameters Committee to revise the guideline, and re-review the guideline within 6 months of first submission. Therefore the entire process should take 1 year from commission to finished, accepted guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field). &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate management of patients with acute lower gastrointestinal bleeding (LGIB)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the &quot;Summary of Evidence&quot; sections of the original guideline documentation for benefits associated with specific interventions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Large observational studies and a meta-analysis of three small trials of upper gastrointestinal bleeding (UGIB) suggest that blood transfusion compared with no transfusion is associated with an increased risk of rebleeding and possibly death. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Complications of colon preparation with polyethylene glycol are rare but include aspiration pneumonia, as well as fluid and electrolyte abnormalities. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The risk of early rebleeding in the setting of antiplatelet or anticoagulant use may be higher with thermal contact hemostasis methods than with mechanical methods (clips). In a pooled analysis by no early rebleeding was reported after endoscopic clipping of diverticular bleeding; however, late rebleeding occurred in 17%. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;When performing computed tomography (CT) angiography, standard precautions should be taken to avoid contrast-induced nephropathy, particularly as patients may undergo subsequent angiography with administration of arterial contrast. Because angiography relies on active bleeding and has the potential for serious complications, it should be reserved for patients with very brisk, ongoing bleeding. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Caution should be exercised when contemplating using band ligation for a right side colonic diverticular bleed. &lt;em&gt;Ex vivo&lt;/em&gt; colon specimen data have demonstrated serosal entrapment and inclusion of the muscularis propia post band ligation in the right colon. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Refer to the &quot;Summary of Evidence&quot; sections of the original guideline documentation for harms associated with specific interventions.&lt;/p&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="430" OrdBy="800" Name="Contraindications">
+    <Field FieldID="144" OrdBy="805" ID="431" Name="Contraindications" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Non-aspirin nonsteroidal anti-inflammatory drugs (NSAID) use should be avoided in patients with a history of acute lower gastrointestinal bleeding (LGIB) particularly if secondary to diverticulosis or angioectasia.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Clinical Algorithm" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Strate LL, Gralnek IM. ACG clinical guideline: management of patients with acute lower gastrointestinal bleeding. Am J Gastroenterol. 2016 Apr;111(4):459-74. [140 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26925883&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2016 Apr" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="American College of Gastroenterology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This research was supported in part by grants from the National Institutes of Health R01 DK095964 and DK084157.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Authors&lt;/em&gt;: Lisa L. Strate, MD, MPH, FACG; Ian M. Gralnek, MD, MSHS&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Potential Competing Interests&lt;/strong&gt;: Ian M. Gralnek has served as a consultant for EndoChoice, Motus GI, and EndoAid GI View, and is a member of the Data Safety Monitoring Board for Intec Pharma. Lisa L. Strate declares no conflict of interest.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://gi.org/wp-content/uploads/2016/03/ACGGuideline-Acute-Lower-GI-Bleeding-03012016.pdf&quot; title=&quot;American College of Gastroenterology (ACG) Web site&quot;&gt;American College of Gastroenterology (ACG) Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;American College of Gastroenterology Practice Parameters Committee. Guideline development policies. [internet]. Bethesda (MD): American College of Gastroenterology; 2010 Jan. Available from the &lt;a href=&quot;http://gi.org/clinical-guidelines/guideline-development-policies/&quot; title=&quot;American College of Gastroenterology (ACG) Web site&quot;&gt;American College of Gastroenterology (ACG) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on July 31, 2017. The information was verified by the guideline developer on August 16, 2017.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NEATS assessment was completed by ECRI Institute on August 3, 2017. The information was verified by the guideline developer on August 16, 2017.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,199 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Conservative care options for work-related mechanical shoulder conditions.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Washington State Department of Labor and Industries. Conservative care options for work-related mechanical shoulder conditions. Olympia (WA): Washington State Department of Labor and Industries; 2014 Apr 17. 31 p.  [127 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Practical Application Points&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Work-relatedness usually involves direct or indirect trauma to the shoulder, or prolonged, awkward, or overhead arm use. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Differential shoulder diagnosis is typically based on clinical criteria. Fracture or dislocation are important to rule in; however, diagnostic precision for soft tissue conditions may not yield many differences in conservative manual care options as treatment typically involves passive and active interventions for the entire shoulder girdle. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Rapid functional improvement gains should be evident with conservative care, particularly with severely restricted shoulder range of motion. Baseline and progress functional tracking instruments should be routinely used. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Work-Related Mechanical Shoulder Conditions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Work-related shoulder conditions of mechanical origin for which patients seek conservative care typically present as shoulder pain with full or limited movement following an identifiable workplace exposure. Serious underlying conditions, associated with acute mechanically-triggered shoulder pain and restriction, are extremely rare. Flags for non-mechanical conditions include pain at rest, erythema, and unexplained swelling. Posttraumatic deformity and inability to perform any movements are flags for fracture or dislocation. Patient history, location of tenderness, and character of pain guide diagnosis. Examination is useful for discerning between articular, soft tissue, and referred pain sources. Imaging is not indicated initially in the absence of significant precipitating trauma, sudden onset of pain and swelling, palpable mass or deformity, or pain at rest. Acute onset, mild overuse/trauma, and lower shoulder disability scores predict a good outcome with conservative care. Increased age, female gender, severe or recurrent symptoms at presentation, concurrent neck pain, and higher disability scores are associated with poorer outcomes.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Case Definition&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Clinical presentation of shoulder pain with full or limited movement following mechanical workplace activity/exposure. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Work place exposures: falls, blunt force, or extended periods of overhead or awkward arm position. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Diagnosis of a shoulder condition is usually based on clinical criteria. Imaging should be reserved for patients presenting with specific red flags or non-response to 4 to 6 weeks of appropriate conservative care. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Evaluation Summary&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Rule-out potential red flag shoulder conditions that require a prompt specialty referral, such as shoulder pain associated with muscle weakness or inability to raise the arm/shoulder, deformity, swelling, fever/chills, suspected malignancy or shoulder instability or dislocation. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Rule-in mechanical causes prior to initiating manual care. Suspected full-thickness rotator cuff tears should be referred to specialist for urgent evaluation. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Monitor health-related quality of life and shoulder function (e.g., shoulder questionnaires such as the Simple Shoulder Test [SST] or Shoulder Pain and Disability Index [SPADI]) to establish a baseline to assess improvement over time. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Provocative testing may correlate with diagnostic categories, but impact on specifying conservative treatment options appears minimal. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Intervention Summary&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Limited evidence supports a combined manual approach of mobilization/manipulation, active/passive exercise, and soft tissue techniques for most mechanical shoulder conditions. Early improvement in pain and function is expected for recent acute injuries. Recovery may be delayed in chronic conditions. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Consider reassessment and specialist consult if there is inadequate response to 4 weeks of conservative care. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;The National Guideline Clearinghouse (NGC) summary of the Washington State Department of Labor &amp;amp; Industries' &lt;a href=&quot;/content.aspx?id=47827&quot; title=&quot;Guideline #10245&quot;&gt;Shoulder conditions diagnosis and treatment guideline&lt;/a&gt; has additional information, particularly related to surgical intervention.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Typical Interventions and Approximate Response Thresholds&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;1&quot; summary=&quot;Table: Typical Interventions and Approximate Response Thresholds&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;1 to 2 Weeks&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;3 to 6 Weeks&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;7 to 8 Weeks&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;Beyond 8 Weeks&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Initially: Patients with red flags or persistent severe pain should be referred to a specialist for urgent evaluation. &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Uncertain mechanical etiology, severe pain/restriction: Rule out fracture and dislocation; expect some measurable improvement with combined active exercise and manual work within patient tolerance. &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Known mechanical etiology: Expect early significant improvement for acute capsulitis/tendonosis; however, recovery may be delayed in chronic conditions. &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Early: Re-assess pain/function within 3 to 4 weeks of beginning care. &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Good improvement: Shoulder function (painful arc, compound movements [e.g., overhead, behind back]) improves measurably &amp;amp; perceptively by patient. Continue, emphasize self-care. &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Inadequate improvement: Worsening or no change in function (e.g., lower score on SST or SPADI). Consider additional diagnostics, specialist consultation. If only small improvement, consider change in intervention (e.g., supervised exercise, more intense manual). &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Response should be evident: With persistent loss of mobility beyond 4 to 6 weeks, chronic adhesion likely in traumatic onset. Recovery may be delayed in such cases. &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Good improvement: At or near pain-free, nearly full function. Transition to self-care, periodic follow-up assessment. &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Inadequate improvement: Pain and function limitations persist, minimal improvement. Consider specialist referral. &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Resolution: Shoulder conditions should respond significantly with appropriate care. &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Good improvement: Most acute mechanical shoulder problems should resolve fully. If chronic adhesive capsulitis, improvement in function should be significant and measurable. Consider continuing combined care approach. &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Inadequate improvement: Consider additional diagnostics, specialist consultation. &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;SPADI, Shoulder Pain and Disability Index; SST, Simple Shoulder Test&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Work-related mechanical shoulder conditions&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Management" />
+      <FieldValue Value="Rehabilitation" />
+      <FieldValue Value="Risk Assessment" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Chiropractic" />
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Orthopedic Surgery" />
+      <FieldValue Value="Physical Medicine and Rehabilitation" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Chiropractors" />
+      <FieldValue Value="Health Care Providers" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Occupational Therapists" />
+      <FieldValue Value="Physical Therapists" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+      <FieldValue Value="Utilization Management" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To provide concise summaries of published clinical and scientific literature regarding utility and effectiveness of commonly used conservative approaches for work-related mechanical shoulder conditions; history, examination and special studies; recommendations for supportive, manual, and rehabilitative care including practical clinical resources (useable without licensing/charge in practice for non-commercial use) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To inform care options and shared decision-making &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Workers with, or at risk for, work-related mechanical shoulder conditions&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Diagnosis/Evaluation/Risk Assessment&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patient history &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Evaluation of clinical presentation (location of tenderness, character of pain, workplace exposure) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Differential diagnosis (ruling out fracture and dislocation) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Imaging, if indicated &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Monitoring of health-related quality-of-life and shoulder function with validated questionnaires &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Treatment/Management&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Manipulation and mobilization &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Active/passive exercise &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Soft tissue techniques (massage, trigger point, passive stretch) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Reassessment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Specialist consultation &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Accuracy and clinical utility of commonly used diagnostic tests &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Improvement of symptoms &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pain reduction &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Functional activity (range of motion, strength) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Progression of shoulder conditions &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Full recovery rates &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Recurrence rate &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An extensive search was done on mechanical shoulder conditions on PubMed and other electronic databases. Articles were retrieved by the Labor and Industries librarians. Additionally citation tracking was performed by department staff and committee members for potentially relevant studies not retrieved from electronic databases.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The bulk of the literature search and review for this update was conducted during June 2013 to January 2014. Additional searches were conducted as requested by the Industrial Insurance Chiropractic Advisory Committee Subcommittee members. Search results were limited to human adults only and English only. The original literature search was conducted in fall of 2010 through spring 2011. Studies that were published in the last 10 years were emphasized.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The following keywords were used in PubMed:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Terms for a variety of mechanical shoulder conditions (e.g., impingement syndrome, rotator cuff tear) were searched in combination with terms for each of the other categories (diagnosis, conservative treatment, and outcome).&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;The condition&lt;/strong&gt;: Mechanical shoulder conditions (e.g., general shoulder pain/restriction, rotator cuff tendonosis, adhesive capsulitis, labrum tear, impingement syndromes, subluxation/dislocation, instability) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;Work-relatedness&lt;/strong&gt;: Occupational health, injury, disease, workers compensation, return to work, disability &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;Diagnosis&lt;/strong&gt;: Diagnosis, symptoms, signs, validity, reliability, sensitivity, specificity, electrodiagnostic studies &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;Treatment&lt;/strong&gt;: Treatment, conservative therapy, interventions &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;203 reviewed (127 cited)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Evidence was graded on a 1-5 scale with 1 being the highest grade:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;1 = Randomized controlled trial&lt;/p&gt;&#xD;&#xA;&lt;p&gt;2 = Cohort study, prospective or historical&lt;/p&gt;&#xD;&#xA;&lt;p&gt;3 = Case-control study&lt;/p&gt;&#xD;&#xA;&lt;p&gt;4 = Cross-sectional study&lt;/p&gt;&#xD;&#xA;&lt;p&gt;5 = Case series&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Individual articles were reviewed by both a clinical expert and epidemiologist with subsequent clinical expert group review to resolve inconsistencies.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Assessing Study Methodologic Quality&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Attributes of study methodology quality vary according to the clinical procedure (e.g., diagnostic, therapeutic intervention) looked at, and specific research questions being studied. The American Academy of Neurology's Clinical Practice Guideline Process Manual offers a comprehensive guide to systematic evidence review, quality attributes and consensus process that generally serves as the approach taken by Industrial Insurance Chiropractic Advisory Committee (IICAC). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;General attributes identified when extracting evidence from studies include identification of population, the intervention and co-interventions and outcomes being addressed in each study. The clinical questions addressed such as diagnostic accuracy, therapeutic effectiveness, or causation are determined. Studies are extracted into evidence tables including quality attributes and/or ratings which are reviewed both by department staff and committee members (usually 2 per study).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Specific quality attributes include: Diagnostic Accuracy &amp;ndash; design, spectrum of patients, validity and relevance of outcome metric; Therapeutic Interventions &amp;ndash; comparison groups (no treatment, placebo, comparative intervention), treatment allocation, blinding/masking (method and degree: single, double, independent), follow-up (period and completion), and analysis (statistical power, intent-to-treat). Specific attention is paid to several factors including reporting of outcomes (primary vs. secondary), relevance of outcome (e.g., function versus pain), and meaningfulness (clinically important change versus minimally detectable change).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Synthesizing Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Consideration of study quality (class), significance (statistical precision), consistency across studies, magnitude of effect, and relevance to populations and procedures were taken into account in preparing draft summaries. Special attention was given to clarifying conclusions related to the clinical questions of interest. Evidence, particularly with low tech and highly diffused examination and conservative procedures addressed here, is rarely truly &quot;definitive,&quot; even when multiple studies exist. Inconsistent conclusions typically reflect error (systematic, random) and/or bias in studies. Data pooling via meta-analysis is useful to reduce random error when studies are of sufficient power and methodologic strength. Larger meaningful effect size may increases confidence in findings.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The conservative care resource/guideline process can be described in the following steps:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Once a topic for a resource/guideline is selected, a subcommittee of the Industrial Insurance Chiropractic Advisory Committee (IICAC) made up of regular members identifies additional content experts to join the subcommittee and/or serve as consultants. Various clinical specialists may provide specific input or be invited to give a presentation to the subcommittee. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A systematic review and summary of the relevant peer-reviewed clinical and scientific literature is done (primarily by department staff and subcommittee members with specific interest and/or expertise in a topic). Claim and billing data from Labor &amp;amp; Industries may also be reviewed. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Literature is retrieved, assessed for quality and summarized in evidence tables which are presented to the subcommittee for review. Then at a variable series of group meetings and phone conferences, the evidence with greatest relevance to the resource/guideline topic is highlighted. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Based on this literature review and assessment by the subcommittee, department staff typically develop an initial draft resource guideline generally organized as follows:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;General summary of topic, case definition, clinical evaluation, interventions, and clinical progress &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Checklist for general chronological management with expected clinical and progress thresholds &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Readily usable functional progress instruments for a given condition &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Evidence summaries for clinical assessment (e.g., history, examination, imaging and special studies, prognostic and management issues, workers' compensation issues) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Evidence summaries for conservative interventions (e.g., physiotherapeutic modalities, bracing, manipulation and mobilization, soft tissue techniques, exercise and rehabilitation approaches, special interventions, common medications [injected and oral]), and workers compensation specific interventions (e.g., ergonomic interventions) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Additional materials (glossaries, procedure descriptions, instrument scoring) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Evidence and methodology process used in development &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Citations &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Subcommittee members critique and revise the guideline based on what is most useful for the clinician in diagnosing and treating the condition in question. Additional expertise, consultation, and literature searches may also be added. This results in a second draft guideline that is then shared with the full advisory committee to obtain their input. At this stage specific content experts/reviewers may be sought as the subcommittee identifies particular issues. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="External Peer Review" />
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;After the full advisory committee and special reviewers provide input, a third draft is produced and distributed to professional and specialty groups, the Industrial Insurance Chiropractic Advisory Committee (IICAC) and others who have expressed interest for broader public comment. This draft is also posted on the web for a four week period for public review and comment. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Once all public comments are received and reviewed, responses are provided by the subcommittee. Both comments and responses are posted on the web. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The subcommittee may make further revisions to the draft guideline based on public input and any other information they have received. This then results in a fourth draft. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The fourth draft is presented to the full advisory committee in an open public meeting. Oral comments are invited from the public, and the full committee may recommend further changes, potentially creating a fifth and final draft. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Once the full committee makes the advisory recommendation to adopt the resource/guideline, it becomes final and is again posted on the web and distributed as before. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of evidence supporting the recommendations is not specifically stated.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In general, the recommendations were based primarily on a comprehensive review of peer-reviewed published scientific literature. In cases where the data did not appear conclusive, recommendations were based on the consensus opinion of the committee.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Use of appropriate conservative care options for work-related mechanical shoulder conditions &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Use of evidence-informed discussions by attending providers regarding evaluation and care options for patients with work-related mechanical shoulder conditions for the purpose of shared decision-making &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Utilization of validated tools for diagnosing work-related mechanical shoulder conditions and tracking functional improvement &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;More timely referral for specialty care with better patient selection &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="430" OrdBy="800" Name="Contraindications">
+    <Field FieldID="144" OrdBy="805" ID="431" Name="Contraindications" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;For all patients who have fracture, suspected fracture, dislocation, severe generalized or local osteoporosis, infection, tumor, or infection&amp;nbsp;high-velocity, short-amplitude (HVSA) manipulation is contraindicated.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This document is not a standard of care, claim management standard, or a substitute for clinical judgment in an individual case. This practice resource does not change Washington State Department of Labor and Industries coverage or payment.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Chart Documentation/Checklists/Forms" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Washington State Department of Labor and Industries. Conservative care options for work-related mechanical shoulder conditions. Olympia (WA): Washington State Department of Labor and Industries; 2014 Apr 17. 31 p.  [127 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2014 Apr 17" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Washington State Department of Labor and Industries - State/Local Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Washington State Department of Labor and Industries&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Washington State Department of Labor and Industries' Industrial Insurance Chiropractic Advisory Committee's Subcommittee on Policy, Practice, and Quality&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Subcommittee Members&lt;/em&gt;: J.F. Lawhead, DC; Robert Baker, DC; Linda DeGroot, DC; Michael Neely, DC; Michael J. Dowling, DC&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Department Staff&lt;/em&gt;: Robert D. Mootz, DC, Associate Medical Director; Bintu Marong, MS, Epidemiologist; Reshma Kearney, MPH, Epidemiologist&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Consultant&lt;/em&gt;: Thomas A. Souza, DC&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Washington State Department of Labor and Industries is a public state agency and did not receive any outside funding and has no conflicts of interest to report.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available from the &lt;a href=&quot;http://www.lni.wa.gov/ClaimsIns/Files/OMD/IICAC/2014Work-RelatedMechanicalShoulderConditions.pdf&quot; title=&quot;Washington State Department of Labor and Industries Web site&quot; target=&quot;_blank&quot;&gt;Washington State Department of Labor and Industries Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A shoulder progress checklist and shoulder function questionnaires are included in the &lt;a href=&quot;http://www.lni.wa.gov/ClaimsIns/Files/OMD/IICAC/2014Work-RelatedMechanicalShoulderConditions.pdf&quot; title=&quot;Washington State Department of Labor and Industries Web site&quot; target=&quot;_blank&quot;&gt;original guideline document&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on July 15, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is in the public domain. Washington State Department of Labor and Industries (L&amp;amp;I) does not copyright its medical treatment guidelines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

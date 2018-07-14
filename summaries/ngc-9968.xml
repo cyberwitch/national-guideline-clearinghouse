@@ -1,0 +1,183 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Canadian Cardiovascular Society/Canadian Heart Rhythm Society joint position statement on the use of remote monitoring for cardiovascular implantable electronic device follow-up.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yee R, Verma A, Beardsall M, Fraser J, Philippon F, Exner DV. Canadian Cardiovascular Society/Canadian Heart Rhythm Society joint position statement on the use of remote monitoring for cardiovascular implantable electronic device follow-up. Can J Cardiol. 2013 Jun;29(6):644-51. [34 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23465345&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The grading of evidence (&lt;strong&gt;High&lt;/strong&gt;, &lt;strong&gt;Moderate&lt;/strong&gt;, &lt;strong&gt;Low&lt;/strong&gt;, and &lt;strong&gt;Very Low&lt;/strong&gt;) and strength of recommendations (&lt;strong&gt;Strong&lt;/strong&gt; or &lt;strong&gt;Weak&lt;/strong&gt;) are defined at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The authors recommend that Device Follow-Up Clinics (DFCs) integrate remote monitoring (RM) capability into their routine functions and include this service as part of the standard of care for cardiovascular implantable electronic devices (CIED) patients (&lt;strong&gt;Strong Recommendation, Moderate-Quality Evidence&lt;/strong&gt;).&#xD;&#xA;    &lt;p&gt;&lt;em&gt;Values and preferences&lt;/em&gt;. The recommendation places great value on RM's ability to more quickly identify actionable CIED issues, reduce direct patient costs related to follow-up visits, and improve DFC workflow and efficiency. These benefits accrue without an increment in adverse events.&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The authors recommend that RM should only be implemented in CIED patients who provide explicit consent after proper education about the nature of RM, its potential benefits and limitations, and how RM-transmitted information will be managed and used. The medicolegal implications of RM and the effect on patient privacy and confidentiality of personal health information should be included in such discussions (&lt;strong&gt;Strong Recommendation, Very Low-Quality Evidence&lt;/strong&gt;).&#xD;&#xA;    &lt;p&gt;&lt;em&gt;Values and preferences&lt;/em&gt;. This recommendation places great value on the patient as an important stakeholder whose cooperation ensures the maximum benefit from RM.&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Practical tip&lt;/em&gt;. RM transmission has important privacy and confidentiality implications for which the patients need to be informed.&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;3&quot;&gt;&#xD;&#xA;    &lt;li&gt;The authors suggest that, in CIED patients in whom no device issues are identified, routine follow-up assessment during the maintenance phase should blend RM with in-clinic assessments beginning after the 3-month postimplant assessment, alternating assessments between in-clinic and RM transmissions in a 1:1 ratio (&lt;strong&gt;Conditional Recommendation, Low-Quality Evidence&lt;/strong&gt;).&#xD;&#xA;    &lt;p&gt;&lt;em&gt;Values and preferences&lt;/em&gt;. This recommendation places great value on current CIED guideline recommendations concerning CIED follow-up assessment frequency and the need to integrate RM into, rather than superimpose RM on, the current assessment schedule. It also places value on patient convenience and DFC efficiency.&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Practical tip&lt;/em&gt;. There is insufficient scientific evidence to support implementation of any single RM schedule across all centres. The authors encourage centres to take a flexible approach, tailor RM follow-up to the individual patient, and to recognize that the 1:1 ratio serves as a starting point.&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;4&quot;&gt;&#xD;&#xA;    &lt;li&gt;The authors recommend that RM be used to supplement in-person monitoring of the patient and device in clinical circumstances that warrant more intensive surveillance of the CIED, and the evidence suggests that RM might be efficacious (&lt;strong&gt;Strong Recommendation, Low-Quality Evidence&lt;/strong&gt;).&#xD;&#xA;    &lt;p&gt;&lt;em&gt;Values and preferences&lt;/em&gt;. This recommendation places value on the ability of RM to more frequently monitor CIED status and to quickly detect CIED system abnormalities with minimal negative effect on the patient.&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The authors recommend that DFCs develop the infrastructure, resources, policies, and procedures to optimally support the RM program in a manner analogous to in-clinic assessment (&lt;strong&gt;Strong Recommendation, Very Low-Quality Evidence&lt;/strong&gt;).&#xD;&#xA;    &lt;p&gt;&lt;em&gt;Values and preferences&lt;/em&gt;. The recommendation places value on the importance of careful planning and development of appropriate policies and procedures that reflect the values of the centre and the objectives of RM at the centre before initiating an RM program.&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Practical tip&lt;/em&gt;. RM improves DFC efficiency but has associated costs that need to be recognized and supported by centres through the allocation of sufficient resources.&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;6&quot;&gt;&#xD;&#xA;    &lt;li&gt;The authors recommend that health professionals responsible for interpretation of RM transmissions and subsequent patient management decisions have the same qualifications, training, and experience as those performing in-clinic assessments (&lt;strong&gt;Strong Recommendation, Low-Quality Evidence&lt;/strong&gt;).&#xD;&#xA;    &lt;p&gt;&lt;em&gt;Values and preferences&lt;/em&gt;. This recommendation places great value on RM data being as important and clinically useful as CIED gathered during in-clinic visits and the knowledge and expertise required to deal with RM data.&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The authors suggest that representatives of private industry involved in RM systems should provide support but should not have any direct involvement in RM-related patient care (&lt;strong&gt;Strong Recommendation, Very Low-Quality Evidence&lt;/strong&gt;).&#xD;&#xA;    &lt;p&gt;&lt;em&gt;Values and preferences&lt;/em&gt;. Industry representatives are an important knowledge resource for DFC staff and have an important support role, but this recommendation places great value on the autonomy of DFCs and the confidentiality of CIED data. Those responsible for CIED patient care must have the necessary training and experience, and be accountable for patient management decisions made.&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Definitions&lt;/strong&gt;&lt;/span&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Quality of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;High Quality&lt;/strong&gt;: Further research is very unlikely to change confidence in the estimate of effect.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Moderate Quality&lt;/strong&gt;: Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Low Quality&lt;/strong&gt;: Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Very Low Quality&lt;/strong&gt;: Any estimate of effect is very uncertain.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strength of Recommendations&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strong Recommendation&lt;/strong&gt;: Based on the available evidence, if clinicians are very certain that benefits do, or do not, outweigh risks and burdens they will make a strong recommendation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Weak Recommendation&lt;/strong&gt;: Based on the available evidence, if clinicians believe that benefits and risks and burdens are finely balanced, or appreciable uncertainty exists about the magnitude of benefits and risks, they must offer a weak recommendation. In addition, clinicians are becoming increasingly aware of the importance of patient values and preferences in clinical decision making. When, across the range of patient values, fully informed patients are liable to make different choices, guideline panels should offer weak recommendations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Diseases and conditions requiring cardiovascular implantable electronic devices (CIEDs)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Management" />
+      <FieldValue Value="Technology Assessment" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Cardiology" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Thoracic Surgery" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Allied Health Personnel" />
+      <FieldValue Value="Health Care Providers" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;To provide recommendations on the use of remote monitoring for cardiovascular implantable electronic device (CIED) follow-up &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To examine the clinical utility and potential role of remote monitoring for pacemaker (PM), implantable cardioverter defibrillator (ICD), and cardiac resynchronization therapy (CRT) device patient follow-up &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To offer practical advice on remote monitoring integration into the routine practice of the modern Device Follow-Up Clinic (DFC) in the Canadian health care context &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients in Canada receiving cardiac pacemaker (PM), implantable cardioverter defibrillator (ICD), and cardiac resynchronization therapy (CRT) devices, collectively referred to as cardiovascular implantable electronic devices (CIEDs)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Integration of remote monitoring (RM) capability by Device Follow-Up Clinics (DFCs) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Obtaining explicit consent and providing proper education about the nature of RM to patients with cardiovascular implantable electronic devices (CIEDs) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Blending RM with in-clinic assessments or using RM as a supplement to in-person monitoring of the patient and device &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Developing DFC infrastructure, resources, policies, and procedures to optimally support the RM program in a manner analogous to in-clinic assessment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Ensuring adequate qualifications, training, and experience of health professionals responsible for interpretation of RM transmissions &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Private industry support of RM systems &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Clinic visits &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Time to evaluation of clinical/arrhythmic events &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Reduction in adverse events &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Major safety events including death &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Inappropriate implantable cardioverter-defibrillator (ICD) therapies &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Number of hospitalizations and hospitalization time &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Direct patient costs, transportation, and waiting time &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient satisfaction &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A comprehensive literature search was performed on combined PubMed and Cochrane databases for the terms &quot;remote monitoring&quot; and &quot;implantable defibrillator&quot; or &quot;pacemaker&quot; or &quot;cardiac implantable electronic device&quot; published up to December 2011.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Most recent available guideline statements on the management of implantable devices and, if available, on the use of remote device monitoring from the Canadian Cardiovascular Society, Heart Rhythm Society (HRS), and European Heart Rhythm Association (EHRA) were also reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The search identified 6 systematic reviews, 7 randomized controlled trials, and 19 reports for 16 cohort studies.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Quality of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;High Quality&lt;/strong&gt;: Further research is very unlikely to change confidence in the estimate of effect.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Moderate Quality&lt;/strong&gt;: Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Low Quality&lt;/strong&gt;: Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Very Low Quality&lt;/strong&gt;: Any estimate of effect is very uncertain.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Recommendations were developed using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) system after a critical evaluation of the literature and expert consensus. The balance among desirable and undesirable consequences, values, and preferences was considered.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Strength of Recommendations&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strong Recommendation&lt;/strong&gt;: Based on the available evidence, if clinicians are very certain that benefits do, or do not, outweigh risks and burdens they will make a strong recommendation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Weak Recommendation&lt;/strong&gt;: Based on the available evidence, if clinicians believe that benefits and risks and burdens are finely balanced, or appreciable uncertainty exists about the magnitude of benefits and risks, they must offer a weak recommendation. In addition, clinicians are becoming increasingly aware of the importance of patient values and preferences in clinical decision making. When, across the range of patient values, fully informed patients are liable to make different choices, guideline panels should offer weak recommendations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Effectiveness and Cost of ICD Follow-up Schedule With Telecardiology (ECOST) study involved 433 patients using a single manufacturer's device followed for up to 27 months. It found that remote monitoring decreased inappropriate implantable cardioverter-defibrillator (ICD) shocks by 52% and hospitalizations by 72% and was noninferior to in-office follow-up in terms of major safety events including death. Formal cost-effectiveness analyses from these and other trials are pending.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="External Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;These guidelines were externally reviewed by experts and modified, based on those reviews. All recommendations were unanimously approved.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available studies have consistently shown that remote monitoring (RM) reduces clinic visits and time to evaluation of clinical/arrhythmic events in cardiac pacemaker and implantable cardioverter-defibrillator (ICD) populations without increasing adverse events. Recent trials have demonstrated a reduction in inappropriate ICD therapies and hospitalizations with RM. RM consistently reduces direct patient costs and transportation and waiting time that might partially account for increased patient satisfaction. Though these conclusions cannot be extrapolated to all patient subgroups, such as those with substantial physical or cognitive impairments, the evidence to date demonstrates that RM is efficacious and safe and offers substantive benefits to patients and Device Follow-Up Clinic (DFC) staff.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This statement was developed following a thorough consideration of medical literature and the best available evidence and clinical experience. It represents the consensus of a Canadian panel comprised of multidisciplinary experts on this topic with a mandate to formulate disease-specific recommendations. These recommendations are aimed to provide a reasonable and practical approach to care for specialists and allied health professionals obliged with the duty of bestowing optimal care to patients and families, and can be subject to change as scientific knowledge and technology advance and as practice patterns evolve. The statement is not intended to be a substitute for physicians using their individual judgment in managing clinical care in consultation with the patient, with appropriate regard to all the individual circumstances of the patient, diagnostic and treatment options available and available resources. Adherence to these recommendations will not necessarily produce successful outcomes in every case.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Implementation Issues&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Privacy and Medicolegal Issues&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Traditionally, the medical information generated from cardiovascular implantable electronic devices (CIED) follow-up assessments at a Device Follow-Up Clinic (DFC) remains within the confines of the facility. Remote monitoring (RM) changes the paradigm by gathering electronic data into a data repository that is remote from the health facility, yet readily accessed and shared with various health care providers involved in a patient's care or can be used for research or educational purposes. With accessibility, however, come challenges to maintaining the privacy of patient health information and potential issues related to liability and reimbursement for RM-related services. Like other patient health information, data collected by RM are regulated by federal and provincial legislation but the fact that RM servers might be located outside of this country adds a degree of complexity and privacy risk that need to be addressed by centers before proceeding with RM implementation. Centers usually negotiate a formal RM service agreement with the RM vendor that addresses the responsibilities of all parties in maintaining patient confidentiality. Information contained in the RM service agreement should also be available to the patient.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Reimbursement&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This review affirms that device follow-up care is a vital service that ensures patients derive maximum benefit from their CIED. RM extends the capacity of DFC to meet the needs of a growing burden of patients receiving CIED and has the capacity to achieve this more efficiently than in-clinic assessments. In light of the benefits of RM and because RM improves access to specialized CIED-related care, RM needs to be supported through adequate reimbursement of RM-related medical services that are rendered while professional bodies establish guidelines for appropriate use.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Integrating Remote Monitoring into CIED Follow-up Assessments&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original guideline document for a discussion highlighting important aspects of RM that DFC centres should address when developing an RM implementation strategy. The tables referred to in these sections are intended as tools to aid in RM implementation and are available online at the &lt;a href=&quot;http://www.ccs.ca&quot; title=&quot;Canadian Cardiovascular Society Web site&quot;&gt;Canadian Cardiovascular Society Web site&lt;/a&gt; (see also the &quot;Availability of Companion Documents&quot; field). Topics include the following:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patient selection, education, and consent &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;CIED follow-up assessment schedules &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Development of an RM program:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Roles and responsibilities of each staff member in an RM program &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Management of RM transmissions &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Access to RM data &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Local RM data repository &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Medical documentation &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Quality assurance process &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Role of industry and industry representatives in the RM program &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Chart Documentation/Checklists/Forms" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yee R, Verma A, Beardsall M, Fraser J, Philippon F, Exner DV. Canadian Cardiovascular Society/Canadian Heart Rhythm Society joint position statement on the use of remote monitoring for cardiovascular implantable electronic device follow-up. Can J Cardiol. 2013 Jun;29(6):644-51. [34 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23465345&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2013 Jun" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Canadian Cardiovascular Society - Medical Specialty Society" />
+      <FieldValue Value="Canadian Heart Rhythm Society - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Canadian Cardiovascular Society&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Writing Panel&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Primary Writing Panel Members&lt;/em&gt;: Raymond Yee, MD (&lt;em&gt;Chair&lt;/em&gt;), London Health Sciences Centre-University Hospital, London, Ontario, Canada; Atul Verma, MD, Southlake Regional Health Center, Newmarket, Ontario, Canada; Marianne Beardsall, RN, Southlake Regional Health Center, Newmarket, Ontario, Canada; Jennifer Fraser, RN, Kawartha Cardiology Clinic, Peterborough, Ontario, Canada; Francois Philippon, MD, Qu&amp;eacute;bec Heart Institute, Ste-Foy, Qu&amp;eacute;bec, Canada; Derek V. Exner, MD, Foothills Hospital, Calgary, Alberta, Canada&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The disclosure information of the authors and reviewers is available from the &lt;a href=&quot;http://www.ccs.ca/images/Guidelines/Guidelines_POS_Library/RM_PS_2013_COI.pdf&quot; title=&quot;Canadian Cardiovascular Society Web site&quot;&gt;Canadian Cardiovascular Society Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://www.onlinecjc.ca/article/PIIS0828282X1201519X/fulltext&quot; title=&quot;Canadian Journal of Cardiology Web site&quot;&gt;Canadian Journal of Cardiology Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Supplemental material, including a recommended assessment schedule and checklist for remote monitoring implementation, is available from the &lt;a href=&quot;http://www.onlinecjc.ca/cms/attachment/2006517049/2028980654/mmc1.pdf&quot; title=&quot;Canadian Journal of Cardiology Web site&quot;&gt;Canadian Journal of Cardiology Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on September 27, 2013. The information was verified by the guideline developer on November 1, 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

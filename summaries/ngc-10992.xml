@@ -1,0 +1,185 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Colonoscopy surveillance after colorectal cancer resection: recommendations of the U.S. Multi-Society Task Force on Colorectal Cancer.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kahi CJ, Boland CR, Dominitz JA, Giardiello FM, Johnson DA, Kaltenbach T, Lieberman D, Levin TR, Robertson DJ, Rex DK. Colonoscopy surveillance after colorectal cancer resection: recommendations of the U.S. Multi-Society Task Force on Colorectal Cancer. Gastrointest Endosc. 2016 Mar;83(3):489-98. [119 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26802191&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Definitions for the quality of evidence (&lt;strong&gt;high&lt;/strong&gt;, &lt;strong&gt;moderate&lt;/strong&gt;, &lt;strong&gt;low&lt;/strong&gt;, &lt;strong&gt;very low&lt;/strong&gt;) and the strength of the recommendations (&lt;strong&gt;strong&lt;/strong&gt; or &lt;strong&gt;weak&lt;/strong&gt;) are provided at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Colonoscopy and Perioperative Clearing in Patients with Cancer of the Colon or Rectum&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Task Force recommends that patients with colorectal cancer (CRC) undergo high-quality perioperative clearing with colonoscopy. The procedure should be performed preoperatively, or within a 3- to 6-month interval after surgery in the case of obstructive CRC. The goals of perioperative clearing colonoscopy are detection of synchronous cancer and detection and complete resection of precancerous polyps. (&lt;em&gt;&lt;strong&gt;Strong recommendation, low-quality evidence&lt;/strong&gt;&lt;/em&gt;)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Colonoscopy and Prevention of Metachronous Cancer after Surgery for Colon and for Rectal Cancer&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Task Force recommends that patients who have undergone curative resection of either colon or rectal cancer receive their first surveillance colonoscopy 1 year after surgery (or 1 year after the clearing perioperative colonoscopy). Additional surveillance recommendations apply to patients with rectal cancer (see &quot;Additional Considerations in Surveillance of Rectal Cancer&quot; below). (&lt;em&gt;&lt;strong&gt;Strong recommendation, low-quality evidence&lt;/strong&gt;&lt;/em&gt;)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Task Force recommends that, after the 1-year colonoscopy, the interval to the next colonoscopy should be 3 years (i.e., 4 years after surgery or perioperative colonoscopy) and then 5 years (i.e., 9 years after surgery or perioperative colonoscopy). Subsequent colonoscopies should occur at 5-year intervals until the benefit of continued surveillance is outweighed by diminishing life expectancy. If neoplastic polyps are detected, the intervals between colonoscopies should be in accordance with published guidelines for polyp surveillance intervals. These intervals do not apply to patients with Lynch syndrome. (&lt;em&gt;&lt;strong&gt;Strong recommendation, low-quality evidence&lt;/strong&gt;&lt;/em&gt;)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Additional Considerations in Surveillance of Rectal Cancer&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patients with localized rectal cancer who have undergone surgery without total mesorectal excision, those who have undergone transanal local excision (i.e., transanal excision or transanal endoscopic microsurgery) or endoscopic submucosal dissection, and those with locally advanced rectal cancer who did not receive neoadjuvant chemoradiation and then surgery using total mesorectal excision techniques are at increased risk for local recurrence. In these situations, the Task Force suggests local surveillance with flexible sigmoidoscopy or endoscopic ultrasound (EUS) every 3 to 6 months for the first 2 to 3 years after surgery. These surveillance measures are in addition to recommended colonoscopic surveillance for metachronous neoplasia. (&lt;em&gt;&lt;strong&gt;Weak recommendation, low-quality evidence&lt;/strong&gt;&lt;/em&gt;)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Alternatives and Adjuncts to Colonoscopy&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Computed Tomographic Colonography (CTC)&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In patients with obstructive CRC precluding complete colonoscopy, the Task Force recommends CTC as the best alternative to exclude synchronous neoplasms. Double-contrast barium enema is an acceptable alternative if CTC is not available. (&lt;em&gt;&lt;strong&gt;Strong recommendation, moderate-quality evidence&lt;/strong&gt;&lt;/em&gt;)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Fecal Tests&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;There is insufficient evidence to recommend routine use of fecal immunochemical tests (FIT) or fecal deoxyribonucleic acid (DNA) for surveillance after CRC resection. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Definitions&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Grading of Recommendations Assessment, Development and Evaluation (GRADE) Ratings of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;0&quot; summary=&quot;Table: GRADE Ratings of Evidence&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;&gt;Rating of Evidence&lt;/th&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;&gt;Definitions&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;A: High quality&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Further research is very unlikely to change confidence in the estimate of effect&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;B: Moderate quality&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;C: Low quality&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;D: Very low quality&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Any estimate of effect is very uncertain&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strength of the Recommendations&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strong recommendations&lt;/strong&gt; mean that most informed patients would choose the recommended management and that clinicians can structure their interactions with patients accordingly. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Weak recommendations&lt;/strong&gt; mean that patients' choices will vary according to their values and preferences, and clinicians must ensure that patients' care is in keeping with their values and preferences. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Weaker recommendations are indicated by phrases such as &quot;the Task Force suggests,&quot; whereas stronger recommendations are stated as &quot;the Task Force recommends.&quot;&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Colorectal cancer (CRC)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Prevention" />
+      <FieldValue Value="Screening" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Colon and Rectal Surgery" />
+      <FieldValue Value="Gastroenterology" />
+      <FieldValue Value="Oncology" />
+      <FieldValue Value="Preventive Medicine" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Health Care Providers" />
+      <FieldValue Value="Health Plans" />
+      <FieldValue Value="Hospitals" />
+      <FieldValue Value="Managed Care Organizations" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+      <FieldValue Value="Utilization Management" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To provide a critical review of the literature and recommendations regarding the role of colonoscopy, flexible sigmoidoscopy, endoscopic ultrasound (EUS), fecal testing, and computed tomographic colonography (CTC) in surveillance after surgical resection of CRC&amp;nbsp; &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients who have undergone surgical resection for TNM stages I&amp;minus;III (or Dukes A&amp;minus;C) colorectal cancer (CRC) and selected patients who have undergone surgical resection for stage IV cancer&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Perioperative clearing colonoscopy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Frequency of surveillance colonoscopy after curative resection &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Additional local surveillance with flexible sigmoidoscopy or endoscopic ultrasound (EUS) in select patients with rectal cancer &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Alternatives and adjuncts to colonoscopy&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Computed tomographic colonography (CTC) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Double-contrast barium enema &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Fecal immunochemical tests (FIT) or fecal deoxyribonucleic acid (DNA) (insufficient evidence to recommend routinely) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Overall and cancer-specific mortality &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Rates of second primary (metachronous) cancers and anastomotic recurrences &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sensitivity, specificity, and negative predictive value of alternatives and adjuncts to colonoscopy &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Secondary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The English-language medical literature was searched using MEDLINE (2005 to September 30, 2015), EMBASE (2005 to September 30, 2015), the Database of Abstracts of Reviews and Effects (2005 to October 7, 2015), and the Cochrane Database of Systematic Reviews (2005 to October 7, 2015). In MEDLINE, subject headings for colorectal neoplasms were combined with the subheading for surgery, resection, postoperative, colectomy, curative, survivor, survival, neoplasm recurrence, second primary neoplasms, and treatment outcome. The resulting set was combined with subject and keywords for colonoscopy or follow-up studies. Similar searches were performed in EMBASE, the Database of Abstracts of Reviews and Effects, and the Cochrane Database of Systematic Reviews. Case reports and studies performed in patients with inflammatory bowel disease, prior colorectal cancer (CRC), or hereditary CRC syndromes were excluded. Review papers, meta-analyses, gastroenterology textbooks, and editorials were searched manually for additional references. Data from studies with no explicit documentation that perioperative colonoscopic clearing had been performed were not included in the overall summary tables, but some of these studies are referred to in the discussion of the evidence. The review includes studies published since 2005, but also incorporates older evidence used to draft the 2006 guidelines. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The number of citations initially identified was 1848. The Task Force included 99 studies as evidence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Grading of Recommendations Assessment, Development and Evaluation (GRADE) Ratings of Evidence &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: GRADE Ratings of Evidence&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;&gt;Rating of Evidence&lt;/th&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;&gt;Definitions&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;A: High quality&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Further research is very unlikely to change confidence in the estimate of effect&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;B: Moderate quality&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;C: Low quality&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;D: Very low quality&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Any estimate of effect is very uncertain&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Review of Published Meta-Analyses" />
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The U.S. Multi-Society Task Force (USMSTF) grades the quality of evidence and strength of recommendations using an adaptation of the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach. The GRADE process categorizes the quality of the evidence as high, moderate, low, or very low (see the &quot;Rating Scheme for the Strength of the Evidence&quot; field). This categorization is based on an assessment of the study design (e.g., randomized controlled trial or observational study), study limitations, inconsistency of results, indirectness of evidence, imprecision, and publication bias. The USMSTF members conduct literature searches to identify published papers that address the key issues discussed within these recommendations. These publications are supplemented both by review of citations from the identified papers as well as other key references elicited from the subject matter experts on the Task Force. The GRADE process involves the collection of literature, analysis, summary (often as meta-analysis), and a separate review of the quality of evidence and strength of recommendations. The USMSTF members employ a modified, qualitative approach for this assessment based on exhaustive and critical review of evidence, without a traditional meta-analysis. The GRADE process separates evaluation of the quality of the evidence to support a recommendation from the strength of that recommendation. This is done in recognition of the fact that, although the quality of the evidence impacts the strength of the recommendation, other factors can influence a recommendation, such as side effects, patient preferences, values, and cost.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Process&lt;/strong&gt;&lt;/span&gt; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The U.S. Multi-Society Task Force (USMSTF) includes gastroenterology experts with specific interest in colorectal cancer. These members represent the American College of Gastroenterology, the American Gastroenterological Association, and the American Society for Gastrointestinal Endoscopy. Summary tables and a draft document were circulated to members of the Task Force, and final guidelines were developed by consensus during a joint teleconference.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Strong recommendations&lt;/strong&gt; mean that most informed patients would choose the recommended management and that clinicians can structure their interactions with patients accordingly. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Weak recommendations&lt;/strong&gt; mean that patients' choices will vary according to their values and preferences, and clinicians must ensure that patients' care is in keeping with their values and preferences. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Weaker recommendations are indicated by phrases such as &quot;the Task Force suggests,&quot; whereas stronger recommendations are stated as &quot;the Task Force recommends.&quot;&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Studies published since 2005 show that the 1-year examination is high-yield and cost effective.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The document underwent committee review and governing board approval by the American College of Gastroenterology, the American Gastroenterological Association, and the American Society for Gastrointestinal Endoscopy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The postoperative surveillance of patients treated for colorectal cancer (CRC) is intended to prolong survival by diagnosing recurrent and metachronous cancers at a curable stage, and to prevent metachronous cancer by detection and removal of precancerous polyps. Refer to the &quot;Results of Literature Review&quot; section of the original guideline document for discussions of evidence supporting the benefits of specific recommendations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Complications of colonoscopic surveillance, including hemorrhage and perforation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The use of computed tomographic colonography (CTC) with intravenous contrast can be considered preoperatively to exclude both synchronous neoplasia and distant metastases, although caution is advised in cases with complete colonic obstruction due to increased perforation risk associated with gas insufflation. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or the Department of Veterans Affairs.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Living with Illness" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kahi CJ, Boland CR, Dominitz JA, Giardiello FM, Johnson DA, Kaltenbach T, Lieberman D, Levin TR, Robertson DJ, Rex DK. Colonoscopy surveillance after colorectal cancer resection: recommendations of the U.S. Multi-Society Task Force on Colorectal Cancer. Gastrointest Endosc. 2016 Mar;83(3):489-98. [119 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26802191&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2016 Mar" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="U.S. Multi-Society Task Force on Colorectal Cancer - Clinical Specialty Collaboration" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The U.S. Multi-Society Task Force on Colorectal Cancer is a volunteer effort and therefore has no funding.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;U.S. Multi-Society Task Force on Colorectal Cancer&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Task Force Members&lt;/em&gt;: Charles J. Kahi, C. Richard Boland, Jason A. Dominitz, Francis M. Giardiello, David A. Johnson, Tonya Kaltenbach, David Lieberman, Theodore R. Levin, Douglas J. Robertson, Douglas K. Rex&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All authors disclosed no financial relationships relevant to this publication.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&#xA;&lt;p&gt;This guideline meets NGC's 2013 (revised) inclusion criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Available from the &lt;a href=&quot;http://www.asge.org/uploadedFiles/Publications_(public)/Practice_guidelines/Colonoscopy_surveillance_after_crc_resection.pdf&quot; title=&quot;American Society for Gastrointestinal Endoscopy Web site&quot;&gt;American Society for Gastrointestinal Endoscopy Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on September 1, 2016. The information was verified by the guideline developer on September 12, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;ASGE requests that NGC refer requests about guideline usage to Gina Steiner, Director of Communications, at &lt;a href=&quot;mailto:gsteiner@asge.org&quot;&gt;gsteiner@asge.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

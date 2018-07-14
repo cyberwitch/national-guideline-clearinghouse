@@ -1,0 +1,203 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Follow-up of colorectal polyps or cancer.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Guidelines and Protocols Advisory Committee. Follow-up of colorectal polyps or cancer. Victoria (BC): British Columbia Medical Association; 2013 Jan 16. 5 p.  [14 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Post- Polypectomy&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The majority of colorectal cancers (CRCs) arise from adenomas, the 'adenoma&amp;ndash;carcinoma sequence'. Two major types of polyps are found in the colon and rectum: adenomas and hyperplastic polyps. Hyperplastic polyps are considered to have &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;no&lt;/span&gt;&lt;/strong&gt; malignant potential.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Table: Post-Colorectal Polypectomy Surveillance Recommendations&lt;/strong&gt; (Brooks et al., 2008)&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Post-Colorectal Polypectomy Surveillance Recommendations&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Risk Group&lt;/th&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Surveillance Recommendations&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Patients with hyperplastic polyps&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Follow-up as average risk.* &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Patients with 1 or 2 small (&amp;lt;1 cm) tubular adenomas with only low-grade dysplasia&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Follow-up colonoscopy in 5 to 10 years. Timing within this interval should be based on other clinical factors (e.g., previous colonoscopy findings, family history, patient preferences, judgment of the physician).&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Patients with 1 or more sessile serrated polyps &amp;lt;1 cm with no dysplasia&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Follow-up colonoscopy in 5 years.&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Patients with 3 to 10 tubular adenomas or any advanced adenomas (tubular adenomas &amp;ge;1 cm, villous adenomas, adenoma with high-grade dysplasia (HGD), sessile serrated polyps &amp;ge;1 cm, sessile serrated polyps with dysplasia, or traditional serrated adenoma)&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Follow-up colonoscopy in 3 years provided that adenomas are completely removed. If the follow-up colonoscopy is normal or shows only 1 or 2 small (&amp;lt;1 cm) tubular adenomas with low-grade dysplasia, the interval for the subsequent examination should be 5 years.&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Patients with sessile adenomas where complete removal is uncertain&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Follow-up colonoscopy within 6 months to verify complete removal. Once complete removal has been established, subsequent surveillance should be as for advanced adenomas.&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Patients suspected of having a hereditary colorectal cancer syndrome&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;When the family history indicates hereditary non-polyposis colon cancer (HNPCC) and familial adenomatous polyposis (FAP), colonoscopy every 1 to 2 years.**&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Fecal occult blood test (FOBT) is an appropriate follow-up modality for this group. FOBT should not be used until 10 years after the last colonoscopy for the hyperplastic polyp patient. All other risk groups above should not be followed with FOBT.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;**Individuals with HNPCC or FAP should be referred to the Hereditary Cancer Program at the BC Cancer Agency for assessment, counseling and if appropriate, genetic testing.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Post-Cancer Resection&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The goal of follow-up after resection is to identify recurrent disease or metastases and to detect subsequent adenomas. These recommendations are generally expert consensus-based. Patients with significant co-morbidities, very advanced age or limited 5 year life expectancy are not routinely offered surveillance.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Follow-up Visits with Family Physician&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Focused history and physical examination are recommended every 3 to 6 months for 2 years, and then every 6 months for a total of 5 years (Desch et al, 2005; National Comprehensive Cancer Network [NCCN], 2012). It is recommended that each follow-up visit include:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;History to elicit gastrointestinal and constitutional symptoms, including nutritional status. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Physical examination with particular attention to the abdomen, liver and rectal evaluation (or perineal inspection and palpation in those patients who have had an abdominal perineal resection). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Routine laboratory investigations, such as liver chemistry, in the absence of symptoms are not useful. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Controversies in Care&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Aspirin (and other nonsteroidal anti-inflammatory drugs [NSAIDS]) has been shown to reduce the incidence of subsequent colorectal adenomas and cancer, but because of potential adverse effects it is currently not recommended (Din et al., 2010).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Tumour Markers&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A carcinoembryonic antigen (CEA) test is recommended at diagnosis of CRC and repeated to monitor rising levels of CEA (at least doubling) which can indicate hepatic or pulmonary metastases. Eligible patients for surveillance with CEA are those with stage II or III tumors (i.e., tumour through the bowel wall or metastatic to locoregional lymph nodes). These patients are offered CEA every 3 months for the first 3 years and every 6 months during years 4 and 5. No CEA is required beyond 5 years.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Imaging and X-Rays&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Liver imaging, by ultrasound or computed tomography (CT) scan (CT preferable) (Kinkel et al., 2002; Miles &amp;amp; Burkill, 2007), is recommended every 6 months for the first 3 years, then once per year for 2 more years (Figueredo et al., 2003). For those with advanced stage cancers or undergoing chemotherapy, follow the recommendations of the oncologist (Desch et al., 2005; Pfister, Benson, &amp;amp; Somerfield, 2004). Routine CT scanning is not recommended beyond 5 years.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;There is little evidence to show a survival benefit for routine chest x-ray for post CRC resection patients (Gan, Wilson, &amp;amp; Hollington, 2007). A chest CT scan is recommended for every 12 months for the first 3 years in cases of advanced cancer or rectal cancer (Desch et al., 2005; NCCN, 2012).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Colonoscopy&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patients with CRC should undergo a complete cancer and polyp clearing colonoscopy prior to or within 12 months of surgical resection of the colorectal tumour. A colonoscopy should follow at one year after resection or clearing colonoscopy (Brooks et al., 2008; NCCN, 2012). If the one year colonoscopy is normal, the next colonoscopy should be performed in 3 years; if those results are normal, the next colonoscopy should be performed in 5 years (Brooks et al., 2008; NCCN, 2012) to look for another primary colorectal malignancy or adenomatous polyps. After the one year colonoscopy, the intervals between subsequent colonoscopies may be shortened if there is evidence of hereditary non-polyposis colon cancer (HNPCC) or if adenoma findings warrant earlier colonoscopy.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Performance of fecal occult blood test (FOBT) is unnecessary in patients undergoing colonoscopic surveillance (Winawer et al., 2006).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Surveillance after 5 Years&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Continued surveillance is recommended with a colonoscopy conducted every 5 years. There is no place for FOBT in this population.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Colorectal polyps (adenomas and hyperplastic polyps) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Colorectal cancer (CRC) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Diagnosis" />
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Prevention" />
+      <FieldValue Value="Risk Assessment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Colon and Rectal Surgery" />
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Gastroenterology" />
+      <FieldValue Value="Internal Medicine" />
+      <FieldValue Value="Oncology" />
+      <FieldValue Value="Pathology" />
+      <FieldValue Value="Radiology" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Health Plans" />
+      <FieldValue Value="Managed Care Organizations" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To provide follow-up recommendations for patients after curative resection of colorectal cancer (CRC) or polypectomy&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients who have undergone curative resection of colorectal cancer (CRC) or polypectomy&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: These recommendations do not apply to patients with familial adenomatous polyposis (FAP), hereditary non-polyposis colon cancer (HNPCC) or inflammatory bowel disease. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Post-polypectomy surveillance&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Fecal occult blood test (FOBT) for hyperplastic polyps &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Follow-up colonoscopy for adenomas, with surveillance intervals based on risk and other clinical factors &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Post-cancer resection follow-up&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Follow-up visits with family physician (history, physical examination, routine laboratory investigations) (not currently recommended) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Carcinoembryonic antigen (CEA) testing &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Liver imaging by ultrasound or computed tomography (CT) scan &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Chest x-ray &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Colonoscopy with complete cancer and polyp clearing &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;FOBT (not recommended in this population) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Continued surveillance every 5 years &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Aspirin and other nonsteroidal anti-inflammatory drugs (NSAIDs) and FOBT are not recommended for post-cancer resection follow-up.&lt;/p&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Risk of colorectal cancer (CRC) development and mortality &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;CRC recurrence rate &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sensitivity and specificity of diagnostic studies &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Effectiveness of surveillance testing &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Hand-searches of Published Literature (Primary Sources)" />
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Systematic Literature Review&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Evidence was obtained through a systematic review of peer-reviewed literature (up to May 2012) using the databases MEDLINE, PubMed, EBSCO, Ovid, and the Cochrane Collaboration's Database for Systematic Reviews. The searches also included: Canadian Agency for Drugs and Technologies in Health (CADTH), Cumulative Index to Nursing and Allied Health Literature (CINAHL), Therapeutics Initiative, Cochrane reviews, BMJ Clinical Evidence, e-Therapeutics (Compendium of Pharmaceuticals and Specialties), Agency for Healthcare Research and Quality (AHRQ), and US Food and Drug Administration (FDA). Clinical practice guidelines from other jurisdictions for colorectal cancer follow-up and surveillance were also reviewed (up to January 2013).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Search Terms&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Search terms included: colon tumor/ colon cancer/ colon adenocarcinoma/ colon carcinoma/ colorectal carcinoma/ colorectal tumor/ sigmoid carcinoma/ rectum cancer/ rectum tumor/ rectum carcinoma/ rectum adenoma/ colorectal cancer/ randomization/ randomized controlled trial/ double blind procedure/ single blind procedure/ metastasis/ cancer recurrence/ tumor recurrence/ recurrent disease/ (recur$ or metastas:).ti,ab. / longitudinal study/ (follow-up or follow up).ti,ab. / follow up/ prospective study/ treatment outcome/ cancer survival/ quality of life/ prognosis/ mortality/ morbidity/ exp survival/&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusion Criteria&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Exclusion criteria were study limitations, inconsistency of results, indirectness of evidence, reporting bias, duplicate evidence and incomparable populations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Not stated" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The evidence review process used in the development of these guidelines is conducted with reference to the Oxford Centre for Evidence-Based Medicine (CEBM) levels of evidence (March 2009) (&lt;a href=&quot;http://www.cebm.net&quot; title=&quot;Oxford Centre for Evidence-Based Medicine (CEBM) Web site&quot;&gt;www.cebm.net&lt;/a&gt;).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The working group reviewed available systematic reviews and based recommendations upon them. In cases where systematic reviews are not available, recommendations are based on primary evidence searches including individual randomized controlled trials.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The working group reviewed the evidence available at the time of writing (January 2011&amp;ndash;May 2012) and, through consensus, distilled this evidence into a usable document for family physicians. The primary evidence used is listed in the reference section of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="External Peer Review" />
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This guideline was approved by the British Columbia Medical Association and adopted by the Medical Services Commission.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="98" OrdBy="605" ID="425" Name="References Supporting the Recommendations" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Brooks DD, Winawer SJ, Rex DK, Zauber AG, Kahi CJ, Smith RA, Levin B, Wender R, U.S. Multi-Society Task Force on Coloretal Cancer, American Cancer Society. Colonoscopy surveillance after polypectomy and colorectal cancer resection. Am Fam Physician. 2008 Apr 1;77(7):995-1002. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18441865&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Desch CE, Benson AB 3rd, Somerfield MR, Flynn PJ, Krause C, Loprinzi CL, Minsky BD, Pfister DG, Virgo KS, Petrelli NJ. Colorectal cancer surveillance: 2005 update of an American Society of Clinical Oncology practice guideline. J Clin Oncol. 2005 Nov 20;23(33):8512-9. [35 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16260687&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Din FV, Theodoratou E, Farrington SM, Tenesa A, Barnetson RA, Cetnarskyj R, Stark L, Porteous ME, Campbell H, Dunlop MG. Effect of aspirin and NSAIDs on risk and survival from colorectal cancer. Gut. 2010 Dec;59(12):1670-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20844293&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Figueredo A, Rumble RB, Maroun J, Earle CC, Cummings B, McLeod R, Zuraw L, Zwaal C. Follow-up of patients with curatively resected colorectal cancer: a practice guideline. BMC Cancer. 2003 Oct 6;3(1):26. [62 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14529575&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gan S, Wilson K, Hollington P. Surveillance of patients following surgery with curative intent for colorectal cancer. World J Gastroenterol. 2007 Jul 28;13(28):3816-23. [113 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17657835&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kinkel K, Lu Y, Both M, Warren RS, Thoeni RF. Detection of hepatic metastases from cancers of the gastrointestinal tract by using noninvasive imaging methods (US, CT, MR imaging, PET): a meta-analysis. Radiology. 2002 Sep;224(3):748-56. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12202709&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Miles K, Burkill G. Colorectal cancer: imaging surveillance following resection of primary tumour. Cancer Imaging. 2007;7(Spec No A):S143-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17921088&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Comprehensive Cancer Network (NCCN). NCCN guidelines version 3.2012: colon cancer. [internet]. Fort Washington (PA): National Comprehensive Cancer Network (NCCN); 2012 Jan 17&amp;nbsp;[accessed 2012 Apr 13]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pfister DG, Benson AB 3rd, Somerfield MR. Clinical practice. Surveillance strategies after curative treatment of colorectal cancer. N Engl J Med. 2004 Jun 3;350(23):2375-82. [50 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15175439&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Winawer SJ, Zauber AG, Fletcher RH, Stillman JS, O'Brien MJ, Levin B, Smith RA, Lieberman DA, Burt RW, Levin TR, Bond JH, Brooks D, Byers T, Hyman N, Kirk L, Thorson A, Simmang C, Johnson D, Rex DK. Guidelines for colonoscopy surveillance after polypectomy: a consensus update by  the US Multi-Society Task Force on Colorectal Cancer and the American Cancer Society. CA Cancer J Clin. 2006 May-Jun;56(3):143-59. [83 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16737947&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is an evidence-based clinical guideline for general practitioners including consensus statements when evidence is not available. The type of supporting evidence is not specifically stated for each recommendation.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Appropriate follow-up care for colorectal polyps or cancer &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Prevention of additional colorectal cancer (CRC) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Clinical Practice Guidelines (the &quot;Guidelines&quot;) have been developed by the Guidelines and Protocols Advisory Committee on behalf of the Medical Services Commission. The Guidelines are intended to give an understanding of a clinical problem, and outline one or more preferred approaches to the investigation and management of the problem. The Guidelines are not intended as a substitute for the advice or professional judgment of a health care professional, nor are they intended to be the only approach to the management of clinical problem.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="117" OrdBy="1015" ID="437" Name="Implementation Tools" Type="picklist-many">
+      <FieldValue Value="Patient Resources" />
+      <FieldValue Value="Quick Reference Guides/Physician Guides" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Living with Illness" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Guidelines and Protocols Advisory Committee. Follow-up of colorectal polyps or cancer. Victoria (BC): British Columbia Medical Association; 2013 Jan 16. 5 p.  [14 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2013 Jan 16" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="Medical Services Commission, British Columbia - State/Local Government Agency [Non-U.S.]" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Medical Services Commission, British Columbia&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Guidelines and Protocols Advisory Committee, Colorectal Cancer Working Group&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The working group consisted of three gastroenterologists, a general surgeon, a radiologist, a pathologist, and a general practitioner.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Any person participating as member of a Guidelines and Protocols Advisory Committee (GPAC) Working Group is required to complete a conflict of interest declaration.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available from the &lt;a href=&quot;http://www.bcguidelines.ca/guideline_colorectal.html&quot; title=&quot;British Columbia Ministry of Health Web site&quot;&gt;British Columbia Ministry of Health Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Follow-up of colorectal polyps or cancer. Summary. Victoria (BC): British Columbia Medical Services Commission; 2013. 2 p. Electronic copies: Available in Portable Document Format (PDF) from the &lt;a href=&quot;http://www.bcguidelines.ca/pdf/colorectal_followup_summary.pdf&quot; title=&quot;British Columbia Ministry of Health Web site&quot;&gt;British Columbia Ministry of Health Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Follow-up program after colorectal cancer treatments. Patient guide. Victoria (BC): British Columbia Medical Services Commission. 2 p. Electronic copies: Available in Portable Document Format (PDF) from the &lt;a href=&quot;http://www.bcguidelines.ca/pdf/colorectal_followup_pg.pdf&quot; title=&quot;British Columbia Ministry of Health Web site&quot;&gt;British Columbia Ministry of Health Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Disclaimer&quot;&gt;Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on August 5, 2013. The information was verified by the guideline developer on August 19, 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

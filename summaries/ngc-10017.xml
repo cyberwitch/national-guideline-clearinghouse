@@ -1,0 +1,184 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlSource>
+  <Section SecID="390" OrdBy="100" Name="General">
+    <Field FieldID="161" OrdBy="105" ID="391" Name="Guideline Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;A.S.P.E.N. clinical guidelines: nutrition support of neonatal patients at risk for metabolic bone disease.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="97" OrdBy="110" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nehra D, Carlson SJ, Fallon EM, Kalish B, Potemkin AK, Gura KM, Simpser E, Compher C, Puder M, American Society for Parenteral and Enteral Nutrition. A.S.P.E.N. clinical guidelines: nutrition support of neonatal patients at risk for metabolic bone disease. JPEN J Parenter Enteral Nutr. 2013 Sep;37(5):570-98. [72 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23685349&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="115" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="420" OrdBy="300" Name="Recommendations">
+    <Field FieldID="151" OrdBy="310" ID="421" Name="Major Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Definitions for the grading of recommendations (&lt;strong&gt;Strong&lt;/strong&gt;, &lt;strong&gt;Weak&lt;/strong&gt;, &lt;strong&gt;Further research needed&lt;/strong&gt;) and quality of evidence (&lt;strong&gt;High&lt;/strong&gt;, &lt;strong&gt;Moderate&lt;/strong&gt;, &lt;strong&gt;Low&lt;/strong&gt;, &lt;strong&gt;Very Low&lt;/strong&gt;) are provided at the end of the &quot;Major Recommendations&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;What Maternal Risk Factors Predispose the Neonate to Metabolic Bone Disease?&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Maternal vitamin D deficiency is a risk factor for neonatal vitamin D deficiency and abnormal bone health, and the authors suggest that pregnant women be screened for vitamin D deficiency and those that are deficient be supplemented (&lt;strong&gt;Weak&lt;/strong&gt;). Insufficient data are available to determine the effect of maternal magnesium sulfate and folic acid use on neonatal bone health (&lt;strong&gt;Further research needed&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Evidence Grade&lt;/em&gt;: &lt;strong&gt;Low&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;What Is the Optimal Type of Feeding to Promote Neonatal Bone Health?&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;When available, the authors suggest human milk with nutrient fortifier for the preterm infant (&lt;strong&gt;Weak&lt;/strong&gt;). When human milk is not available, the authors suggest that nutrient-enriched formula be used (&lt;strong&gt;Weak&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Evidence Grade&lt;/em&gt;: &lt;strong&gt;Low&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;When and How Should Vitamin D Supplements Be Administered?&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The authors suggest vitamin D supplementation for healthy breastfed infants and those with malnutrition and/or rickets (&lt;strong&gt;Weak&lt;/strong&gt;). Further studies are needed to determine the optimal dose, route, and duration of supplementation in each of these conditions (&lt;strong&gt;Further research needed&lt;/strong&gt;).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Evidence Grade&lt;/em&gt;: &lt;strong&gt;Low&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Does Parenteral Nutrition (PN) Predispose a Neonate to Metabolic Bone Disease, and if So, Are There PN Formulation Recommendations to Minimize This Risk?&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The authors suggest that PN predisposes the infant to metabolic bone disease (&lt;strong&gt;Weak&lt;/strong&gt;). The authors suggest using PN formulations with high-dose calcium and phosphorus content (&lt;strong&gt;Weak&lt;/strong&gt;). PN aluminum is a risk factor for metabolic bone disease of the neonate (&lt;strong&gt;Strong&lt;/strong&gt;), and the authors suggest that future efforts be made to reduce the aluminum content of PN.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Evidence Grade&lt;/em&gt;: &lt;strong&gt;Low/Moderate&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Definitions&lt;/strong&gt;&lt;/span&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: The American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) clinical guidelines have adopted concepts of the Grading of Recommendations Assessment, Development and Evaluation (GRADE) working group. A full description of the methodology is outlined in the A.S.P.E.N. guideline &quot;Clinical guidelines for the use of parenteral and enteral nutrition in adult and pediatric patients: applying the GRADE system to development of A.S.P.E.N. clinical guidelines&quot; (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Quality of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Quality of Evidence&quot;&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;High&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Further research is very unlikely to change confidence in the estimate of effect.&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Moderate&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Low&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Very Low&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Any estimate of effect is very uncertain.&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strength of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Strength of Recommendation&quot;&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Strong&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Net benefits outweigh harms&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Weak&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Tradeoffs for patient are important&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Further Research Needed&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Uncertain tradeoffs&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="138" OrdBy="330" ID="423" Name="Clinical Algorithm(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None provided&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="396" OrdBy="400" Name="Scope">
+    <Field FieldID="140" OrdBy="405" ID="397" Name="Disease/Condition(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Metabolic bone disease, with resulting delayed bone growth, osteopenia, and rickets&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="103" OrdBy="410" ID="398" Name="Guideline Category" Type="picklist-many">
+      <FieldValue Value="Evaluation" />
+      <FieldValue Value="Prevention" />
+      <FieldValue Value="Risk Assessment" />
+      <FieldValue Value="Screening" />
+      <FieldValue Value="Treatment" />
+    </Field>
+    <Field FieldID="113" OrdBy="415" ID="399" Name="Clinical Specialty" Type="picklist-many">
+      <FieldValue Value="Family Practice" />
+      <FieldValue Value="Gastroenterology" />
+      <FieldValue Value="Nutrition" />
+      <FieldValue Value="Obstetrics and Gynecology" />
+      <FieldValue Value="Pediatrics" />
+    </Field>
+    <Field FieldID="114" OrdBy="420" ID="400" Name="Intended Users" Type="picklist-many">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Dietitians" />
+      <FieldValue Value="Hospitals" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="129" OrdBy="425" ID="401" Name="Guideline Objective(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To identify maternal and neonatal factors that place infants at risk for metabolic bone disease and provide a rationale for nutrition strategies to prevent and treat the condition&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="132" OrdBy="430" ID="402" Name="Target Population" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Pregnant women &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Neonates and infants, including preterm neonates, who are at increased risk for metabolic bone disease &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="133" OrdBy="435" ID="403" Name="Interventions and Practices Considered" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Screening pregnant women for vitamin D deficiency and providing supplementation when deficient &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Use of human milk with nutrient fortifier for the preterm infant &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Use of nutrient-enriched formula when human milk is not available &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Vitamin D supplementation for healthy breastfed infants and those with malnutrition and/or rickets &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Use of parenteral nutrition (PN) formulations with high-dose calcium and phosphorus content &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Reducing aluminum content of PN formulas &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="134" OrdBy="440" ID="404" Name="Major Outcomes Considered" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Biochemical measures: maternal and neonatal serum levels of 25-hydroxyvitamin D, parathyroid hormone, ionized calcium, phosphate, alkaline phosphatase, magnesium &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Neonatal, infant, and child bone variables (bone mineral density, bone mineral content, cross-sectional area) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Fetal anthropometric measures &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Anthropometrics at birth and discharge &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Radiographic bone abnormalities &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Maternal adverse effects &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Neonatal adverse effects (birth weight, Apgar scores, magnesium and calcium levels, nursery stay, hypotonia, morbidity, mortality) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Osteoblastic and osteoclastic bone activity &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Clinical signs of rickets &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="405" OrdBy="500" Name="Methodology">
+    <Field FieldID="109" OrdBy="505" ID="406" Name="Methods Used to Collect/Select the Evidence" Type="picklist-many">
+      <FieldValue Value="Searches of Electronic Databases" />
+    </Field>
+    <Field FieldID="135" OrdBy="510" ID="407" Name="Description of Methods Used to Collect/Select the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;For the current Clinical Guideline, a PubMed search was performed to identify pertinent studies using the search terms bone AND neonate* OR infant*. The search was further focused by identifying studies containing at least 1 of the following additional key terms: aluminum; breastfed; breast fed; breast-fed; breast milk; calcium; copper; cysteine; diet; feeding; formula; human milk; magnesium; maternal; mineral; nutrition; parenteral nutrition; phosphorus; preterm formula; rickets; risk factor; total parenteral nutrition; trace element; vitamin D or vitamin K. Studies were excluded if they contained&amp;nbsp;one or more of the following key terms: bone marrow transplant; bone marrow transplantation; cancer; dialysis; hyperparathyroidism; hypoparathyroidism; osteopetrorickets; renal failure; renal tubular acidosis or transplant, which allowed for the exclusion of studies addressing bone disease in the setting of these other medical conditions that were not consistent with the aims of the current Clinical Guidelines. In addition, the following limits regarding the type of study were used: humans; clinical trial; randomized controlled trial (RCT); clinical trial: phase I, phase II, phase III, phase IV; comparative study; controlled clinical trial; guideline; journal article; multicenter study; English language; and published within the last 10 years. The search was conducted on July 22, 2011.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="136" OrdBy="515" ID="408" Name="Number of Source Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A total of 941 abstracts were reviewed, of which 29 papers met the inclusion criteria of the Clinical Guidelines and were included.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="115" OrdBy="520" ID="409" Name="Methods Used to Assess the Quality and Strength of the Evidence" Type="picklist-choice">
+      <FieldValue Value="Weighting According to a Rating Scheme (Scheme Given)" />
+    </Field>
+    <Field FieldID="149" OrdBy="525" ID="410" Name="Rating Scheme for the Strength of the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: The American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) clinical guidelines have adopted concepts of the Grading of Recommendations Assessment, Development and Evaluation (GRADE) working group. A full description of the methodology is outlined in the A.S.P.E.N. guideline &quot;Clinical guidelines for the use of parenteral and enteral nutrition in adult and pediatric patients: applying the GRADE system to development of A.S.P.E.N. clinical guidelines&quot; (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Quality of Evidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Quality of Evidence&quot;&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;High&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Further research is very unlikely to change confidence in the estimate of effect.&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Moderate&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Low&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Very Low&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Any estimate of effect is very uncertain.&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="116" OrdBy="530" ID="411" Name="Methods Used to Analyze the Evidence" Type="picklist-many">
+      <FieldValue Value="Systematic Review with Evidence Tables" />
+    </Field>
+    <Field FieldID="150" OrdBy="535" ID="412" Name="Description of the Methods Used to Analyze the Evidence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A systematic review of the best available evidence to answer a series of questions regarding neonatal patients at risk of metabolic bone disease receiving parenteral or enteral nutrition was undertaken and evaluated using concepts adopted from the Grading of Recommendations Assessment, Development and Evaluation (GRADE) working group.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="112" OrdBy="540" ID="413" Name="Methods Used to Formulate the Recommendations" Type="picklist-choice">
+      <FieldValue Value="Expert Consensus" />
+    </Field>
+    <Field FieldID="145" OrdBy="545" ID="414" Name="Description of Methods Used to Formulate the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;These Clinical Guidelines were developed under the guidance of the American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) Board of Directors.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A.S.P.E.N. Clinical Guidelines has adopted concepts of the Grading of Recommendations Assessment, Development and Evaluation (GRADE) working group. Briefly, specific clinical questions where nutrition support is a relevant mode of therapy are developed and key clinical outcomes are identified. A rigorous search of the published literature is conducted, each included study is assessed for research quality, tables of findings are developed, the body of evidence for the question is evaluated, and a recommendation for clinical practice that is based on both the best available evidence and the risks and benefits to patients is developed by consensus. Recommendations are graded as strong when the evidence is strong and/or net benefits outweigh harms. Weak recommendations may be based on weaker evidence and/or important tradeoffs to the patient. When limited research is available to answer a question, no recommendation can be made.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="146" OrdBy="550" ID="415" Name="Rating Scheme for the Strength of the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: The American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) clinical guidelines have adopted concepts of the Grading of Recommendations Assessment, Development and Evaluation (GRADE) working group. A full description of the methodology is outlined in the A.S.P.E.N. guideline &quot;Clinical guidelines for the use of parenteral and enteral nutrition in adult and pediatric patients: applying the GRADE system to development of A.S.P.E.N. clinical guidelines&quot; (see the &quot;Availability of Companion Documents&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Strength of Recommendation&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Strength of Recommendation&quot;&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Strong&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Net benefits outweigh harms&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Weak&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Tradeoffs for patient are important&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th valign=&quot;top&quot;&gt;Further Research Needed&lt;/th&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Uncertain tradeoffs&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="148" OrdBy="565" ID="417" Name="Cost Analysis" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A formal cost analysis was not performed and published cost analyses were not reviewed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="104" OrdBy="570" ID="418" Name="Method of Guideline Validation" Type="picklist-choice">
+      <FieldValue Value="External Peer Review" />
+      <FieldValue Value="Internal Peer Review" />
+    </Field>
+    <Field FieldID="130" OrdBy="575" ID="419" Name="Description of Method of Guideline Validation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A consensus process was used to develop the clinical guideline recommendations prior to external and internal review and approval by the American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) Board of Directors on March 20, 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="424" OrdBy="600" Name="Evidence Supporting the Recommendations">
+    <Field FieldID="139" OrdBy="610" ID="426" Name="Type of Evidence Supporting the Recommendations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The type of supporting evidence identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The recommendations were based primarily on a comprehensive review of published reports that included randomized clinical trials and controlled and uncontrolled case series. In cases where the data did not appear conclusive, recommendations were based on the consensus opinion of the group in a process that considered the risks versus benefits.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="427" OrdBy="700" Name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <Field FieldID="152" OrdBy="705" ID="428" Name="Potential Benefits" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate nutrition support of neonatal patients at risk for metabolic bone disease&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="153" OrdBy="710" ID="429" Name="Potential Harms" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Aluminum is a contaminant of parenteral nutrition (PN) components, and high doses of aluminum have been shown to negatively affect both cognitive development and short-term bone health. In animals and adult humans, excess aluminum has been shown to accumulate at mineralization fronts and is associated with reduced bone formation. In addition, one study reported that bone aluminum concentrations were 10-fold higher in preterm infants who received PN for &amp;gt;3 weeks as compared with control subjects. It has been recently demonstrated that the currently available PN products in the United States have an aluminum content that makes it impossible to meet the new Food and Drug Administration rule of &amp;lt;5 mcg/kg per day of aluminum exposure in patients &amp;lt;50 kg. Thus, it is imperative that manufacturers develop new methods to reduce the aluminum contamination in their products and healthcare professionals be aware of the aluminum exposure in PN-dependent neonates.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="432" OrdBy="900" Name="Qualifying Statements">
+    <Field FieldID="137" OrdBy="905" ID="433" Name="Qualifying Statements" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) Clinical Guidelines are based upon general conclusions of health professionals who, in developing such guidelines, have balanced potential benefits to be derived from a particular mode of medical therapy against certain risks inherent with such therapy. However, the professional judgment of the attending health professional is the primary component of quality medical care. Because guidelines cannot account for every variation in circumstances, the practitioner must always exercise professional judgment in their application. These Clinical Guidelines are intended to supplement, but not replace, professional training and judgment.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="434" OrdBy="1000" Name="Implementation of the Guideline">
+    <Field FieldID="131" OrdBy="1010" ID="436" Name="Description of Implementation Strategy" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;An implementation strategy was not provided.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="439" OrdBy="1100" Name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <Field FieldID="50" OrdBy="1105" ID="440" Name="IOM Care Need" Type="picklist-many">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="51" OrdBy="1110" ID="441" Name="IOM Domain" Type="picklist-many">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="442" OrdBy="1200" Name="Identifying Information and Availability">
+    <Field FieldID="97" OrdBy="1201" ID="392" Name="Bibliographic Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nehra D, Carlson SJ, Fallon EM, Kalish B, Potemkin AK, Gura KM, Simpser E, Compher C, Puder M, American Society for Parenteral and Enteral Nutrition. A.S.P.E.N. clinical guidelines: nutrition support of neonatal patients at risk for metabolic bone disease. JPEN J Parenter Enteral Nutr. 2013 Sep;37(5):570-98. [72 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23685349&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="124" OrdBy="1205" ID="443" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not applicable: The guideline was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="128" OrdBy="1215" ID="445" Name="Date Released" Type="text">
+      <FieldValue Value="2013 Sep" />
+    </Field>
+    <Field FieldID="158" OrdBy="1225" ID="447" Name="Guideline Developer(s)" Type="orglist-p">
+      <FieldValue Value="American Society for Parenteral and Enteral Nutrition - Professional Association" />
+    </Field>
+    <Field FieldID="125" OrdBy="1235" ID="449" Name="Source(s) of Funding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="126" OrdBy="1240" ID="450" Name="Guideline Committee" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Not stated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="127" OrdBy="1245" ID="451" Name="Composition of Group That Authored the Guideline" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Authors&lt;/em&gt;: Deepika Nehra, MD; Sarah J. Carlson, MD; Erica M. Fallon, MD; Brian Kalish, BS; Alexis K. Potemkin, RN, BSN; Kathleen M. Gura, PharmD, BCNSP; Edwin Simpser, MD; Charlene Compher, PhD, RD, CNSC, LDN, FADA; Mark Puder, MD, PhD; American Society for Parenteral and Enteral Nutrition&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="147" OrdBy="1250" ID="452" Name="Financial Disclosures/Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None declared&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="120" OrdBy="1256" ID="393" Name="Guideline Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="118" OrdBy="1260" ID="454" Name="Guideline Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Electronic copies: Available from the &lt;a href=&quot;http://pen.sagepub.com/content/37/5/570.full&quot; title=&quot;Journal of Parenteral and Enteral Nutrition Web site&quot;&gt;Journal of Parenteral and Enteral Nutrition Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="119" OrdBy="1265" ID="455" Name="Availability of Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Clinical guidelines for the use of parenteral and enteral nutrition in adult and pediatric patients: applying the GRADE system to development of A.S.P.E.N. clinical guidelines. American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.); 2012 Jan. 5 p. Electronic copies: Available from the &lt;a href=&quot;http://pen.sagepub.com/content/36/1/77.full&quot; title=&quot;Journal of Parenteral and Enteral Nutrition Web site&quot;&gt;Journal of Parenteral and Enteral Nutrition Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="143" OrdBy="1275" ID="457" Name="Patient Resources" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None available&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="142" OrdBy="1280" ID="458" Name="NGC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary was completed by ECRI Institute on December 20, 2013. The information was verified by the guideline developer on January 6, 2014.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="141" OrdBy="1290" ID="460" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NGC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Guideline Clearinghouseâ¢ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NGC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding guideline content are directed to contact the guideline developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>
